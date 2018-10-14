@@ -2,6 +2,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 import random
 import math
 import os
+import queue
 
 from RuleBased.Util import Util
 
@@ -51,6 +52,30 @@ class Triple:
 
     def __str__(self):
         msg = self.subj + "\t" + self.obj
+        return msg
+
+
+class Rule:
+    def __init__(self, rule_chain, accuracy, recall):
+        self.rule_chain = rule_chain
+        self.accuracy = accuracy
+        self.recall = recall
+        self.f1 = self.accuracy * self.recall * 2 / (self.accuracy + self.recall)
+
+    def __lt__(self, other):
+        # return self.f1 > other.f1
+        return self.accuracy > other.accuracy
+
+    def __gt__(self, other):
+        # return self.f1 < other.f1
+        return self.accuracy < other.accuracy
+
+    def __eq__(self, other):
+        # return self.f1 == other.f1
+        return self.accuracy == other.accuracy
+
+    def __str__(self):
+        msg = "{} {} {} {}".format(self.rule_chain, self.accuracy, self.recall, self.f1)
         return msg
 
 
@@ -154,11 +179,16 @@ class RuleLearner:
 
     def rule_checker(self):
         self.checked_rule_dict = {}
+        self.checked_rule_heap = queue.PriorityQueue()
         self.checked_rule_file = self.folder + "checked_rule.txt"
+
         if os.path.exists(self.checked_rule_file):
             with open(self.checked_rule_file, "r") as f:
                 for line in f.readlines():
-                    self.checked_rule_dict[line.split("\t")[0]] = float(line.split("\t")[1])
+                    if float(line.split("\t")[1]) < 0 or float(line.split("\t")[2]) < 0:
+                        continue
+                    self.checked_rule_heap.put(
+                        Rule(line.split("\t")[0], float(line.split("\t")[1]), float(line.split("\t")[2])))
         else:
             total_num_query = "select count(?s) where {?s " + self.predicate + " ?e.}"
             total_num = self.utils.get_num_by_sparql(total_num_query)
@@ -183,6 +213,8 @@ class RuleLearner:
                 for key in self.checked_rule_dict:
                     f.write("{}\t{}\t{}\n".format(key.strip(), self.checked_rule_dict[key][0],
                                                   self.checked_rule_dict[key][1]))
+        while not self.checked_rule_heap.empty():
+            print(self.checked_rule_heap.get())
 
 
 def learnRule(predicate):
@@ -192,9 +224,7 @@ def learnRule(predicate):
     rl.rule_checker()
 
 
-
 if __name__ == "__main__":
-
     predicate = "<http://dbpedia.org/ontology/birthPlace>"
     learnRule(predicate)
 
