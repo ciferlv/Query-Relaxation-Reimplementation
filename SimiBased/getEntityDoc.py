@@ -8,8 +8,6 @@ class EntityDoc:
         self.entityAsSubjDoc = []
         self.entityAsObjDoc = []
 
-    def getEneityDoc(self):
-
 
 if __name__ == "__main__":
     p = dit.Distribution(['0', '1', '2'], [0, 1 / 2, 1 / 2])
