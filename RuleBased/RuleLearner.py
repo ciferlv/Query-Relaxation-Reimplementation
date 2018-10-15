@@ -4,92 +4,26 @@ import math
 import os
 import queue
 
+from RuleBased.ALogger import ALogger
 from RuleBased.Util import Util
+from RuleBased.unit.Rule import Rule
+from RuleBased.unit.Triple import Triple
 
 sparql_database = "http://210.28.132.61:8898/sparql"
 
 
-class Triple:
-    def __init__(self, searched_dict=None, subj=None, obj=None):
-        self.sparql = SPARQLWrapper(sparql_database)
-        if searched_dict is None:
-            self.subj = subj
-            self.obj = obj
-        else:
-            self.subj = searched_dict['s']['value']
-            self.obj = searched_dict['o']['value']
-        self.rule_set = set()
-
-    def get_pred(self, sparql, position):
-        self.sparql.setQuery(sparql)
-        self.sparql.setReturnFormat(JSON)
-        results = self.sparql.query().convert()
-        for res in results['results']['bindings']:
-            one_rule = ""
-            for i, key in enumerate(res.keys()):
-                one_rule += position[i] + res[key]['value'] + ";"
-            self.rule_set.add(one_rule)
-
-    def display_rule(self):
-        for one_rule in self.rule_set:
-            print(one_rule)
-
-    def search_rule(self):
-        query_filter = "FILTER regex(?o, \"^http\"). FILTER (?o != " + self.subj + "). FILTER (?o != " + self.obj + ").}"
-        query0 = "select ?p1 where { " + self.subj + " ?p1 " + self.obj + "}"
-        query1 = "select ?p1 where { " + self.obj + " ?p1 " + self.subj + "}"
-        query2 = "select ?p1 ?p2 where{ " + self.subj + " ?p1 ?o.\n?o ?p2 " + self.obj + "." + query_filter
-        query3 = "select ?p1 ?p2 where{ " + self.subj + " ?p1 ?o.\n" + self.obj + " ?p2 ?o." + query_filter
-        query4 = "select ?p1 ?p2 where{ ?o ?p1 " + self.subj + ".\n" + self.obj + " ?p2 ?o." + query_filter
-        query5 = "select ?p1 ?p2 where{ ?o ?p1 " + self.subj + ".\n ?o ?p2" + self.obj + "." + query_filter
-
-        self.get_pred(query0, ['+'])
-        self.get_pred(query1, ['-'])
-        self.get_pred(query2, ['+', '+'])
-        self.get_pred(query3, ['+', '-'])
-        self.get_pred(query4, ['-', '-'])
-        self.get_pred(query5, ['-', '+'])
-
-    def __str__(self):
-        msg = self.subj + "\t" + self.obj
-        return msg
-
-
-class Rule:
-    def __init__(self, rule_chain, accuracy, recall, f1):
-        self.rule_chain = rule_chain
-        self.accuracy = accuracy
-        self.recall = recall
-        self.f1 = f1
-
-    def calculate_f1(self):
-        self.f1 = self.accuracy * self.recall * 2 / (self.accuracy + self.recall)
-
-    def __lt__(self, other):
-        # return self.f1 > other.f1
-        return self.accuracy > other.accuracy
-
-    def __gt__(self, other):
-        # return self.f1 < other.f1
-        return self.accuracy < other.accuracy
-
-    def __eq__(self, other):
-        # return self.f1 == other.f1
-        return self.accuracy == other.accuracy
-
-    def __str__(self):
-        msg = "{}\t{}\t{}\t{}".format(self.rule_chain, self.accuracy, self.recall, self.f1)
-        return msg
-
-
 class RuleLearner:
     def __init__(self, predicate, positive_num):
+        self.logger = ALogger("RuleLearner.py", True).getLogger()
         self.utils = Util()
         self.predicate = predicate
         self.sparql = SPARQLWrapper(sparql_database)
         self.positive_instances = []
+        self.negetive_instances = []
         self.rule_list = []
+        self.rules_top_k = 200
         self.positive_num = positive_num
+
         self.folder = "./data/" + predicate.split("/")[-1][:-1] + "/"
         if not os.path.exists(self.folder):
             os.makedirs(self.folder)
@@ -131,7 +65,7 @@ class RuleLearner:
 
         for i in range(search_times):
             sparql_query = "select ?s ?o where {" + triple_pattern + "} limit 10000  offset " + str(10000 * i)
-            print(sparql_query)
+            self.logger.info(sparql_query)
             self.sparql.setQuery(sparql_query)
             self.sparql.setReturnFormat(JSON)
             results = self.sparql.query().convert()
@@ -157,7 +91,7 @@ class RuleLearner:
                     self.rule_list.append(line)
         else:
             for i, instance in enumerate(self.positive_instances):
-                print("{}".format(i))
+                self.logger.info("No.{}".format(i))
                 instance.search_rule()
                 self.rule_list.extend(list(instance.rule_set))
             self.rule_list = list(set(self.rule_list))
@@ -189,8 +123,7 @@ class RuleLearner:
             total_num_query = "select count(?s) where {?s " + self.predicate + " ?e.}"
             total_num = self.utils.get_num_by_sparql(total_num_query)
             for idx, raw_rule in enumerate(self.rule_list):
-
-                print("No.{} {}".format(idx, raw_rule.strip()))
+                self.logger.info("No.{} {}".format(idx, raw_rule.strip()))
                 if raw_rule.strip().split(";")[0][1:] == self.predicate[1:-1]:
                     continue
 
@@ -232,21 +165,39 @@ class RuleLearner:
                     f.write("{}\n".format(self.filtered_rule_heap.get()))
 
     def get_nege_instances(self):
-        self.rule_list = []
+        if os.path.exists(self.negetive_file_path):
+            return
+        self.logger.info("Start collect negetive instances.")
+        nege_instance_per_rule = math.ceil(self.positive_num / self.rules_top_k)
+        self.rule_list_for_nege = []
+
         with open(self.filtered_sorted_rule_file, "r", encoding="UTF-8") as f:
-            for line in f.readlines():
+            for idx, line in enumerate(f.readlines()):
+                if idx > self.rules_top_k:
+                    break
                 rule_chain = line.split("\t")[0]
                 accuracy = float(line.split("\t")[1])
                 recall = float(line.split("\t")[2])
                 f1 = float(line.split("\t")[3])
-                self.rule_list.append(Rule(rule_chain, accuracy, recall, f1))
-        for one_rule in self.rule_list:
+                self.rule_list_for_nege.append(Rule(rule_chain, accuracy, recall, f1))
+
+        s_e_list = []
+        for idx, one_rule in enumerate(self.rule_list_for_nege):
+            self.logger.info("No.{} Rule: {}".format(idx, one_rule))
             triple_pattern = self.rule_parser(one_rule.rule_chain)
-            query = "select ?s ?e where { " \
+            query = "where { " \
                     + triple_pattern \
                     + "FILTER EXISTS {?s " + self.predicate + " ?random}. " \
                     + "FILTER regex(?e,\"^http\"). MINUS {?s " + self.predicate + " ?e}}"
-            print(query)
+            count_query = "select count(?s) " + query
+            entity_query = "select ?s ?e " + query
+            s_e_list_temp = self.utils.get_s_e_by_sparql(entity_query, count_query, nege_instance_per_rule * 2)
+            s_e_list.extend(s_e_list_temp)
+        sample_idx_list = random.sample(range(0, len(s_e_list)), math.ceil(len(s_e_list) / 2))
+
+        with open(self.negetive_file_path, "w", encoding="UTF-8") as f:
+            for sample_idx in sample_idx_list:
+                f.write("{}\n".format(s_e_list[sample_idx]))
 
 
 def learnRule(predicate):

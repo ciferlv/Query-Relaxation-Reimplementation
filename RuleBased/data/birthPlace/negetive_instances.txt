@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Jeremy_Wright>	<http://dbpedia.org/resource/United_Kingdom>
+<http://dbpedia.org/resource/Charles_I._du_Pont>	<http://dbpedia.org/resource/Paris>
+<http://dbpedia.org/resource/Fred_Archer_(jockey)>	<http://dbpedia.org/resource/Ascot_Racecourse>
+<http://dbpedia.org/resource/Malcolm_Turnbull>	<http://dbpedia.org/resource/Western_Australia>
+<http://dbpedia.org/resource/Cameron_Heyward>	<http://dbpedia.org/resource/Suwanee,_Georgia>
+<http://dbpedia.org/resource/Bruce_Cockburn>	<http://dbpedia.org/resource/Canada>
+<http://dbpedia.org/resource/David_Eisenbud>	<http://dbpedia.org/resource/Boys_Nation>
+<http://dbpedia.org/resource/Rachel_Nolan>	<http://dbpedia.org/resource/Reedy_Creek,_Queensland>
+<http://dbpedia.org/resource/David_W._Wolfe>	<http://dbpedia.org/resource/Toms_River,_New_Jersey>
+<http://dbpedia.org/resource/Pierre_Nantel>	<http://dbpedia.org/resource/Sutton,_Ontario>
