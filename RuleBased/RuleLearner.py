@@ -56,10 +56,13 @@ class Triple:
 
 
 class Rule:
-    def __init__(self, rule_chain, accuracy, recall):
+    def __init__(self, rule_chain, accuracy, recall, f1):
         self.rule_chain = rule_chain
         self.accuracy = accuracy
         self.recall = recall
+        self.f1 = f1
+
+    def calculate_f1(self):
         self.f1 = self.accuracy * self.recall * 2 / (self.accuracy + self.recall)
 
     def __lt__(self, other):
@@ -75,7 +78,7 @@ class Rule:
         return self.accuracy == other.accuracy
 
     def __str__(self):
-        msg = "{} {} {} {}".format(self.rule_chain, self.accuracy, self.recall, self.f1)
+        msg = "{}\t{}\t{}\t{}".format(self.rule_chain, self.accuracy, self.recall, self.f1)
         return msg
 
 
@@ -92,6 +95,9 @@ class RuleLearner:
             os.makedirs(self.folder)
 
         self.positive_file_path = self.folder + "positive_instances.txt"
+        self.negetive_file_path = self.folder + "negetive_instances.txt"
+        self.checked_rule_file = self.folder + "checked_rule.txt"
+        self.filtered_sorted_rule_file = self.folder + "filtered_sorted_rule.txt"
 
     def calculate_search_num_per_time(self, total_num, positive_num):
         max_num_per_time = 10000
@@ -105,7 +111,7 @@ class RuleLearner:
             return search_times, num_per_time
 
     def load_positive_instances(self):
-        with open(self.positive_file_path, "r") as f:
+        with open(self.positive_file_path, "r", encoding="UTF-8") as f:
             for idx, line in enumerate(f.readlines()):
                 if idx == 0:
                     continue
@@ -137,7 +143,7 @@ class RuleLearner:
             for instance in self.positive_instances:
                 f.write("{}\n".format(instance))
 
-    def get_instances(self):
+    def get_posi_instances(self):
         if os.path.exists(self.positive_file_path):
             self.load_positive_instances()
         else:
@@ -179,71 +185,79 @@ class RuleLearner:
 
     def rule_checker(self):
         self.checked_rule_dict = {}
-        self.checked_rule_heap = queue.PriorityQueue()
-        self.checked_rule_file = self.folder + "checked_rule.txt"
-
-        if os.path.exists(self.checked_rule_file):
-            with open(self.checked_rule_file, "r") as f:
-                for line in f.readlines():
-                    if float(line.split("\t")[1]) < 0 or float(line.split("\t")[2]) < 0:
-                        continue
-                    self.checked_rule_heap.put(
-                        Rule(line.split("\t")[0], float(line.split("\t")[1]), float(line.split("\t")[2])))
-        else:
+        if not os.path.exists(self.checked_rule_file):
             total_num_query = "select count(?s) where {?s " + self.predicate + " ?e.}"
             total_num = self.utils.get_num_by_sparql(total_num_query)
             for idx, raw_rule in enumerate(self.rule_list):
+
                 print("No.{} {}".format(idx, raw_rule.strip()))
+                if raw_rule.strip().split(";")[0][1:] == self.predicate[1:-1]:
+                    continue
 
                 triple_pattern = self.rule_parser(raw_rule)
-                query1 = "select count(?s) where{ " + triple_pattern + "?s " + self.predicate + "" + "?random.}"
-                query2 = "select count(?s)where{ " + triple_pattern + "?s " + self.predicate + "" + "?e.}"
+                query1 = "select count(?s) where{ " + triple_pattern + "FILTER EXISTS { ?s " + self.predicate + " ?random.}}"
+                query2 = "select count(?s)where{ " + triple_pattern + "?s " + self.predicate + " ?e.}"
 
                 correct_num = self.utils.get_num_by_sparql(query2)
                 retrived_num = self.utils.get_num_by_sparql(query1)
 
                 accuracy = correct_num * 1.0 / retrived_num
                 recall = correct_num / total_num
+                f1 = 2 * accuracy * recall / (accuracy + recall)
 
-                self.checked_rule_dict[raw_rule] = [accuracy, recall]
+                self.checked_rule_dict[raw_rule] = [accuracy, recall, f1]
 
-                print("Accuracy: {}\tRecall: {}".format(accuracy, recall))
+                print("Accuracy: {}\tRecall: {}\tF1: {}".format(accuracy, recall, f1))
 
             with open(self.checked_rule_file, "w") as f:
                 for key in self.checked_rule_dict:
-                    f.write("{}\t{}\t{}\n".format(key.strip(), self.checked_rule_dict[key][0],
-                                                  self.checked_rule_dict[key][1]))
-        while not self.checked_rule_heap.empty():
-            print(self.checked_rule_heap.get())
+                    rule_metric_list = self.checked_rule_dict[key]
+                    f.write("{}\t{}\t{}\t{}\n".format(key.strip(), rule_metric_list[0],
+                                                      rule_metric_list[1], rule_metric_list[2]))
+
+    def rule_filter_and_sorter(self):
+        self.filtered_rule_heap = queue.PriorityQueue()
+        if not os.path.exists(self.filtered_sorted_rule_file):
+            with open(self.checked_rule_file, "r") as f:
+                for line in f.readlines():
+                    accuracy = float(line.split("\t")[1])
+                    recall = float(line.split("\t")[2])
+                    f1 = float(line.split("\t")[3])
+                    if accuracy < 0.001 or recall < 0.001:
+                        continue
+                    self.filtered_rule_heap.put(
+                        Rule(line.split("\t")[0], accuracy, recall, f1))
+            with open(self.filtered_sorted_rule_file, "w") as f:
+                while not self.filtered_rule_heap.empty():
+                    f.write("{}\n".format(self.filtered_rule_heap.get()))
+
+    def get_nege_instances(self):
+        self.rule_list = []
+        with open(self.filtered_sorted_rule_file, "r", encoding="UTF-8") as f:
+            for line in f.readlines():
+                rule_chain = line.split("\t")[0]
+                accuracy = float(line.split("\t")[1])
+                recall = float(line.split("\t")[2])
+                f1 = float(line.split("\t")[3])
+                self.rule_list.append(Rule(rule_chain, accuracy, recall, f1))
+        for one_rule in self.rule_list:
+            triple_pattern = self.rule_parser(one_rule.rule_chain)
+            query = "select ?s ?e where { " \
+                    + triple_pattern \
+                    + "FILTER EXISTS {?s " + self.predicate + " ?random}. " \
+                    + "FILTER regex(?e,\"^http\"). MINUS {?s " + self.predicate + " ?e}}"
+            print(query)
 
 
 def learnRule(predicate):
     rl = RuleLearner(predicate, 2000)
-    rl.get_instances()
+    rl.get_posi_instances()
     rl.get_rule()
     rl.rule_checker()
+    rl.rule_filter_and_sorter()
+    rl.get_nege_instances()
 
 
 if __name__ == "__main__":
     predicate = "<http://dbpedia.org/ontology/birthPlace>"
     learnRule(predicate)
-
-    # rl = RuleLearner(predicate, 2000)
-    # raw_rule = "+http://dbpedia.org/ontology/birthPlace;-http://dbpedia.org/ontology/country;"
-    # query = rl.rule_parser(raw_rule)
-    # print(query)
-    # one_triple = Triple(None, "<http://dbpedia.org/resource/Marilyn_Bergman>", "<http://dbpedia.org/resource/Brooklyn>")
-    # one_triple.search_rule()
-    # one_triple.display_rule()
-
-    #     utils = Util()
-    #     query1 = """select count(?s)where{ ?s <http://dbpedia.org/property/birthPlace> ?o0.
-    # ?o0 <http://www.w3.org/2000/01/rdf-schema#seeAlso> ?e.
-    # ?s <http://dbpedia.org/ontology/birthPlace>?e.}"""
-    #     query2 = """select count(?s) where{ ?s <http://dbpedia.org/property/birthPlace> ?o0.
-    # ?o0 <http://www.w3.org/2000/01/rdf-schema#seeAlso> ?e.
-    # ?s <http://dbpedia.org/ontology/birthPlace>?random.}"""
-    #
-    #     t2 = utils.get_num_by_sparql(query1)
-    #     t1 = utils.get_num_by_sparql(query2)
-    #     accuracy = t2/t1

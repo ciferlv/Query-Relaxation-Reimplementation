@@ -13,7 +13,21 @@ class Util:
             results = self.sparql.query().convert()
             res_num = int(results['results']['bindings'][0]['callret-0']['value'])
             return res_num
-        except:
+        except Exception as e:
+            print(e)
+            return -1
+
+    def get_s_e_by_sparql(self,query):
+        self.sparql = SPARQLWrapper(sparql_database)
+        self.sparql.setTimeout(3)
+        try:
+            self.sparql.setQuery(query)
+            self.sparql.setReturnFormat(JSON)
+            results = self.sparql.query().convert()
+            res_num = int(results['results']['bindings'][0]['callret-0']['value'])
+            return res_num
+        except Exception as e:
+            print(e)
             return -1
 
 
