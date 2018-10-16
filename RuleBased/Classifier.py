@@ -4,7 +4,6 @@ import torch.optim as optim
 from sklearn import datasets
 import numpy as np
 import torch
-from torch.autograd import Variable
 
 
 class LogisticRegression(nn.Module):
@@ -13,12 +12,8 @@ class LogisticRegression(nn.Module):
         self.out = nn.Linear(input_size, 1, bias=True)
 
     def forward(self, input):
-        output = F.logsigmoid(self.out(input))
+        output = F.sigmoid(self.out(input))
         return output
-
-    def update(self, input, label):
-        output = self.forward(input)
-        loss = -F.reduce(output * label + (1 - label) * (1 - output))
 
 
 if __name__ == "__main__":
@@ -26,41 +21,52 @@ if __name__ == "__main__":
     x = iris.data[:, :2]
     y = (iris.target != 0) * 1
 
+    one_num = np.sum(y)
+    zero_num = len(y) - one_num
+
+    one_ratio = 1
+    zero_ration = one_num / zero_num
+
     test = list(zip(x, y))
     np.random.shuffle(test)
-
-    epoch = 10
+    seg = 120
+    epoch = 1000
     lg = LogisticRegression(2)
-    criterion = nn.MSELoss()
-    optimizer = optim.Adam(lg.parameters())
+    criterion = nn.BCELoss()
+    optimizer = optim.Adam(lg.parameters(), lr=0.001)
     for i_epoch in range(epoch):
-        # y_pred = lg(torch.Tensor(x))
-        # loss = criterion(y_pred,torch.Tensor(y).unsqueeze(1))
-        # loss.backward()
-        # optimizer.step()
         x_data_list = []
         y_data_list = []
-        for idx, data in enumerate(test[:40],start=1):
-            x_data,y_data = data
+        ration_list = []
+        for idx, data in enumerate(test[:seg], start=1):
+            x_data, y_data = data
             x_data_list.append(x_data)
-            y_data_list.append([y_data])
+            y_data_list.append(y_data)
+
+            if y_data == 1:
+                ration_list.append(1)
+            else:
+                ration_list.append(2)
+
             if idx % 10 == 0:
                 output = lg(torch.Tensor(x_data_list))
-                print(output)
                 optimizer.zero_grad()
-                loss = criterion(output,torch.Tensor(y_data_list))
-                print(loss)
+                criterion.weight = torch.Tensor(ration_list)
+                loss = criterion(output, torch.Tensor(y_data_list))
                 loss.backward()
                 optimizer.step()
                 x_data_list = []
                 y_data_list = []
+                ration_list = []
     x_data_list = []
     y_data_list = []
-    for data in test[40:]:
-        x_data,y_data = data
+    for data in test[seg:]:
+        x_data, y_data = data
         x_data_list.append(x_data)
-        y_data_list.append([y_data])
+        y_data_list.append(y_data)
     output = lg(torch.Tensor(x_data_list))
-    print(output)
-    # print(np.sum(output > 0.5 * 1))
-
+    output_label = (output.squeeze(-1).detach().numpy() > 0.5) * 1
+    print(output_label)
+    print(y_data_list)
+    precision = np.sum((output_label == np.array(y_data_list)) * 1) / len(test[seg:])
+    print(precision)
