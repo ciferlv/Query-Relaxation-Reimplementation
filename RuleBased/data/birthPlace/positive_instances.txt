@@ -1,4 +1,5 @@
-Num: 2010<http://dbpedia.org/resource/Jules_Barbey_d'Aurevilly>	<http://dbpedia.org/resource/Saint-Sauveur-le-Vicomte>
+Num: 2010
+<http://dbpedia.org/resource/Jules_Barbey_d'Aurevilly>	<http://dbpedia.org/resource/Saint-Sauveur-le-Vicomte>
 <http://dbpedia.org/resource/Gheorghe_Mureșan>	<http://dbpedia.org/resource/Tritenii_de_Jos>
 <http://dbpedia.org/resource/Frank_Forde>	<http://dbpedia.org/resource/British_Empire>
 <http://dbpedia.org/resource/John_Palliser>	<http://dbpedia.org/resource/Dublin>

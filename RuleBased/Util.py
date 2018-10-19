@@ -8,9 +8,11 @@ from RuleBased.unit.Triple import Triple
 
 sparql_database = "http://210.28.132.61:8898/sparql"
 
+
 class Util:
     def __init__(self):
         self.logger = ALogger("UTIL.py", True).getLogger()
+
     def get_num_by_sparql(self, query):
         sparql = SPARQLWrapper(sparql_database)
         sparql.setTimeout(3)
@@ -33,10 +35,12 @@ class Util:
         search_times = math.ceil(res_num / 10000)
         extracted_num_per_time = math.ceil(extracted_num / search_times)
 
+        if search_times > extracted_num: search_times = extracted_num
+
         sparql = SPARQLWrapper(sparql_database)
         sparql.setTimeout(10)
 
-        self.logger.info("Search Times:{}\tExtracted num per time:{}".format(search_times,extracted_num_per_time))
+        self.logger.info("Search Times:{}\tExtracted num per time:{}".format(search_times, extracted_num_per_time))
 
         for idx in range(search_times):
             self.logger.info("No.{}".format(idx))
@@ -62,6 +66,18 @@ class Util:
         if len(s_e_list) > extracted_num:
             s_e_list = s_e_list[0:extracted_num]
         return s_e_list
+
+    def ask_sparql(self,query):
+        sparql = SPARQLWrapper(sparql_database)
+        sparql.setTimeout(10)
+        try:
+            sparql.setQuery(query)
+            sparql.setReturnFormat(JSON)
+            results = sparql.query().convert()
+            return int(results['boolean'])
+        except Exception as my_exception:
+            self.logger.info("Can't get num {}.".format(my_exception))
+            return 0
 
 
 if __name__ == "__main__":

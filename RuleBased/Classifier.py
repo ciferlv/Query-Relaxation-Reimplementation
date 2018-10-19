@@ -4,16 +4,53 @@ import torch.optim as optim
 from sklearn import datasets
 import numpy as np
 import torch
+import math
+
+from RuleBased.ALogger import ALogger
 
 
 class LogisticRegression(nn.Module):
     def __init__(self, input_size):
         super(LogisticRegression, self).__init__()
         self.out = nn.Linear(input_size, 1, bias=True)
+        self.logger = ALogger("Classifier.py", True).getLogger()
 
     def forward(self, input):
         output = F.sigmoid(self.out(input))
         return output
+
+    def train(self, x, y, epoch, mini_batch):
+        train_nums = len(x)
+        mini_batch_nums = math.ceil(train_nums / mini_batch)
+        seg_point_list = [0]
+        for i in range(mini_batch_nums):
+            if (i + 1) * mini_batch > train_nums:
+                seg_point_list.append(train_nums)
+            else:
+                seg_point_list.append((i + 1) * mini_batch)
+
+        criterion = nn.BCELoss()
+        optimizer = optim.Adam(self.parameters(), lr=0.001)
+
+        for epoch_i in range(epoch):
+            for idx, seg_point in enumerate(seg_point_list):
+                if idx == len(seg_point_list) - 1: break
+                optimizer.zero_grad()
+                start_point = seg_point_list[idx]
+                end_point = seg_point_list[idx + 1]
+                train_x = x[start_point:end_point]
+                train_y = y[start_point:end_point]
+                output = self.forward(torch.Tensor(train_x))
+                loss = criterion(output, torch.Tensor(train_y))
+                self.logger.info("Epoch:{} Mini_Batch:{} Loss:{}".format(epoch_i, idx, loss.item()))
+                loss.backward()
+                optimizer.step()
+
+    def test(self, x, y, model):
+        output = self.forward(torch.Tensor(x))
+        output_label = (output.squeeze(-1).detach().numpy() > 0.5) * 1
+        precision = np.sum((output_label == np.array(y)) * 1) / len(x)
+        self.logger.info("Precision: {}".format(precision))
 
 
 if __name__ == "__main__":

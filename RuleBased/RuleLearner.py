@@ -3,8 +3,10 @@ import random
 import math
 import os
 import queue
+import numpy as np
 
 from RuleBased.ALogger import ALogger
+from RuleBased.Classifier import LogisticRegression
 from RuleBased.Util import Util
 from RuleBased.unit.Rule import Rule
 from RuleBased.unit.Triple import Triple
@@ -18,8 +20,8 @@ class RuleLearner:
         self.utils = Util()
         self.predicate = predicate
         self.sparql = SPARQLWrapper(sparql_database)
-        self.positive_instances = []
-        self.negetive_instances = []
+        self.positive_instance_list = []
+        self.negetive_instance_list = []
         self.rule_list = []
         self.rules_top_k = 200
         self.positive_num = positive_num
@@ -32,6 +34,9 @@ class RuleLearner:
         self.negetive_file_path = self.folder + "negetive_instances.txt"
         self.checked_rule_file = self.folder + "checked_rule.txt"
         self.filtered_sorted_rule_file = self.folder + "filtered_sorted_rule.txt"
+        self.positive_features_path = self.folder + "positive_features.npy"
+        self.negetive_features_path = self.folder + "negetive_features.npy"
+        self.model_path = self.folder + "model.tar"
 
     def calculate_search_num_per_time(self, total_num, positive_num):
         max_num_per_time = 10000
@@ -52,7 +57,7 @@ class RuleLearner:
                 else:
                     subj = line.strip().split()[0]
                     obj = line.strip().split()[1]
-                    self.positive_instances.append(Triple(None, subj, obj))
+                    self.positive_instance_list.append(Triple(None, subj, obj))
 
     def crawl_positive_instances(self):
         triple_pattern = "?s " + self.predicate + " ?o"
@@ -71,10 +76,10 @@ class RuleLearner:
             results = self.sparql.query().convert()
             res_list = results['results']['bindings']
             for sampled_num in random.sample(range(0, 10000), num_per_time):
-                self.positive_instances.append(Triple(res_list[sampled_num]))
+                self.positive_instance_list.append(Triple(res_list[sampled_num]))
         with open(self.positive_file_path, "w") as f:
-            f.write("Num: {}".format(len(self.positive_instances)))
-            for instance in self.positive_instances:
+            f.write("Num: {}\n".format(len(self.positive_instance_list)))
+            for instance in self.positive_instance_list:
                 f.write("{}\n".format(instance))
 
     def get_posi_instances(self):
@@ -90,7 +95,7 @@ class RuleLearner:
                 for line in f.readlines():
                     self.rule_list.append(line)
         else:
-            for i, instance in enumerate(self.positive_instances):
+            for i, instance in enumerate(self.positive_instance_list):
                 self.logger.info("No.{}".format(i))
                 instance.search_rule()
                 self.rule_list.extend(list(instance.rule_set))
@@ -164,7 +169,17 @@ class RuleLearner:
                 while not self.filtered_rule_heap.empty():
                     f.write("{}\n".format(self.filtered_rule_heap.get()))
 
-    def get_nege_instances(self):
+    def load_negetive_instances(self):
+        with open(self.negetive_file_path, "r", encoding="UTF-8") as f:
+            for idx, line in enumerate(f.readlines()):
+                if idx == 0:
+                    continue
+                else:
+                    subj = line.strip().split()[0]
+                    obj = line.strip().split()[1]
+                    self.negetive_instance_list.append(Triple(None, subj, obj))
+
+    def crawl_nege_instances(self):
         if os.path.exists(self.negetive_file_path):
             return
         self.logger.info("Start collect negetive instances.")
@@ -192,12 +207,91 @@ class RuleLearner:
             count_query = "select count(?s) " + query
             entity_query = "select ?s ?e " + query
             s_e_list_temp = self.utils.get_s_e_by_sparql(entity_query, count_query, nege_instance_per_rule * 2)
-            s_e_list.extend(s_e_list_temp)
+            if (type(s_e_list_temp) is type([])): s_e_list.extend(s_e_list_temp)
         sample_idx_list = random.sample(range(0, len(s_e_list)), math.ceil(len(s_e_list) / 2))
 
         with open(self.negetive_file_path, "w", encoding="UTF-8") as f:
+            f.write("Num: {}\n".format(len(sample_idx_list)))
             for sample_idx in sample_idx_list:
                 f.write("{}\n".format(s_e_list[sample_idx]))
+
+    def generate_one_instance_feature(self, one_instance, rules):
+        subj = one_instance.subj
+        obj = one_instance.obj
+        features = []
+        for one_rule in rules:
+            raw_rule = one_rule.rule_chain
+            triple_pattern = self.rule_parser(raw_rule).replace("?s", subj).replace("?e", obj)
+            ask_sparql = "ASK {" + triple_pattern + "}"
+            features.append(self.utils.ask_sparql(ask_sparql))
+        if np.sum(np.array(features)) == 0:
+            self.logger.info("Can't get useful features:\n{}\t{}".format(subj, obj))
+            return None
+        else:
+            return features
+
+    def generate_posi_feature(self):
+        if os.path.exists(self.positive_features_path):
+            return
+
+        filtered_rule_list = []
+        positive_features = []
+        with open(self.filtered_sorted_rule_file, "r", encoding="UTF-8") as f:
+            for idx, line in enumerate(f.readlines()):
+                if idx > self.rules_top_k:
+                    break
+                rule_chain = line.split("\t")[0]
+                accuracy = float(line.split("\t")[1])
+                recall = float(line.split("\t")[2])
+                f1 = float(line.split("\t")[3])
+                filtered_rule_list.append(Rule(rule_chain, accuracy, recall, f1))
+
+        if len(self.positive_instance_list) == 0: self.load_positive_instances()
+        for idx, posi_instance in enumerate(self.positive_instance_list):
+            self.logger.info(
+                "Posi Feature, No.{} Subj {}\t Obj: {}".format(idx, posi_instance.subj, posi_instance.obj))
+            one_feature = self.generate_one_instance_feature(posi_instance, filtered_rule_list)
+            if one_feature is not None:
+                positive_features.append(one_feature)
+                self.logger.info("Useful/All: {}/{}".format(len(positive_features, idx)))
+        np.save(self.positive_features_path, positive_features)
+        self.logger.info(positive_features)
+
+    def generate_nege_feature(self):
+        if os.path.exists(self.negetive_features_path):
+            return
+
+        filtered_rule_list = []
+        negetive_features = []
+        with open(self.filtered_sorted_rule_file, "r", encoding="UTF-8") as f:
+            for idx, line in enumerate(f.readlines()):
+                if idx > self.rules_top_k:
+                    break
+                rule_chain = line.split("\t")[0]
+                accuracy = float(line.split("\t")[1])
+                recall = float(line.split("\t")[2])
+                f1 = float(line.split("\t")[3])
+                filtered_rule_list.append(Rule(rule_chain, accuracy, recall, f1))
+
+        if len(self.negetive_instance_list) == 0: self.load_negetive_instances()
+        for idx, nege_instance in enumerate(self.negetive_instance_list):
+            self.logger.info(
+                "Nege Feature, No.{} Subj {}\t Obj: {}".format(idx, nege_instance.subj, nege_instance.obj))
+            one_feature = self.generate_one_instance_feature(nege_instance, filtered_rule_list)
+            if one_feature is not None:
+                negetive_features.append(one_feature)
+        np.save(self.negetive_features_path, negetive_features)
+
+    def generate_model(self):
+        if os.path.exists(self.model_path):
+            return
+        lg = LogisticRegression(self.rules_top_k)
+        train_x_posi = np.load(self.positive_features_path)
+        train_y = np.ones(len(train_x_posi))
+        train_x_nege = np.load(self.negetive_features_path)
+        train_x = train_x_posi.append(train_x_nege)
+        train_y.append(np.zeros(len(train_x_nege)))
+        lg.train(train_x, train_y, 1000, 50)
 
 
 def learnRule(predicate):
@@ -206,7 +300,9 @@ def learnRule(predicate):
     rl.get_rule()
     rl.rule_checker()
     rl.rule_filter_and_sorter()
-    rl.get_nege_instances()
+    rl.crawl_nege_instances()
+    rl.generate_posi_feature()
+    rl.generate_nege_feature()
 
 
 if __name__ == "__main__":
