@@ -4,6 +4,7 @@ import math
 import os
 import queue
 import numpy as np
+from sklearn.model_selection import train_test_split
 
 from RuleBased.ALogger import ALogger
 from RuleBased.Classifier import LogisticRegression
@@ -285,13 +286,23 @@ class RuleLearner:
     def generate_model(self):
         if os.path.exists(self.model_path):
             return
-        lg = LogisticRegression(self.rules_top_k)
-        train_x_posi = np.load(self.positive_features_path)
-        train_y = np.ones(len(train_x_posi))
-        train_x_nege = np.load(self.negetive_features_path)
-        train_x = train_x_posi.append(train_x_nege)
-        train_y.append(np.zeros(len(train_x_nege)))
+        lg = LogisticRegression(self.rules_top_k+1)
+        x_posi = np.load(self.positive_features_path)
+        y_posi = np.ones(len(x_posi))
+
+        x_nege = np.load(self.negetive_features_path)
+        y_nege = np.zeros(len(x_nege))
+
+        train_x_posi, test_x_posi, train_y_posi, test_y_posi = train_test_split(x_posi, y_posi, train_size=1000)
+        train_x_nege, test_x_nege, train_y_nege, test_y_nege = train_test_split(x_nege, y_nege, train_size=1000)
+        train_x = np.append(train_x_posi, train_x_nege,axis=0)
+        train_y = np.append(train_y_posi, train_y_nege)
+
+        test_x = np.append(test_x_posi, test_x_nege, axis=0)
+        test_y = np.append(test_y_posi, test_y_nege)
         lg.train(train_x, train_y, 1000, 50)
+        lg.saveModel(self.model_path)
+        lg.test(test_x, test_y)
 
 
 def learnRule(predicate):
@@ -303,6 +314,7 @@ def learnRule(predicate):
     rl.crawl_nege_instances()
     rl.generate_posi_feature()
     rl.generate_nege_feature()
+    rl.generate_model()
 
 
 if __name__ == "__main__":

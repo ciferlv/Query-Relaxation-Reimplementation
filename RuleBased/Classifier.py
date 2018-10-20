@@ -46,11 +46,17 @@ class LogisticRegression(nn.Module):
                 loss.backward()
                 optimizer.step()
 
-    def test(self, x, y, model):
+    def test(self, x, y):
         output = self.forward(torch.Tensor(x))
         output_label = (output.squeeze(-1).detach().numpy() > 0.5) * 1
         precision = np.sum((output_label == np.array(y)) * 1) / len(x)
         self.logger.info("Precision: {}".format(precision))
+
+    def saveModel(self, savePath):
+        torch.save(self.state_dict(), savePath)
+
+    def loadModel(self, loadPath):
+        self.load_state_dict(torch.load(loadPath))
 
 
 if __name__ == "__main__":
