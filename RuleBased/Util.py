@@ -79,6 +79,31 @@ class Util:
             self.logger.info("Can't get num {}.".format(my_exception))
             return 0
 
+    def generate_name(self, one_uri):
+        if '/' not in one_uri:
+            return one_uri
+
+        one_uri = one_uri.strip().strip("<").strip(">")
+
+        dbo = "http://dbpedia.org/ontology/"
+        rdfs = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        dbr = "http://dbpedia.org/resource/"
+        dbp = "http://dbpedia.org/property/"
+        localname = one_uri.split("/")[-1]
+        if "#" in localname:
+            localname = localname.split("#")[-1]
+        if one_uri.startswith(dbo):
+            name = "dbo_" + localname
+        elif one_uri.startswith(rdfs):
+            name = "rdfs_" + localname
+        elif one_uri.startswith(dbr):
+            name = "dbr_" + localname
+        elif one_uri.startswith(dbp):
+            name = "dbp_" + localname
+        else:
+            name = localname
+        return name
+
 
 if __name__ == "__main__":
     utils = Util()

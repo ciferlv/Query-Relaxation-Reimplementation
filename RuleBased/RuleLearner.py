@@ -27,7 +27,7 @@ class RuleLearner:
         self.rules_top_k = 200
         self.positive_num = positive_num
 
-        self.folder = "./data/" + predicate.split("/")[-1][:-1] + "/"
+        self.folder = "./data/" + self.utils.generate_name(self.predicate) + "/"
         if not os.path.exists(self.folder):
             os.makedirs(self.folder)
 
@@ -286,7 +286,7 @@ class RuleLearner:
     def generate_model(self):
         if os.path.exists(self.model_path):
             return
-        lg = LogisticRegression(self.rules_top_k+1)
+        lg = LogisticRegression(self.rules_top_k + 1)
         x_posi = np.load(self.positive_features_path)
         y_posi = np.ones(len(x_posi))
 
@@ -295,13 +295,34 @@ class RuleLearner:
 
         train_x_posi, test_x_posi, train_y_posi, test_y_posi = train_test_split(x_posi, y_posi, train_size=1000)
         train_x_nege, test_x_nege, train_y_nege, test_y_nege = train_test_split(x_nege, y_nege, train_size=1000)
-        train_x = np.append(train_x_posi, train_x_nege,axis=0)
+        train_x = np.append(train_x_posi, train_x_nege, axis=0)
         train_y = np.append(train_y_posi, train_y_nege)
 
         test_x = np.append(test_x_posi, test_x_nege, axis=0)
         test_y = np.append(test_y_posi, test_y_nege)
         lg.train(train_x, train_y, 1000, 50)
         lg.saveModel(self.model_path)
+        lg.test(test_x, test_y)
+
+    def test_model(self):
+        lg = LogisticRegression(self.rules_top_k + 1)
+        lg.loadModel(self.model_path)
+
+        x_posi = np.load(self.positive_features_path)
+        y_posi = np.ones(len(x_posi))
+
+        x_nege = np.load(self.negetive_features_path)
+        y_nege = np.zeros(len(x_nege))
+
+        train_x_posi, test_x_posi, train_y_posi, test_y_posi = train_test_split(x_posi, y_posi, train_size=1000)
+        train_x_nege, test_x_nege, train_y_nege, test_y_nege = train_test_split(x_nege, y_nege, train_size=1000)
+        train_x = np.append(train_x_posi, train_x_nege, axis=0)
+        train_y = np.append(train_y_posi, train_y_nege)
+
+        test_x = np.append(test_x_posi, test_x_nege, axis=0)
+        test_y = np.append(test_y_posi, test_y_nege)
+
+        lg.test(train_x, train_y)
         lg.test(test_x, test_y)
 
 
