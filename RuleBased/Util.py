@@ -1,7 +1,6 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 import math
 import random
-import logging
 
 from RuleBased.ALogger import ALogger
 from RuleBased.unit.Triple import Triple
@@ -67,7 +66,7 @@ class Util:
             s_e_list = s_e_list[0:extracted_num]
         return s_e_list
 
-    def ask_sparql(self,query):
+    def ask_sparql(self, query):
         sparql = SPARQLWrapper(sparql_database)
         sparql.setTimeout(10)
         try:
@@ -103,6 +102,50 @@ class Util:
         else:
             name = localname
         return name
+
+    def rule_parser(self, raw_rule):
+        prev = "?s"
+        triple_pattern = ""
+        raw_rule_array = raw_rule.strip().strip(";").split(";")
+        for idx, pred in enumerate(raw_rule_array):
+
+            if idx == len(raw_rule_array) - 1:
+                next_singal = "?e"
+            else:
+                next_singal = "?o" + str(idx)
+
+            if pred[0] is "+":
+                triple_pattern += prev + " <" + pred[1:] + "> " + next_singal + ".\n"
+            else:
+                triple_pattern += next_singal + " <" + pred[1:] + "> " + prev + ".\n"
+            prev = next_singal
+        return triple_pattern
+
+    def get_entity_set_by_sparql(self, var_list, rewritted_body_triple_list, entity_set):
+        sparql_endpoint = SPARQLWrapper(sparql_database)
+        sparql_endpoint.setTimeout(3)
+
+        rewritted_body = "\n".join(rewritted_body_triple_list)
+        var_str = " ".join(var_list)
+        count_query = "select count(*) where{" + rewritted_body + "}"
+        entity_query = "select " + var_str + " where{" + rewritted_body + "}"
+
+        res_num = self.get_num_by_sparql(count_query)
+        search_times = math.ceil(res_num / 10000)
+
+        for idx in range(search_times):
+            try:
+                sparql_endpoint.setQuery(entity_query + "LIMIT 10000 OFFSET " + str(idx * 10000))
+                sparql_endpoint.setReturnFormat(JSON)
+                results = sparql_endpoint.query().convert()
+                binding_list = results['results']['bindings']
+                for binding in binding_list:
+                    one_result = []
+                    for variable in var_list:
+                        one_result.append(binding[variable.strip("?")]['value'])
+                    entity_set.add(";".join(one_result))
+            except Exception as my_exception:
+                self.logger.info("Can get results: {}".format(my_exception))
 
 
 if __name__ == "__main__":

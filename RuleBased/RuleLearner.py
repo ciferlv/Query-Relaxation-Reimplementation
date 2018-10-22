@@ -16,7 +16,7 @@ sparql_database = "http://210.28.132.61:8898/sparql"
 
 
 class RuleLearner:
-    def __init__(self, predicate, positive_num):
+    def __init__(self, predicate, positive_num, rules_top_k):
         self.logger = ALogger("RuleLearner.py", True).getLogger()
         self.utils = Util()
         self.predicate = predicate
@@ -24,7 +24,8 @@ class RuleLearner:
         self.positive_instance_list = []
         self.negetive_instance_list = []
         self.rule_list = []
-        self.rules_top_k = 200
+        self.rule_list_sortedby_recall = []
+        self.rules_top_k = rules_top_k
         self.positive_num = positive_num
 
         self.folder = "./data/" + self.utils.generate_name(self.predicate) + "/"
@@ -105,24 +106,6 @@ class RuleLearner:
                 for rule in self.rule_list:
                     f.write(rule + "\n")
 
-    def rule_parser(self, raw_rule):
-        prev = "?s"
-        triple_pattern = ""
-        raw_rule_array = raw_rule.strip().strip(";").split(";")
-        for idx, pred in enumerate(raw_rule_array):
-
-            if idx == len(raw_rule_array) - 1:
-                next_singal = "?e"
-            else:
-                next_singal = "?o" + str(idx)
-
-            if pred[0] is "+":
-                triple_pattern += prev + " <" + pred[1:] + "> " + next_singal + ".\n"
-            else:
-                triple_pattern += next_singal + " <" + pred[1:] + "> " + prev + ".\n"
-            prev = next_singal
-        return triple_pattern
-
     def rule_checker(self):
         self.checked_rule_dict = {}
         if not os.path.exists(self.checked_rule_file):
@@ -133,7 +116,7 @@ class RuleLearner:
                 if raw_rule.strip().split(";")[0][1:] == self.predicate[1:-1]:
                     continue
 
-                triple_pattern = self.rule_parser(raw_rule)
+                triple_pattern = self.utils.rule_parser(raw_rule)
                 query1 = "select count(?s) where{ " + triple_pattern + "FILTER EXISTS { ?s " + self.predicate + " ?random.}}"
                 query2 = "select count(?s)where{ " + triple_pattern + "?s " + self.predicate + " ?e.}"
 
@@ -200,7 +183,7 @@ class RuleLearner:
         s_e_list = []
         for idx, one_rule in enumerate(self.rule_list_for_nege):
             self.logger.info("No.{} Rule: {}".format(idx, one_rule))
-            triple_pattern = self.rule_parser(one_rule.rule_chain)
+            triple_pattern = self.utils.rule_parser(one_rule.rule_chain)
             query = "where { " \
                     + triple_pattern \
                     + "FILTER EXISTS {?s " + self.predicate + " ?random}. " \
@@ -222,7 +205,7 @@ class RuleLearner:
         features = []
         for one_rule in rules:
             raw_rule = one_rule.rule_chain
-            triple_pattern = self.rule_parser(raw_rule).replace("?s", subj).replace("?e", obj)
+            triple_pattern = self.utils.rule_parser(raw_rule).replace("?s", subj).replace("?e", obj)
             ask_sparql = "ASK {" + triple_pattern + "}"
             features.append(self.utils.ask_sparql(ask_sparql))
         if np.sum(np.array(features)) == 0:
@@ -302,7 +285,6 @@ class RuleLearner:
         test_y = np.append(test_y_posi, test_y_nege)
         lg.train(train_x, train_y, 1000, 50)
         lg.saveModel(self.model_path)
-        lg.test(test_x, test_y)
 
     def test_model(self):
         lg = LogisticRegression(self.rules_top_k + 1)
@@ -325,19 +307,33 @@ class RuleLearner:
         lg.test(train_x, train_y)
         lg.test(test_x, test_y)
 
+    def get_rule_sorted_by_recall(self):
+        if len(self.rule_list_sortedby_recall) != 0:
+            return
+        with open(self.filtered_sorted_rule_file, "r", encoding="UTF-8") as f:
+            for idx, line in enumerate(f.readlines()):
+                if idx > self.rules_top_k: break
+                rule_chain, precision, recall, f1 = line.strip().split()
+                self.rule_list_sortedby_recall.append(Rule(rule_chain, float(precision), float(recall), float(f1)))
+        self.rule_list_sortedby_recall = sorted(self.rule_list_sortedby_recall, key=lambda k: k.recall, reverse=True)
 
-def learnRule(predicate):
-    rl = RuleLearner(predicate, 2000)
-    rl.get_posi_instances()
-    rl.get_rule()
-    rl.rule_checker()
-    rl.rule_filter_and_sorter()
-    rl.crawl_nege_instances()
-    rl.generate_posi_feature()
-    rl.generate_nege_feature()
-    rl.generate_model()
+    def learnRule(self):
+        self.logger.info("Start learning rule for {}.".format(self.utils.generate_name(self.predicate)))
+        self.get_posi_instances()
+        self.get_rule()
+        self.rule_checker()
+        self.rule_filter_and_sorter()
+        self.crawl_nege_instances()
+        self.generate_posi_feature()
+        self.generate_nege_feature()
+        self.generate_model()
+        self.get_rule_sorted_by_recall()
+
+    def get_rule_by_id(self,idx):
+        return self.rule_list_sortedby_recall[idx]
 
 
 if __name__ == "__main__":
     predicate = "<http://dbpedia.org/ontology/birthPlace>"
-    learnRule(predicate)
+    rl = RuleLearner(predicate, 2000, 200)
+    rl.learnRule()
