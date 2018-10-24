@@ -78,7 +78,7 @@ class RuleLearner:
             results = self.sparql.query().convert()
             res_list = results['results']['bindings']
             for sampled_num in random.sample(range(0, 10000), num_per_time):
-                self.positive_instance_list.append(Triple(res_list[sampled_num]))
+                self.positive_instance_list.append(Triple(res_list[sampled_num], None, None))
         with open(self.positive_file_path, "w") as f:
             f.write("Num: {}\n".format(len(self.positive_instance_list)))
             for instance in self.positive_instance_list:
@@ -93,7 +93,7 @@ class RuleLearner:
     def get_rule(self):
         self.raw_rule_file = self.folder + "raw_rule.txt"
         if os.path.exists(self.raw_rule_file):
-            with open(self.raw_rule_file, "r") as f:
+            with open(self.raw_rule_file, "r", encoding="UTF-8") as f:
                 for line in f.readlines():
                     self.rule_list.append(line)
         else:
@@ -237,7 +237,7 @@ class RuleLearner:
             one_feature = self.generate_one_instance_feature(posi_instance, filtered_rule_list)
             if one_feature is not None:
                 positive_features.append(one_feature)
-                self.logger.info("Useful/All: {}/{}".format(len(positive_features, idx)))
+                self.logger.info("Useful/All: {}/{}".format(len(positive_features), idx + 1))
         np.save(self.positive_features_path, positive_features)
         self.logger.info(positive_features)
 
@@ -269,32 +269,30 @@ class RuleLearner:
     def generate_model(self):
         if os.path.exists(self.model_path):
             return
-        lg = LogisticRegression(self.rules_top_k + 1)
+
         x_posi = np.load(self.positive_features_path)
         y_posi = np.ones(len(x_posi))
 
         x_nege = np.load(self.negetive_features_path)
         y_nege = np.zeros(len(x_nege))
 
-        train_x_posi, test_x_posi, train_y_posi, test_y_posi = train_test_split(x_posi, y_posi, train_size=1000)
-        train_x_nege, test_x_nege, train_y_nege, test_y_nege = train_test_split(x_nege, y_nege, train_size=1000)
-        train_x = np.append(train_x_posi, train_x_nege, axis=0)
-        train_y = np.append(train_y_posi, train_y_nege)
+        lg = LogisticRegression(x_posi.shape[1])
 
-        test_x = np.append(test_x_posi, test_x_nege, axis=0)
-        test_y = np.append(test_y_posi, test_y_nege)
+        train_x = np.append(x_posi, x_nege, axis=0)
+        train_y = np.append(y_posi, y_nege)
+
         lg.train(train_x, train_y, 1000, 50)
         lg.saveModel(self.model_path)
 
     def test_model(self):
-        lg = LogisticRegression(self.rules_top_k + 1)
-        lg.loadModel(self.model_path)
-
         x_posi = np.load(self.positive_features_path)
         y_posi = np.ones(len(x_posi))
 
         x_nege = np.load(self.negetive_features_path)
         y_nege = np.zeros(len(x_nege))
+
+        lg = LogisticRegression(x_posi.shape[1])
+        lg.loadModel(self.model_path)
 
         train_x_posi, test_x_posi, train_y_posi, test_y_posi = train_test_split(x_posi, y_posi, train_size=1000)
         train_x_nege, test_x_nege, train_y_nege, test_y_nege = train_test_split(x_nege, y_nege, train_size=1000)
@@ -328,8 +326,9 @@ class RuleLearner:
         self.generate_nege_feature()
         self.generate_model()
         self.get_rule_sorted_by_recall()
+        self.logger.info("Finish learning rules for {}.".format(self.utils.generate_name(self.predicate)))
 
-    def get_rule_by_id(self,idx):
+    def get_rule_by_id(self, idx):
         return self.rule_list_sortedby_recall[idx]
 
 

@@ -13,6 +13,17 @@ class Triple:
             self.subj = searched_dict['s']['value']
             self.obj = searched_dict['o']['value']
         self.rule_set = set()
+        self.check_subj_obj()
+
+    def check_subj_obj(self):
+        if not self.subj.startswith("<"):
+            self.subj = "<" + self.subj
+        if not self.obj.startswith("<"):
+            self.obj = "<" + self.obj
+        if not self.subj.endswith(">"):
+            self.subj = self.subj + ">"
+        if not self.obj.endswith(">"):
+            self.obj = self.obj + ">"
 
     def get_pred(self, sparql, position):
         self.sparql.setQuery(sparql)
@@ -37,6 +48,7 @@ class Triple:
         query4 = "select ?p1 ?p2 where{ ?o ?p1 " + self.subj + ".\n" + self.obj + " ?p2 ?o." + query_filter
         query5 = "select ?p1 ?p2 where{ ?o ?p1 " + self.subj + ".\n ?o ?p2" + self.obj + "." + query_filter
 
+        print(query0)
         self.get_pred(query0, ['+'])
         self.get_pred(query1, ['-'])
         self.get_pred(query2, ['+', '+'])

@@ -123,7 +123,7 @@ class Util:
 
     def get_entity_set_by_sparql(self, var_list, rewritted_body_triple_list, entity_set):
         sparql_endpoint = SPARQLWrapper(sparql_database)
-        sparql_endpoint.setTimeout(3)
+        sparql_endpoint.setTimeout(5)
 
         rewritted_body = "\n".join(rewritted_body_triple_list)
         var_str = " ".join(var_list)
@@ -145,7 +145,7 @@ class Util:
                         one_result.append(binding[variable.strip("?")]['value'])
                     entity_set.add(";".join(one_result))
             except Exception as my_exception:
-                self.logger.info("Can get results: {}".format(my_exception))
+                self.logger.info("Can't get results: {}".format(my_exception))
 
 
 if __name__ == "__main__":
