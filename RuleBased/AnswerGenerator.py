@@ -6,6 +6,7 @@ from itertools import product
 import os
 
 from RuleBased.Util import Util
+from RuleBased.unit.Candidate import Candidate
 
 
 class AnswerGenerator:
@@ -17,13 +18,25 @@ class AnswerGenerator:
         self.rules_top_k = 200
         self.relax_to_top_k = 10
         self.utils = Util()
-        self.candidate_entities_set = set()
+        self.cand_list = []
 
         self.folder = "./questions/" + question_name + "/"
         if not os.path.exists(self.folder):
             os.makedirs(self.folder)
 
-        self.entities_file = self.folder + "candidate_entities.txt"
+        self.cand_entities_file = self.folder + "candidate_entities.txt"
+
+    def load_cands(self):
+        if len(self.cand_list) == 0:
+            with open(self.cand_entities_file,"r",encoding="UTF-8") as f:
+                for line in f.readlines():
+                    temp_cand = Candidate()
+                    for var_entity in line.strip().split("\t"):
+                        var,entity = var_entity.strip().split(":")
+                        temp_cand.add_var_entity(var=var,entity=entity)
+                    self.cand_list.append(temp_cand)
+        for cand in self.cand_list:
+            cand.set_body_triple_list(self.sparqlSeg.body_triple_list)
 
     def get_rule(self):
         thread_list = []
@@ -41,7 +54,7 @@ class AnswerGenerator:
             if choosed_predicate_idx == 0:
                 choosed_predicate = predicate
             else:
-                choosed_predicate = self.pred_rule_dict[predicate].get_rule_by_id(choosed_predicate_idx - 1).rule_chain
+                choosed_predicate = self.pred_rule_dict[predicate].get_rule_sorted_by_recall_by_id(choosed_predicate_idx - 1).rule_chain
             replacement[predicate] = choosed_predicate
 
         rewritted_body_triple_list = []
@@ -55,11 +68,16 @@ class AnswerGenerator:
                 parsed_rule = parsed_rule.replace("?s", head).replace("?e", tail.strip("."))
                 rewritted_body_triple_list.append(parsed_rule)
 
-        self.utils.get_entity_set_by_sparql(list(self.sparqlSeg.body_vars),
-                                            rewritted_body_triple_list, self.candidate_entities_set)
+        temp_cand_list = self.utils.get_entity_set_by_sparql(list(self.sparqlSeg.body_vars),
+                                            rewritted_body_triple_list)
+        for one_cand in temp_cand_list:
+            cand = Candidate()
+            for var_entity in one_cand:
+                cand.add_var_entity(var_entity[0],var_entity[1])
+            self.cand_list.append(cand)
 
     def search_candidates(self):
-        if os.path.exists(self.entities_file):
+        if os.path.exists(self.cand_entities_file):
             return
         self.get_rule()
 
@@ -74,10 +92,14 @@ class AnswerGenerator:
         [t.start() for t in thread_list]
         [t.join() for t in thread_list]
 
-        if len(self.candidate_entities_set) != 0:
-            with open(self.entities_file, "w", encoding="UTF-8") as f:
-                for entities in self.candidate_entities_set:
-                    f.write(entities + "\n")
+        if len(self.cand_list) != 0:
+            with open(self.cand_entities_file, "w", encoding="UTF-8") as f:
+                for cand in self.cand_list:
+                    f.write(cand.var_entity2str() + "\n")
+
+    def generate_candidate_probability(self):
+        self.load_cands()
+
 
 
 if __name__ == "__main__":

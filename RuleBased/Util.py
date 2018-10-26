@@ -25,6 +25,24 @@ class Util:
             self.logger.info("Can't get num {}.".format(my_exception))
             return -1
 
+    def get_query_path(self, body):
+        generated_path = []
+        entity_query = "select * where {" + body + "}"
+
+        sparql = SPARQLWrapper(sparql_database)
+        sparql.setTimeout(10)
+        sparql.setQuery(entity_query)
+        sparql.setReturnFormat(JSON)
+        results = sparql.query().convert()
+        vars_list = results['head']['vars']
+        bindings_list = results['results']['bindings']
+        for binding in bindings_list:
+            temp = body
+            for var in vars_list:
+                temp = temp.replace("?" + var, self.gen_prefix(binding[var]['value']))
+                generated_path.append(temp)
+        return generated_path
+
     def get_s_e_by_sparql(self, entity_query, count_query, extracted_num):
         s_e_list = []
         res_num = self.get_num_by_sparql(count_query)
@@ -34,14 +52,13 @@ class Util:
         search_times = math.ceil(res_num / 10000)
         extracted_num_per_time = math.ceil(extracted_num / search_times)
 
-        if search_times > extracted_num: search_times = extracted_num
-
         sparql = SPARQLWrapper(sparql_database)
         sparql.setTimeout(10)
 
         self.logger.info("Search Times:{}\tExtracted num per time:{}".format(search_times, extracted_num_per_time))
 
         for idx in range(search_times):
+            if len(s_e_list) > extracted_num: break
             self.logger.info("No.{}".format(idx))
             try:
                 sparql.setQuery(entity_query + "LIMIT 10000 OFFSET " + str(idx * 10000))
@@ -78,7 +95,7 @@ class Util:
             self.logger.info("Can't get num {}.".format(my_exception))
             return 0
 
-    def generate_name(self, one_uri):
+    def gen_prefix(self, one_uri):
         if '/' not in one_uri:
             return one_uri
 
@@ -121,7 +138,8 @@ class Util:
             prev = next_singal
         return triple_pattern
 
-    def get_entity_set_by_sparql(self, var_list, rewritted_body_triple_list, entity_set):
+    def get_entity_set_by_sparql(self, var_list, rewritted_body_triple_list):
+        cand_list=[]
         sparql_endpoint = SPARQLWrapper(sparql_database)
         sparql_endpoint.setTimeout(5)
 
@@ -140,12 +158,10 @@ class Util:
                 results = sparql_endpoint.query().convert()
                 binding_list = results['results']['bindings']
                 for binding in binding_list:
-                    one_result = []
-                    for variable in var_list:
-                        one_result.append(binding[variable.strip("?")]['value'])
-                    entity_set.add(";".join(one_result))
+                    cand_list.append([[var_value,binding[var_value.strip("?")]['value']] for var_value in var_list])
             except Exception as my_exception:
                 self.logger.info("Can't get results: {}".format(my_exception))
+        return cand_list
 
 
 if __name__ == "__main__":

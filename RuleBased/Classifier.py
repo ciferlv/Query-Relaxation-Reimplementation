@@ -52,6 +52,11 @@ class LogisticRegression(nn.Module):
         precision = np.sum((output_label == np.array(y)) * 1) / len(x)
         self.logger.info("Precision: {}".format(precision))
 
+    def get_output_prob(self,x):
+        output = self.forward(torch.Tensor(x))
+        prob = output.squeeze(-1).detach().numpy()[0]
+        return prob
+
     def saveModel(self, savePath):
         torch.save(self.state_dict(), savePath)
 

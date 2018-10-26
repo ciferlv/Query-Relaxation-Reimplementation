@@ -23,19 +23,24 @@ class RuleLearner:
         self.sparql = SPARQLWrapper(sparql_database)
         self.positive_instance_list = []
         self.negetive_instance_list = []
-        self.rule_list = []
-        self.rule_list_sortedby_recall = []
+        self.raw_rule_list = []
+        self.checked_rule_list = []
+        self.filtered_rule_sorted_by_accuracy_list = []
+        self.filtered_rule_sorted_by_recall_list = []
         self.rules_top_k = rules_top_k
         self.positive_num = positive_num
+        self.parsed_rule_sorted_by_accuracy_list = {}
 
-        self.folder = "./data/" + self.utils.generate_name(self.predicate) + "/"
+        self.folder = "./data/" + self.utils.gen_prefix(self.predicate) + "/"
         if not os.path.exists(self.folder):
             os.makedirs(self.folder)
 
         self.positive_file_path = self.folder + "positive_instances.txt"
         self.negetive_file_path = self.folder + "negetive_instances.txt"
+        self.raw_rule_file = self.folder + "raw_rule.txt"
         self.checked_rule_file = self.folder + "checked_rule.txt"
-        self.filtered_sorted_rule_file = self.folder + "filtered_sorted_rule.txt"
+        self.filtered_rule_sorted_by_accuracy_file = self.folder + "filtered_rule_sorted_by_accuracy.txt"
+        self.filtered_rule_sorted_by_recall_file = self.folder + "filterd_rule_sorted_by_recall.txt"
         self.positive_features_path = self.folder + "positive_features.npy"
         self.negetive_features_path = self.folder + "negetive_features.npy"
         self.model_path = self.folder + "model.tar"
@@ -52,6 +57,7 @@ class RuleLearner:
             return search_times, num_per_time
 
     def load_positive_instances(self):
+        if len(self.positive_instance_list) != 0: return
         with open(self.positive_file_path, "r", encoding="UTF-8") as f:
             for idx, line in enumerate(f.readlines()):
                 if idx == 0:
@@ -85,33 +91,43 @@ class RuleLearner:
                 f.write("{}\n".format(instance))
 
     def get_posi_instances(self):
+        if len(self.positive_instance_list) != 0: return
         if os.path.exists(self.positive_file_path):
             self.load_positive_instances()
         else:
             self.crawl_positive_instances()
 
-    def get_rule(self):
-        self.raw_rule_file = self.folder + "raw_rule.txt"
-        if os.path.exists(self.raw_rule_file):
+    def load_raw_rule(self):
+        if len(self.raw_rule_list) == 0:
             with open(self.raw_rule_file, "r", encoding="UTF-8") as f:
                 for line in f.readlines():
-                    self.rule_list.append(line)
+                    self.raw_rule_list.append(line)
+
+    def get_raw_rule(self):
+        if os.path.exists(self.raw_rule_file):
+            self.load_raw_rule()
         else:
             for i, instance in enumerate(self.positive_instance_list):
                 self.logger.info("No.{}".format(i))
                 instance.search_rule()
-                self.rule_list.extend(list(instance.rule_set))
-            self.rule_list = list(set(self.rule_list))
+                self.raw_rule_list.extend(list(instance.rule_set))
+            self.raw_rule_list = list(set(self.raw_rule_list))
             with open(self.raw_rule_file, "w") as f:
-                for rule in self.rule_list:
+                for rule in self.raw_rule_list:
                     f.write(rule + "\n")
 
-    def rule_checker(self):
-        self.checked_rule_dict = {}
+    def load_checked_rule(self):
+        if len(self.checked_rule_list) != 0: return
+        with open(self.checked_rule_file, "r") as f:
+            for line in f.readlines():
+                rule_chain, accuracy, recall, f1 = line.strip().split("\t")
+                self.checked_rule_list.append(Rule(rule_chain, float(accuracy), float(recall), float(f1)))
+
+    def check_raw_rule(self):
         if not os.path.exists(self.checked_rule_file):
             total_num_query = "select count(?s) where {?s " + self.predicate + " ?e.}"
             total_num = self.utils.get_num_by_sparql(total_num_query)
-            for idx, raw_rule in enumerate(self.rule_list):
+            for idx, raw_rule in enumerate(self.raw_rule_list):
                 self.logger.info("No.{} {}".format(idx, raw_rule.strip()))
                 if raw_rule.strip().split(";")[0][1:] == self.predicate[1:-1]:
                     continue
@@ -127,33 +143,37 @@ class RuleLearner:
                 recall = correct_num / total_num
                 f1 = 2 * accuracy * recall / (accuracy + recall)
 
-                self.checked_rule_dict[raw_rule] = [accuracy, recall, f1]
-
-                print("Accuracy: {}\tRecall: {}\tF1: {}".format(accuracy, recall, f1))
+                self.checked_rule_list.append(Rule(raw_rule, accuracy, recall, f1))
 
             with open(self.checked_rule_file, "w") as f:
-                for key in self.checked_rule_dict:
-                    rule_metric_list = self.checked_rule_dict[key]
-                    f.write("{}\t{}\t{}\t{}\n".format(key.strip(), rule_metric_list[0],
-                                                      rule_metric_list[1], rule_metric_list[2]))
+                for one_checked_rule in self.checked_rule_list:
+                    f.write("{}\n".format(one_checked_rule))
 
-    def rule_filter_and_sorter(self):
-        self.filtered_rule_heap = queue.PriorityQueue()
-        if not os.path.exists(self.filtered_sorted_rule_file):
+    def load_filtered_rule_sorted_accuracy(self):
+        if len(self.filtered_rule_sorted_by_accuracy_list) != 0: return
+        with open(self.filtered_rule_sorted_by_accuracy_file, "r", encoding="UTF-8") as f:
+            for line in f.readlines():
+                rule_chain, accuracy, recall, f1 = line.strip().split("\t")
+                self.filtered_rule_sorted_by_accuracy_list.append(
+                    Rule(rule_chain, float(accuracy), float(recall), float(f1)))
+
+    # filter rule by accuracy and recall, sorte rule by accuracy
+    def filtered_sort_checked_rule(self):
+        if not os.path.exists(self.filtered_rule_sorted_by_accuracy_file):
+            filtered_rule_heap = queue.PriorityQueue()
             with open(self.checked_rule_file, "r") as f:
                 for line in f.readlines():
-                    accuracy = float(line.split("\t")[1])
-                    recall = float(line.split("\t")[2])
-                    f1 = float(line.split("\t")[3])
-                    if accuracy < 0.001 or recall < 0.001:
+                    rule_chain, accuracy, recall, f1 = line.strip().split("\t")
+                    if float(accuracy) < 0.001 or float(recall) < 0.001:
                         continue
-                    self.filtered_rule_heap.put(
-                        Rule(line.split("\t")[0], accuracy, recall, f1))
-            with open(self.filtered_sorted_rule_file, "w") as f:
-                while not self.filtered_rule_heap.empty():
-                    f.write("{}\n".format(self.filtered_rule_heap.get()))
+                    filtered_rule_heap.put(
+                        Rule(rule_chain, float(accuracy), float(recall), float(f1)))
+            with open(self.filtered_rule_sorted_by_accuracy_file, "w") as f:
+                while not filtered_rule_heap.empty():
+                    f.write("{}\n".format(filtered_rule_heap.get()))
 
     def load_negetive_instances(self):
+        if len(self.negetive_instance_list) != 0: return
         with open(self.negetive_file_path, "r", encoding="UTF-8") as f:
             for idx, line in enumerate(f.readlines()):
                 if idx == 0:
@@ -164,21 +184,17 @@ class RuleLearner:
                     self.negetive_instance_list.append(Triple(None, subj, obj))
 
     def crawl_nege_instances(self):
-        if os.path.exists(self.negetive_file_path):
-            return
+        if os.path.exists(self.negetive_file_path): return
         self.logger.info("Start collect negetive instances.")
         nege_instance_per_rule = math.ceil(self.positive_num / self.rules_top_k)
         self.rule_list_for_nege = []
 
-        with open(self.filtered_sorted_rule_file, "r", encoding="UTF-8") as f:
+        with open(self.filtered_rule_sorted_by_accuracy_file, "r", encoding="UTF-8") as f:
             for idx, line in enumerate(f.readlines()):
-                if idx > self.rules_top_k:
+                if idx >= self.rules_top_k:
                     break
-                rule_chain = line.split("\t")[0]
-                accuracy = float(line.split("\t")[1])
-                recall = float(line.split("\t")[2])
-                f1 = float(line.split("\t")[3])
-                self.rule_list_for_nege.append(Rule(rule_chain, accuracy, recall, f1))
+                rule_chain, accuracy, recall, f1 = line.strip().split("\t")
+                self.rule_list_for_nege.append(Rule(rule_chain, float(accuracy), float(recall), float(f1)))
 
         s_e_list = []
         for idx, one_rule in enumerate(self.rule_list_for_nege):
@@ -215,20 +231,14 @@ class RuleLearner:
             return features
 
     def generate_posi_feature(self):
-        if os.path.exists(self.positive_features_path):
-            return
-
+        if os.path.exists(self.positive_features_path): return
         filtered_rule_list = []
         positive_features = []
-        with open(self.filtered_sorted_rule_file, "r", encoding="UTF-8") as f:
+        with open(self.filtered_rule_sorted_by_accuracy_file, "r", encoding="UTF-8") as f:
             for idx, line in enumerate(f.readlines()):
-                if idx > self.rules_top_k:
-                    break
-                rule_chain = line.split("\t")[0]
-                accuracy = float(line.split("\t")[1])
-                recall = float(line.split("\t")[2])
-                f1 = float(line.split("\t")[3])
-                filtered_rule_list.append(Rule(rule_chain, accuracy, recall, f1))
+                if idx >= self.rules_top_k: break
+                rule_chain, precision, recall, f1 = line.strip().split("\t")
+                filtered_rule_list.append(Rule(rule_chain, float(precision), float(recall), float(f1)))
 
         if len(self.positive_instance_list) == 0: self.load_positive_instances()
         for idx, posi_instance in enumerate(self.positive_instance_list):
@@ -242,20 +252,14 @@ class RuleLearner:
         self.logger.info(positive_features)
 
     def generate_nege_feature(self):
-        if os.path.exists(self.negetive_features_path):
-            return
-
+        if os.path.exists(self.negetive_features_path): return
         filtered_rule_list = []
         negetive_features = []
-        with open(self.filtered_sorted_rule_file, "r", encoding="UTF-8") as f:
+        with open(self.filtered_rule_sorted_by_accuracy_file, "r", encoding="UTF-8") as f:
             for idx, line in enumerate(f.readlines()):
-                if idx > self.rules_top_k:
-                    break
-                rule_chain = line.split("\t")[0]
-                accuracy = float(line.split("\t")[1])
-                recall = float(line.split("\t")[2])
-                f1 = float(line.split("\t")[3])
-                filtered_rule_list.append(Rule(rule_chain, accuracy, recall, f1))
+                if idx >= self.rules_top_k: break
+                rule_chain, precision, recall, f1 = line.strip().split("\t")
+                filtered_rule_list.append(Rule(rule_chain, float(precision), float(recall), float(f1)))
 
         if len(self.negetive_instance_list) == 0: self.load_negetive_instances()
         for idx, nege_instance in enumerate(self.negetive_instance_list):
@@ -268,8 +272,10 @@ class RuleLearner:
 
     def generate_model(self):
         if os.path.exists(self.model_path):
+            self.reload_model()
             return
-
+        epoch = 1000
+        mini_batch = 50
         x_posi = np.load(self.positive_features_path)
         y_posi = np.ones(len(x_posi))
 
@@ -281,8 +287,17 @@ class RuleLearner:
         train_x = np.append(x_posi, x_nege, axis=0)
         train_y = np.append(y_posi, y_nege)
 
-        lg.train(train_x, train_y, 1000, 50)
+        lg.train(train_x, train_y, epoch, mini_batch)
         lg.saveModel(self.model_path)
+
+    def reload_model(self):
+        self.reloaded_model = LogisticRegression(len(self.filtered_rule_sorted_by_accuracy_list))
+        self.reloaded_model.loadModel(self.model_path)
+
+    def get_prob(self, one_triple_features):
+        train_x = np.array([one_triple_features])
+        prob = self.reloaded_model.get_output_prob(train_x)
+        return prob
 
     def test_model(self):
         x_posi = np.load(self.positive_features_path)
@@ -305,31 +320,44 @@ class RuleLearner:
         lg.test(train_x, train_y)
         lg.test(test_x, test_y)
 
+    def load_rule_sorted_by_recall(self):
+        if len(self.filtered_rule_sorted_by_recall_list) != 0: return
+        with open(self.filtered_rule_sorted_by_recall_file, "r", encoding="UTF-8") as f:
+            for line in f.readlines():
+                rule_chain, precision, recall, f1 = line.strip().split("\t")
+                self.filtered_rule_sorted_by_recall_list.append(
+                    Rule(rule_chain, float(precision), float(recall), float(f1)))
+
     def get_rule_sorted_by_recall(self):
-        if len(self.rule_list_sortedby_recall) != 0:
-            return
-        with open(self.filtered_sorted_rule_file, "r", encoding="UTF-8") as f:
+        if os.path.exists(self.filtered_rule_sorted_by_recall_file): return
+        with open(self.filtered_rule_sorted_by_accuracy_file, "r", encoding="UTF-8") as f:
             for idx, line in enumerate(f.readlines()):
-                if idx > self.rules_top_k: break
-                rule_chain, precision, recall, f1 = line.strip().split()
-                self.rule_list_sortedby_recall.append(Rule(rule_chain, float(precision), float(recall), float(f1)))
-        self.rule_list_sortedby_recall = sorted(self.rule_list_sortedby_recall, key=lambda k: k.recall, reverse=True)
+                if idx >= self.rules_top_k: break
+                rule_chain, precision, recall, f1 = line.strip().split("\t")
+                self.filtered_rule_sorted_by_recall_list.append(
+                    Rule(rule_chain, float(precision), float(recall), float(f1)))
+        self.filtered_rule_sorted_by_recall_list = sorted(self.filtered_rule_sorted_by_recall_list,
+                                                          key=lambda k: k.recall, reverse=True)
+        with open(self.filtered_rule_sorted_by_recall_file, "w", encoding="UTF-8") as f:
+            for one_rule in self.filtered_rule_sorted_by_recall_list:
+                f.write("{}\n".format(one_rule))
 
     def learnRule(self):
-        self.logger.info("Start learning rule for {}.".format(self.utils.generate_name(self.predicate)))
+        self.logger.info("Start learning rule for {}.".format(self.utils.gen_prefix(self.predicate)))
         self.get_posi_instances()
-        self.get_rule()
-        self.rule_checker()
-        self.rule_filter_and_sorter()
+        self.get_raw_rule()
+        self.check_raw_rule()
+        self.filtered_sort_checked_rule()
         self.crawl_nege_instances()
         self.generate_posi_feature()
         self.generate_nege_feature()
         self.generate_model()
         self.get_rule_sorted_by_recall()
-        self.logger.info("Finish learning rules for {}.".format(self.utils.generate_name(self.predicate)))
+        self.logger.info("Finish learning rules for {}.".format(self.utils.gen_prefix(self.predicate)))
 
-    def get_rule_by_id(self, idx):
-        return self.rule_list_sortedby_recall[idx]
+    def get_rule_sorted_by_recall_by_id(self, idx):
+        self.load_rule_sorted_by_recall()
+        return self.filtered_rule_sorted_by_recall_list[idx]
 
 
 if __name__ == "__main__":
