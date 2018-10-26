@@ -1,4 +1,5 @@
 import threading
+import json
 
 from RuleBased.Util import Util
 
@@ -26,6 +27,14 @@ class Candidate:
         if tail.startswith("?"):
             tail = self.var_entity_dict[tail.strip(".")]
 
+        ask_query = "ASK {" + head + " " + pred + " " + tail + "}"
+        is_passed = self.util.ask_sparql(ask_query)
+
+        if is_passed == 1:
+            self.correct_prob_per_triple[triple] = 1.0
+            self.established_path_per_triple[triple] = [[head + " " + pred + " " + tail]]
+            return
+
         pred_rule = pred_rule_dict[pred]
         pred_rule.load_filtered_rule_sorted_accuracy()
         self.established_path_per_triple[triple] = []
@@ -50,7 +59,6 @@ class Candidate:
     def calculate_rate(self):
         for key in self.correct_prob_per_triple.keys():
             self.success_rate *= self.correct_prob_per_triple[key]
-
 
     def var_entity2str(self):
         res = ""

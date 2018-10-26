@@ -4,6 +4,7 @@ import threading
 import numpy as np
 from itertools import product
 import os
+import json
 
 from RuleBased.Util import Util
 from RuleBased.unit.Candidate import Candidate
@@ -25,6 +26,7 @@ class AnswerGenerator:
             os.makedirs(self.folder)
 
         self.cand_entities_file = self.folder + "candidate_entities.txt"
+        self.display_cand_file = self.folder + "cands_display.json"
 
     def load_cands(self):
         if len(self.cand_list) == 0:
@@ -97,8 +99,13 @@ class AnswerGenerator:
                 for cand in self.cand_list:
                     f.write(cand.var_entity2str() + "\n")
 
-    def generate_candidate_probability(self):
+    def display_cands(self):
         self.load_cands()
+        for cand in self.cand_list:
+            cand.get_triples_info()
+        with open(self.display_cand_file,"w",encoding="UTF-8") as f:
+            f.write(json.dump(self.cand_list))
+
 
 
 
