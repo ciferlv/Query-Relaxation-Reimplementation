@@ -1,3 +1,4 @@
+from RuleBased.ALogger import ALogger
 from RuleBased.RuleLearner import RuleLearner
 from RuleBased.SparqlSeg import SparqlSeg
 import threading
@@ -12,11 +13,12 @@ from RuleBased.unit.Candidate import Candidate
 
 class AnswerGenerator:
     def __init__(self, sparql_query, question_name):
+        self.logger = ALogger("AnswerGen.py", True).getLogger()
         self.sparqlSeg = SparqlSeg(sparql_query)
         self.sparqlSeg.analyze_sparql()
         self.pred_rule_dict = {}
         self.positive_num = 2000
-        self.rules_top_k = 200
+        self.rules_top_k = 201
         self.relax_to_top_k = 10
         self.utils = Util()
         self.cand_list = []
@@ -30,15 +32,22 @@ class AnswerGenerator:
 
     def load_cands(self):
         if len(self.cand_list) == 0:
-            with open(self.cand_entities_file,"r",encoding="UTF-8") as f:
+            with open(self.cand_entities_file, "r", encoding="UTF-8") as f:
                 for line in f.readlines():
                     temp_cand = Candidate()
                     for var_entity in line.strip().split("\t"):
-                        var,entity = var_entity.strip().split(":")
-                        temp_cand.add_var_entity(var=var,entity=entity)
+                        var, entity = var_entity.strip().split(";")
+                        temp_cand.add_var_entity(var=var, entity=entity)
                     self.cand_list.append(temp_cand)
         for cand in self.cand_list:
             cand.set_body_triple_list(self.sparqlSeg.body_triple_list)
+
+    def load_pred_rule(self):
+        if len(self.pred_rule_dict.keys()) != 0: return
+        for triple_pattern in self.sparqlSeg.body_triple_list:
+            predicate = triple_pattern.strip().split()[1]
+            self.pred_rule_dict[predicate] = RuleLearner(predicate, self.positive_num, self.rules_top_k)
+            self.pred_rule_dict[predicate].reload_model()
 
     def get_rule(self):
         thread_list = []
@@ -56,7 +65,8 @@ class AnswerGenerator:
             if choosed_predicate_idx == 0:
                 choosed_predicate = predicate
             else:
-                choosed_predicate = self.pred_rule_dict[predicate].get_rule_sorted_by_recall_by_id(choosed_predicate_idx - 1).rule_chain
+                choosed_predicate = self.pred_rule_dict[predicate].get_rule_by_id(
+                    choosed_predicate_idx - 1).rule_chain
             replacement[predicate] = choosed_predicate
 
         rewritted_body_triple_list = []
@@ -71,11 +81,12 @@ class AnswerGenerator:
                 rewritted_body_triple_list.append(parsed_rule)
 
         temp_cand_list = self.utils.get_entity_set_by_sparql(list(self.sparqlSeg.body_vars),
-                                            rewritted_body_triple_list)
+                                                             rewritted_body_triple_list)
         for one_cand in temp_cand_list:
             cand = Candidate()
             for var_entity in one_cand:
-                cand.add_var_entity(var_entity[0],var_entity[1])
+                cand.add_var_entity(var_entity[0], var_entity[1])
+            print(cand.var_entity2str())
             self.cand_list.append(cand)
 
     def search_candidates(self):
@@ -100,13 +111,13 @@ class AnswerGenerator:
                     f.write(cand.var_entity2str() + "\n")
 
     def display_cands(self):
+        self.load_pred_rule()
         self.load_cands()
         for cand in self.cand_list:
-            cand.get_triples_info()
-        with open(self.display_cand_file,"w",encoding="UTF-8") as f:
+            self.logger.info("Get info of: {}".format(cand.var_entity2str()))
+            cand.get_triples_info(self.pred_rule_dict)
+        with open(self.display_cand_file, "w", encoding="UTF-8") as f:
             f.write(json.dump(self.cand_list))
-
-
 
 
 if __name__ == "__main__":
@@ -115,7 +126,8 @@ if __name__ == "__main__":
         WHERE{
             ?film <http://dbpedia.org/ontology/director> ?p.
             ?film <http://dbpedia.org/ontology/starring> ?p.
-            ?p <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/North_America>.
+            ?p <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Europe>.
         }"""
     ag = AnswerGenerator(sparql_query, "test")
     ag.search_candidates()
+    ag.display_cands()

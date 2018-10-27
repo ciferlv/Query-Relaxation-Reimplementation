@@ -12,6 +12,14 @@ class Util:
     def __init__(self):
         self.logger = ALogger("UTIL.py", True).getLogger()
 
+    def format_uri(self, uri):
+        uri = uri.strip().strip(".")
+        if not uri.startswith("<"):
+            uri = "<" + uri
+        if not uri.endswith(">"):
+            uri = uri + ">"
+        return uri
+
     def get_num_by_sparql(self, query):
         sparql = SPARQLWrapper(sparql_database)
         sparql.setTimeout(3)
@@ -139,7 +147,7 @@ class Util:
         return triple_pattern
 
     def get_entity_set_by_sparql(self, var_list, rewritted_body_triple_list):
-        cand_list=[]
+        cand_list = []
         sparql_endpoint = SPARQLWrapper(sparql_database)
         sparql_endpoint.setTimeout(5)
 
@@ -158,7 +166,7 @@ class Util:
                 results = sparql_endpoint.query().convert()
                 binding_list = results['results']['bindings']
                 for binding in binding_list:
-                    cand_list.append([[var_value,binding[var_value.strip("?")]['value']] for var_value in var_list])
+                    cand_list.append([[var_value, binding[var_value.strip("?")]['value']] for var_value in var_list])
             except Exception as my_exception:
                 self.logger.info("Can't get results: {}".format(my_exception))
         return cand_list

@@ -45,6 +45,8 @@ class RuleLearner:
         self.negetive_features_path = self.folder + "negetive_features.npy"
         self.model_path = self.folder + "model.tar"
 
+        (name, self.get_rule_by_id) = ("Get Rule by id", lambda idx: self.get_rule_sorted_by_accuracy_by_id(idx))
+
     def calculate_search_num_per_time(self, total_num, positive_num):
         max_num_per_time = 10000
         if total_num < positive_num:
@@ -271,9 +273,7 @@ class RuleLearner:
         np.save(self.negetive_features_path, negetive_features)
 
     def generate_model(self):
-        if os.path.exists(self.model_path):
-            self.reload_model()
-            return
+        if os.path.exists(self.model_path): return
         epoch = 1000
         mini_batch = 50
         x_posi = np.load(self.positive_features_path)
@@ -291,7 +291,11 @@ class RuleLearner:
         lg.saveModel(self.model_path)
 
     def reload_model(self):
-        self.reloaded_model = LogisticRegression(len(self.filtered_rule_sorted_by_accuracy_list))
+        self.load_filtered_rule_sorted_accuracy()
+        size = 201
+        if len(self.filtered_rule_sorted_by_accuracy_list) < 201:
+            size = len(self.filtered_rule_sorted_by_accuracy_list)
+        self.reloaded_model = LogisticRegression(size)
         self.reloaded_model.loadModel(self.model_path)
 
     def get_prob(self, one_triple_features):
@@ -358,6 +362,10 @@ class RuleLearner:
     def get_rule_sorted_by_recall_by_id(self, idx):
         self.load_rule_sorted_by_recall()
         return self.filtered_rule_sorted_by_recall_list[idx]
+
+    def get_rule_sorted_by_accuracy_by_id(self,idx):
+        self.load_filtered_rule_sorted_accuracy()
+        return self.filtered_rule_sorted_by_accuracy_list[idx]
 
 
 if __name__ == "__main__":

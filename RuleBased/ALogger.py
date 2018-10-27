@@ -9,10 +9,11 @@ class ALogger:
         self.fmt = logging.Formatter("%(filename)s %(funcName)s %(lineno)s - %(message)s", "%Y-%m-%d %H:%M:%S")
         self.logger.setLevel(logging.INFO)
         # logger.removeHandler(file_handler)
-        if is_console_handler:
-            self.setConsoleHandler()
-        else:
-            self.setFileHandler()
+        if not self.logger.hasHandlers():
+            if is_console_handler:
+                self.setConsoleHandler()
+            else:
+                self.setFileHandler()
 
     def getLogger(self):
         return self.logger

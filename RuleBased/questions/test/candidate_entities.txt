@@ -1,41 +1,23 @@
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Micki_&_Maude
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/S.O.B._(film)
-http://dbpedia.org/resource/Jenny_Wright;http://dbpedia.org/resource/Near_Dark
-http://dbpedia.org/resource/David_Leisure;http://dbpedia.org/resource/Hurricane_Saturday
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Full_Moon_Over_Miami
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Dog's_Best_Friend
-http://dbpedia.org/resource/Jenny_Wright;http://dbpedia.org/resource/Out_of_Bounds_(1986_film)
-http://dbpedia.org/resource/David_Leisure;http://dbpedia.org/resource/Empty_Nest
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Malibu_(film)
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Trail_of_the_Pink_Panther
-http://dbpedia.org/resource/Jenny_Wright;http://dbpedia.org/resource/Twister_(1989_film)
-http://dbpedia.org/resource/David_Leisure;http://dbpedia.org/resource/Baby_Huey's_Great_Easter_Adventure
-http://dbpedia.org/resource/David_Leisure;http://dbpedia.org/resource/List_of_Bionicle_media
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Diana_(U.S._TV_series)
-http://dbpedia.org/resource/David_Leisure;http://dbpedia.org/resource/Full_Moon_Over_Miami
-http://dbpedia.org/resource/David_Leisure;http://dbpedia.org/resource/You_Can't_Hurry_Love_(film)
-http://dbpedia.org/resource/Victoria_Vetri;http://dbpedia.org/resource/Group_Marriage
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Meatballs_Part_II
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Hurricane_Saturday
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/The_Hero_(1966_TV_series)
-http://dbpedia.org/resource/Jenny_Wright;http://dbpedia.org/resource/The_Lawnmower_Man_(film)
-http://dbpedia.org/resource/Jenny_Wright;http://dbpedia.org/resource/The_Wild_Life_(1984_film)
-http://dbpedia.org/resource/Jenny_Wright;http://dbpedia.org/resource/A_Shock_to_the_System
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Oliver_&_Company
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Empty_Nest
-http://dbpedia.org/resource/Victoria_Vetri;http://dbpedia.org/resource/Rosemary's_Baby_(film)
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Visit_to_a_Chief's_Son
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Babes_in_Toyland_(1986_film)
-http://dbpedia.org/resource/Jenny_Wright;http://dbpedia.org/resource/The_Chocolate_War_(film)
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Soap_(TV_series)
-http://dbpedia.org/resource/Victoria_Vetri;http://dbpedia.org/resource/Chuka_(film)
-http://dbpedia.org/resource/David_Leisure;http://dbpedia.org/resource/Goddess_of_Love_(film)
-http://dbpedia.org/resource/Jenny_Wright;http://dbpedia.org/resource/I,_Madman
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Scavenger_Hunt
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Lincoln_(miniseries)
-http://dbpedia.org/resource/David_Leisure;http://dbpedia.org/resource/Bionicle:_The_Legend_Reborn
-http://dbpedia.org/resource/Victoria_Vetri;http://dbpedia.org/resource/Invasion_of_the_Bee_Girls
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/The_Heavenly_Kid
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Teachers_(film)
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/A_Fine_Mess_(film)
-http://dbpedia.org/resource/Richard_Mulligan;http://dbpedia.org/resource/Little_Big_Man_(film)
+?film;http://dbpedia.org/resource/The_Arab_(1924_film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Garden_of_Allah_(1927_film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Three_Passions	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Conquering_Power	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/Scaramouche_(1923_film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/Trifling_Women	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Magician_(1926_film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/Mare_Nostrum_(film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Four_Horsemen_of_the_Apocalypse_(film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/Broken_Fetters	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Prisoner_of_Zenda_(1922_film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Arab_(1924_film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Garden_of_Allah_(1927_film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Three_Passions	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Conquering_Power	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/Scaramouche_(1923_film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/Trifling_Women	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Magician_(1926_film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/Mare_Nostrum_(film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Four_Horsemen_of_the_Apocalypse_(film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/Broken_Fetters	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/The_Prisoner_of_Zenda_(1922_film)	?p;http://dbpedia.org/resource/Rex_Ingram_(director)
+?film;http://dbpedia.org/resource/Abraham_Lincoln_(Flannery)	?p;http://dbpedia.org/resource/Lot_Flannery
