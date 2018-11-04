@@ -34,7 +34,7 @@ class Node:
     def gen_train_data(self):
         r_list = []
         e_list = []
-        for one_p in self.path_list:
+        for one_p in self.sampled_path_list:
             r_list.append([int(one_p.r)])
             e_list.append([int(one_p.e)])
         return r_list, e_list

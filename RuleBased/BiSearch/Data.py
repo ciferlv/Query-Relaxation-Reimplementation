@@ -1,10 +1,9 @@
+rdf_file = "./data/FB15K-237/train.txt"
+e2idx_file = "./data/FB15K-237/e2idx.txt"
+r2idx_file = "./data/FB15K-237/r2idx.txt"
+triple2idx_file = "./data/FB15K-237/triple2idx.txt"
+statistics_file = "./data/FB15K-237/statistics.txt"
 
-# rdf_file = "F:\Data\dbpedia\mappingbased_objects_en.ttl"
-rdf_file = "./data/test"
-e2idx_file = "./data/e2idx.txt"
-r2idx_file = "./data/r2idx.txt"
-triple2idx_file = "./data/triple2idx.txt"
-statistics_file = "./data/statistics.txt"
 
 def data2idx():
     e2idx = {}
@@ -14,7 +13,7 @@ def data2idx():
     r_cnt = 0
     triple_cnt = 0
     with open(rdf_file, "r", encoding="UTF-8") as f:
-        for idx,line in enumerate(f.readlines()):
+        for idx, line in enumerate(f.readlines()):
             if line.strip().startswith("#"):
                 print(line.strip())
                 continue
@@ -24,6 +23,9 @@ def data2idx():
                 e_cnt += 1
             if r not in r2idx:
                 r2idx[r] = r_cnt
+                r_cnt += 1
+            if "inv_{}".format(r) not in r2idx:
+                r2idx["inv_{}".format(r)] = r_cnt
                 r_cnt += 1
             if t not in e2idx:
                 e2idx[t] = e_cnt

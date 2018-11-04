@@ -68,7 +68,7 @@ def train():
             batch_idx_list = e_idx_list[start:end]
             running_loss = 0
             for current_idx in batch_idx_list:
-                print("{}\n".format(current_idx))
+                print("{}".format(current_idx))
                 head_context = None
                 tail_context = None
                 if current_idx in head_context_dict:
@@ -96,8 +96,10 @@ def train():
                                                                                      current_idx,
                                                                                      nege_node_idx)
                 loss = ce.train(train_r, train_p_h, train_p_t, train_n_h, train_n_t)
+                if loss.item() > 0:
+                    loss.backward()
                 running_loss += loss.item()
-                loss.backward()
+
             print("Epoch: {} MiniBatch: {} Loss: {}\n".format(epoch_i, minibatch_i, running_loss))
             optimizer.step()
 
