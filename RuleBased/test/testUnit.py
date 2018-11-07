@@ -2,6 +2,7 @@ import numpy as np
 from SPARQLWrapper import SPARQLWrapper, JSON
 from sklearn.model_selection import train_test_split
 
+from RuleBased.Params import ht_conn, ht_seg, mydb
 from RuleBased.unit.Rule import Rule
 import threading
 
@@ -44,22 +45,44 @@ import threading
 #     for var in vars_list:
 #         print("{} {}".format(var, binding[var]['value']))
 
-import json
-
-
-class TTTT:
-    def __init__(self):
-        self.dict1 = {}
-        self.dict2 = []
-        self.generate()
-
-    def generate(self):
-        self.dict1['t'] = [1, 2, 3, 6]
-        self.dict1['y'] = [5, 9, 78, 9]
-        self.dict2 = [[1, 5, 9, 7], [7, 8, 9, 6], [4, 5, 6, 3]]
+# import json
+#
+#
+# class TTTT:
+#     def __init__(self):
+#         self.dict1 = {}
+#         self.dict2 = []
+#         self.generate()
+#
+#     def generate(self):
+#         self.dict1['t'] = [1, 2, 3, 6]
+#         self.dict1['y'] = [5, 9, 78, 9]
+#         self.dict2 = [[1, 5, 9, 7], [7, 8, 9, 6], [4, 5, 6, 3]]
 
 
 if __name__ == "__main__":
-    t = TTTT()
-    s = json.dumps(t.__dict__)
-    print(s)
+    # query = "INSERT INTO dbpediarule ( relation_idx,rule_key,correct_ht,wrong_ht,no_idea_ht,P,R,F1 ) " \
+    #         "VALUES ({},'{}','{}','{}','{}',{},{},{})".format(1, "2:6", "6,4;8,9", "8,9;7,6",
+    #                                                   "98,56;15,89", 0.1, 0.2, 0.3)
+    # print(query)
+    # mycursor = mydb.cursor()
+    # mycursor.execute(query)
+    # mydb.commit()
+
+    query = "select * from dbpediarule where relation_idx = {} and rule_key = '{}'".format(1, "2:6")
+    print(query)
+    mycursor = mydb.cursor()
+    mycursor.execute(query)
+
+    fetched = mycursor.fetchall()
+    assert len(fetched) <= 2, "Duplicate relation:rulepath in MYSQL."
+    for row in fetched:
+        correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[3].split(ht_seg)]]
+        wrong_ht = [ht.split(ht_conn) for ht in row[4].split(ht_seg)]
+        no_idea_ht = [ht.split(ht_conn) for ht in row[5].split(ht_seg)]
+        P = row[6]
+        R = row[7]
+        F1 = row[8]
+        print("dfsd")
+    # for x in mycursor:
+    #     print(x)

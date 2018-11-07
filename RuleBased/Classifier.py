@@ -35,7 +35,7 @@ class LogisticRegression(nn.Module):
         for epoch_i in range(epoch):
             for idx, seg_point in enumerate(seg_point_list):
                 if idx == len(seg_point_list) - 1: break
-                optimizer.zero_grad()
+                self.zero_grad()
                 start_point = seg_point_list[idx]
                 end_point = seg_point_list[idx + 1]
                 train_x = x[start_point:end_point]

@@ -1,5 +1,10 @@
-from RuleBased.BiSearch.Triple import Node
+from RuleBased.BiSearch.Triple import Node, Rule
 import random
+import numpy as np
+import os
+
+from RuleBased.Classifier import LogisticRegression
+from RuleBased.Params import rule_seg, mydb
 
 
 class Graph:
@@ -136,10 +141,142 @@ class Graph:
             searched_e_r_path.extend(path_found)
             for p in path_found:
                 r_path = self.extract_r_path(p)
-                r_path_key = ":".join(map(str, r_path))
+                r_path_key = rule_seg.join(map(str, r_path))
                 if r_path_key not in searched_r_path:
                     searched_r_path[r_path_key] = r_path
         return list(searched_r_path.values()), searched_e_r_path
+
+    def get_passed_ht(self, r_path):
+        ht_list = self.r2ht[r_path[0]]
+        for idx in range(1, len(r_path)):
+            temp_path = []
+            r_idx = r_path[idx]
+            for ht in ht_list:
+                t = ht[-1]
+                c_node = self.node_dict[t]
+                tail_list = c_node.get_tails(r_idx)
+                if tail_list is None:
+                    continue
+                else:
+                    for tail in tail_list:
+                        c_path = ht.copy()
+                        c_path.append(tail)
+                        temp_path.append(c_path)
+            ht_list = temp_path
+        return [[ht[0], ht[-1]] for ht in ht_list]
+
+    def enhance_rule(self, r_idx, r_path_list):
+        rule_list = []
+        for r_path in r_path_list:
+            rule = Rule(r_idx, r_path)
+            succ = rule.restoreFromMysql()
+            if not succ:
+                rule.passHT = self.get_passed_ht(r_path)
+                rule.get_P_R_F1(self.node_dict, self.r2ht)
+                rule_list.append(rule)
+                rule.persist2mysql()
+        return rule_list
+
+    """
+    Train or load a model for relation: r_idx
+    Parameters
+    ----------
+    r_idx: the index of a relation
+    max_step: max steps for the rules
+    top_rules_num: the rule num used to train model
+    folder: the folder under which thd output model is saved
+    
+    Returns:
+    ----------
+    out: A trained model of relation r_idx
+    
+    """
+
+    def get_r_model(self, r_idx, max_step, top_rules_num, folder):
+        statistics_file = folder + "/statistics.txt"
+        model_file_path = folder + "/model.tar"
+        if os.path.exists(statistics_file) and os.path.exists(model_file_path):
+            print("Load Model for Relation: {} Max Steps: {}".format(r_idx, max_step))
+            with open(statistics_file, 'r', encoding="UTF-8") as f:
+                input_size = int(f.readline().strip().split()[1])
+            lg = LogisticRegression(input_size)
+            lg.loadModel(model_file_path)
+            return lg
+
+        r_path, e_r_path = self.search_path(r_idx, max_step)
+        rule_list = self.enhance_rule(r_idx, r_path)
+        rule_list.sort(key=lambda one_rule: one_rule.P, reverse=True)
+        if len(rule_list) <= top_rules_num:
+            top_rules_num = len(rule_list)
+
+        with open(statistics_file, 'w', encoding="UTF-8") as f:
+            f.write("input_size\t{}\n".format(top_rules_num))
+
+        posi_list = []
+        nege_list = []
+
+        for rule in rule_list[:top_rules_num]:
+            posi, nege = rule.sample_train_data(100, 100)
+            posi_list.extend(posi)
+            nege_list.extend(nege)
+
+        posi_features = []
+        posi_labels = list(np.ones(len(posi_features)))
+        nege_features = []
+        nege_labels = list(np.zeros(len(nege_features)))
+        for posi_ht in posi_list:
+            feature = self.get_features(rule_list[:top_rules_num], posi_ht)
+            posi_features.append(feature)
+        for nege_ht in nege_list:
+            feature = self.get_features(rule_list[:top_rules_num], nege_ht)
+            nege_features.append(feature)
+
+        train_x = posi_features.append(nege_features)
+        train_y = posi_labels.append(nege_labels)
+        print("Start training model for r:{} max_steps:{} top_rules_num:{}".format(r_idx, max_step, top_rules_num))
+
+        lg = LogisticRegression(top_rules_num)
+        lg.train(train_x, train_y, 500, 500)
+        lg.saveModel(model_file_path)
+        return lg
+
+    """
+    Get features for one pair of h and t
+    Parameters:
+    -----------
+    rule_list: list
+    It stores a list of rules.
+    ht: list
+    a list of length 2, for example, [head,tail]
+    
+    Returns:
+    -----------
+    out: list
+    A list of features, every entry represents if a rule is passed.
+    """
+
+    def get_features(self, rule_list, ht):
+        feature = []
+        for rule in rule_list:
+            if rule.is_correct_ht(ht):
+                feature.append(1)
+            else:
+                feature.append(0)
+        return feature
+
+    def get_top_k_rules(self, r_idx, top_k, criterion):
+        rule_list = []
+        query = "select relation_idx, rule_key from dbpediarule" \
+                " where relation_idx={} order by {} desc".format(r_idx, criterion)
+        mycursor = mydb.cursor()
+        mycursor.execute(query)
+        fetched = mycursor.fetchall()
+        for idx, row in enumerate(fetched):
+            if idx > top_k - 1: break
+            one_rule = Rule(r_idx, list(map(int, row[2].split(':'))))
+            one_rule.restoreFromMysql()
+            rule_list.append(one_rule)
+        return rule_list
 
 
 if __name__ == "__main__":
@@ -149,7 +286,8 @@ if __name__ == "__main__":
     graph = Graph(e2idx_file, r2idx_file, triple2idx_file)
     graph.load_data()
     r_path_list, e_r_path_list = graph.search_path(2, 3)
-    displayed_path = graph.display_r_path(r_path_list)
+
+    # displayed_path = graph.display_r_path(r_path_list)
     # displayed_path = graph.display_e_r_path(e_r_path_list)
-    for p in displayed_path:
-        print("=>".join(p))
+    # for p in displayed_path:
+    #     print("=>".join(p))
