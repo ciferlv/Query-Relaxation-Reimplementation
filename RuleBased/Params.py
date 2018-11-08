@@ -11,3 +11,5 @@ mydb = mysql.connector.connect(
     auth_plugin="mysql_native_password",
     database="kg"
 )
+
+file_path_seg = "\\"

@@ -3,6 +3,8 @@ import mysql.connector
 from RuleBased.Params import ht_seg, ht_conn, mydb
 import random
 
+database = ' fb15k '
+
 
 class Path:
     def __init__(self, r, e):
@@ -24,19 +26,17 @@ class Node:
     def get_tails(self, r_idx):
         tail_list = []
         for p in self.path_list:
-            if p.r == r_idx:
+            if int(p.r) == int(r_idx):
                 tail_list.append(p.e)
-        if len(tail_list) == 0:
-            return None
-        else:
-            return tail_list
+
+        return tail_list
 
     def has_r(self, r_idx):
         for p in self.path_list:
             if r_idx == p.r: return True
         return False
 
-    def had_r_t(self, r_idx, t_idx):
+    def has_r_t(self, r_idx, t_idx):
         has_r = False
         has_r_t = False
         for p in self.path_list:
@@ -70,26 +70,33 @@ class Rule:
                 self.wrong_ht.append(ht)
             else:
                 self.no_idea_ht.append(ht)
-        assert len(self.correct_ht) + len(self.wrong_ht) + len(self.no_idea_ht) == len(
-            self.passHT), "P R F1 has wrong calculation"
+
         self.R = len(self.correct_ht) / len(r2ht[self.r_idx])
-        self.P = len(self.correct_ht) / (len(self.correct_ht) + len(self.wrong_ht) + len(self.no_idea_ht))
+        self.P = len(self.correct_ht) / len(self.passHT)
         self.F1 = 2 * self.R * self.P / (self.P + self.R)
+        assert self.P != 0 and self.R != 0, "P R F1 has wrong calculation"
 
     def persist2mysql(self):
-        correct_ht_str = ht_seg.join([ht_conn.join(ht) for ht in self.correct_ht])
-        wrong_ht_str = ht_seg.join([ht_conn.join(ht) for ht in self.wrong_ht])
-        no_idea_ht_str = ht_seg.join([ht_conn.join(ht) for ht in self.no_idea_ht])
-        query = "INSERT INTO dbpediarule ( relation_idx,rule_key,correct_ht,wrong_ht,no_idea_ht,P,R,F1 ) " \
-                "VALUES ({},'{}','{}','{}','{}',{},{},{})".format(self.r_idx, self.rule_key, correct_ht_str,
-                                                                  wrong_ht_str,
-                                                                  no_idea_ht_str, self.P, self.R, self.F1)
+        # correct_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.correct_ht])
+        # wrong_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.wrong_ht])
+        # no_idea_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.no_idea_ht])
+        query = "INSERT INTO" + database + \
+                "  ( relation_idx,rule_key,P,R,F1 ) " \
+                "VALUES ({},'{}',{},{},{});".format(self.r_idx, self.rule_key, self.P, self.R, self.F1)
         mycursor = mydb.cursor()
-        mycursor.execute(query)
+        try:
+            mycursor.execute(query)
+            mydb.commit()
+            return True
+        except Exception as e:
+            print("Exception:{}\nInsert Failed, start rolling back.".format(e.message))
+            mydb.rollback()
+            return False
+        mydb.close()
 
     def restoreFromMysql(self):
-        query = "select * from dbpediarule where relation_idx = {} and rule_key = '{}'".format(self.r_idx,
-                                                                                               self.rule_key)
+        query = "select * from" + database +\
+                " where relation_idx = {} and rule_key = '{}';".format(self.r_idx, self.rule_key)
         mycursor = mydb.cursor()
         mycursor.execute(query)
         fetched = mycursor.fetchall()
@@ -97,12 +104,12 @@ class Rule:
         if len(fetched) == 0:
             return False
         for row in fetched:
-            self.correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[3].split(ht_seg)]]
-            self.wrong_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[4].split(ht_seg)]]
-            self.no_idea_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[5].split(ht_seg)]]
-            self.P = row[6]
-            self.R = row[7]
-            self.F1 = row[8]
+            # self.correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[3].split(ht_seg)]]
+            # self.wrong_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[4].split(ht_seg)]]
+            # self.no_idea_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[5].split(ht_seg)]]
+            self.P = row[3]
+            self.R = row[4]
+            self.F1 = row[5]
         return True
 
     """

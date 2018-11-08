@@ -1,8 +1,9 @@
-rdf_file = "./data/FB15K-237/train.txt"
-e2idx_file = "./data/FB15K-237/e2idx.txt"
-r2idx_file = "./data/FB15K-237/r2idx.txt"
-triple2idx_file = "./data/FB15K-237/triple2idx.txt"
-statistics_file = "./data/FB15K-237/statistics.txt"
+
+rdf_file = "F:\\Data\\dbpedia\\mappingbased_objects_en.ttl"
+e2idx_file = "./source/e2idx.txt"
+r2idx_file = "./source/r2idx.txt"
+triple2idx_file = "./source/triple2idx.txt"
+statistics_file = "./source/statistics.txt"
 
 
 def data2idx():
