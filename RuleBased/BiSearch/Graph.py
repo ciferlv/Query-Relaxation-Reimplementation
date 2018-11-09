@@ -4,11 +4,9 @@ import numpy as np
 import os
 
 from RuleBased.Classifier import LogisticRegression
-from RuleBased.Params import rule_seg, mydb, file_path_seg
+from RuleBased.Params import rule_seg, mydb, file_path_seg, database, ht_conn, ht_seg, sampled_num_to_search_rule, \
+    top_frequency_rule_num
 from RuleBased.Util import Util
-
-sampled_num_to_search_rule = 50
-top_frequency_rule_num = 1000
 
 
 class Graph:
@@ -269,6 +267,36 @@ class Graph:
         return res_r_path_list, searched_e_r_path
 
     '''
+    Load rules for relation(r_idx), the length of rules is under max_step
+    Parameters:
+    -----------
+    r_idx: int, index of relation
+    max_step: int, max length of rule of relation(r_idx)
+    
+    Returns:
+    -----------
+    out: list, the list of rules for relation(r_idx) loaded from mysql
+    '''
+
+    def load_rule_from_mysql(self, r_idx, max_step):
+        rule_list = []
+        sql = "select * from " + database + " where relation_idx = {} and rule_len <= {};".format(r_idx, max_step)
+        mycursor = mydb.cursor()
+        mycursor.execute(sql)
+        fetched = mycursor.fetchall()
+        for row in fetched:
+            rule = Rule(r_idx, None, row[2])
+            rule.rule_len = int(row[3])
+            rule.correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[4].split(ht_seg)]]
+            rule.wrong_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[5].split(ht_seg)]]
+            rule.no_idea_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[6].split(ht_seg)]]
+            rule.P = row[7]
+            rule.R = row[8]
+            rule.F1 = row[9]
+            rule_list.append(rule)
+        return rule_list
+
+    '''
     Convert relation(r_idx) to its inverse relation(r_idx)
     Parameters:
     -----------
@@ -366,25 +394,31 @@ class Graph:
     """
 
     def enhance_rule(self, r_idx, r_path_list):
+        rule_set = set()
         print("Start Enhancing Rule for Relatin: {}".format(self.idx2r[r_idx]))
         rule_list = []
         for idx, r_path in enumerate(r_path_list):
             print("{}/{} Start enchancing Rule: {}".format(idx + 1, len(r_path_list),
                                                            "=>".join(self.display_r_path([r_path])[0])))
-            rule = Rule(r_idx, r_path)
+            rule = Rule(r_idx, r_path=r_path, rule_key=None)
+            if rule.rule_key in rule_set:
+                continue
+            rule_set.add(rule.rule_key)
             succ = rule.restoreFromMysql()
-            # if not succ:
-            print("Start Fetching passed ht")
-            rule.passHT = self.get_passed_ht(r_path)
-            assert len(rule.passHT) != 0, "Get Wrong Passed HT"
-            print("Start calculating P,R and F1")
-            rule.get_P_R_F1(self.node_dict, self.r2ht)
-            if rule.P >= 0.001:  # the precision of rule must high enough
+            if not succ:
+                print("Start Fetching passed ht")
+                rule.passHT = self.get_passed_ht(r_path)
+                assert len(rule.passHT) != 0, "Get Wrong Passed HT"
+                print("Start calculating P,R and F1")
+                rule.get_P_R_F1(self.node_dict, self.r2ht)
+                if rule.P >= 0.001:  # the precision of rule must high enough
+                    rule_list.append(rule)
+                    while True:
+                        if rule.persist2mysql(): break
+                    print("Success persisting to mysql.")
+            else:
                 rule_list.append(rule)
-                while True:
-                    if rule.persist2mysql(): break
-            # else:
-            #     print("Success loading from MySQL")
+                print("Success loading from MySQL")
         print("Finish Enhancing Rule for Relatin: {}".format(self.idx2r[r_idx]))
         return rule_list
 
@@ -413,44 +447,49 @@ class Graph:
                 input_size = int(f.readline().strip().split()[1])
             lg = LogisticRegression(input_size)
             lg.loadModel(model_file_path)
+            print("Finish loading model from file.")
             return lg
 
-        r_path, e_r_path = self.search_path(r_idx, max_step)
-        rule_list = self.enhance_rule(r_idx, r_path)
+        print("Collect rules for relation: {}".format(self.idx2r[r_idx]))
+        rule_list = self.load_rule_from_mysql(r_idx, max_step)
+        if len(rule_list) == 0:
+            r_path, e_r_path = self.search_path(r_idx, max_step)
+            rule_list = self.enhance_rule(r_idx, r_path)
+
         rule_list.sort(key=lambda one_rule: one_rule.P, reverse=True)
         if len(rule_list) <= top_rules_num:
             top_rules_num = len(rule_list)
+        print("The num of Rules collected is {}.".format(top_rules_num))
 
         with open(statistics_file, 'w', encoding="UTF-8") as f:
             f.write("input_size\t{}\n".format(top_rules_num))
 
+        print("Start collecting Positive/Negetive instances.")
         posi_list = []
         nege_list = []
-
         for rule in rule_list[:top_rules_num]:
-            posi, nege = rule.sample_train_data(100, 100)
+            posi, nege = rule.sample_train_data(posi_num=100, nege_num=100)
             posi_list.extend(posi)
             nege_list.extend(nege)
 
-        posi_features = []
-        posi_labels = list(np.ones(len(posi_features)))
-        nege_features = []
-        nege_labels = list(np.zeros(len(nege_features)))
+        train_x = []
         for posi_ht in posi_list:
-            feature = self.get_features(rule_list[:top_rules_num], posi_ht)
-            posi_features.append(feature)
+            feature = self. get_features(rule_list[:top_rules_num], posi_ht)
+            train_x.append(feature)
+        train_y = list(np.ones(len(posi_list)))
+
         for nege_ht in nege_list:
             feature = self.get_features(rule_list[:top_rules_num], nege_ht)
-            nege_features.append(feature)
+            train_x.append(feature)
+        train_y.extend(list(np.zeros(len(nege_list))))
 
-        train_x = posi_features.append(nege_features)
-        train_y = posi_labels.append(nege_labels)
-        print("Start training model for r:{} max_steps:{} top_rules_num:{}".format(self.idx2r[r_idx], max_step, top_rules_num))
+        print("Start training model for r:{} max_steps:{} top_rules_num:{}".format(self.idx2r[r_idx], max_step,
+                                                                                   top_rules_num))
 
         lg = LogisticRegression(top_rules_num)
-        lg.train(train_x, train_y, 500, 500)
+        lg.train(train_x, train_y, epoch=200, mini_batch=500)
         lg.saveModel(model_file_path)
-        print('Finish getting model for Relation: {}, Max step: {}'.format(self.idx2r[r_idx].max_step))
+        print('Finish getting model for Relation: {}, Max step: {}'.format(self.idx2r[r_idx], max_step))
         return lg
 
     """
@@ -471,7 +510,7 @@ class Graph:
     def get_features(self, rule_list, ht):
         feature = []
         for rule in rule_list:
-            if rule.is_correct_ht(ht):
+            if self.is_passed(ht, rule.r_path):
                 feature.append(1)
             else:
                 feature.append(0)
@@ -496,14 +535,14 @@ class Graph:
 
     def get_top_k_rules(self, r_idx, top_k, criterion):
         rule_list = []
-        query = "select relation_idx, rule_key from dbpediarule" \
+        query = "select relation_idx, rule_key from " + database+ \
                 " where relation_idx={} order by {} desc".format(r_idx, criterion)
         mycursor = mydb.cursor()
         mycursor.execute(query)
         fetched = mycursor.fetchall()
         for idx, row in enumerate(fetched):
             if idx > top_k - 1: break
-            one_rule = Rule(r_idx, list(map(int, row[2].split(':'))))
+            one_rule = Rule(r_idx, None, row[2])
             one_rule.restoreFromMysql()
             rule_list.append(one_rule)
         return rule_list
@@ -571,7 +610,6 @@ if __name__ == "__main__":
     relation_list = ['/film/film/language']
     graph = Graph(e2idx_file, r2idx_file, triple2idx_file)
     graph.load_data()
-
     r_idx_list = [graph.r2idx[relation] for relation in relation_list]
     r_rules_dict = {}
     for idx, r_idx in enumerate(r_idx_list):
@@ -580,6 +618,8 @@ if __name__ == "__main__":
             os.makedirs(folder)
         graph.get_r_model(r_idx=r_idx, max_step=3, top_rules_num=200, folder=folder)
         r_rules_dict[r_idx] = graph.get_top_k_rules(r_idx, 5, 'P')
+
+    
 
     for key in r_rules_dict.keys():
         print("Relation: {}".format(graph.idx2r[key]))

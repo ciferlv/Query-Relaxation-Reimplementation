@@ -1,9 +1,7 @@
 import mysql.connector
 
-from RuleBased.Params import ht_seg, ht_conn, mydb
+from RuleBased.Params import ht_seg, ht_conn, mydb, database, rule_seg
 import random
-
-database = ' fb15k '
 
 
 class Path:
@@ -49,10 +47,19 @@ class Node:
 
 
 class Rule:
-    def __init__(self, r_idx, r_path):
+    def __init__(self, r_idx, r_path=None, rule_key=None):
         self.r_idx = r_idx
-        self.rule_key = ":".join(map(str, r_path))
-        self.rule_path = r_path
+        if rule_key is None:
+            self.rule_key = ":".join(map(str, r_path))
+            self.r_path = r_path
+        elif r_path is None:
+            self.rule_key = rule_key.strip()
+            self.r_path = list(map(int, self.rule_key.split(rule_seg)))
+        else:
+            self.rule_key = rule_key
+            self.r_path = r_path
+
+        self.rule_len = len(self.r_path)
         self.passHT = []
         self.P = 0
         self.R = 0
@@ -76,26 +83,39 @@ class Rule:
         self.F1 = 2 * self.R * self.P / (self.P + self.R)
         assert self.P != 0 and self.R != 0, "P R F1 has wrong calculation"
 
+    def sample_ht(self, ht_list, sampled_num):
+        if sampled_num < len(ht_list):
+            sampled_ht = random.sample(ht_list, sampled_num)
+        else:
+            sampled_ht = ht_list
+        return sampled_ht
+
     def persist2mysql(self):
-        # correct_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.correct_ht])
-        # wrong_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.wrong_ht])
-        # no_idea_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.no_idea_ht])
-        query = "INSERT INTO" + database + \
-                "  ( relation_idx,rule_key,P,R,F1 ) " \
-                "VALUES ({},'{}',{},{},{});".format(self.r_idx, self.rule_key, self.P, self.R, self.F1)
+        sampled_num = 1000
+        self.correct_ht = self.sample_ht(self.correct_ht, sampled_num)
+        self.wrong_ht = self.sample_ht(self.wrong_ht, sampled_num)
+        self.no_idea_ht = self.sample_ht(self.no_idea_ht, sampled_num)
+
+        correct_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.correct_ht])
+        wrong_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.wrong_ht])
+        no_idea_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.no_idea_ht])
+
+        query = "INSERT INTO" + database + "  ( relation_idx,rule_key,rule_len,correct_ht,wrong_ht,no_idea_ht,P,R,F1 ) VALUES ({},'{}',{},'{}','{}','{}',{},{},{});" \
+            .format(self.r_idx, self.rule_key, self.rule_len, correct_ht_str, wrong_ht_str,
+                    no_idea_ht_str, self.P, self.R, self.F1)
         mycursor = mydb.cursor()
         try:
             mycursor.execute(query)
             mydb.commit()
             return True
         except Exception as e:
-            print("Exception:{}\nInsert Failed, start rolling back.".format(e.message))
+            print("Exception:{}\nInsert Failed, start rolling back.".format(e))
             mydb.rollback()
             return False
         mydb.close()
 
     def restoreFromMysql(self):
-        query = "select * from" + database +\
+        query = "select * from" + database + \
                 " where relation_idx = {} and rule_key = '{}';".format(self.r_idx, self.rule_key)
         mycursor = mydb.cursor()
         mycursor.execute(query)
@@ -104,12 +124,13 @@ class Rule:
         if len(fetched) == 0:
             return False
         for row in fetched:
-            # self.correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[3].split(ht_seg)]]
-            # self.wrong_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[4].split(ht_seg)]]
-            # self.no_idea_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[5].split(ht_seg)]]
-            self.P = row[3]
-            self.R = row[4]
-            self.F1 = row[5]
+            self.rule_len = int(row[3])
+            self.correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[4].split(ht_seg)]]
+            self.wrong_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[5].split(ht_seg)]]
+            self.no_idea_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[6].split(ht_seg)]]
+            self.P = row[7]
+            self.R = row[8]
+            self.F1 = row[9]
         return True
 
     """
@@ -128,6 +149,7 @@ class Rule:
     """
 
     def sample_train_data(self, posi_num, nege_num):
+        assert len(self.correct_ht) != 0 and len(self.wrong_ht) != 0, "Haven't load correct/wrong ht"
         if posi_num > len(self.correct_ht):
             sampled_correct_ht = self.correct_ht
         else:
@@ -137,22 +159,79 @@ class Rule:
         else:
             sampled_wrong_ht = random.sample(self.wrong_ht, nege_num)
         return sampled_correct_ht, sampled_wrong_ht
-
-    """
-    Test if a ht is in this rule's correct_ht_list.
-    Parameters:
-    -----------
-    ht: list
-    a list of two length, for example, [head,tail]
-    
-    Returns:
-    -----------
-    out: boolean
-    If this ht is in correct_ht.
-    """
-
-    def is_correct_ht(self, ht):
-        for c_ht in self.correct_ht:
-            if c_ht[0] == ht[0] and c_ht[1] == ht[1]:
-                return True
-        return False
+    #
+    # """
+    # Test if a ht is in this rule's correct_ht_list.
+    # Parameters:
+    # -----------
+    # ht: list
+    # a list of two length, for example, [head,tail]
+    #
+    # Returns:
+    # -----------
+    # out: boolean
+    # If this ht is in correct_ht.
+    # """
+    #
+    # def is_correct_ht(self, ht):
+    #     for c_ht in self.correct_ht:
+    #         if c_ht[0] == ht[0] and c_ht[1] == ht[1]:
+    #             return True
+    #     return False
+    #
+    # """
+    # Test if a ht is in this rule's wrong_ht_list.
+    # Parameters:
+    # -----------
+    # ht: list
+    # a list of two length, for example, [head,tail]
+    #
+    # Returns:
+    # -----------
+    # out: boolean
+    # True if this ht is in wrong_ht_list, False otherwise.
+    # """
+    #
+    # def is_wrong_ht(self, ht):
+    #     for w_ht in self.wrong_ht:
+    #         if w_ht[0] == ht[0] and w_ht[1] == ht[1]:
+    #             return True
+    #     return False
+    #
+    # """
+    # Test if a ht is in this rule's no_idea_ht_list.
+    # Parameters:
+    # -----------
+    # ht: list
+    # a list of two length, for example, [head,tail]
+    #
+    # Returns:
+    # -----------
+    # out: boolean
+    # True if this ht is in no_idea_ht_list, False otherwise.
+    # """
+    #
+    # def is_no_idea_ht(self, ht):
+    #     for n_ht in self.no_idea_ht:
+    #         if n_ht[0] == ht[0] and n_ht[1] == ht[1]:
+    #             return True
+    #     return False
+    #
+    # '''
+    # Test if a ht can pass the rule
+    # Parameters:
+    # ------------
+    # ht: list
+    # a list of two length, for example, [head,tail]
+    #
+    # Returns:
+    # -----------
+    # out: boolean
+    # If this ht can pass the rule.
+    # '''
+    #
+    # def is_passed_ht(self, ht):
+    #     if self.is_correct_ht(ht): return True
+    #     if self.is_wrong_ht(ht): return True
+    #     if self.is_no_idea_ht(ht): return True
+    #     return False

@@ -1,3 +1,4 @@
+from RuleBased.Params import mydb
 
 rdf_file = "F:\\Data\\dbpedia\\mappingbased_objects_en.ttl"
 e2idx_file = "./source/e2idx.txt"
@@ -50,5 +51,31 @@ def data2idx():
             f.write("{}\t{}\t{}\n".format(t[0], t[1], t[2]))
 
 
+def create_table():
+    sql = """
+    CREATE TABLE IF NOT EXISTS `fb15k`(
+        `id` INT UNSIGNED AUTO_INCREMENT,
+        `relation_idx` VARCHAR(200) NOT NULL,
+        `rule_key` VARCHAR(200) NOT NULL,
+        `rule_len` INT NOT NULL,
+        `correct_ht` TEXT,
+        `wrong_ht` TEXT,
+        `no_idea_ht` TEXT,
+        `P` FLOAT,
+        `R` FLOAT,
+        `F1` FLOAT,
+        PRIMARY KEY ( `id` )
+        )ENGINE=InnoDB DEFAULT CHARSET=utf8;
+    """
+    mycursor = mydb.cursor()
+    try:
+        mycursor.execute(sql)
+        print("Success Creating table")
+    except Exception as e:
+        print(e)
+    mydb.close()
+
+
 if __name__ == "__main__":
-    data2idx()
+    # data2idx()
+    create_table()
