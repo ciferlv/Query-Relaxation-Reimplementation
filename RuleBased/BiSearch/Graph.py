@@ -1,3 +1,4 @@
+from RuleBased.BiSearch.MyThread import MyThread
 from RuleBased.BiSearch.Triple import Node, Rule
 import random
 import numpy as np
@@ -55,7 +56,7 @@ class Graph:
         print("Finishing Loading Graph")
 
     '''
-    Connect two path found by unidirect search
+    Connect two path found by unidirection search
     Parameters:
     -----------
     left_path: list [[-1,e_idx,r_idx,...],[]]
@@ -66,7 +67,7 @@ class Graph:
     out: list [[-1,e_idx,r_idx,...,e_idx,-1],[],[],...]
     '''
 
-    def find_intersection(self, left_path, right_path):
+    def join_e_r_path(self, left_path, right_path):
         res = []
         left_dict = {}
         right_dict = {}
@@ -123,7 +124,7 @@ class Graph:
         for step_i in range(step):
             left_len = int((step_i + 1) / 2)
             right_len = (step_i + 1) - left_len
-            temp_res = self.find_intersection(left_path[left_len], right_path[right_len])
+            temp_res = self.join_e_r_path(left_path[left_len], right_path[right_len])
             res.extend(temp_res)
         return res
 
@@ -347,7 +348,7 @@ class Graph:
                 r_idx = r_path[left_step - 1]
                 for ht in left_path:
                     c_node = self.node_dict[ht[-1]]
-                    for tail in c_node.get_tails(r_idx):
+                    for tail in c_node.get_tails_of_r_idx(r_idx):
                         temp_ht = ht.copy()
                         temp_ht.append(tail)
                         temp_left_path.append(temp_ht)
@@ -358,7 +359,7 @@ class Graph:
                 inv_r_idx = self.convert_r(r_idx)
                 for ht in right_path:
                     c_node = self.node_dict[ht[-1]]
-                    for tail in c_node.get_tails(inv_r_idx):
+                    for tail in c_node.get_tails_of_r_idx(inv_r_idx):
                         temp_ht = ht.copy()
                         temp_ht.append(tail)
                         temp_right_path.append(temp_ht)
@@ -474,7 +475,7 @@ class Graph:
 
         train_x = []
         for posi_ht in posi_list:
-            feature = self. get_features(rule_list[:top_rules_num], posi_ht)
+            feature = self.get_features(rule_list[:top_rules_num], posi_ht)
             train_x.append(feature)
         train_y = list(np.ones(len(posi_list)))
 
@@ -535,7 +536,7 @@ class Graph:
 
     def get_top_k_rules(self, r_idx, top_k, criterion):
         rule_list = []
-        query = "select relation_idx, rule_key from " + database+ \
+        query = "select relation_idx, rule_key from " + database + \
                 " where relation_idx={} order by {} desc".format(r_idx, criterion)
         mycursor = mydb.cursor()
         mycursor.execute(query)
@@ -573,7 +574,7 @@ class Graph:
                 r_idx = rule[left_step - 1]
                 for e_idx in left_node:
                     c_node = self.node_dict[e_idx]
-                    for tail in c_node.get_tails(r_idx):
+                    for tail in c_node.get_tails_of_r_idx(r_idx):
                         temp_left.append(tail)
                 left_node = temp_left
             else:
@@ -582,7 +583,7 @@ class Graph:
                 inv_r_idx = self.convert_r(r_idx)
                 for e_idx in right_node:
                     c_node = self.node_dict[e_idx]
-                    for tail in c_node.get_tails(inv_r_idx):
+                    for tail in c_node.get_tails_of_r_idx(inv_r_idx):
                         temp_right.append(tail)
                 right_node = temp_right
         left_set = set()
@@ -592,6 +593,137 @@ class Graph:
             if e_idx in left_set:
                 return True
         return False
+
+    '''
+    Find h and t which can pass at least one rule of rule_list
+    Parameters:
+    -----------
+    h_idx_list: list, a list of h_idx
+    t_idx_list: list, a list of t_idx
+    
+    Returns:
+    -----------
+    out1: list, [[h_idx,t_idx],[h_idx,t_idx],...]
+    A list of [h_idx,t_idx] that can pass the rule list.
+    There is no duplicate in out list.
+    out2: list, the token of out1, token => h,t
+    
+    '''
+
+    def pass_verify(self, h_idx_list, t_idx_list, rule_list):
+        # h_idx_list = [self.e2idx[h_name] for h_name in h_name_list]
+        # t_idx_list = [self.e2idx[t_name] for t_name in t_name_list]
+        ht_is_passed = {}
+        for rule in rule_list:
+            thread_list = []
+            t_idx2ht_token = {}
+            for h_idx in h_idx_list:
+                for t_idx in t_idx_list:
+                    ht_token = "{}{}{}".format(h_idx, ht_conn, t_idx)
+                    if ht_token in ht_is_passed: continue
+                    th = MyThread(self.is_passed, ([h_idx, t_idx], rule))
+                    thread_list.append(th)
+                    t_idx2ht_token[len(thread_list) - 1] = ht_token
+
+            [th.start for th in thread_list]
+            [th.join() for th in thread_list]
+
+            for th_idx in range(len(thread_list)):
+                ht_token = t_idx2ht_token[th_idx]
+                if thread_list[th_idx].get_result():
+                    ht_is_passed[ht_token] = 1
+
+        return [ht_token.split(ht_conn) for ht_token in ht_is_passed.keys()], set(ht_is_passed.keys())
+
+    '''
+    Extend ht_path after relation(r_idx), from left to right
+    Parameters:
+    -----------
+    ht_path: list, [[h,m1,m2,..,t],[],[],...]
+    r_idx: int, index of relation
+    
+    Returns:
+    -----------
+    out: list, [[h,m1,m2,..,t,new_t],[],[],...]
+    '''
+
+    def get_ht_path_from_left(self, ht_path, r_idx):
+        res_ht_path = []
+        for ht in ht_path:
+            c_node = self.node_dict[ht[-1]]
+            for tail in c_node.get_tails_of_r_idx(r_idx=r_idx):
+                temp = ht.copy()
+                temp.append(tail)
+                res_ht_path.append(temp)
+        return res_ht_path
+
+    '''
+    Extend ht_path after relation(r_idx), from right to left
+    Parameters:
+    -----------
+    ht_path: list, [[h,m1,m2,..,t],[],[],...]
+    r_idx: int, index of relation
+
+    Returns:
+    -----------
+    out: list, [[h,m1,m2,..,t,new_t],[],[],...]
+    '''
+
+    def get_ht_path_from_right(self, ht_path, r_idx):
+        res_ht_path = []
+        inv_r_idx = self.convert_r(r_idx)
+        for ht in ht_path:
+            c_node = self.node_dict[ht[-1]]
+            for tail in c_node.get_tails_of_r_idx(r_idx=inv_r_idx):
+                temp = ht.copy()
+                temp.append(tail)
+                res_ht_path.append(temp)
+        return res_ht_path
+
+    '''
+    Get ht that can pass the rule, one of h_idx_list and t_idx_list is empty.
+    Parameters:
+    -----------
+    h_idx_list: list, list of h_idx, [h_idx,h_idx,...]
+    t_idx_list: list, list of t_idx, [t_idx,t_idx,...]
+    rule: list, list of r_idx, [r_idx,r_idx,r_idx,...]
+    
+    Returns:
+    -----------
+    out1: list, [[h_idx,t_idx],[h_idx,t_idx],[h_idx,t_idx],...]
+    out2: list, token of out1, token=>h,t
+    '''
+
+    def get_passed_ht_from_one_end(self, h_idx_list, t_idx_list, rule):
+        res_left_path_list = [[h_idx] for h_idx in h_idx_list]
+        res_right_path_list = [[t_idx] for t_idx in t_idx_list]
+
+        left_step = 0
+        right_step = 0
+        while len(rule) - (left_step + right_step) > 0:
+            if left_step == 0 and right_step == 0:
+                from_left = len(res_left_path_list) > len(res_right_path_list)
+            else:
+                from_left = len(res_left_path_list) < len(res_right_path_list)
+            if from_left:
+                left_step += 1
+                res_left_path_list = self.get_ht_path_from_left(res_left_path_list, rule[left_step - 1])
+            else:
+                right_step += 1
+                res_right_path_list = self.get_ht_path_from_right(res_right_path_list, rule[-right_step])
+
+        res_token = set()
+        temp_left_path_dict = {}
+        for left_path in res_left_path_list:
+            if left_path[-1] not in temp_left_path_dict:
+                temp_left_path_dict[left_path[-1]] = []
+            temp_left_path_dict[left_path[-1]].append(left_path)
+        for right_path in res_right_path_list:
+            end_point = right_path[-1]
+            if end_point in temp_left_path_dict:
+                for left_path in temp_left_path_dict[end_point]:
+                    res_token.add(ht_conn.join([left_path[0], right_path[0]]))
+        return [ht_token.split(ht_conn) for ht_token in res_token], res_token
 
 
 if __name__ == "__main__":
@@ -618,8 +750,6 @@ if __name__ == "__main__":
             os.makedirs(folder)
         graph.get_r_model(r_idx=r_idx, max_step=3, top_rules_num=200, folder=folder)
         r_rules_dict[r_idx] = graph.get_top_k_rules(r_idx, 5, 'P')
-
-    
 
     for key in r_rules_dict.keys():
         print("Relation: {}".format(graph.idx2r[key]))

@@ -21,7 +21,7 @@ class Node:
     def addPath(self, r, e):
         self.path_list.append(Path(r=r, e=e))
 
-    def get_tails(self, r_idx):
+    def get_tails_of_r_idx(self, r_idx):
         tail_list = []
         for p in self.path_list:
             if int(p.r) == int(r_idx):
