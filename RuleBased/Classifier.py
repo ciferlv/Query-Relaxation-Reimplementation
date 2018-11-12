@@ -1,5 +1,4 @@
 import torch.nn as nn
-import torch.nn.functional as F
 import torch.optim as optim
 from sklearn import datasets
 import numpy as np
@@ -16,7 +15,7 @@ class LogisticRegression(nn.Module):
         self.logger = ALogger("Classifier.py", True).getLogger()
 
     def forward(self, input):
-        output = F.sigmoid(self.out(input))
+        output = torch.sigmoid(self.out(input))
         return output
 
     def train(self, x, y, epoch, mini_batch):
@@ -33,6 +32,7 @@ class LogisticRegression(nn.Module):
         optimizer = optim.Adam(self.parameters(), lr=0.001)
 
         for epoch_i in range(epoch):
+            loss_running = 0
             for idx, seg_point in enumerate(seg_point_list):
                 if idx == len(seg_point_list) - 1: break
                 self.zero_grad()
@@ -41,16 +41,19 @@ class LogisticRegression(nn.Module):
                 train_x = x[start_point:end_point]
                 train_y = y[start_point:end_point]
                 output = self.forward(torch.Tensor(train_x))
-                loss = criterion(output, torch.Tensor(train_y))
-                self.logger.info("Epoch:{} Mini_Batch:{} Loss:{}".format(epoch_i, idx, loss.item()))
+                loss = criterion(torch.squeeze(output,1), torch.Tensor(train_y))
+                loss_running += loss.item()
                 loss.backward()
                 optimizer.step()
+            if (epoch_i % 100 == 0 or epoch_i == epoch -1) and epoch_i != 0:
+                self.logger.info("Epoch:{} Loss:{}".format(epoch_i,loss_running))
 
     def test(self, x, y):
         output = self.forward(torch.Tensor(x))
         output_label = (output.squeeze(-1).detach().numpy() > 0.5) * 1
         precision = np.sum((output_label == np.array(y)) * 1) / len(x)
-        self.logger.info("Precision: {}".format(precision))
+        # self.logger.info("Precision: {}".format(precision))
+        return precision
 
     def get_output_prob(self,x):
         output = self.forward(torch.Tensor(x))

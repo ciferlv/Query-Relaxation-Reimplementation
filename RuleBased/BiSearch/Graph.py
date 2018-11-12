@@ -6,7 +6,7 @@ import os
 
 from RuleBased.Classifier import LogisticRegression
 from RuleBased.Params import rule_seg, mydb, file_path_seg, database, ht_conn, ht_seg, sampled_num_to_search_rule, \
-    top_frequency_rule_num
+    top_frequency_rule_num, epoch, mini_batch, rule_num4train, max_step
 from RuleBased.Util import Util
 
 
@@ -276,7 +276,8 @@ class Graph:
     
     Returns:
     -----------
-    out: list, the list of rules for relation(r_idx) loaded from mysql
+    out: list, [Rule(),Rule(),...]
+    the list of rules for relation(r_idx) loaded from mysql
     '''
 
     def load_rule_from_mysql(self, r_idx, max_step):
@@ -423,6 +424,69 @@ class Graph:
         print("Finish Enhancing Rule for Relatin: {}".format(self.idx2r[r_idx]))
         return rule_list
 
+    '''
+    Fetch positive/negetive instances of rules.
+    Parameters:
+    -----------
+    rule_list: list, [Rule(),Rule(),...]
+    A list of Rule object.
+    
+    Returns:
+    -----------
+    posi_list: list, [[h,t],[h,t],...]
+    nege_list: list, [[h,t],[h,t],...]
+    '''
+
+    def fetch_posi_nege_of_rules(self, rule_list):
+        print("Start collecting Positive/Negetive instances.")
+        posi_list = []
+        nege_list = []
+        for rule in rule_list:
+            posi, nege = rule.sample_train_data(posi_num=100, nege_num=100)
+            rule_display = "=>".join(self.display_r_path([rule.r_path])[0])
+            print("Rule: {}, Posi_Num: {}, Nege_Num: {}.".format(rule_display, len(posi), len(nege)))
+            posi_list.extend(posi)
+            nege_list.extend(nege)
+        return posi_list, nege_list
+
+    '''
+    Collect rules for relation(r_idx)
+    Parameters:
+    -----------
+    statistics_file: string
+    It is a file path, this file records the num of rules to train.
+    r_idx: int
+    index of target relation.
+    
+    Return:
+    -----------
+    out: list, [Rule(),Rule(),...]
+    A list of rule obejct, sorted by precision.   
+    '''
+
+    def collect_rules_for_r_idx(self, r_idx, statistics_file):
+        print("Collect rules for relation: {}".format(self.idx2r[r_idx]))
+        rule_list = self.load_rule_from_mysql(r_idx, max_step)
+        if len(rule_list) == 0:
+            r_path, e_r_path = self.search_path(r_idx, max_step)
+            rule_list = self.enhance_rule(r_idx, r_path)
+            print("Get rules by search.")
+        else:
+            print("Load rules from mysql.")
+
+        rule_list.sort(key=lambda one_rule: one_rule.P, reverse=True)
+
+        rules_to_use = rule_num4train
+        if len(rule_list) < rule_num4train:
+            rules_to_use = len(rule_list)
+        print("The num of Rules collected is {}.".format(rules_to_use))
+
+        with open(statistics_file, 'w', encoding="UTF-8") as f:
+            f.write("input_size\t{}\n".format(rules_to_use))
+        print("Writing input_size to file.")
+
+        return rule_list[:rule_num4train]
+
     """
     Train or load a model for relation: r_idx
     Parameters
@@ -438,12 +502,14 @@ class Graph:
     
     """
 
-    def get_r_model(self, r_idx, max_step, top_rules_num, folder):
-        print('Start getting model for Relation: {}, Max step: {}'.format(self.idx2r[r_idx], max_step))
+    def get_r_model(self, r_idx, folder):
+        print('Get model for Relation: {}'.format(self.idx2r[r_idx]))
         statistics_file = folder + "statistics.txt"
+        train_x_file = folder + "train_x.npy"
+        train_y_file = folder + "train_y.npy"
         model_file_path = folder + "model.tar"
         if os.path.exists(statistics_file) and os.path.exists(model_file_path):
-            print("Load Model for Relation: {} Max Steps: {}".format(r_idx, max_step))
+            print("Load Model for Relation: {}".format(r_idx))
             with open(statistics_file, 'r', encoding="UTF-8") as f:
                 input_size = int(f.readline().strip().split()[1])
             lg = LogisticRegression(input_size)
@@ -451,56 +517,79 @@ class Graph:
             print("Finish loading model from file.")
             return lg
 
-        print("Collect rules for relation: {}".format(self.idx2r[r_idx]))
-        rule_list = self.load_rule_from_mysql(r_idx, max_step)
-        if len(rule_list) == 0:
-            r_path, e_r_path = self.search_path(r_idx, max_step)
-            rule_list = self.enhance_rule(r_idx, r_path)
+        rule_list = self.collect_rules_for_r_idx(r_idx, statistics_file)
 
-        rule_list.sort(key=lambda one_rule: one_rule.P, reverse=True)
-        if len(rule_list) <= top_rules_num:
-            top_rules_num = len(rule_list)
-        print("The num of Rules collected is {}.".format(top_rules_num))
+        print("Train model for r:{}, rules_used_num:{}".format(self.idx2r[r_idx], len(rule_list)))
 
-        with open(statistics_file, 'w', encoding="UTF-8") as f:
-            f.write("input_size\t{}\n".format(top_rules_num))
+        posi_list, nege_list = self.fetch_posi_nege_of_rules(rule_list)
 
-        print("Start collecting Positive/Negetive instances.")
-        posi_list = []
-        nege_list = []
-        for rule in rule_list[:top_rules_num]:
-            posi, nege = rule.sample_train_data(posi_num=100, nege_num=100)
-            posi_list.extend(posi)
-            nege_list.extend(nege)
-
-        train_x = []
-        for posi_ht in posi_list:
-            feature = self.get_features(rule_list[:top_rules_num], posi_ht)
-            train_x.append(feature)
+        print("Start getting features for positives.")
+        train_x = self.get_features(rule_list, posi_list)
         train_y = list(np.ones(len(posi_list)))
 
-        for nege_ht in nege_list:
-            feature = self.get_features(rule_list[:top_rules_num], nege_ht)
-            train_x.append(feature)
+        print("Start getting features for negetives.")
+        train_x.extend(self.get_features(rule_list, nege_list))
         train_y.extend(list(np.zeros(len(nege_list))))
 
-        print("Start training model for r:{} max_steps:{} top_rules_num:{}".format(self.idx2r[r_idx], max_step,
-                                                                                   top_rules_num))
+        print("Save features to file.")
+        np.save(train_x_file, np.array(train_x))
+        np.save(train_y_file, np.array(train_y))
 
-        lg = LogisticRegression(top_rules_num)
-        lg.train(train_x, train_y, epoch=200, mini_batch=500)
+        lg = LogisticRegression(len(rule_list))
+
+        zipped_x_y = list(zip(train_x, train_y))
+        np.random.shuffle(zipped_x_y)
+        train_x, train_y = zip(*zipped_x_y)
+        lg.train(train_x, train_y, epoch=epoch, mini_batch=mini_batch)
         lg.saveModel(model_file_path)
         print('Finish getting model for Relation: {}, Max step: {}'.format(self.idx2r[r_idx], max_step))
         return lg
+
+    '''
+    Test ability of Logistic Regression
+    Parameters:
+    -----------
+    r_name: string
+    name of target relatoin
+    folder: string
+    target folder under which data was saved.
+    '''
+
+    def test_model(self, r_name, folder):
+        print("Test model of r:{}".format(r_name))
+        statistics_file = folder + "statistics.txt"
+        train_x_file = folder + "train_x.npy"
+        train_y_file = folder + "train_y.npy"
+
+        train_x = np.load(train_x_file)
+        train_y = np.load(train_y_file)
+
+        with open(statistics_file, 'r', encoding="UTF-8") as f:
+            input_size = int(f.readline().strip().split()[1])
+
+        train_num = int(len(train_x) * 0.8)
+        zipped_x_y = list(zip(train_x, train_y))
+
+        for i in range(10):
+            lg = LogisticRegression(input_size)
+            np.random.shuffle(zipped_x_y)
+            temp_x, temp_y = zip(*zipped_x_y)
+            temp_train_x = temp_x[:train_num]
+            temp_train_y = temp_y[:train_num]
+            temp_test_x = temp_x[train_num + 1:]
+            temp_test_y = temp_y[train_num + 1:]
+            lg.train(temp_train_x, temp_train_y, epoch=epoch, mini_batch=mini_batch)
+            precision = lg.test(temp_test_x, temp_test_y)
+            print("Test round {}/{}, Prec: {}".format(i + 1, 10, precision))
 
     """
     Get features for one pair of h and t
     Parameters:
     -----------
-    rule_list: list
+    rule_list: list, [[r_idx,r_idx,...],[],[],[],...]
     It stores a list of rules.
-    ht: list
-    a list of length 2, for example, [head,tail]
+    ht: list, [[h,t],[h,t],[h,t],..]
+    a list of h and t
     
     Returns:
     -----------
@@ -508,14 +597,14 @@ class Graph:
     A list of features, every entry represents if a rule is passed.
     """
 
-    def get_features(self, rule_list, ht):
-        feature = []
-        for rule in rule_list:
-            if self.is_passed(ht, rule.r_path):
-                feature.append(1)
-            else:
-                feature.append(0)
-        return feature
+    def get_features(self, rule_list, ht_list):
+        train_x = []
+        for ht in ht_list:
+            feature = []
+            for rule in rule_list:
+                feature.append(int(self.is_passed(ht, rule.r_path)))
+            train_x.append(feature)
+        return train_x
 
     """
     Get top-K rules for a relation(r_idx) by criterion(P/R/F1)
@@ -530,7 +619,7 @@ class Graph:
     
     Returns:
     -----------
-    out: list
+    out: list, [Rule(),Rule(),Rule(),...]
     top_k rules
     """
 
@@ -543,7 +632,7 @@ class Graph:
         fetched = mycursor.fetchall()
         for idx, row in enumerate(fetched):
             if idx > top_k - 1: break
-            one_rule = Rule(r_idx, None, row[2])
+            one_rule = Rule(r_idx, None, row[1])
             one_rule.restoreFromMysql()
             rule_list.append(one_rule)
         return rule_list
@@ -695,8 +784,14 @@ class Graph:
     '''
 
     def get_passed_ht_from_one_end(self, h_idx_list, t_idx_list, rule):
+        assert (len(h_idx_list) != 0 or len(t_idx_list) != 0), "Can't get ht from one end."
+
+        def ht2token(h, t):
+            return ht_conn.join([str(h), str(t)])
+
         res_left_path_list = [[h_idx] for h_idx in h_idx_list]
         res_right_path_list = [[t_idx] for t_idx in t_idx_list]
+        left_empty = True if len(h_idx_list) == 0 else False
 
         left_step = 0
         right_step = 0
@@ -712,23 +807,39 @@ class Graph:
                 right_step += 1
                 res_right_path_list = self.get_ht_path_from_right(res_right_path_list, rule[-right_step])
 
-        res_token = set()
-        temp_left_path_dict = {}
-        for left_path in res_left_path_list:
-            if left_path[-1] not in temp_left_path_dict:
-                temp_left_path_dict[left_path[-1]] = []
-            temp_left_path_dict[left_path[-1]].append(left_path)
-        for right_path in res_right_path_list:
-            end_point = right_path[-1]
-            if end_point in temp_left_path_dict:
-                for left_path in temp_left_path_dict[end_point]:
-                    res_token.add(ht_conn.join([left_path[0], right_path[0]]))
-        return [ht_token.split(ht_conn) for ht_token in res_token], res_token
+        res_token_set = set()
+        res_ht_list = []
+        if left_empty and left_step == 0:
+            for right_path in res_right_path_list:
+                token = ht2token(right_path[-1], right_path[0])
+                if token not in res_token_set:
+                    res_token_set.add(token)
+                    res_ht_list.append([right_path[-1], right_path[0]])
+        elif not left_empty and right_step == 0:
+            for left_path in res_left_path_list:
+                token = ht2token(left_path[0], left_path[-1])
+                if token not in res_token_set:
+                    res_token_set.add(token)
+                    res_ht_list.append([left_path[0], left_path[-1]])
+        else:
+            left_end_dict = {}
+            for left_path in res_left_path_list:
+                if left_path[-1] not in left_end_dict:
+                    left_end_dict[left_path[-1]] = []
+                left_end_dict[left_path[-1]].append(left_path)
+
+            for right_path in res_right_path_list:
+                end_point = right_path[-1]
+                if end_point in left_end_dict:
+                    for left_path in left_end_dict[end_point]:
+                        res_token_set.add(ht2token(left_path[0], right_path[0]))
+                        res_ht_list.append([left_path[0], right_path[0]])
+        return res_ht_list, res_token_set
 
 
 if __name__ == "__main__":
     util = Util()
-    source_folder = "./source/"
+    # source_folder = "./source/"
     source_folder = "F:\\Data\\FB15K-237\\source\\"
     output_folder = "F:\\Data\\FB15K-237\\output\\"
     e2idx_file = source_folder + "e2idx.txt"
@@ -748,7 +859,7 @@ if __name__ == "__main__":
         folder = output_folder + util.gen_prefix(relation_list[idx]) + file_path_seg
         if not os.path.isdir(folder):
             os.makedirs(folder)
-        graph.get_r_model(r_idx=r_idx, max_step=3, top_rules_num=200, folder=folder)
+        graph.get_r_model(r_idx=r_idx, folder=folder)
         r_rules_dict[r_idx] = graph.get_top_k_rules(r_idx, 5, 'P')
 
     for key in r_rules_dict.keys():

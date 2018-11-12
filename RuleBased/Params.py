@@ -35,3 +35,15 @@ posi_num_per_rule = 100
 nege_num_per_rule = 100
 
 test_model = False
+
+'''
+Parameters for classifier:
+'''
+epoch = 200
+mini_batch = 500
+
+'''
+Parameters for rule
+'''
+max_step = 3
+rule_num4train = 200

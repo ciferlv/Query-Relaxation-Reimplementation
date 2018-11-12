@@ -16,7 +16,7 @@ import threading
 # for rule in rule_list_sorted_by_recall:
 #     print("{}".format(rule))
 
-# def test():
+# def FTEST():
 #     for i in range(5):
 #         print(" {}".format( i))
 #
@@ -25,7 +25,7 @@ import threading
 #
 # for n in array_n:
 #     print("{}".format(n))
-#     tt = threading.Thread(target=test,)
+#     tt = threading.Thread(target=FTEST,)
 #     tt.start()
 #
 # print("dsfsdfsdfsdfsdf")

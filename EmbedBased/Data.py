@@ -1,6 +1,6 @@
 
 # rdf_file = "F:\Data\dbpedia\mappingbased_objects_en.ttl"
-rdf_file = "./data/test"
+rdf_file = "./data/FTEST"
 e2idx_file = "./data/e2idx.txt"
 r2idx_file = "./data/r2idx.txt"
 triple2idx_file = "./data/triple2idx.txt"

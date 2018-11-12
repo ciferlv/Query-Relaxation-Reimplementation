@@ -128,6 +128,6 @@ if __name__ == "__main__":
             ?film <http://dbpedia.org/ontology/starring> ?p.
             ?p <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Europe>.
         }"""
-    ag = AnswerGenerator(sparql_query, "test")
+    ag = AnswerGenerator(sparql_query, "FTEST")
     ag.search_candidates()
     ag.display_cands()

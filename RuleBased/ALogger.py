@@ -19,7 +19,7 @@ class ALogger:
         return self.logger
 
     def setFileHandler(self, file_path):
-        file_handler = logging.FileHandler("test.log")
+        file_handler = logging.FileHandler("FTEST.log")
         file_handler.setFormatter(self.fmt)
         self.logger.addHandler(file_handler)
 

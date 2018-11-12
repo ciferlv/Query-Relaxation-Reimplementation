@@ -120,14 +120,16 @@ class Rule:
         mycursor = mydb.cursor()
         mycursor.execute(query)
         fetched = mycursor.fetchall()
-        assert len(fetched) <= 1, "Duplicate relation:rulepath in MYSQL."
         if len(fetched) == 0:
             return False
         for row in fetched:
             self.rule_len = int(row[3])
-            self.correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[4].split(ht_seg)]]
-            self.wrong_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[5].split(ht_seg)]]
-            self.no_idea_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[6].split(ht_seg)]]
+            if len(row[4]) != 0:
+                self.correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[4].split(ht_seg)]]
+            if len(row[5]) != 0:
+                self.wrong_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[5].split(ht_seg)]]
+            if len(row[6]) != 0:
+                self.no_idea_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[6].split(ht_seg)]]
             self.P = row[7]
             self.R = row[8]
             self.F1 = row[9]
@@ -142,22 +144,24 @@ class Rule:
     
     Retures:
     -----------
-    positives: list 
+    positives: list, [[h_idx,t_idx],[h_idx,t_idx],[h_idx,t_idx],...]
                the sampled positive data
-    negetives: list
+    negetives: list, [[h_idx,t_idx],[h_idx,t_idx],[h_idx,t_idx],...]
                the sampled negetive data
     """
 
     def sample_train_data(self, posi_num, nege_num):
+        sampled_correct_ht = []
+        sampled_wrong_ht = []
         assert len(self.correct_ht) != 0 and len(self.wrong_ht) != 0, "Haven't load correct/wrong ht"
         if posi_num > len(self.correct_ht):
-            sampled_correct_ht = self.correct_ht
+            sampled_correct_ht.extend(self.correct_ht)
         else:
-            sampled_correct_ht = random.sample(self.correct_ht, posi_num)
+            sampled_correct_ht.extend(random.sample(self.correct_ht, posi_num))
         if nege_num > len(self.wrong_ht):
-            sampled_wrong_ht = self.wrong_ht
+            sampled_wrong_ht.extend(self.wrong_ht)
         else:
-            sampled_wrong_ht = random.sample(self.wrong_ht, nege_num)
+            sampled_wrong_ht.extend(random.sample(self.wrong_ht, nege_num))
         return sampled_correct_ht, sampled_wrong_ht
     #
     # """

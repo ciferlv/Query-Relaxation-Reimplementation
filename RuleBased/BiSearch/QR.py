@@ -1,10 +1,11 @@
 import os
 import threading
 import numpy as np
+import queue
 
 from RuleBased.BiSearch.Graph import Graph
 from RuleBased.BiSearch.SparqlParser import SparqlParser
-from RuleBased.Params import file_path_seg, ht_conn
+from RuleBased.Params import file_path_seg, ht_conn, max_step
 from RuleBased.Util import Util
 
 util = Util()
@@ -40,7 +41,7 @@ def train_rules():
         folder = output_folder + util.gen_prefix(r_name_list[idx]) + file_path_seg
         if not os.path.isdir(folder):
             os.makedirs(folder)
-        thread_list.append(threading.Thread(target=graph.get_r_model, args=[r_idx, 3, 200, folder]))
+        thread_list.append(threading.Thread(target=graph.get_r_model, args=[r_idx, folder]))
         # graph.get_r_model(r_idx=r_idx, max_step=3, top_rules_num=200, folder=folder)
     [t.start() for t in thread_list]
     [t.join() for t in thread_list]
@@ -50,59 +51,3 @@ def gen_rules_dict():
     for r_idx in r_idx_list:
         r_rules_dict[r_idx] = graph.get_top_k_rules(r_idx, 5, 'P')
 
-
-def execute_var1BGP():
-    for var in sp.var1BGP:
-        for BGP in sp.var1BGP[var]:
-            if BGP[0].startswith("?"):
-                h_idx_list = []
-                t_idx_list = [BGP[2]]
-                tar_var = BGP[0]
-                idx_of_var = 0
-            else:
-                h_idx_list = [BGP[0]]
-                t_idx_list = []
-                tar_var = BGP[2]
-                idx_of_var = 1
-
-            rule_list = r_rules_dict[graph.r2idx[BGP[1]]]
-            rule_list.append([graph.r2idx[BGP[1]]])
-            passed_ht = []
-
-            for rule in rule_list:
-                temp_passed_ht = graph.get_passed_ht_from_one_end(h_idx_list, t_idx_list, rule)
-                passed_ht.extend(temp_passed_ht)
-
-            if len(sp.var2entity[tar_var]) == 0:
-                temp_res = set()
-                for ht in passed_ht:
-                    temp_res.add(ht[idx_of_var])
-                sp.var2entity[tar_var] = temp_res
-            else:
-                temp_res = set()
-                for ht in passed_ht:
-                    temp_res.add(ht[idx_of_var])
-                sp.var2entity[tar_var] = temp_res & sp.var2entity[tar_var]
-
-
-def execute_var2BGP():
-    for token in sp.var2BGP:
-        h_var, r_name, t_var = sp.var2BGP[token]
-        h_idx_list = list(sp.var2entity[h_var])
-        t_idx_list = list(sp.var2entity[t_var])
-
-        rule_list = r_rules_dict[graph.r2idx[r_name]]
-        rule_list.append([graph.r2idx[r_name]])
-
-        assert (len(h_idx_list) == 0 and len(t_idx_list) == 0), "Wrong var2BGP"
-        if len(h_idx_list) == 0 or len(t_idx_list) == 0:
-            passed_ht_token_set = set()
-            for rule in rule_list:
-                temp_passed_ht, temp_passed_token = graph.get_passed_ht_from_one_end(h_idx_list, t_idx_list, rule)
-                passed_ht_token_set = passed_ht_token_set | temp_passed_ht
-
-            passed_ht = [ht_token.split(ht_conn) for ht_token in passed_ht_token_set]
-            sp.update_res_var2entity(h_var, t_var, passed_ht, passed_ht_token_set)
-        else:
-            passed_ht_list, passed_ht_token_set = graph.pass_verify(h_idx_list, t_idx_list, rule_list)
-            sp.update_res_var2entity(h_var, t_var, passed_ht_list, passed_ht_token_set)
