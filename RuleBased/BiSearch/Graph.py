@@ -687,8 +687,9 @@ class Graph:
     Find h and t which can pass at least one rule of rule_list
     Parameters:
     -----------
-    h_idx_list: list, a list of h_idx
-    t_idx_list: list, a list of t_idx
+    h_idx_list: list, a list of h_idx, [e_idx,e_idx,...]
+    t_idx_list: list, a list of t_idx, [e_idx,e_idx,...]
+    rule_list: list, a list of rules, [[r_idx,r_idx],[r_idx,r_idx,r_idx],...]
     
     Returns:
     -----------
@@ -776,14 +777,15 @@ class Graph:
     h_idx_list: list, list of h_idx, [h_idx,h_idx,...]
     t_idx_list: list, list of t_idx, [t_idx,t_idx,...]
     rule: list, list of r_idx, [r_idx,r_idx,r_idx,...]
+    passed_ht_token_set: set, (['h,t','h,t',...],set())
+    a set of tokens of passed ht
     
     Returns:
     -----------
     out1: list, [[h_idx,t_idx],[h_idx,t_idx],[h_idx,t_idx],...]
-    out2: list, token of out1, token=>h,t
     '''
 
-    def get_passed_ht_from_one_end(self, h_idx_list, t_idx_list, rule):
+    def get_ht_from_one_end(self, h_idx_list, t_idx_list, rule, passed_ht_token_set):
         assert (len(h_idx_list) != 0 or len(t_idx_list) != 0), "Can't get ht from one end."
 
         def ht2token(h, t):
@@ -793,48 +795,65 @@ class Graph:
         res_right_path_list = [[t_idx] for t_idx in t_idx_list]
         left_empty = True if len(h_idx_list) == 0 else False
 
-        left_step = 0
-        right_step = 0
-        while len(rule) - (left_step + right_step) > 0:
-            if left_step == 0 and right_step == 0:
-                from_left = len(res_left_path_list) > len(res_right_path_list)
-            else:
-                from_left = len(res_left_path_list) < len(res_right_path_list)
-            if from_left:
-                left_step += 1
-                res_left_path_list = self.get_ht_path_from_left(res_left_path_list, rule[left_step - 1])
-            else:
-                right_step += 1
-                res_right_path_list = self.get_ht_path_from_right(res_right_path_list, rule[-right_step])
-
-        res_token_set = set()
-        res_ht_list = []
-        if left_empty and left_step == 0:
-            for right_path in res_right_path_list:
-                token = ht2token(right_path[-1], right_path[0])
-                if token not in res_token_set:
-                    res_token_set.add(token)
-                    res_ht_list.append([right_path[-1], right_path[0]])
-        elif not left_empty and right_step == 0:
-            for left_path in res_left_path_list:
-                token = ht2token(left_path[0], left_path[-1])
-                if token not in res_token_set:
-                    res_token_set.add(token)
-                    res_ht_list.append([left_path[0], left_path[-1]])
+        if not left_empty:
+            for r_idx in rule:
+                res_left_path_list = self.get_ht_path_from_left(res_left_path_list, r_idx)
         else:
-            left_end_dict = {}
-            for left_path in res_left_path_list:
-                if left_path[-1] not in left_end_dict:
-                    left_end_dict[left_path[-1]] = []
-                left_end_dict[left_path[-1]].append(left_path)
+            for r_idx in list(reversed(rule)):
+                res_right_path_list = self.get_ht_path_from_right(res_right_path_list, r_idx)
 
-            for right_path in res_right_path_list:
-                end_point = right_path[-1]
-                if end_point in left_end_dict:
-                    for left_path in left_end_dict[end_point]:
-                        res_token_set.add(ht2token(left_path[0], right_path[0]))
-                        res_ht_list.append([left_path[0], right_path[0]])
-        return res_ht_list, res_token_set
+        temp_res_ht_list = res_right_path_list if left_empty else res_left_path_list
+        res_ht_list = []
+
+        for ht_path in temp_res_ht_list:
+            h = ht_path[-1] if left_empty else ht_path[0]
+            t = ht_path[0] if left_empty else ht_path[-1]
+            token = ht2token(h, t)
+            if token not in passed_ht_token_set:
+                passed_ht_token_set.add(token)
+                res_ht_list.append([h, t])
+        # left_step = 0
+        # right_step = 0
+        # while len(rule) - (left_step + right_step) > 0:
+        #     if left_step == 0 and right_step == 0:
+        #         from_left = len(res_left_path_list) > len(res_right_path_list)
+        #     else:
+        #         from_left = len(res_left_path_list) < len(res_right_path_list)
+        #     if from_left:
+        #         left_step += 1
+        #         res_left_path_list = self.get_ht_path_from_left(res_left_path_list, rule[left_step - 1])
+        #     else:
+        #         right_step += 1
+        #         res_right_path_list = self.get_ht_path_from_right(res_right_path_list, rule[-right_step])
+        #
+        # res_token_set = set()
+        # res_ht_list = []
+        # if left_empty and left_step == 0:
+        #     for right_path in res_right_path_list:
+        #         token = ht2token(right_path[-1], right_path[0])
+        #         if token not in res_token_set:
+        #             res_token_set.add(token)
+        #             res_ht_list.append([right_path[-1], right_path[0]])
+        # elif not left_empty and right_step == 0:
+        #     for left_path in res_left_path_list:
+        #         token = ht2token(left_path[0], left_path[-1])
+        #         if token not in res_token_set:
+        #             res_token_set.add(token)
+        #             res_ht_list.append([left_path[0], left_path[-1]])
+        # else:
+        #     left_end_dict = {}
+        #     for left_path in res_left_path_list:
+        #         if left_path[-1] not in left_end_dict:
+        #             left_end_dict[left_path[-1]] = []
+        #         left_end_dict[left_path[-1]].append(left_path)
+        #
+        #     for right_path in res_right_path_list:
+        #         end_point = right_path[-1]
+        #         if end_point in left_end_dict:
+        #             for left_path in left_end_dict[end_point]:
+        #                 res_token_set.add(ht2token(left_path[0], right_path[0]))
+        #                 res_ht_list.append([left_path[0], right_path[0]])
+        return res_ht_list
 
 
 if __name__ == "__main__":

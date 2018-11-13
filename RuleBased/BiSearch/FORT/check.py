@@ -48,7 +48,7 @@ def test_modules_train():
 def test_sparql_parser():
     sparql = """
     select * where {
-        
+        ?p       /film/film/language	?q.
         /m/06dv3	 /film/actor/film./film/performance/film	?p.
     }
     """
@@ -67,8 +67,18 @@ def test_sparql_parser():
     for r_idx in r_idx_list:
         r_rules_dict[r_idx] = graph.get_top_k_rules(r_idx, 5, 'P')
 
+    print("Start executing 1 var BGP.")
     sp.execute_var1BGP(r_rules_dict, graph)
+
+    print("Start executin 2 var BGP.")
     sp.execute_var2BGP(r_rules_dict, graph)
+
+    p_var_idx = sp.var_list.index('?p')
+    q_var_idx = sp.var_list.index('?q')
+
+    for one_res in sp.res:
+        if one_res[p_var_idx][0] == 159 and one_res[q_var_idx][0] == 160:
+            print('sdfsdfsdf')
 
 
 if __name__ == "__main__":

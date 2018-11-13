@@ -87,14 +87,14 @@ class SparqlParser:
     '''
 
     def update_res_var2entity(self, h_var, t_var, passed_ht_list, passed_ht_token_set):
-        h_res_idx = sp.var_list.index(h_var)
-        t_res_idx = sp.var_list.index(t_var)
+        h_res_idx = self.var_list.index(h_var)
+        t_res_idx = self.var_list.index(t_var)
         h_set = set()
         t_set = set()
 
         if len(self.res) == 0:
             for ht in passed_ht_list:
-                copy_res = self.temp_res
+                copy_res = self.temp_res[:]
                 copy_res[h_res_idx] = [ht[0]]
                 copy_res[t_res_idx] = [ht[-1]]
                 self.res.append(copy_res)
@@ -135,64 +135,54 @@ class SparqlParser:
                 if BGP[0].startswith("?"):
                     h_idx_list = []
                     t_idx_list = [graph.e2idx[BGP[2]]]
-                    tar_var = BGP[0]
                     idx_of_var = 0
                 else:
                     h_idx_list = [graph.e2idx[BGP[0]]]
                     t_idx_list = []
-                    tar_var = BGP[2]
                     idx_of_var = 1
 
-                rule_path_list=[[graph.r2idx[BGP[1]]]]
+                rule_path_list = [[graph.r2idx[BGP[1]]]]
                 rule_path_list.extend([rule_obj.r_path for rule_obj in r_rules_dict[graph.r2idx[BGP[1]]]])
 
+                passed_ht_token = set()
                 passed_ht = []
-
                 for rule_path in rule_path_list:
-                    temp_passed_ht, temp_passed_ht_token = graph.get_passed_ht_from_one_end(h_idx_list, t_idx_list,
-                                                                                            rule_path)
+                    temp_passed_ht = graph.get_ht_from_one_end(h_idx_list, t_idx_list, rule_path, passed_ht_token)
                     passed_ht.extend(temp_passed_ht)
 
-                if len(self.var2entity[tar_var]) == 0:
-                    temp_res = set()
-                    for ht in passed_ht:
-                        temp_res.add(ht[idx_of_var])
-                    self.var2entity[tar_var] = temp_res
-                else:
-                    temp_res = set()
-                    for ht in passed_ht:
-                        temp_res.add(ht[idx_of_var])
-                    self.var2entity[tar_var] = temp_res & self.var2entity[tar_var]
+                temp_res = set([ht[idx_of_var] for ht in passed_ht])
+                self.var2entity[var] = temp_res if len(self.var2entity[var]) == 0 else temp_res & self.var2entity[var]
 
     def execute_var2BGP(self, r_rules_dict, graph):
         BGP_queue = queue.Queue()
-        for token in self.var2BGP:
-            BGP_queue.put(token)
+        [BGP_queue.put(token) for token in self.var2BGP]
+
         while not BGP_queue.empty():
             token = BGP_queue.get()
-            h_var, r_name, t_var = self.var2BGP[token]
-            h_idx_list = list(self.var2entity[h_var])
-            t_idx_list = list(self.var2entity[t_var])
+            for BGP in self.var2BGP[token]:
+                print("Start executin {}".format(" ".join(BGP)))
+                h_var, r_name, t_var = BGP
+                h_idx_list = list(self.var2entity[h_var])
+                t_idx_list = list(self.var2entity[t_var])
 
-            rule_list = r_rules_dict[graph.r2idx[r_name]]
-            rule_list.append([graph.r2idx[r_name]])
+                rule_path_list = [[graph.r2idx[r_name]]]
+                rule_path_list.extend([rule_obj.r_path for rule_obj in r_rules_dict[graph.r2idx[r_name]]])
 
-            if len(h_idx_list) == 0 and len(t_idx_list) == 0:
-                BGP_queue.put(token)
-                print("size of h_idx_list and size of t_idx_list are zero.")
-                continue
+                if len(h_idx_list) == 0 and len(t_idx_list) == 0:
+                    BGP_queue.put(token)
+                    print("size of h_idx_list and size of t_idx_list are zero.")
+                    continue
 
-            if len(h_idx_list) == 0 or len(t_idx_list) == 0:
-                passed_ht_token_set = set()
-                for rule in rule_list:
-                    temp_passed_ht, temp_passed_token = graph.get_passed_ht_from_one_end(h_idx_list, t_idx_list, rule)
-                    passed_ht_token_set = passed_ht_token_set | temp_passed_ht
+                if len(h_idx_list) == 0 or len(t_idx_list) == 0:
+                    passed_ht_token_set = set()
+                    for rule in rule_path_list:
+                        graph.get_ht_from_one_end(h_idx_list, t_idx_list, rule, passed_ht_token_set)
 
-                passed_ht = [ht_token.split(ht_conn) for ht_token in passed_ht_token_set]
-                self.update_res_var2entity(h_var, t_var, passed_ht, passed_ht_token_set)
-            else:
-                passed_ht_list, passed_ht_token_set = graph.pass_verify(h_idx_list, t_idx_list, rule_list)
-                self.update_res_var2entity(h_var, t_var, passed_ht_list, passed_ht_token_set)
+                    passed_ht = [list(map(int, ht_token.split(ht_conn))) for ht_token in passed_ht_token_set]
+                    self.update_res_var2entity(h_var, t_var, passed_ht, passed_ht_token_set)
+                else:
+                    passed_ht_list, passed_ht_token_set = graph.pass_verify(h_idx_list, t_idx_list, rule_path_list)
+                    self.update_res_var2entity(h_var, t_var, passed_ht_list, passed_ht_token_set)
 
 
 if __name__ == "__main__":
