@@ -1,6 +1,6 @@
 import mysql.connector
 
-from RuleBased.Params import ht_seg, ht_conn, mydb, database, rule_seg
+from RuleBased.Params import ht_seg, ht_conn, mydb, database, rule_seg, num_2_display_4_cand_bgp_rule_path
 import random
 
 
@@ -239,3 +239,40 @@ class Rule:
     #     if self.is_wrong_ht(ht): return True
     #     if self.is_no_idea_ht(ht): return True
     #     return False
+
+
+class Candidate:
+    def __init__(self, candidate_list):
+        self.candidate_list = candidate_list
+        self.body_bgp = []
+        self.pra_conf = {}
+        self.transe_conf = {}
+        self.bgp_path_dict = {}
+        for one_bgp_list in self.body_bgp:
+            self.bgp_path_dict["\t".join(one_bgp_list)] = []
+
+    def add_complished_bgp(self, one_bgp_str):
+        self.body_bgp.append(one_bgp_str)
+
+    def add_path_idx_for_bgp(self, path_list, one_bgp_str):
+        self.bgp_path_dict[one_bgp_str] = path_list
+
+    def add_pra_conf_for_bgp(self, pra_conf, one_bgp_str):
+        self.pra_conf[one_bgp_str] = pra_conf
+
+    def display_rule_path(self, graph):
+        res_str = ""
+        for one_bgp_str in self.body_bgp:
+            res_str += "{} pra_conf: {}\n".format(one_bgp_str, self.pra_conf[one_bgp_str])
+            for idx, one_path in enumerate(graph.display_e_r_path(self.bgp_path_dict[one_bgp_str])):
+                if idx >= num_2_display_4_cand_bgp_rule_path:
+                    break
+                res_str += "{}\n".format("=>".join(one_path))
+            res_str += "\n"
+        return res_str.strip()
+
+    def display_var2entity(self, var_list):
+        res_str = ""
+        for var_idx, var_name in enumerate(var_list):
+            res_str += "{}:[]\t".format(var_name, self.candidate_list[var_idx])
+        return res_str.strip()

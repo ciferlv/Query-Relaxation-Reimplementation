@@ -20,12 +20,12 @@ database = ' fb15k '
 For a relation, we sample its ht to search the path which can conclude to it,
 this parameter is the number of ht sampled.
 '''
-sampled_num_to_search_rule = 10
+sampled_num_to_search_rule = 10000
 
 '''
 The first filter of rules searched, saving the rules tha occur frequently.
 '''
-top_frequency_rule_num = 10
+top_frequency_rule_num = 1000
 
 '''
 To train classifier, we sample positive and negetive instance for every rule saved,
@@ -47,3 +47,20 @@ Parameters for rule
 '''
 max_step = 3
 rule_num4train = 200
+
+'''
+Dict for the prefixes of uri
+'''
+prefix_uri = {"http://dbpedia.org/ontology/": "dbo",
+              "http://www.w3.org/1999/02/22-rdf-syntax-ns#": "rdf",
+              "http://dbpedia.org/resource/": "dbr",
+              "http://dbpedia.org/property/": "dbp",
+              "http://www.w3.org/2000/01/rdf-schema#": "rdfs",
+              "http://www.w3.org/2002/07/owl#": "owl",
+              "http://xmlns.com/foaf/0.1/": "foaf",
+              "http://purl.org/dc/elements/1.1/": "dc"}
+
+'''
+For a candidate, there may be many rules for a BGP, this param determines the num to display.
+'''
+num_2_display_4_cand_bgp_rule_path = 3

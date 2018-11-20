@@ -1,11 +1,13 @@
 import queue
 
+from RuleBased.BiSearch.Triple import Candidate
 from RuleBased.Params import ht_conn
 
 
 class SparqlParser:
     def __init__(self, sparql):
         self.sparql = sparql
+        self.sparql_BGP = []
         self.var2entity = {}
         self.r_name_list = []
         '''[var1,var2,var3], sorted by alphabet order'''
@@ -37,6 +39,7 @@ class SparqlParser:
         '''
         self.res = []
         self.temp_res = []
+        self.cand_obj_list = []
 
     def parse_sparql(self):
         body_start_index = self.sparql.find("{")
@@ -45,6 +48,7 @@ class SparqlParser:
         for BGP in body.split("\n"):
             BGP = BGP.strip().strip(".")
             head, relation, tail = BGP.split()
+            self.sparql_BGP.append([head, relation, tail])
             self.r_name_list.append(relation)
             if head.startswith('?') and tail.startswith("?"):
                 token = ht_conn.join([head, tail])
@@ -183,6 +187,36 @@ class SparqlParser:
                 else:
                     passed_ht_list, passed_ht_token_set = graph.pass_verify(h_idx_list, t_idx_list, rule_path_list)
                     self.update_res_var2entity(h_var, t_var, passed_ht_list, passed_ht_token_set)
+
+    def gen_confidence(self, r_rules_dict, rule_model_dict, graph):
+        for cand in self.res:
+            cand_obj = Candidate(cand)
+            for one_bgp in self.sparql_BGP:
+                h_name = one_bgp[0]
+                r_idx = graph.r2idx[one_bgp[1]]
+                t_name = one_bgp[2]
+
+                h_name = cand[self.var_list.index(h_name)] if h_name.startswith("?") else h_name
+                t_name = cand[self.var_list.index(t_name)] if t_name.startswith("?") else t_name
+
+                one_bgp_str = "{}\t{}\t{}".format(h_name, one_bgp[1], t_name)
+                cand_obj.add_complished_bgp(one_bgp_str)
+
+                h_idx = graph.e2idx[h_name]
+                t_idx = graph.e2idx[t_name]
+
+                rule_list = r_rules_dict[r_idx]
+                features, res_path = graph.get_passed_e_r_path(h_idx, t_idx, rule_list)
+                pra_conf = rule_model_dict[r_idx].get_output_prob(features)
+                cand_obj.add_path_idx_for_bgp(res_path, one_bgp_str)
+                cand_obj.add_pra_conf_for_bgp(pra_conf, one_bgp_str)
+            self.cand_obj_list.append(cand_obj)
+
+    def display_cands(self, graph):
+        for cand in self.cand_obj_list:
+            print(cand.display_var2entity(self.var_list))
+            print(cand.display_rule_path(graph))
+        print()
 
 
 if __name__ == "__main__":

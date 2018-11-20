@@ -1,10 +1,16 @@
-from RuleBased.Params import mydb
+from RuleBased.Params import mydb, prefix_uri
 
-rdf_file = "F:\\Data\\dbpedia\\mappingbased_objects_en.ttl"
-e2idx_file = "./source/e2idx.txt"
-r2idx_file = "./source/r2idx.txt"
-triple2idx_file = "./source/triple2idx.txt"
-statistics_file = "./source/statistics.txt"
+folder = "F:\\Data\\dbpedia\\"
+rdf_file = folder + "mappingbased_objects_en.ttl"
+
+e2idx_file = folder + "e2idx.txt"
+e2idx_shortcut_file = folder + "e2idx_shortcut.txt"
+
+r2idx_file = folder + "r2idx.txt"
+r2idx_shortcut_file = folder + "r2idx_shortcut.txt"
+
+triple2idx_file = folder + "triple2idx.txt"
+statistics_file = folder + "statistics.txt"
 
 
 def data2idx():
@@ -76,6 +82,59 @@ def create_table():
     mydb.close()
 
 
+'''
+Change full name uri to its shortcut
+Parameters:
+-----------
+uri: string
+for example, <http://dbpedia.org/resource/Catalan_language>
+
+Returns:
+-----------
+out: string
+input uri's shortcut, for example, 'dbr:Catalan_language'
+'''
+
+
+def getShortcutName(uri):
+    shortcut_uri = None
+    uri = uri.strip().strip("<").strip(">")
+    for key in prefix_uri.keys():
+        if uri.startswith(key):
+            length = len(key)
+            shortcut_uri = "{}:{}".format(prefix_uri[key], uri[length:])
+            break
+    if shortcut_uri is None:
+        return "<" + uri + ">"
+    return shortcut_uri
+
+
+'''
+Shortcut every uri of e2idx.txt and r2idx.txt
+'''
+
+
+def shortCutURI():
+    e_res_str = ""
+    with open(e2idx_file, 'r', encoding="UTF-8") as f:
+        for i, line in enumerate(f.readlines()):
+            idx, name = line.strip().split()
+            e_res_str += "{}\t{}\n".format(idx, getShortcutName(name))
+    with open(e2idx_shortcut_file, 'w', encoding="UTF-8") as f:
+        f.write(e_res_str.strip())
+
+    r_res_str = ""
+    with open(r2idx_file, 'r', encoding="UTF-8") as f:
+        for line in f.readlines():
+            idx, name = line.strip().split()
+            r_res_str += "{}\t{}\n".format(idx, getShortcutName(name))
+    with open(r2idx_shortcut_file, 'w', encoding="UTF-8") as f:
+        f.write(r_res_str.strip())
+
+
 if __name__ == "__main__":
     # data2idx()
-    create_table()
+    # create_table()
+    # uri = "http://dbpedia.org/ontology/country"
+    # print(getShortcutName(uri))
+    shortCutURI()

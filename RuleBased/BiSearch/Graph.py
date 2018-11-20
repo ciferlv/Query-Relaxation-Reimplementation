@@ -3,6 +3,7 @@ from RuleBased.BiSearch.Triple import Node, Rule
 import random
 import numpy as np
 import os
+import queue
 
 from RuleBased.Classifier import LogisticRegression
 from RuleBased.Params import rule_seg, mydb, file_path_seg, database, ht_conn, ht_seg, sampled_num_to_search_rule, \
@@ -586,7 +587,7 @@ class Graph:
     Get features for one pair of h and t
     Parameters:
     -----------
-    rule_list: list, [[r_idx,r_idx,...],[],[],[],...]
+    rule_list: list, [Rule(),Rule(),Rule(),...]
     It stores a list of rules.
     ht: list, [[h,t],[h,t],[h,t],..]
     a list of h and t
@@ -854,6 +855,81 @@ class Graph:
         #                 res_token_set.add(ht2token(left_path[0], right_path[0]))
         #                 res_ht_list.append([left_path[0], right_path[0]])
         return res_ht_list
+
+    '''
+    Get the e_r path between h_idx and t_idx, meanwhile, get the features for rule_list
+    Parameters:
+    -----------
+    h_idx: int
+    The id of head.
+    t_idx: int
+    The id of tail.
+    rule_list: list [Rule(),Rule(),Rule(),....]
+    A list of rules to check.
+    
+    Returns:
+    ----------
+    features: list
+    Every entry indicates whether a rule is passed by h_idx and t_idx.
+    For example, [0,1,0,0,...]
+    path: list, [[-1,e,r,e,..,e,-1],[],[],....]
+    Passed path for every rule.
+    '''
+
+    def get_passed_e_r_path(self, h_idx, t_idx, rule_list):
+        features = []
+        res_path = []
+        [res_path.append([]) for _ in rule_list]
+        [features.append(0) for _ in rule_list]
+
+        for rule_idx, rule_obj in enumerate(rule_list):
+            rule_path = rule_obj.r_path
+            left_path_queue = queue.Queue()
+            right_path_queue = queue.Queue()
+            left_path_queue.put([-1, h_idx])
+            right_path_queue.put([-1, t_idx])
+            left_step = 0
+            right_step = 0
+            while len(rule_path) - (left_step + right_step) > 0:
+                left_size = left_path_queue.qsize()
+                right_size = right_path_queue.qsize()
+                if left_size < right_size:
+                    left_step += 1
+                    r_idx = rule_path[left_step - 1]
+                    out_queue_cnt = 0
+                    while not left_path_queue.empty() and out_queue_cnt < left_size:
+                        c_path = left_path_queue.get()
+                        out_queue_cnt += 1
+                        c_node = self.node_dict[c_path[-1]]
+                        for tail in c_node.get_tails_of_r_idx(r_idx):
+                            left_path_queue.put(c_path.copy().append(tail))
+                else:
+                    right_step += 1
+                    r_idx = rule_path[-right_step]
+                    inv_r_idx = self.convert_r(r_idx)
+                    out_queue_cnt = 0
+                    while not right_path_queue.empty() and out_queue_cnt < right_size:
+                        c_path = right_path_queue.get()
+                        out_queue_cnt += 1
+                        c_node = self.node_dict[c_path[-1]]
+                        for tail in c_node.get_tails_of_r_idx(inv_r_idx):
+                            right_path_queue.put(c_path.copy().append(tail))
+
+            left_dict = {}
+            while not left_path_queue.empty():
+                one_left_path = left_path_queue.get()
+                if one_left_path[-1] not in left_dict:
+                    left_dict[one_left_path[-1]] = []
+                left_dict[one_left_path[-1]].append(one_left_path)
+
+            while not right_path_queue.empty():
+                one_right_path = right_path_queue.get()
+                c_node_idx = one_right_path[-1]
+                if c_node_idx in left_dict:
+                    features[rule_idx] = 1
+                    for one_left_path in left_dict[c_node_idx]:
+                        res_path[rule_idx].append(one_left_path[:-1].append(reversed(one_right_path)))
+        return features, res_path
 
 
 if __name__ == "__main__":
