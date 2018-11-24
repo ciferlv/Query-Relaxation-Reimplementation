@@ -190,6 +190,20 @@ class SparqlParser:
                     self.update_res_var2entity(h_var, t_var, passed_ht_list, passed_ht_token_set)
 
     '''
+    The sparql may only have one variables, the self.searched_res can't be updated in before steps.
+    Update it in this function.
+    '''
+
+    def normalize_searched_res(self):
+        if len(self.searched_res) != 0:
+            return
+        assert len(self.var_list) == 0, "Can't normalize searched_res with more than two variables."
+
+        for var in self.var2entity:
+            for entity in self.var2entity[var]:
+                self.searched_res.append([[entity]])
+
+    '''
     Get confidence and rule path for every BGP of every candidate.
     Parameters:
     -----------

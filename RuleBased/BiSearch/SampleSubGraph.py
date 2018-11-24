@@ -1,6 +1,6 @@
 import os
 
-folder = "F:\\Data\\dbpedia\\"
+folder = "F:\\Data\\dbpedia\\All"
 rdf_file = folder + "mappingbased_objects_en.ttl"
 
 e2idx_file = folder + "e2idx.txt"

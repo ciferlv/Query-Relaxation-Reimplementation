@@ -628,7 +628,7 @@ class Graph:
     
     """
 
-    def get_r_model(self, r_idx, folder):
+    def get_pra_model4r(self, r_idx, folder):
         print('Get model for Relation: {}'.format(self.idx2r[r_idx]))
         statistics_file = folder + "statistics.txt"
         train_x_file = folder + "train_x.npy"
@@ -1200,7 +1200,7 @@ if __name__ == "__main__":
         folder = output_folder + util.gen_prefix(relation_list[idx]) + file_path_seg
         if not os.path.isdir(folder):
             os.makedirs(folder)
-        graph.get_r_model(r_idx=r_idx, folder=folder)
+        graph.get_pra_model4r(r_idx=r_idx, folder=folder)
         r_rules_dict[r_idx] = graph.get_top_k_rules(r_idx, 5, 'P')
 
     for key in r_rules_dict.keys():

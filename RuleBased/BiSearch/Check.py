@@ -37,8 +37,8 @@ def test_modules_train():
     for idx, r_idx in enumerate(r_idx_list):
         folder = output_folder + util.gen_prefix(r_name_list[idx]) + file_path_seg
         thread_list.append(
-            threading.Thread(target=graph.get_r_model, args=[r_idx, max_step, top_rules_to_use_num, folder]))
-        graph.get_r_model(r_idx=r_idx, folder=folder)
+            threading.Thread(target=graph.get_pra_model4r, args=[r_idx, max_step, top_rules_to_use_num, folder]))
+        graph.get_pra_model4r(r_idx=r_idx, folder=folder)
         # graph.test_model(graph.idx2r[r_idx], folder=folder)
     #
     # [t.start() for t in thread_list]

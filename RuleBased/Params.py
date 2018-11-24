@@ -99,3 +99,8 @@ When test a model, we want to sample neges from every relation,
 this parameter control the number of neges to sample.
 '''
 test_nege_sample_num = 10
+
+'''
+This parameter determines the num of rules to ues to search candidates.
+'''
+rules_num_2_search_cands = 5
