@@ -2,8 +2,8 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 import math
 import random
 
-from RuleBased.ALogger import ALogger
-from RuleBased.unit.Triple import Triple
+from RuleBased.VirtuosoSearch.ALogger import ALogger
+from RuleBased.VirtuosoSearch.unit.Triple import Triple
 
 sparql_database = "http://210.28.132.61:8898/sparql"
 

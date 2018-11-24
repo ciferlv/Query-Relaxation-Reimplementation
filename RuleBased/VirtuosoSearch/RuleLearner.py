@@ -6,11 +6,11 @@ import queue
 import numpy as np
 from sklearn.model_selection import train_test_split
 
-from RuleBased.ALogger import ALogger
+from RuleBased.VirtuosoSearch.ALogger import ALogger
 from RuleBased.Classifier import LogisticRegression
-from RuleBased.Util import Util
-from RuleBased.unit.Rule import Rule
-from RuleBased.unit.Triple import Triple
+from RuleBased.VirtuosoSearch.Util import Util
+from RuleBased.VirtuosoSearch.unit.Rule import Rule
+from RuleBased.VirtuosoSearch.unit.Triple import Triple
 
 sparql_database = "http://210.28.132.61:8898/sparql"
 

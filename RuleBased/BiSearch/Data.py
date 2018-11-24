@@ -1,6 +1,11 @@
-from RuleBased.Params import mydb, prefix_uri
+import sys
+import os
+
+sys.path.append(os.path.join(os.path.dirname(__file__), "..", ".."))
+from RuleBased.Params import mydb, prefix_uri, database
 
 folder = "F:\\Data\\dbpedia\\"
+# folder = sys.argv[1]
 rdf_file = folder + "mappingbased_objects_en.ttl"
 
 e2idx_file = folder + "e2idx.txt"
@@ -26,6 +31,11 @@ def data2idx():
                 print(line.strip())
                 continue
             h, r, t = line.strip().strip(".").split()
+
+            h = getShortcutName(h)
+            r = getShortcutName(r)
+            t = getShortcutName(t)
+
             if h not in e2idx:
                 e2idx[h] = e_cnt
                 e_cnt += 1
@@ -46,10 +56,10 @@ def data2idx():
         f.write("Relation Num: {}\n".format(r_cnt))
         f.write("Triple Num: {}\n".format(triple_cnt))
 
-    with open(e2idx_file, 'w', encoding="UTF-8") as f:
+    with open(e2idx_shortcut_file, 'w', encoding="UTF-8") as f:
         for e_name in e2idx:
             f.write("{}\t{}\n".format(e2idx[e_name], e_name))
-    with open(r2idx_file, 'w', encoding="UTF-8") as f:
+    with open(r2idx_shortcut_file, 'w', encoding="UTF-8") as f:
         for r_name in r2idx:
             f.write("{}\t{}\n".format(r2idx[r_name], r_name))
     with open(triple2idx_file, 'w', encoding="UTF-8") as f:
@@ -59,7 +69,7 @@ def data2idx():
 
 def create_table():
     sql = """
-    CREATE TABLE IF NOT EXISTS `fb15k`(
+    CREATE TABLE IF NOT EXISTS `""" + database + """`(
         `id` INT UNSIGNED AUTO_INCREMENT,
         `relation_idx` VARCHAR(200) NOT NULL,
         `rule_key` VARCHAR(200) NOT NULL,
@@ -133,8 +143,8 @@ def shortCutURI():
 
 
 if __name__ == "__main__":
-    # data2idx()
+    data2idx()
     # create_table()
     # uri = "http://dbpedia.org/ontology/country"
     # print(getShortcutName(uri))
-    shortCutURI()
+    # shortCutURI()

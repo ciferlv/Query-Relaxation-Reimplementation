@@ -17,33 +17,46 @@ class Node:
     def __init__(self, e_key):
         self.e_key = int(e_key)
         self.path_list = []
+        self.path_dict = {}
 
     def addPath(self, r, e):
+        r = int(r)
+        e = int(e)
         self.path_list.append(Path(r=r, e=e))
+        if r not in self.path_dict:
+            self.path_dict[r] = []
+        self.path_dict[r].append(e)
 
     def get_tails_of_r_idx(self, r_idx):
-        tail_list = []
-        for p in self.path_list:
-            if int(p.r) == int(r_idx):
-                tail_list.append(p.e)
-
-        return tail_list
+        if r_idx not in self.path_dict:
+            return []
+        return self.path_dict[r_idx]
+        # tail_list = []
+        # for p in self.path_list:
+        #     if int(p.r) == int(r_idx):
+        #         tail_list.append(p.e)
+        # return tail_list
 
     def has_r(self, r_idx):
-        for p in self.path_list:
-            if r_idx == p.r: return True
-        return False
+        return r_idx in self.path_dict
+        # for p in self.path_list:
+        #     if r_idx == p.r: return True
+        # return False
 
     def has_r_t(self, r_idx, t_idx):
-        has_r = False
-        has_r_t = False
-        for p in self.path_list:
-            if p.r == r_idx:
-                has_r = True
-                if p.e == t_idx:
-                    has_r_t = True
-                    break
-        return has_r, has_r_t
+        if r_idx not in self.path_dict:
+            return False, False
+        else:
+            return True, t_idx in self.path_dict[r_idx]
+        # has_r = False
+        # has_r_t = False
+        # for p in self.path_list:
+        #     if p.r == r_idx:
+        #         has_r = True
+        #         if p.e == t_idx:
+        #             has_r_t = True
+        #             break
+        # return has_r, has_r_t
 
 
 class Rule:
@@ -80,8 +93,9 @@ class Rule:
 
         self.R = len(self.correct_ht) / len(r2ht[self.r_idx])
         self.P = len(self.correct_ht) / len(self.passHT)
-        self.F1 = 2 * self.R * self.P / (self.P + self.R)
-        assert self.P != 0 and self.R != 0, "P R F1 has wrong calculation"
+        # assert self.P != 0 and self.R != 0, "P R F1 has wrong calculation"
+        if self.R != 0 or self.P != 0:
+            self.F1 = 2 * self.R * self.P / (self.P + self.R)
 
     def sample_ht(self, ht_list, sampled_num):
         if sampled_num < len(ht_list):
@@ -100,7 +114,7 @@ class Rule:
         wrong_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.wrong_ht])
         no_idea_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.no_idea_ht])
 
-        query = "INSERT INTO" + database + "  ( relation_idx,rule_key,rule_len,correct_ht,wrong_ht,no_idea_ht,P,R,F1 ) VALUES ({},'{}',{},'{}','{}','{}',{},{},{});" \
+        query = "INSERT INTO " + database + "  ( relation_idx,rule_key,rule_len,correct_ht,wrong_ht,no_idea_ht,P,R,F1,rule4train) VALUES ({},'{}',{},'{}','{}','{}',{},{},{},-1);" \
             .format(self.r_idx, self.rule_key, self.rule_len, correct_ht_str, wrong_ht_str,
                     no_idea_ht_str, self.P, self.R, self.F1)
         mycursor = mydb.cursor()
@@ -115,7 +129,7 @@ class Rule:
         mydb.close()
 
     def restoreFromMysql(self):
-        query = "select * from" + database + \
+        query = "select * from " + database + \
                 " where relation_idx = {} and rule_key = '{}';".format(self.r_idx, self.rule_key)
         mycursor = mydb.cursor()
         mycursor.execute(query)
@@ -153,7 +167,7 @@ class Rule:
     def sample_train_data(self, posi_num, nege_num):
         sampled_correct_ht = []
         sampled_wrong_ht = []
-        assert len(self.correct_ht) != 0 and len(self.wrong_ht) != 0, "Haven't load correct/wrong ht"
+        assert len(self.correct_ht) != 0 or len(self.wrong_ht) != 0, "Haven't load correct/wrong ht"
         if posi_num > len(self.correct_ht):
             sampled_correct_ht.extend(self.correct_ht)
         else:
@@ -163,82 +177,20 @@ class Rule:
         else:
             sampled_wrong_ht.extend(random.sample(self.wrong_ht, nege_num))
         return sampled_correct_ht, sampled_wrong_ht
-    #
-    # """
-    # Test if a ht is in this rule's correct_ht_list.
-    # Parameters:
-    # -----------
-    # ht: list
-    # a list of two length, for example, [head,tail]
-    #
-    # Returns:
-    # -----------
-    # out: boolean
-    # If this ht is in correct_ht.
-    # """
-    #
-    # def is_correct_ht(self, ht):
-    #     for c_ht in self.correct_ht:
-    #         if c_ht[0] == ht[0] and c_ht[1] == ht[1]:
-    #             return True
-    #     return False
-    #
-    # """
-    # Test if a ht is in this rule's wrong_ht_list.
-    # Parameters:
-    # -----------
-    # ht: list
-    # a list of two length, for example, [head,tail]
-    #
-    # Returns:
-    # -----------
-    # out: boolean
-    # True if this ht is in wrong_ht_list, False otherwise.
-    # """
-    #
-    # def is_wrong_ht(self, ht):
-    #     for w_ht in self.wrong_ht:
-    #         if w_ht[0] == ht[0] and w_ht[1] == ht[1]:
-    #             return True
-    #     return False
-    #
-    # """
-    # Test if a ht is in this rule's no_idea_ht_list.
-    # Parameters:
-    # -----------
-    # ht: list
-    # a list of two length, for example, [head,tail]
-    #
-    # Returns:
-    # -----------
-    # out: boolean
-    # True if this ht is in no_idea_ht_list, False otherwise.
-    # """
-    #
-    # def is_no_idea_ht(self, ht):
-    #     for n_ht in self.no_idea_ht:
-    #         if n_ht[0] == ht[0] and n_ht[1] == ht[1]:
-    #             return True
-    #     return False
-    #
-    # '''
-    # Test if a ht can pass the rule
-    # Parameters:
-    # ------------
-    # ht: list
-    # a list of two length, for example, [head,tail]
-    #
-    # Returns:
-    # -----------
-    # out: boolean
-    # If this ht can pass the rule.
-    # '''
-    #
-    # def is_passed_ht(self, ht):
-    #     if self.is_correct_ht(ht): return True
-    #     if self.is_wrong_ht(ht): return True
-    #     if self.is_no_idea_ht(ht): return True
-    #     return False
+
+    def add_train_label(self, label):
+        query = "UPDATE " + database + "  SET rule4train = {} where relation_idx = {} and rule_key = '{}';" \
+            .format(label, self.r_idx, self.rule_key)
+        mycursor = mydb.cursor()
+        try:
+            mycursor.execute(query)
+            mydb.commit()
+            print("Success updating train label for R: {}, Rule Key: {}.".format(self.r_idx, self.rule_key))
+            return True
+        except Exception as e:
+            assert False, "Exception:{}\nUpdate Failed, start rolling back.".format(e)
+            mydb.rollback()
+            return False
 
 
 class Candidate:

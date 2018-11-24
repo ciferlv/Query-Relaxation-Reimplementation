@@ -1,14 +1,14 @@
-from RuleBased.ALogger import ALogger
-from RuleBased.RuleLearner import RuleLearner
-from RuleBased.SparqlSeg import SparqlSeg
+from RuleBased.VirtuosoSearch.ALogger import ALogger
+from RuleBased.VirtuosoSearch.RuleLearner import RuleLearner
+from RuleBased.VirtuosoSearch.SparqlSeg import SparqlSeg
 import threading
 import numpy as np
 from itertools import product
 import os
 import json
 
-from RuleBased.Util import Util
-from RuleBased.unit.Candidate import Candidate
+from RuleBased.VirtuosoSearch.Util import Util
+from RuleBased.VirtuosoSearch.unit.Candidate import Candidate
 
 
 class AnswerGenerator:

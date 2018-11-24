@@ -1,4 +1,4 @@
-from RuleBased.Util import Util
+from RuleBased.VirtuosoSearch.Util import Util
 
 
 class Rule:

@@ -1,10 +1,4 @@
-import numpy as np
-from SPARQLWrapper import SPARQLWrapper, JSON
-from sklearn.model_selection import train_test_split
-
 from RuleBased.Params import ht_conn, ht_seg, mydb
-from RuleBased.unit.Rule import Rule
-import threading
 
 # rule_list_sorted_by_recall = []
 # with open("../data/dbo_birthPlace/filtered_rule_sorted_by_accuracy.txt", "r", encoding="UTF-8") as f:

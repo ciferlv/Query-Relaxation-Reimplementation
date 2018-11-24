@@ -5,7 +5,7 @@ import numpy as np
 import torch
 import math
 
-from RuleBased.ALogger import ALogger
+from RuleBased.VirtuosoSearch.ALogger import ALogger
 
 
 class LogisticRegression(nn.Module):

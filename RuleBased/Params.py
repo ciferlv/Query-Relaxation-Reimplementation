@@ -14,18 +14,19 @@ mydb = mysql.connector.connect(
 
 file_path_seg = "\\"
 
-database = ' fb15k '
+# database = ' fb15k '
+database = 'dbpedia_ontology'
 
 '''
 For a relation, we sample its ht to search the path which can conclude to it,
 this parameter is the number of ht sampled.
 '''
-sampled_num_to_search_rule = 10000
+sampled_num_to_search_rule = 500
 
 '''
 The first filter of rules searched, saving the rules tha occur frequently.
 '''
-top_frequency_rule_num = 1000
+top_frequency_rule_num = 600
 
 '''
 To train classifier, we sample positive and negetive instance for every rule saved,
@@ -39,7 +40,7 @@ test_model = False
 '''
 Parameters for classifier:
 '''
-epoch = 200
+epoch = 1000
 mini_batch = 500
 
 '''
@@ -64,3 +65,37 @@ prefix_uri = {"http://dbpedia.org/ontology/": "dbo",
 For a candidate, there may be many rules for a BGP, this param determines the num to display.
 '''
 num_2_display_4_cand_bgp_rule_path = 3
+
+'''
+Filter the pattern relation=>inv_relation and inv_relation=>relation
+'''
+filter_inv_pattern = True
+
+'''
+When get passed ht for some rule, 
+for example, dbo:distributor=>dbo:locationCountry=>inv_dbo:birthPlace
+may cost so much time and the results is always nonsense,
+so make a time limit, abandon the rule if time exceeds.
+'''
+check_time_for_get_passed_ht = True
+time_limit_for_get_passed_ht = 20
+
+'''
+When searching passed ht for rule, there may be too much branch, 
+so we limit the number of nodes from left path and right path
+'''
+limit_branch_node_num = False
+branch_node_limit = 10000
+
+'''
+Sampled posis or neges may be too much,
+we may need to restrain the number of them.
+'''
+restrain_num_of_posis_neges = True
+restrain_num = 5000
+
+'''
+When test a model, we want to sample neges from every relation,
+this parameter control the number of neges to sample.
+'''
+test_nege_sample_num = 10

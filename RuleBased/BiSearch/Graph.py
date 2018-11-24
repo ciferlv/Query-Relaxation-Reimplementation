@@ -4,11 +4,15 @@ import random
 import numpy as np
 import os
 import queue
+import time
+import multiprocessing as mp
 
 from RuleBased.Classifier import LogisticRegression
 from RuleBased.Params import rule_seg, mydb, file_path_seg, database, ht_conn, ht_seg, sampled_num_to_search_rule, \
-    top_frequency_rule_num, epoch, mini_batch, rule_num4train, max_step
-from RuleBased.Util import Util
+    top_frequency_rule_num, epoch, mini_batch, rule_num4train, max_step, filter_inv_pattern, \
+    check_time_for_get_passed_ht, time_limit_for_get_passed_ht, branch_node_limit, limit_branch_node_num, restrain_num, \
+    restrain_num_of_posis_neges
+from RuleBased.VirtuosoSearch.Util import Util
 
 
 class Graph:
@@ -25,7 +29,8 @@ class Graph:
         self.r2ht = {}
 
     def load_data(self):
-        print("Start Loading Graph")
+        start_time = time.time()
+        print("Start Loading Graph: {}.".format(self.e2idx_file.split(file_path_seg)[-2]))
         with open(self.e2idx_file, 'r', encoding="UTF-8") as f:
             for line in f.readlines():
                 idx, name = line.strip().split()
@@ -54,7 +59,8 @@ class Graph:
                 inv_r = "inv_{}".format(self.idx2r[r])
                 self.r2ht[self.r2idx[inv_r]].append([t, h])
                 self.node_dict[t].addPath(r=self.r2idx[inv_r], e=h)
-        print("Finishing Loading Graph")
+        end_time = time.time()
+        print("Finishing Loading Graph. Elapsed: {}.".format(end_time - start_time))
 
     '''
     Connect two path found by unidirection search
@@ -128,6 +134,49 @@ class Graph:
             temp_res = self.join_e_r_path(left_path[left_len], right_path[right_len])
             res.extend(temp_res)
         return res
+
+    '''
+    Check if two relation is inverse to each other.
+    Parameters:
+    -----------
+    r_idx1: int
+    index of relation1
+    r_idx2: int
+    index of relation2
+    
+    Returns:
+    -----------
+    out: boolean
+    True if r_idx1 and r_idx2 is inverse to each other, false otherwise.
+    '''
+
+    def is_inverse_r_idx(self, r_idx1, r_idx2):
+        r_name1 = self.idx2r[r_idx1]
+        r_name2 = self.idx2r[r_idx2]
+        if r_name1.startswith("inv_") and r_name1 == "inv_{}".format(r_name2):
+            return True
+        if r_name2.startswith("inv_") and r_name2 == "inv_{}".format(r_name1):
+            return True
+        return False
+
+    '''
+    Check if a r_path has inverse pattern relation
+    Parameters:
+    -----------
+    r_path: list, [r_idx,r_idx,...]
+    a list of relation path
+    
+    Returns:
+    -----------
+    out: boolean
+    True if r_path has inverse pattern relation, false otherwish.
+    '''
+
+    def has_inverse_r_in_r_path(self, r_path):
+        for r_path_i in range(len(r_path) - 1):
+            if self.is_inverse_r_idx(r_path[r_path_i], r_path[r_path_i + 1]):
+                return True
+        return False
 
     """
     Search from head to get path whose length is under step
@@ -249,11 +298,13 @@ class Graph:
         for idx, ht in enumerate(random.sample(ht_list, sampled_num)):
             h = ht[0]
             t = ht[1]
-            print('{}/{} Relation: {} H: {} T:{}'.format(idx + 1, sampled_num, self.idx2r[r_idx], self.idx2e[h],
-                                                         self.idx2e[t]))
+            print('{}/{} Relation: {} H: {} T: {}'.format(idx + 1, sampled_num, self.idx2r[r_idx], self.idx2e[h],
+                                                          self.idx2e[t]))
             path_found = self.search_bidirect(h, t, max_step)
             for p in path_found:
                 r_path = self.extract_r_path(p)
+                if filter_inv_pattern and self.has_inverse_r_in_r_path(r_path):
+                    continue
                 r_path_key = rule_seg.join(map(str, r_path))
                 if len(r_path) == 1 and r_path[0] == r_idx: continue
                 searched_e_r_path.append(p)
@@ -290,9 +341,12 @@ class Graph:
         for row in fetched:
             rule = Rule(r_idx, None, row[2])
             rule.rule_len = int(row[3])
-            rule.correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[4].split(ht_seg)]]
-            rule.wrong_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[5].split(ht_seg)]]
-            rule.no_idea_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[6].split(ht_seg)]]
+            if len(row[4]) != 0:
+                rule.correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[4].split(ht_seg)]]
+            if len(row[5]) != 0:
+                rule.wrong_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[5].split(ht_seg)]]
+            if len(row[6]) != 0:
+                rule.no_idea_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[6].split(ht_seg)]]
             rule.P = row[7]
             rule.R = row[8]
             rule.F1 = row[9]
@@ -327,22 +381,38 @@ class Graph:
     r_path: list 
     a rule: [r_idx,r_idx,r_idx,...], for example: [2,3,6,...]
     
-    Returns:
-    out: list
-    a list of ht which can pass this r_path
-    [[h,t],[h,t],[h,t],[h,t],...]
+    Return:
+    -----------
+    out1: boolean
+    True if time exceeds, False otherwish.
+    out2: list, [[h,t],[h,t],[h,t],...]
+    list of passed ht
     """
 
     def get_passed_ht(self, r_path):
-        if len(r_path) == 1:
-            return self.r2ht[r_path[0]]
+        start_time = time.time()
 
+        def time_exceed():
+            end_time = time.time()
+            if check_time_for_get_passed_ht and (end_time - start_time) > time_limit_for_get_passed_ht:
+                print("Elapsed: {}".format(end_time - start_time))
+                return True
+
+        if len(r_path) == 1:
+            return False, self.r2ht[r_path[0]]
         left_path = self.r2ht[r_path[0]]
         left_step = 1
         inv_r_idx = self.convert_r(r_path[-1])
         right_path = self.r2ht[inv_r_idx]
         right_step = 1
         while len(r_path) - (left_step + right_step) > 0:
+            print("Left Path length: {}.".format(len(left_path)))
+            print("Right Path length: {}.".format(len(right_path)))
+            if limit_branch_node_num and len(left_path) > branch_node_limit:
+                left_path = random.sample(left_path, branch_node_limit)
+            if limit_branch_node_num and len(right_path) > branch_node_limit:
+                right_path = random.sample(right_path, branch_node_limit)
+
             temp_left_path = []
             temp_right_path = []
             if len(left_path) < len(right_path):
@@ -351,6 +421,7 @@ class Graph:
                 for ht in left_path:
                     c_node = self.node_dict[ht[-1]]
                     for tail in c_node.get_tails_of_r_idx(r_idx):
+                        if time_exceed(): return True, []
                         temp_ht = ht.copy()
                         temp_ht.append(tail)
                         temp_left_path.append(temp_ht)
@@ -362,21 +433,27 @@ class Graph:
                 for ht in right_path:
                     c_node = self.node_dict[ht[-1]]
                     for tail in c_node.get_tails_of_r_idx(inv_r_idx):
+                        if time_exceed(): return True, []
                         temp_ht = ht.copy()
                         temp_ht.append(tail)
                         temp_right_path.append(temp_ht)
                 right_path = temp_right_path
-        res = set()
+        res = {}
         left_dict = {}
         for path in left_path:
             if path[-1] not in left_dict:
+                if time_exceed(): return True, []
                 left_dict[path[-1]] = []
             left_dict[path[-1]].append(path)
         for path in right_path:
             if path[-1] in left_dict:
                 for l_p in left_dict[path[-1]]:
-                    res.add("{};{}".format(l_p[0], path[0]))
-        return [list(map(int, p_str.split(";"))) for p_str in res]
+                    if time_exceed(): return True, []
+                    temp_token = "{};{}".format(l_p[0], path[0])
+                    if temp_token not in res:
+                        res[temp_token] = [l_p[0], path[0]]
+        print("Elapsed: {}".format(time.time() - start_time))
+        return False, [res[key] for key in res]
 
     """
     For every rule or relation r_idx, 
@@ -401,16 +478,18 @@ class Graph:
         print("Start Enhancing Rule for Relatin: {}".format(self.idx2r[r_idx]))
         rule_list = []
         for idx, r_path in enumerate(r_path_list):
-            print("{}/{} Start enchancing Rule: {}".format(idx + 1, len(r_path_list),
-                                                           "=>".join(self.display_r_path([r_path])[0])))
+            print("{}/{}, R:{}, Enchancing Rule: {}".format(idx + 1, len(r_path_list), self.idx2r[r_idx],
+                                                            "=>".join(self.display_r_path([r_path])[0])))
             rule = Rule(r_idx, r_path=r_path, rule_key=None)
-            if rule.rule_key in rule_set:
-                continue
+            if rule.rule_key in rule_set: continue
             rule_set.add(rule.rule_key)
             succ = rule.restoreFromMysql()
             if not succ:
                 print("Start Fetching passed ht")
-                rule.passHT = self.get_passed_ht(r_path)
+                time_exceeds, rule.passHT = self.get_passed_ht(r_path)
+                if time_exceeds:
+                    print("Time exceeds. Abandon this rule.")
+                    continue
                 assert len(rule.passHT) != 0, "Get Wrong Passed HT"
                 print("Start calculating P,R and F1")
                 rule.get_P_R_F1(self.node_dict, self.r2ht)
@@ -419,6 +498,8 @@ class Graph:
                     while True:
                         if rule.persist2mysql(): break
                     print("Success persisting to mysql.")
+                else:
+                    print("Abandon this rule because of its low Prec.")
             else:
                 rule_list.append(rule)
                 print("Success loading from MySQL")
@@ -462,7 +543,7 @@ class Graph:
     Return:
     -----------
     out: list, [Rule(),Rule(),...]
-    A list of rule obejct, sorted by precision.   
+    A list of rule obejct, sorted by precision descendingly.   
     '''
 
     def collect_rules_for_r_idx(self, r_idx, statistics_file):
@@ -487,6 +568,50 @@ class Graph:
         print("Writing input_size to file.")
 
         return rule_list[:rule_num4train]
+
+    '''
+    Give rules used for training label. 
+    Label is an ascending integer, indicating the index of rule in final feature vector.
+    Parameters:
+    -----------
+    rule_list: list
+    [Rule(),Rule(),Rule(),...]
+    '''
+
+    def persist_rule4train(self, rule_list):
+        print("Give training label for rule.")
+        cnt = 0
+        for rule_obj in rule_list:
+            rule_obj.add_train_label(cnt)
+            cnt += 1
+        print("Finish giving training label.")
+
+    '''
+    Get list of rules for train for relation(r_idx)
+    Parameters:
+    -----------
+    r_idx: int
+    idx for relation
+    
+    Returns:
+    -----------
+    out: list, [Rule(),Rule(),...]
+    Rule object only has r_idx, r_path, and rule_key
+    '''
+
+    def get_rule4train_from_mysql(self, r_idx):
+        query = "select rule_key from " + database + \
+                " where relation_idx = {} and rule4train <> {} order by rule4train asc;".format(r_idx, -1)
+        mycursor = mydb.cursor()
+        mycursor.execute(query)
+        fetched = mycursor.fetchall()
+        assert len(fetched) != 0, "Get rule4train error!"
+
+        rule_obj_list = []
+        for row in fetched:
+            rule_key = row[0]
+            rule_obj_list.append(Rule(r_idx, None, rule_key))
+        return rule_obj_list
 
     """
     Train or load a model for relation: r_idx
@@ -519,16 +644,23 @@ class Graph:
             return lg
 
         rule_list = self.collect_rules_for_r_idx(r_idx, statistics_file)
+        self.persist_rule4train(rule_list)
 
         print("Train model for r:{}, rules_used_num:{}".format(self.idx2r[r_idx], len(rule_list)))
 
         posi_list, nege_list = self.fetch_posi_nege_of_rules(rule_list)
 
         print("Start getting features for positives.")
+        if restrain_num_of_posis_neges and len(posi_list) > restrain_num:
+            posi_list = random.sample(posi_list, restrain_num)
+            print("Restrain posi num from {} to {}.".format(len(posi_list), restrain_num))
         train_x = self.get_features(rule_list, posi_list)
         train_y = list(np.ones(len(posi_list)))
 
         print("Start getting features for negetives.")
+        if restrain_num_of_posis_neges and len(nege_list) > restrain_num:
+            nege_list = random.sample(nege_list, restrain_num)
+            print("Restrain posi num from {} to {}.".format(len(nege_list), restrain_num))
         train_x.extend(self.get_features(rule_list, nege_list))
         train_y.extend(list(np.zeros(len(nege_list))))
 
@@ -550,38 +682,64 @@ class Graph:
     Test ability of Logistic Regression
     Parameters:
     -----------
-    r_name: string
-    name of target relatoin
-    folder: string
-    target folder under which data was saved.
+    tar_r_idx: int
+    id of target relatoin
+    model: LogisticRegression model
+    rule_list: list, [Rule(),Rule(),...]
+    A list of rule obejct, sorted by precision descendingly.
     '''
 
-    def test_model(self, r_name, folder):
-        print("Test model of r:{}".format(r_name))
-        statistics_file = folder + "statistics.txt"
-        train_x_file = folder + "train_x.npy"
-        train_y_file = folder + "train_y.npy"
+    def test_model(self, tar_r_idx, model, rule_list, record_file):
+        print("Test model of Relation: {}.".format(self.idx2r[tar_r_idx]))
 
-        train_x = np.load(train_x_file)
-        train_y = np.load(train_y_file)
+        posi_ht_list = self.r2ht[tar_r_idx]
+        nege_ht_list = []
+        for r_idx in self.r2ht:
+            if r_idx != tar_r_idx:
+                nege_ht_list.extend(self.sample_from_list(self.r2ht[r_idx], 10))
 
-        with open(statistics_file, 'r', encoding="UTF-8") as f:
-            input_size = int(f.readline().strip().split()[1])
+        if restrain_num_of_posis_neges and len(posi_ht_list) > restrain_num:
+            posi_ht_list = random.sample(posi_ht_list, restrain_num)
+            print("Restrain posi num from {} to {}.".format(len(posi_ht_list), restrain_num))
 
-        train_num = int(len(train_x) * 0.8)
-        zipped_x_y = list(zip(train_x, train_y))
+        if restrain_num_of_posis_neges and len(nege_ht_list) > restrain_num:
+            nege_ht_list = random.sample(nege_ht_list, restrain_num)
+            print("Restrain posi num from {} to {}.".format(len(nege_ht_list), restrain_num))
 
-        for i in range(10):
-            lg = LogisticRegression(input_size)
-            np.random.shuffle(zipped_x_y)
-            temp_x, temp_y = zip(*zipped_x_y)
-            temp_train_x = temp_x[:train_num]
-            temp_train_y = temp_y[:train_num]
-            temp_test_x = temp_x[train_num + 1:]
-            temp_test_y = temp_y[train_num + 1:]
-            lg.train(temp_train_x, temp_train_y, epoch=epoch, mini_batch=mini_batch)
-            precision = lg.test(temp_test_x, temp_test_y)
-            print("Test round {}/{}, Prec: {}".format(i + 1, 10, precision))
+        print("Start getting features for positives.")
+        test_x = self.get_features(rule_list, posi_ht_list)
+        test_y = list(np.ones(len(posi_ht_list)))
+
+        print("Start getting features for negetives.")
+        test_x.extend(self.get_features(rule_list, nege_ht_list))
+        test_y.extend(list(np.zeros(len(nege_ht_list))))
+
+        precision = model.test(test_x, test_y)
+        print("Prec: {}".format(precision))
+        with open(record_file, 'w', encoding="UTF-8") as f:
+            f.write("Prec.: {}\n".format(precision))
+
+    '''
+    Sample from a list, if sampled num is larger than the size of the list,
+    return the whole list.
+    Parameters:
+    -----------
+    sampled_list: list
+    a list to be sampled.
+    sample_num: int
+    the num we want to sample from sampled_list
+    
+    Returns:
+    -----------
+    out: list
+    a sampled list
+    '''
+
+    def sample_from_list(self, sampled_list, sample_num):
+        if len(sampled_list) <= sample_num:
+            return sampled_list
+        else:
+            return list(random.sample(sampled_list, sample_num))
 
     """
     Get features for one pair of h and t
@@ -600,7 +758,9 @@ class Graph:
 
     def get_features(self, rule_list, ht_list):
         train_x = []
-        for ht in ht_list:
+        for ht_i, ht in enumerate(ht_list):
+            print("Feature: {}/{}, #Rules: {}, H: {}, T: {}"
+                  .format(ht_i + 1, len(ht_list), len(rule_list), self.idx2e[ht[0]], self.idx2e[ht[1]]))
             feature = []
             for rule in rule_list:
                 feature.append(int(self.is_passed(ht, rule.r_path)))
@@ -662,6 +822,7 @@ class Graph:
             if len(left_node) < len(right_node):
                 left_step += 1
                 r_idx = rule[left_step - 1]
+                if r_idx not in self.idx2r: return False
                 for e_idx in left_node:
                     c_node = self.node_dict[e_idx]
                     for tail in c_node.get_tails_of_r_idx(r_idx):
@@ -670,6 +831,7 @@ class Graph:
             else:
                 right_step += 1
                 r_idx = rule[-right_step]
+                if r_idx not in self.idx2r: return False
                 inv_r_idx = self.convert_r(r_idx)
                 for e_idx in right_node:
                     c_node = self.node_dict[e_idx]
@@ -930,6 +1092,90 @@ class Graph:
                     for one_left_path in left_dict[c_node_idx]:
                         res_path[rule_idx].append(one_left_path[:-1].append(reversed(one_right_path)))
         return features, res_path
+
+    '''
+    Get r_name by r_idx
+    Parameters:
+    -----------
+    r_idx: int
+    the index of relation
+    
+    Returns:
+    -----------
+    out: string
+    name of r_idx
+    '''
+
+    def get_r_name_by_r_idx(self, r_idx):
+        assert r_idx in self.idx2r, "R_idx is not in this graph."
+        return self.idx2r[r_idx]
+
+    '''
+    Get e_name by e_idx
+    Parameters:
+    -----------
+    e_idx: int
+    the index of entity
+
+    Returns:
+    -----------
+    out: string
+    name of e_idx
+    '''
+
+    def get_e_name_by_e_idx(self, e_idx):
+        assert e_idx in self.idx2e, "E_idx is not in this graph."
+        return self.idx2e[e_idx]
+
+    '''
+    Get e_idx by e_name
+    Parameters:
+    -----------
+    e_name: string
+    the name of entity
+
+    Returns:
+    -----------
+    out: int
+    idx of e_name
+    '''
+
+    def get_e_idx_by_e_name(self, e_name):
+        assert e_name in self.e2idx, "E_name is not in this graph"
+        return self.e2idx[e_name]
+
+    '''
+    Get r_idx by r_name
+    Parameters:
+    -----------
+    r_name: string
+    the name of relation
+    
+    Parameters:
+    -----------
+    out: int
+    idx of r_name
+    '''
+
+    def get_r_idx_by_r_name(self, r_name):
+        assert r_name in self.r2idx, "E_name is not in this graph"
+        return self.r2idx[r_name]
+
+    '''
+    Get localname of e/r name
+    Parameters:
+    -----------
+    e_r_name: string
+    For example, dbo:United_States (only support this form)
+    Returns:
+    -----------
+    out: string
+    localname of e/r name
+    To example, the localname of dbo:United_States is United_States
+    '''
+
+    def get_localname(self, e_r_name):
+        return e_r_name.split(":")[-1]
 
 
 if __name__ == "__main__":

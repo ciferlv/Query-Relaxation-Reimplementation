@@ -37,7 +37,7 @@ class SparqlParser:
             ....
         ]
         '''
-        self.res = []
+        self.searched_res = []
         self.temp_res = []
         self.cand_obj_list = []
 
@@ -96,24 +96,24 @@ class SparqlParser:
         h_set = set()
         t_set = set()
 
-        if len(self.res) == 0:
+        if len(self.searched_res) == 0:
             for ht in passed_ht_list:
                 copy_res = self.temp_res[:]
                 copy_res[h_res_idx] = [ht[0]]
                 copy_res[t_res_idx] = [ht[-1]]
-                self.res.append(copy_res)
+                self.searched_res.append(copy_res)
                 h_set.add(ht[0])
                 t_set.add(ht[-1])
         else:
             temp_store = []
-            for one_res in self.res:
+            for one_res in self.searched_res:
                 h = one_res[h_res_idx][0]
                 t = one_res[t_res_idx][0]
                 if ht_conn.join([h, t]) in passed_ht_token_set:
                     temp_store.append(one_res)
                     h_set.add(h)
                     t_set.add(t)
-            self.res = temp_store
+            self.searched_res = temp_store
 
         self.var2entity[h_var] = h_set
         self.var2entity[t_var] = t_set
@@ -136,6 +136,7 @@ class SparqlParser:
     def execute_var1BGP(self, r_rules_dict, graph):
         for var in self.var1BGP:
             for BGP in self.var1BGP[var]:
+                print("Start executin {}".format(" ".join(BGP)))
                 if BGP[0].startswith("?"):
                     h_idx_list = []
                     t_idx_list = [graph.e2idx[BGP[2]]]
@@ -188,8 +189,27 @@ class SparqlParser:
                     passed_ht_list, passed_ht_token_set = graph.pass_verify(h_idx_list, t_idx_list, rule_path_list)
                     self.update_res_var2entity(h_var, t_var, passed_ht_list, passed_ht_token_set)
 
-    def gen_confidence(self, r_rules_dict, rule_model_dict, graph):
-        for cand in self.res:
+    '''
+    Get confidence and rule path for every BGP of every candidate.
+    Parameters:
+    -----------
+    r_rules_dict: dict
+    {
+        r_idx:[Rule(),Rule(),...],
+        r_idx:[Rule(),Rule(),...],
+        ...
+    }
+    rule_model_dict: dict
+    {
+        r_idx: LogisticRegression Model
+        r_idx: LogisticRegression Model
+        ...
+    }
+    graph: Graph(object)
+    '''
+
+    def gen_conf_and_rule_path(self, r_rules_dict, rule_model_dict, graph):
+        for cand in self.searched_res:
             cand_obj = Candidate(cand)
             for one_bgp in self.sparql_BGP:
                 h_name = one_bgp[0]
@@ -212,11 +232,35 @@ class SparqlParser:
                 cand_obj.add_pra_conf_for_bgp(pra_conf, one_bgp_str)
             self.cand_obj_list.append(cand_obj)
 
+    '''
+    Display the information of every candidate.
+    Parameters:
+    -----------
+    graph: Graph(object)
+    '''
+
     def display_cands(self, graph):
         for cand in self.cand_obj_list:
             print(cand.display_var2entity(self.var_list))
             print(cand.display_rule_path(graph))
         print()
+
+    '''
+    Display the var and corresponding entity.
+    Parameters:
+    -----------
+    graph: Graph object
+    The graph that stores data.
+    '''
+
+    def display_searched_res(self, graph):
+        for one_res in self.searched_res:
+            show_res = ""
+            for var_idx, var in enumerate(self.var_list):
+                # show_res += "{}: IDX({}.), Name({})\t".format(var, one_res[var_idx][0],
+                #                                              graph.get_e_name_by_e_idx(one_res[var_idx][0]))
+                show_res += "{}: {}\t".format(var, graph.get_e_name_by_e_idx(one_res[var_idx][0]))
+            print(show_res.strip())
 
 
 if __name__ == "__main__":

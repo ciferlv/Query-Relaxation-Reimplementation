@@ -3,8 +3,8 @@ import threading
 
 from RuleBased.BiSearch.Graph import Graph
 from RuleBased.BiSearch.SparqlParser import SparqlParser
-from RuleBased.Params import file_path_seg, max_step, rule_num4train
-from RuleBased.Util import Util
+from RuleBased.Params import file_path_seg, max_step, mydb
+from RuleBased.VirtuosoSearch.Util import Util
 
 # relation_list = ['<http://dbpedia.org/ontology/director>',
 #                  '<http://dbpedia.org/ontology/starring>',
@@ -76,11 +76,19 @@ def test_sparql_parser():
     p_var_idx = sp.var_list.index('?p')
     q_var_idx = sp.var_list.index('?q')
 
-    for one_res in sp.res:
+    for one_res in sp.searched_res:
         if one_res[p_var_idx][0] == 159 and one_res[q_var_idx][0] == 160:
             print('sdfsdfsdf')
 
 
 if __name__ == "__main__":
     # test_modules_train()
-    test_sparql_parser()
+    # test_sparql_parser()
+    query = "select rule_key from fb15k " \
+            " where id = {};".format(11)
+    mycursor = mydb.cursor()
+    mycursor.execute(query)
+    fetched = mycursor.fetchall()
+    print(fetched)
+    for row in fetched:
+        print(row[0])

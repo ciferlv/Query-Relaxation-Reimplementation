@@ -3,8 +3,8 @@ import logging
 
 import sys
 
-from RuleBased.ALogger import ALogger
-from RuleBased.Util import Util
+from RuleBased.VirtuosoSearch.ALogger import ALogger
+from RuleBased.VirtuosoSearch.Util import Util
 
 
 class Candidate:
