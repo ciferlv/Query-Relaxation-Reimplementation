@@ -4,6 +4,7 @@ import random
 import numpy as np
 import os
 import queue
+import math
 import time
 import multiprocessing as mp
 
@@ -705,6 +706,12 @@ class Graph:
         if restrain_num_of_posis_neges and len(nege_ht_list) > restrain_num:
             nege_ht_list = random.sample(nege_ht_list, restrain_num)
             print("Restrain posi num from {} to {}.".format(len(nege_ht_list), restrain_num))
+
+        test_num = min(len(posi_ht_list), len(nege_ht_list))
+        posi_ht_list = random.sample(posi_ht_list, test_num)
+        nege_ht_list = random.sample(nege_ht_list, test_num)
+        print("Restrain num of posi/nege to {}. This is the minum length of posi_ht_list and nege_ht_list.".format(
+            test_num))
 
         print("Start getting features for positives.")
         test_x = self.get_features(rule_list, posi_ht_list)

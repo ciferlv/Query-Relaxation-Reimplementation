@@ -197,7 +197,7 @@ class SparqlParser:
     def normalize_searched_res(self):
         if len(self.searched_res) != 0:
             return
-        assert len(self.var_list) == 0, "Can't normalize searched_res with more than two variables."
+        assert len(self.var_list) == 1, "Can't normalize searched_res with more than two variables."
 
         for var in self.var2entity:
             for entity in self.var2entity[var]:

@@ -96,6 +96,7 @@ class Rule:
         # assert self.P != 0 and self.R != 0, "P R F1 has wrong calculation"
         if self.R != 0 or self.P != 0:
             self.F1 = 2 * self.R * self.P / (self.P + self.R)
+        print("Prec. {}, Rec. {}, F1 {}.".format(self.P, self.R, self.F1))
 
     def sample_ht(self, ht_list, sampled_num):
         if sampled_num < len(ht_list):

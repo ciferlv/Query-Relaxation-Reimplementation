@@ -103,4 +103,4 @@ test_nege_sample_num = 10
 '''
 This parameter determines the num of rules to ues to search candidates.
 '''
-rules_num_2_search_cands = 5
+rules_num_to_search_cands = 100
