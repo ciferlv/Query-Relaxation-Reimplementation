@@ -12,7 +12,7 @@ from RuleBased.Classifier import LogisticRegression
 from RuleBased.Params import rule_seg, mydb, file_path_seg, database, ht_conn, ht_seg, sampled_num_to_search_rule, \
     top_frequency_rule_num, epoch, mini_batch, rule_num4train, max_step, filter_inv_pattern, \
     check_time_for_get_passed_ht, time_limit_for_get_passed_ht, branch_node_limit, limit_branch_node_num, restrain_num, \
-    restrain_num_of_posis_neges
+    restrain_num_of_posis_neges, sort_rule_criterion
 from RuleBased.VirtuosoSearch.Util import Util
 
 
@@ -791,10 +791,10 @@ class Graph:
     top_k rules
     """
 
-    def get_top_k_rules(self, r_idx, top_k, criterion):
+    def get_top_k_rules(self, r_idx, top_k):
         rule_list = []
         query = "select relation_idx, rule_key from " + database + \
-                " where relation_idx={} order by {} desc".format(r_idx, criterion)
+                " where relation_idx={} order by {} desc".format(r_idx, sort_rule_criterion)
         mycursor = mydb.cursor()
         mycursor.execute(query)
         fetched = mycursor.fetchall()
@@ -1048,7 +1048,7 @@ class Graph:
     def get_passed_e_r_path(self, h_idx, t_idx, rule_list):
         features = []
         res_path = []
-        [res_path.append([]) for _ in rule_list]
+        # [res_path.append([]) for _ in rule_list]
         [features.append(0) for _ in rule_list]
 
         for rule_idx, rule_obj in enumerate(rule_list):
@@ -1071,7 +1071,10 @@ class Graph:
                         out_queue_cnt += 1
                         c_node = self.node_dict[c_path[-1]]
                         for tail in c_node.get_tails_of_r_idx(r_idx):
-                            left_path_queue.put(c_path.copy().append(tail))
+                            temp_path = c_path.copy()
+                            temp_path.append(r_idx)
+                            temp_path.append(tail)
+                            left_path_queue.put(temp_path)
                 else:
                     right_step += 1
                     r_idx = rule_path[-right_step]
@@ -1082,7 +1085,10 @@ class Graph:
                         out_queue_cnt += 1
                         c_node = self.node_dict[c_path[-1]]
                         for tail in c_node.get_tails_of_r_idx(inv_r_idx):
-                            right_path_queue.put(c_path.copy().append(tail))
+                            temp_path = c_path.copy()
+                            temp_path.append(r_idx)
+                            temp_path.append(tail)
+                            right_path_queue.put(temp_path)
 
             left_dict = {}
             while not left_path_queue.empty():
@@ -1097,7 +1103,9 @@ class Graph:
                 if c_node_idx in left_dict:
                     features[rule_idx] = 1
                     for one_left_path in left_dict[c_node_idx]:
-                        res_path[rule_idx].append(one_left_path[:-1].append(reversed(one_right_path)))
+                        temp_path = one_left_path[:-1]
+                        temp_path.extend(list(reversed(one_right_path)))
+                        res_path.append(temp_path)
         return features, res_path
 
     '''

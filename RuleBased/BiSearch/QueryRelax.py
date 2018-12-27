@@ -3,7 +3,7 @@ import time
 
 from RuleBased.BiSearch.Graph import Graph
 from RuleBased.BiSearch.SparqlParser import SparqlParser
-from RuleBased.Params import file_path_seg, rules_num_to_search_cands
+from RuleBased.Params import file_path_seg, rules_num_to_search_cands, sort_candidate_criterion
 from RuleBased.VirtuosoSearch.Util import Util
 
 
@@ -95,7 +95,7 @@ class QR:
     def gen_rules_dict(self, graph):
         print("Start collect top rules by Precision.")
         for r_idx in self.r_idx_list:
-            self.r_rules_dict[r_idx] = graph.get_top_k_rules(r_idx, rules_num_to_search_cands, 'P')
+            self.r_rules_dict[r_idx] = graph.get_top_k_rules(r_idx, rules_num_to_search_cands)
 
     def get_candidates(self):
         e2idx_file = self.search_root + "e2idx_shortcut.txt"
@@ -119,23 +119,28 @@ class QR:
         print("Start normalize searched res.")
         self.sp.normalize_searched_res()
 
-        print("Display result.")
-        self.sp.display_searched_res(graph)
+        # print("Display result.")
+        # self.sp.display_searched_res(graph)
 
-        # print("Calculate confidence for candidates.")
-        # self.sp.gen_conf_and_rule_path(self.r_rules_dict, self.r_model_dict, graph)
-        #
-        # print("Print cands.")
-        # self.sp.display_cands(graph)
+        print("Calculate confidence for candidates.")
+        self.sp.gen_conf_and_rule_path(self.r_rules_dict, self.r_model_dict, graph)
+
+        print("Sort candidate list by {} score.".format(sort_candidate_criterion))
+        self.sp.sort_cand_obj_list()
+
+        print("Print cands.")
+        self.sp.display_cands(graph)
         end_time = time.time()
         print("Finishing generating and displaying candidates. Epalsed: {}.".format(end_time - start_time))
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
     root_folder = "F:\\Data\\dbpedia\\"
-    # train_scope = "United_States"
-    train_scope = "Japan"
+    train_scope = "United_States"
+    # train_scope = "Japan"
     test_scope = "Canada"
     search_scope = "All"
+    # search_scope = "United_States"
 
     # sparql = """
     #     SELECT ?film WHERE{
@@ -145,19 +150,24 @@ if __name__=="__main__":
     #     }
     #     """
 
+    # sparql = """
+    #     SELECT ?film WHERE{
+    #         ?film dbo:starring ?p.
+    #         ?p dbo:birthPlace dbr:Asia.
+    #     }
+    #     """
+
     sparql = """
-        SELECT ?film WHERE{
-            ?film dbo:starring ?p.
-            ?p dbo:birthPlace dbr:Asia.
-        }
+        SELECT * WHERE{
+         dbr:Isaac_Newton dbo:doctoralAdvisor ?p.}
         """
 
     # sparql = """
-    #     SELECT * WHERE{
-    #      dbr:Isaac_Newton dbo:doctoralAdvisor ?p.}
-    #     """
+    #         SELECT * WHERE{
+    #          dbr:Albert_Einstein dbo:doctoralAdvisor ?p.}
+    #         """
 
-    qr = QR(sparql,root_folder,train_scope,test_scope,search_scope)
+    qr = QR(sparql, root_folder, train_scope, test_scope, search_scope)
 
     only_train_rule = False
     if only_train_rule:
@@ -166,4 +176,3 @@ if __name__=="__main__":
     else:
         qr.train_rules()
         qr.get_candidates()
-

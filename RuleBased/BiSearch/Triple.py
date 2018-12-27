@@ -204,11 +204,47 @@ class Candidate:
         for one_bgp_list in self.body_bgp:
             self.bgp_path_dict["\t".join(one_bgp_list)] = []
 
-    def add_complished_bgp(self, one_bgp_str):
+        self.cand_pra_score = 0
+
+    '''
+    Multiply every bgp's pra confidence to get confidence of the whole candidate
+    '''
+
+    def cal_cand_pra_score(self):
+        res_score = 1
+        for key in self.pra_conf:
+            res_score *= self.pra_conf[key]
+        self.cand_pra_score = res_score
+
+    '''
+    Add a bgp with variable filled.
+    Parameters:
+    ------------
+    one_bgp_str: string
+    for example, h_name /t r_name /t t_name
+    '''
+
+    def add_completed_bgp(self, one_bgp_str):
         self.body_bgp.append(one_bgp_str)
+
+    '''
+    Add Path passed for one bgp
+    Parameters:
+    -----------
+    path_list: list, [[-1,e,r,e,..,e,-1],[],[],....]
+    one_bgp_str: string, for example, h_name /t r_name /t t_name
+    '''
 
     def add_path_idx_for_bgp(self, path_list, one_bgp_str):
         self.bgp_path_dict[one_bgp_str] = path_list
+
+    '''
+    Add confidence calculated by pra for one bgp
+    Parameters:
+    -----------
+    pra_conf: float
+    one_bgp_str: string, for example, h_name /t r_name /t t_name
+    '''
 
     def add_pra_conf_for_bgp(self, pra_conf, one_bgp_str):
         self.pra_conf[one_bgp_str] = pra_conf
@@ -224,8 +260,8 @@ class Candidate:
             res_str += "\n"
         return res_str.strip()
 
-    def display_var2entity(self, var_list):
+    def display_var2entity(self, var_list, graph):
         res_str = ""
         for var_idx, var_name in enumerate(var_list):
-            res_str += "{}:[]\t".format(var_name, self.candidate_list[var_idx])
+            res_str += "{}:[{}]\t".format(var_name, graph.get_e_name_by_e_idx(self.candidate_list[var_idx][0]))
         return res_str.strip()

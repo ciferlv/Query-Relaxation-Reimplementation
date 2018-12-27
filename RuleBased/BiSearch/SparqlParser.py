@@ -1,7 +1,7 @@
 import queue
 
 from RuleBased.BiSearch.Triple import Candidate
-from RuleBased.Params import ht_conn
+from RuleBased.Params import ht_conn, sort_candidate_criterion, numbers_to_display_of_cands
 
 
 class SparqlParser:
@@ -227,24 +227,31 @@ class SparqlParser:
             cand_obj = Candidate(cand)
             for one_bgp in self.sparql_BGP:
                 h_name = one_bgp[0]
-                r_idx = graph.r2idx[one_bgp[1]]
+                r_idx = graph.get_r_idx_by_r_name(one_bgp[1])
                 t_name = one_bgp[2]
 
-                h_name = cand[self.var_list.index(h_name)] if h_name.startswith("?") else h_name
-                t_name = cand[self.var_list.index(t_name)] if t_name.startswith("?") else t_name
+                h_name = graph.get_e_name_by_e_idx(cand[self.var_list.index(h_name)][0]) if h_name.startswith(
+                    "?") else h_name
+                t_name = graph.get_e_name_by_e_idx(cand[self.var_list.index(t_name)][0]) if t_name.startswith(
+                    "?") else t_name
 
                 one_bgp_str = "{}\t{}\t{}".format(h_name, one_bgp[1], t_name)
-                cand_obj.add_complished_bgp(one_bgp_str)
+                cand_obj.add_completed_bgp(one_bgp_str)
 
-                h_idx = graph.e2idx[h_name]
-                t_idx = graph.e2idx[t_name]
+                h_idx = graph.get_e_idx_by_e_name(h_name)
+                t_idx = graph.get_e_idx_by_e_name(t_name)
 
                 rule_list = r_rules_dict[r_idx]
                 features, res_path = graph.get_passed_e_r_path(h_idx, t_idx, rule_list)
-                pra_conf = rule_model_dict[r_idx].get_output_prob(features)
+                pra_conf = rule_model_dict[r_idx].get_output_prob([features])
                 cand_obj.add_path_idx_for_bgp(res_path, one_bgp_str)
                 cand_obj.add_pra_conf_for_bgp(pra_conf, one_bgp_str)
+            cand_obj.cal_cand_pra_score()
             self.cand_obj_list.append(cand_obj)
+
+    def sort_cand_obj_list(self):
+        if sort_candidate_criterion == 'pra':
+            self.cand_obj_list = sorted(self.cand_obj_list, key=lambda cand: cand.cand_pra_score, reverse=True)
 
     '''
     Display the information of every candidate.
@@ -254,10 +261,11 @@ class SparqlParser:
     '''
 
     def display_cands(self, graph):
-        for cand in self.cand_obj_list:
-            print(cand.display_var2entity(self.var_list))
-            print(cand.display_rule_path(graph))
-        print()
+        for idx, cand in enumerate(self.cand_obj_list):
+            if idx < numbers_to_display_of_cands:
+                print("Candidates: {}/{}.".format(idx + 1, numbers_to_display_of_cands))
+                print(cand.display_var2entity(self.var_list, graph))
+                print(cand.display_rule_path(graph))
 
     '''
     Display the var and corresponding entity.
