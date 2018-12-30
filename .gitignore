@@ -106,5 +106,8 @@ venv.bak/
 #pycharm
 .idea
 
+#vscode
+.vscode
+
 data/
 source/
