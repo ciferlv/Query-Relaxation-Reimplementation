@@ -1,6 +1,6 @@
 import os
 
-folder = "F:\\Data\\dbpedia\\All"
+folder = "F:\\Data\\dbpedia\\All\\"
 rdf_file = folder + "mappingbased_objects_en.ttl"
 
 e2idx_file = folder + "e2idx.txt"
@@ -18,7 +18,8 @@ def subGraph_mention_num(filtered_num):
     if not os.path.isdir(filtered_by_num_folder):
         os.makedirs(filtered_by_num_folder)
 
-    filtered_triple2idx_file = filtered_by_num_folder + "filtered_triple2idx_" + str(filtered_num) + ".txt"
+    filtered_triple2idx_file = filtered_by_num_folder + "filtered_triple2idx_" + str(
+        filtered_num) + ".txt"
 
     e_num_dict = {}
     r_num_dict = {}
@@ -52,13 +53,12 @@ def subGraph_mention_num(filtered_num):
             h = hrt[0]
             r = hrt[1]
             t = hrt[2]
-            if (h in e_saved_set and
-                t in e_saved_set) and int(r) != 0:
+            if (h in e_saved_set and t in e_saved_set) and int(r) != 0:
                 f.write("{}\t{}\t{}\n".format(h, r, t))
                 saved_triple_num += 1
 
-    print("Saved_E NUM: {}\t Saved_R NUM: {}\t Saved_Triple NUM: {}\n".format(len(e_saved_set), len(r_saved_set),
-                                                                              saved_triple_num))
+    print("Saved_E NUM: {}\t Saved_R NUM: {}\t Saved_Triple NUM: {}\n".format(
+        len(e_saved_set), len(r_saved_set), saved_triple_num))
 
 
 def subGraph_country(country_name, folder_name):
@@ -104,15 +104,23 @@ def subGraph_country(country_name, folder_name):
     if not os.path.isdir(filtered_by_country_folder):
         os.makedirs(filtered_by_country_folder)
 
-    with open(filtered_by_country_folder + "triple2idx.txt", 'w', encoding="UTF-8") as f:
+    with open(
+            filtered_by_country_folder + "triple2idx.txt", 'w',
+            encoding="UTF-8") as f:
         for hrt in filtered_triple_list:
             f.write("{}\t{}\t{}\n".format(hrt[0], hrt[1], hrt[2]))
 
-    with open(filtered_by_country_folder + "e2idx_shortcut.txt", 'w', encoding="UTF-8") as f:
+    with open(
+            filtered_by_country_folder + "e2idx_shortcut.txt",
+            'w',
+            encoding="UTF-8") as f:
         for e_idx in filtered_eidx_set:
             f.write("{}\t{}\n".format(e_idx, idx2e_dict[e_idx]))
 
-    with open(filtered_by_country_folder + "r2idx_shortcut.txt", 'w', encoding="UTF-8") as f:
+    with open(
+            filtered_by_country_folder + "r2idx_shortcut.txt",
+            'w',
+            encoding="UTF-8") as f:
         for r_idx in filtered_ridx_set:
             r_name = idx2r_dict[r_idx]
             inv_r_name = "inv_{}".format(r_name)
@@ -120,7 +128,9 @@ def subGraph_country(country_name, folder_name):
             f.write("{}\t{}\n".format(r_idx, idx2r_dict[r_idx]))
             f.write("{}\t{}\n".format(inv_r_idx, inv_r_name))
 
-    with open(filtered_by_country_folder + "statistics.txt", 'w', encoding="UTF-8") as f:
+    with open(
+            filtered_by_country_folder + "statistics.txt", 'w',
+            encoding="UTF-8") as f:
         f.write("e num:\t{}\n".format(len(filtered_eidx_set)))
         f.write("r num:\t{}\n".format(len(filtered_ridx_set)))
         f.write("triple num:\t{}\n".format(len(filtered_triple_list)))
@@ -133,5 +143,3 @@ if __name__ == "__main__":
     # country_name = "dbr:United_States"
     print(country_name.split(":")[-1])
     subGraph_country(country_name, "{}\\".format(country_name.split(":")[-1]))
-
-

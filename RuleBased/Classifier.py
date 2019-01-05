@@ -34,19 +34,22 @@ class LogisticRegression(nn.Module):
         for epoch_i in range(epoch):
             loss_running = 0
             for idx, seg_point in enumerate(seg_point_list):
-                if idx == len(seg_point_list) - 1: break
+                if idx == len(seg_point_list) - 1:
+                    break
                 self.zero_grad()
                 start_point = seg_point_list[idx]
                 end_point = seg_point_list[idx + 1]
                 train_x = x[start_point:end_point]
                 train_y = y[start_point:end_point]
                 output = self.forward(torch.Tensor(train_x))
-                loss = criterion(torch.squeeze(output,1), torch.Tensor(train_y))
+                loss = criterion(
+                    torch.squeeze(output, 1), torch.Tensor(train_y))
                 loss_running += loss.item()
                 loss.backward()
                 optimizer.step()
-            if (epoch_i % 100 == 0 or epoch_i == epoch -1) and epoch_i != 0:
-                self.logger.info("Epoch:{} Loss:{}".format(epoch_i,loss_running))
+            if (epoch_i % 100 == 0 or epoch_i == epoch - 1) and epoch_i != 0:
+                self.logger.info("Epoch:{} Loss:{}".format(
+                    epoch_i, loss_running))
 
     def test(self, x, y):
         output = self.forward(torch.Tensor(x))
@@ -55,7 +58,7 @@ class LogisticRegression(nn.Module):
         # self.logger.info("Precision: {}".format(precision))
         return precision
 
-    def get_output_prob(self,x):
+    def get_output_prob(self, x):
         output = self.forward(torch.Tensor(x))
         prob = output.squeeze(-1).detach().numpy()[0]
         return prob
@@ -119,5 +122,6 @@ if __name__ == "__main__":
     output_label = (output.squeeze(-1).detach().numpy() > 0.5) * 1
     print(output_label)
     print(y_data_list)
-    precision = np.sum((output_label == np.array(y_data_list)) * 1) / len(test[seg:])
+    precision = np.sum(
+        (output_label == np.array(y_data_list)) * 1) / len(test[seg:])
     print(precision)

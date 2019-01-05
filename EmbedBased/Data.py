@@ -1,10 +1,10 @@
-
 # rdf_file = "F:\Data\dbpedia\mappingbased_objects_en.ttl"
 rdf_file = "./data/FTEST"
 e2idx_file = "./data/e2idx.txt"
 r2idx_file = "./data/r2idx.txt"
 triple2idx_file = "./data/triple2idx.txt"
 statistics_file = "./data/statistics.txt"
+
 
 def data2idx():
     e2idx = {}
@@ -14,7 +14,7 @@ def data2idx():
     r_cnt = 0
     triple_cnt = 0
     with open(rdf_file, "r", encoding="UTF-8") as f:
-        for idx,line in enumerate(f.readlines()):
+        for idx, line in enumerate(f.readlines()):
             if line.strip().startswith("#"):
                 print(line.strip())
                 continue

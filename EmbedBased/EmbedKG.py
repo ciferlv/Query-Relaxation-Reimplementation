@@ -64,7 +64,8 @@ def train():
             ce.zero_grad()
             start = minibatch_i * minibatch_size
             end = (minibatch_i + 1) * minibatch_size
-            if end > len(e_idx_list): end = len(e_idx_list)
+            if end > len(e_idx_list): 
+                end = len(e_idx_list)
             batch_idx_list = e_idx_list[start:end]
             running_loss = 0
             for current_idx in batch_idx_list:
@@ -81,15 +82,18 @@ def train():
 
                 while True:
                     nege_node_idx = np.random.randint(0, max_idx)
-                    if nege_node_idx not in idx2e or nege_node_idx == current_idx: continue
+                    if nege_node_idx not in idx2e or nege_node_idx == current_idx: 
+                        continue
 
                     if head_context is not None and nege_node_idx in head_context_dict:
                         nege_head_context = head_context_dict[nege_node_idx]
-                        if head_context.has_intersection(nege_head_context.path_list): continue
+                        if head_context.has_intersection(nege_head_context.path_list): 
+                            continue
 
                     if tail_context is not None and nege_node_idx in tail_context_dict:
                         nege_tail_context = tail_context_dict[nege_node_idx]
-                        if tail_context.has_intersection(nege_tail_context.path_list): continue
+                        if tail_context.has_intersection(nege_tail_context.path_list): 
+                            continue
                     break
 
                 train_r, train_p_h, train_p_t, train_n_h, train_n_t = gen_train_data(head_context, tail_context,

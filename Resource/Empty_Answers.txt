@@ -1,0 +1,28 @@
+Who directed and starred in the same movie and is born in North American?
+SELECT ?film
+WHERE{
+?film <http://dbpedia.org/ontology/director> ?p.
+?film <http://dbpedia.org/ontology/starring> ?p.
+?p <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/North_America>.
+}
+答案为空
+正确例子：李小龙 出生在San Francisco，但是没有North American这个选项。
+
+Which director is born in North American?
+SELECT ?film
+WHERE{
+?film <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film>.
+?film <http://dbpedia.org/ontology/director> ?p.
+?p <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/North_America>.
+}
+答案为空
+出生于北美的电影导演
+
+SELECT * WHERE{
+     dbr:Isaac_Newton dbo:doctoralAdvisor ?p.
+}
+结果为空
+若查询为
+SELECT * WHERE{
+      dbr:Isaac_Newton dbo:academicAdvisor ?p.
+}

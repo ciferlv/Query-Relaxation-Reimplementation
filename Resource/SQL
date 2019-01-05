@@ -1,0 +1,5 @@
+1.show all fileds:
+SHOW FULL COLUMNS FROM db_name.table_name;
+
+2.delete all row of a table
+TRUNCATE TABLE tablename;

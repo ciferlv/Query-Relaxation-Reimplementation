@@ -1,4 +1,4 @@
-import mysql.connector
+# import mysql.connector
 
 from RuleBased.Params import ht_seg, ht_conn, mydb, database, rule_seg, num_2_display_4_cand_bgp_rule_path
 import random
@@ -111,9 +111,12 @@ class Rule:
         self.wrong_ht = self.sample_ht(self.wrong_ht, sampled_num)
         self.no_idea_ht = self.sample_ht(self.no_idea_ht, sampled_num)
 
-        correct_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.correct_ht])
-        wrong_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.wrong_ht])
-        no_idea_ht_str = ht_seg.join([ht_conn.join(map(str, ht)) for ht in self.no_idea_ht])
+        correct_ht_str = ht_seg.join(
+            [ht_conn.join(map(str, ht)) for ht in self.correct_ht])
+        wrong_ht_str = ht_seg.join(
+            [ht_conn.join(map(str, ht)) for ht in self.wrong_ht])
+        no_idea_ht_str = ht_seg.join(
+            [ht_conn.join(map(str, ht)) for ht in self.no_idea_ht])
 
         query = "INSERT INTO " + database + "  ( relation_idx,rule_key,rule_len,correct_ht,wrong_ht,no_idea_ht,P,R,F1,rule4train) VALUES ({},'{}',{},'{}','{}','{}',{},{},{},-1);" \
             .format(self.r_idx, self.rule_key, self.rule_len, correct_ht_str, wrong_ht_str,
@@ -127,7 +130,6 @@ class Rule:
             print("Exception:{}\nInsert Failed, start rolling back.".format(e))
             mydb.rollback()
             return False
-        mydb.close()
 
     def restoreFromMysql(self):
         query = "select * from " + database + \
@@ -140,11 +142,20 @@ class Rule:
         for row in fetched:
             self.rule_len = int(row[3])
             if len(row[4]) != 0:
-                self.correct_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[4].split(ht_seg)]]
+                self.correct_ht = [
+                    list(map(int, ht2)) for ht2 in
+                    [ht.split(ht_conn) for ht in row[4].split(ht_seg)]
+                ]
             if len(row[5]) != 0:
-                self.wrong_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[5].split(ht_seg)]]
+                self.wrong_ht = [
+                    list(map(int, ht2)) for ht2 in
+                    [ht.split(ht_conn) for ht in row[5].split(ht_seg)]
+                ]
             if len(row[6]) != 0:
-                self.no_idea_ht = [list(map(int, ht2)) for ht2 in [ht.split(ht_conn) for ht in row[6].split(ht_seg)]]
+                self.no_idea_ht = [
+                    list(map(int, ht2)) for ht2 in
+                    [ht.split(ht_conn) for ht in row[6].split(ht_seg)]
+                ]
             self.P = row[7]
             self.R = row[8]
             self.F1 = row[9]
@@ -168,7 +179,8 @@ class Rule:
     def sample_train_data(self, posi_num, nege_num):
         sampled_correct_ht = []
         sampled_wrong_ht = []
-        assert len(self.correct_ht) != 0 or len(self.wrong_ht) != 0, "Haven't load correct/wrong ht"
+        assert len(self.correct_ht) != 0 or len(
+            self.wrong_ht) != 0, "Haven't load correct/wrong ht"
         if posi_num > len(self.correct_ht):
             sampled_correct_ht.extend(self.correct_ht)
         else:
@@ -186,10 +198,13 @@ class Rule:
         try:
             mycursor.execute(query)
             mydb.commit()
-            print("Success updating train label for R: {}, Rule Key: {}.".format(self.r_idx, self.rule_key))
+            print(
+                "Success updating train label for R: {}, Rule Key: {}.".format(
+                    self.r_idx, self.rule_key))
             return True
         except Exception as e:
-            assert False, "Exception:{}\nUpdate Failed, start rolling back.".format(e)
+            assert False, "Exception:{}\nUpdate Failed, start rolling back.".format(
+                e)
             mydb.rollback()
             return False
 
@@ -252,8 +267,10 @@ class Candidate:
     def display_rule_path(self, graph):
         res_str = ""
         for one_bgp_str in self.body_bgp:
-            res_str += "{} pra_conf: {}\n".format(one_bgp_str, self.pra_conf[one_bgp_str])
-            for idx, one_path in enumerate(graph.display_e_r_path(self.bgp_path_dict[one_bgp_str])):
+            res_str += "{} pra_conf: {}\n".format(one_bgp_str,
+                                                  self.pra_conf[one_bgp_str])
+            for idx, one_path in enumerate(
+                    graph.display_e_r_path(self.bgp_path_dict[one_bgp_str])):
                 if idx >= num_2_display_4_cand_bgp_rule_path:
                     break
                 res_str += "{}\n".format("=>".join(one_path))
@@ -263,5 +280,7 @@ class Candidate:
     def display_var2entity(self, var_list, graph):
         res_str = ""
         for var_idx, var_name in enumerate(var_list):
-            res_str += "{}:[{}]\t".format(var_name, graph.get_e_name_by_e_idx(self.candidate_list[var_idx][0]))
+            res_str += "{}:[{}]\t".format(
+                var_name,
+                graph.get_e_name_by_e_idx(self.candidate_list[var_idx][0]))
         return res_str.strip()
