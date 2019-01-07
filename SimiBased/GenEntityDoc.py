@@ -1,10 +1,20 @@
-import http.server
-import socketserver
+from dit.divergences import kullback_leibler_divergence as kl_divergence
+from dit.divergences import jensen_shannon_divergence as js_divergence
+import dit
+import numpy as np
+
+from SimiBased.SimiBasedParams import kl_key_differ_num_threshold, alpha, kl_top_k
 
 
 class SimiGraph:
-    def __init__(self, triple2idx_file):
+    def __init__(self, triple2idx_file, e2idx_file, r2idx_file):
         self.triple2idx_file = triple2idx_file
+        self.e2idx_file = e2idx_file
+        self.r2idx_file = r2idx_file
+        self.e_name2idx = {}
+        self.e_idx2name = {}
+        self.r_name2idx = {}
+        self.r_idx2name = {}
 
         self.U_e_w_num = {}
         self.U_e_num = {}
@@ -113,7 +123,7 @@ class SimiGraph:
             self.U_w_num[w_id] = 0
         self.U_w_num[w_id] += 11
 
-    def load_data(self):
+    def load_triples(self):
         print("Start loading data.")
         with open(self.triple2idx_file, 'r', encoding="UTF-8") as f:
             for line in f.readlines():
@@ -137,7 +147,7 @@ class SimiGraph:
                 self.add_O_r_w(r, t)
                 self.add_B_r_w(r, "{},{}".format(h, t))
 
-    def calculate_LM(self):
+    def getLM(self):
         print("Start Calculating LM")
 
         def change_num2ratio(every_num_dict, total_num_dict):
@@ -162,11 +172,81 @@ class SimiGraph:
         change_num2ratio_1(self.O_w_num, self.total_o_num)
         change_num2ratio_1(self.r_B_w_num, self.total_s_o_num)
 
-    def get_name_simi(self, entity_name):
-        print("Get entity name: {}".format(entity_name))
+    def get_js_value(self, p_dict, q_dict, prob_mode):
+        key_set = p_dict.keys() | q_dict.keys()
+        p_key_list = []
+        p_prob_list = []
+        q_key_list = []
+        q_prob_list = []
 
-    # def get_KL_(self,source_dict,target_dict):
-    #
+        def add_one_prob(tar_key, prob_dict, tar_key_list, tar_prob_list):
+            tar_key_list.append(tar_key)
+            if tar_key in prob_dict:
+                tar_prob_list.append(prob_dict[tar_key])
+            else:
+                if prob_mode == 0:  # entity Unigram
+                    tar_prob_list.append(self.U_e_num[tar_key])
+                if prob_mode == 1:  # entity Bigram
+                    tar_prob_list.append(self.B_e_num[tar_key])
+                if prob_mode == 2:  # relation Subject
+                    tar_prob_list.append(self.S_r_num[tar_key])
+                if prob_mode == 3:  # relation Object
+                    tar_prob_list.append(self.O_r_num[tar_key])
+                if prob_mode == 4:  # relation Bigram (Subject, Object)
+                    tar_prob_list.append(self.B_r_num[tar_key])
+
+        for key in key_set:
+            add_one_prob(key, p_dict, p_key_list, p_prob_list)
+            add_one_prob(key, q_dict, q_key_list, q_prob_list)
+
+        p_prob_array = np.array(p_prob_list)
+        q_prob_array = np.array(q_prob_list)
+
+        p_prob_array = p_prob_array / p_prob_array.sum()
+        q_prob_array = q_prob_array / q_prob_array.sum()
+
+        p = dit.ScalarDistribution(p_key_list, p_prob_array)
+        q = dit.ScalarDistribution(q_key_list, q_prob_array)
+        return js_divergence(p, q)
+
+    def load_e_r_dict(self):
+        print("Load e2idx_file and r2idx_file.")
+        with open(self.e2idx_file, 'r', encoding="UTF-8") as f:
+            for line in f.readlines():
+                idx, name = line.split()
+                self.e_name2idx[name] = int(idx)
+                self.e_idx2name[int(idx)] = name
+        with open(self.r2idx_file, 'r', encoding="UTF-8") as f:
+            for line in f.readlines():
+                idx, name = line.split()
+                if idx % 2 == 0:
+                    self.r_name2idx[name] = int(idx)
+                    self.r_idx2name[int(idx)] = name
+        print("Finish loading e2idx_file and r2idx_file.")
+
+    def get_top_K_simi_entity(self, p_e_name, k):
+        print("Get top {} similar entities of entity: {}.".format(k, p_e_name))
+        result_dict = {}
+        p_e_idx = self.e_name2idx[p_e_name]
+        U_p_dict = self.U_e_w_num[p_e_idx]
+        B_p_dict = self.B_e_w_num[p_e_idx]
+        for q_e_idx in self.e_idx2name:
+            if q_e_idx == p_e_idx:
+                continue
+            U_q_dict = self.U_e_w_num[q_e_idx]
+            if len(U_p_dict.keys()) - len(U_q_dict.keys()) >= kl_key_differ_num_threshold:
+                break
+            U_kl_value = self.get_js_value(U_p_dict, U_q_dict)
+
+            B_q_dict = self.B_e_w_num[q_e_idx]
+            if len(B_p_dict.keys()) - len(B_q_dict.keys()) >= kl_key_differ_num_threshold:
+                break
+            B_kl_value = self.get_js_value(B_p_dict, B_q_dict)
+            result_dict[q_e_idx] = alpha * U_kl_value + (1 - alpha) * B_kl_value
+        sorted_result_list = sorted(result_dict.items(), key=lambda kv: kv[1])
+        sorted_result_list = sorted_result_list[:kl_top_k]
+        for s_res in sorted_result_list:
+            print("{}\t{}".format(self.e_idx2name[s_res[0]], self.s_res[1]))
 
 
 def main():
@@ -175,14 +255,17 @@ def main():
     e2idx_file = folder + "e2idx.txt"
     e2idx_shortcut_file = folder + "e2idx_shortcut.txt"
 
+    # don't add inverse relation
     r2idx_file = folder + "r2idx.txt"
+
+    # add inverse relation
     r2idx_shortcut_file = folder + "r2idx_shortcut.txt"
 
     triple2idx_file = folder + "triple2idx.txt"
 
-    simiGraph = SimiGraph(triple2idx_file)
-    simiGraph.load_data()
-    simiGraph.calculate_LM()
+    simiGraph = SimiGraph(triple2idx_file, e2idx_shortcut_file, r2idx_shortcut_file)
+    simiGraph.load_triples()
+    simiGraph.getLM()
 
     while True:
         my_input = input("Please input: ")
