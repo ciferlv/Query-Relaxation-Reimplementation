@@ -8,17 +8,33 @@ mydb = mysql.connector.connect(
     database="kg")
 
 """
-Before computing kl-divergence, compare the num of keys of two distribution,
-cancel this calculation if they differ much.
-"""
-kl_key_differ_num_threshold = 10
-
-"""
 Unigram ration
 """
 alpha = 0.8
 
 """
+Subject ration for relation
+"""
+miu_s = 0.4
+
+"""
+Object ration for relation
+"""
+miu_o = 0.4
+
+"""
 number of top kl value entities to reserve
 """
-kl_top_k = 5
+js_top_k = 5
+
+"""
+Before computing js-divergence, compare the num of keys of two distribution,
+cancel this calculation if they differ much.
+"""
+js_key_differ_num_threshold = 2000
+
+"""
+After merging the keys of two distribution,
+threshold for the difference between the size of merged key set and original key set
+"""
+num_threshold_after_merging = 1000
