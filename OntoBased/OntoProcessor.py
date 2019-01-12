@@ -54,13 +54,15 @@ class SubBasics:
             self.add_rng(_uri)
 
     def __str__(self):
-        sc_str = "\t".join(list(self.fc_set))
-        sp_str = "\t".join(list(self.fp_set))
+        fc_str = "\t".join(list(self.fc_set))
+        fp_str = "\t".join(list(self.fp_set))
         don_str = "\t".join(list(self.don_set))
         rng_str = "\t".join(list(self.rng_set))
-        return "sub:\t" + self.sub + "\n" \
-               + "sc:\t" + sc_str + "\n" + "sp:\t" + sp_str + "\n" \
-               + "don:\t" + don_str + "\n" + "rng:\t" + rng_str
+        return "sub:" + self.sub + "\n" + \
+               "fc:" + fc_str + "\n" + \
+               "fp:" + fp_str + "\n" + \
+               "don:" + don_str + "\n" + \
+               "rng:" + rng_str
 
 
 class DbpediaOntology:
@@ -122,7 +124,108 @@ class DbpediaOntology:
 
     def deduction(self):
         print("Start deduction.")
-        
+        deleted_domain = []
+        deleted_range = []
+
+        # e1
+        for a_iri in self.sub_dict:
+            a_node = self.sub_dict[a_iri]
+            for c_iri in a_node.don_set:
+                for b_iri in a_node.fp_set:
+                    if c_iri in self.sub_dict[b_iri].don_set:
+                        deleted_domain.append([a_iri, c_iri])
+                        break
+
+        # e3
+        for a_iri in self.sub_dict:
+            a_node = self.sub_dict[a_iri]
+            for c_iri in a_node.don_set:
+                for b_iri in a_node.don_set:
+                    if c_iri == b_iri:
+                        continue
+                    if c_iri in self.sub_dict[b_iri].fc_set:
+                        deleted_domain.append([a_iri, c_iri])
+                        break
+
+        # e2
+        for a_iri in self.sub_dict:
+            a_node = self.sub_dict[a_iri]
+            for c_iri in a_node.rng_set:
+                for b_iri in a_node.fp_set:
+                    if c_iri in self.sub_dict[b_iri].rng_set:
+                        deleted_range.append([a_iri, c_iri])
+                        break
+
+        # e4
+        for a_iri in self.sub_dict:
+            a_node = self.sub_dict[a_iri]
+            for c_iri in a_node.rng_set:
+                for b_iri in a_node.rng_set:
+                    if c_iri == b_iri:
+                        continue
+                    if c_iri in self.sub_dict[b_iri].fc_set:
+                        deleted_range.append([a_iri, c_iri])
+                        break
+
+        for a_iri, c_iri in deleted_domain:
+            self.sub_dict[a_iri].don_set.remove(c_iri)
+
+        for a_iri, c_iri in deleted_range:
+            self.sub_dict[a_iri].rng_set.remove(c_iri)
+
+        deleted_fp_list = []
+        deleted_fc_list = []
+
+        # sub property (1)
+        for a_iri in self.sub_dict:
+            a_node = self.sub_dict[a_iri]
+            for c_iri in a_node.fp_set:
+                for b_iri in a_node.fp_set:
+                    if c_iri == b_iri:
+                        continue
+                    if c_iri in self.sub_dict[b_iri].fp_set:
+                        deleted_fp_list.append([a_iri, c_iri])
+                        break
+
+        # sub class (3)
+        for a_iri in self.sub_dict:
+            a_node = self.sub_dict[a_iri]
+            for c_iri in a_node.fc_set:
+                for b_iri in a_node.fc_set:
+                    if c_iri == b_iri:
+                        continue
+                    if c_iri in self.sub_dict[b_iri].fc_set:
+                        deleted_fc_list.append([a_iri, c_iri])
+                        break
+
+        for a_iri, c_iri in deleted_fp_list:
+            self.sub_dict[a_iri].fp_set.remove(c_iri)
+
+        for a_iri, c_iri in deleted_fc_list:
+            self.sub_dict[a_iri].fc_set.remove(c_iri)
+
+    def save2file(self):
+        with open(self.file_path_dict['result_file'], 'w', encoding="UTF-8") as f:
+            for sub in self.sub_dict:
+                f.write(self.sub_dict[sub])
+                f.write("\n")
+
+    def reload_from_file(self):
+        with open(self.file_path_dict['result_file'], 'w', encoding="UTF-8") as f:
+            lines = f.readlines()
+            i = 0
+            while i < len(lines):
+                sub = lines[i].split(":")[-1]
+                self.sub_dict[sub] = SubBasics(sub)
+                fc_str = lines[i + 1].split(":")[-1]
+                [self.sub_dict[sub].add_fc(one_fc) for one_fc in fc_str.split("\t")]
+                fp_str = lines[i + 2].split(":")[-1]
+                [self.sub_dict[sub].add_fp(one_fp) for one_fp in fp_str.split("\t")]
+                don_str = lines[i + 3].split(":")[-1]
+                [self.sub_dict[sub].add_don(one_don) for one_don in don_str.split("\t")]
+                rng_str = lines[i + 4].split(":")[-1]
+                [self.sub_dict[sub].add_rng(one_rng) for one_rng in rng_str.split("\t")]
+                i += 5
 
 def main():
     file_path_dict = {}
