@@ -1,0 +1,2 @@
+folder  F:\\Data\\dbpedia\\
+ontology_file   dbpedia_ontology.nt

@@ -53,7 +53,10 @@ prefix_uri = {
     "http://www.w3.org/2000/01/rdf-schema#": "rdfs",
     "http://www.w3.org/2002/07/owl#": "owl",
     "http://xmlns.com/foaf/0.1/": "foaf",
-    "http://purl.org/dc/elements/1.1/": "dc"
+    "http://purl.org/dc/elements/1.1/": "dc",
+    "http://dbpedia.org/datatype/": "dbt",
+    "http://www.w3.org/2001/XMLSchema#": "xsd",
+    "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#": "dulo"
 }
 '''
 For a candidate, there may be many rules for a BGP, this param determines the num to display.
