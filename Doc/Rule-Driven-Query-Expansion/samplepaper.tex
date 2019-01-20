@@ -5,6 +5,7 @@
 \documentclass[runningheads]{llncs}
 %
 \usepackage{graphicx}
+\usepackage{cite}
 % Used for displaying a sample figure. If possible, figure files should
 % be included in EPS format.
 %
@@ -14,53 +15,62 @@
 
 \begin{document}
 %
-\title{Contribution Title\thanks{Supported by organization x.}}
+\title{Rule Driven Query Expansion}
 %
 %\titlerunning{Abbreviated paper title}
 % If the paper title is too long for the running head, you can set
 % an abbreviated paper title here
 %
-\author{First Author\inst{1}\orcidID{0000-1111-2222-3333} \and
-Second Author\inst{2,3}\orcidID{1111-2222-3333-4444} \and
-Third Author\inst{3}\orcidID{2222--3333-4444-5555}}
+\author{Xinze Lyu \and
+Wei Hu}
 %
 \authorrunning{F. Author et al.}
 % First names are abbreviated in the running head.
 % If there are more than two authors, 'et al.' is used.
 %
-\institute{Princeton University, Princeton NJ 08544, USA \and
-Springer Heidelberg, Tiergartenstr. 17, 69121 Heidelberg, Germany
-\email{lncs@springer.com}\\
-\url{http://www.springer.com/gp/computer-science/lncs} \and
-ABC Institute, Rupert-Karls-University Heidelberg, Heidelberg, Germany\\
-\email{\{abc,lncs\}@uni-heidelberg.de}}
+\institute{State Key Laboratory for Novel Software Technology, Nanjing University, China \and
+Department of Computer Science and Technology, Nanjing University, China
+\email{xzlv.nju@gmail.com, whu@nju.edu.cn}\\
+}
 %
 \maketitle              % typeset the header of the contribution
 %
 \begin{abstract}
-The abstract should briefly summarize the contents of the paper in
-150--250 words.
-
-\keywords{First keyword  \and Second keyword \and Another keyword.}
+  Empty answers problem exists when we use SPARQL to access RDF knowledge graph data. Put situations that querying facts inexistent to the real world aside, one reason is that users lack enough knowledge for a particular RDF knowledge graph, that leads to SPARQL queries with wrong formats or inaccurate expressions.  However, due to the schema-free nature of RDF data and incompleteness of particular RDF knowledge graphs, even a SPARQL query with correct format can reflect users' intentions accurately, it may fail to get any results. Researches going on in translating the natural language to SPARQL help a lot to address the first problem, but these are inconducive for the second problem which was caused by the faults in structure and content of RDF knowledge graphs.
+  We design a rule-driven framework to alleviate the obstacles caused by the structure and content of RDF knowledge graphs. Specifically, given a SPARQL query, we use knowledge graph oriented rule-learning procedure to take reasoning rules, with the help of these rules, our system return possible results. More importantly, our system shows detailed information with similarity score and rules to explain why our system chooses particular possible answers.
+\keywords{SPARQL  \and Empty Answer \and Rule Learning.}
 \end{abstract}
 %
 %
 %
-\section{First Section}
-\subsection{A Subsection Sample}
-Please note that the first paragraph of a section or subsection is
-not indented. The first paragraph that follows a table, figure,
-equation etc. does not need an indent, either.
+\section{Problem Statement}
+\subsection{Empty Answer Problem for SPARQL query}
+Users use SPARQL queries reflecting their intentions to access the  data from RDF knowledge graph, reasons for Empty Answer Problem are various, three of which are main ones, 1)the facts that users want to query  do not exist in the real world; 2)the formats of SPARQL is wrong, including  the namespace, operators and so on; 3)SPARQL queries are accurate and well-formatted, but they do not have exact matches in particular RDF knowledge graphs.
 
-Subsequent paragraphs, however, are indented.
+We focus on the third one.  There are two factors that contribute to the third problems. One is the SPARQL queries have a high level of constraints, we get an instance from the released resource of ~\cite{wangEmbed}, there are three constraints for SPARQL query in table ~\ref{S_Example}. This query gets no answers, in fact, the constraints (1) and (2) are redundant, we can infer that ``?company" is dbr:Apple\_Inc with constraints (3).
 
-\subsubsection{Sample Heading (Third Level)} Only two levels of
-headings should be numbered. Lower level headings remain unnumbered;
-they are formatted as run-in headings.
-
-\paragraph{Sample Heading (Fourth Level)}
-The contribution should contain no more than four levels of
-headings. Table~\ref{tab1} gives a summary of all heading levels.
+\begin{table}
+\caption{SPARQL query with high constraints.}\label{S_Example}
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\multicolumn{2}{|l|}{SELECT ?company WHERE }\\
+\hline
+(1) &  ?company rdfs:type dbo:Company.\\
+(2) &  ?company dbo:industry dbr:Electronics.\\
+(3) & dbr:IPhone dbp:developer ?company.\\
+\hline
+% \multicolumn{2}{|c|}{}}\\
+% \hline
+\end{tabular}
+\end{table}
+% \subsubsection{Sample Heading (Third Level)}
+% \paragraph{Sample Heading (Fourth Level)}
+\subsection{Semantic Parsing}
+\subsection{Paraphrasing}
+\subsection{Similarity Based Method}
+\subsection{Ontology Rule Based Method}
+\subsection{Embedding Based Method}
 
 \begin{table}
 \caption{Table captions should be placed above the
@@ -123,28 +133,7 @@ and a homepage~\cite{ref_url1}. Multiple citations are grouped
 % BibTeX users should specify bibliography style 'splncs04'.
 % References will then be sorted and formatted in the correct style.
 %
-% \bibliographystyle{splncs04}
-% \bibliography{mybibliography}
-%
-\begin{thebibliography}{8}
-\bibitem{ref_article1}
-Author, F.: Article title. Journal \textbf{2}(5), 99--110 (2016)
+\bibliographystyle{splncs04}
+\bibliography{xzlyu}
 
-\bibitem{ref_lncs1}
-Author, F., Author, S.: Title of a proceedings paper. In: Editor,
-F., Editor, S. (eds.) CONFERENCE 2016, LNCS, vol. 9999, pp. 1--13.
-Springer, Heidelberg (2016). \doi{10.10007/1234567890}
-
-\bibitem{ref_book1}
-Author, F., Author, S., Author, T.: Book title. 2nd edn. Publisher,
-Location (1999)
-
-\bibitem{ref_proc1}
-Author, A.-B.: Contribution title. In: 9th International Proceedings
-on Proceedings, pp. 1--2. Publisher, Location (2010)
-
-\bibitem{ref_url1}
-LNCS Homepage, \url{http://www.springer.com/lncs}. Last accessed 4
-Oct 2017
-\end{thebibliography}
 \end{document}

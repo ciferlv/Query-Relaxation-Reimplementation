@@ -1,0 +1,11 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{wangEmbed}
+Wang, M., Wang, R., Liu, J., Chen, Y., Zhang, L., Qi, G.: Towards empty answers
+  in sparql: Approximating querying with rdf embedding. In: International
+  Semantic Web Conference. pp. 513--529. Springer (2018)
+
+\end{thebibliography}
