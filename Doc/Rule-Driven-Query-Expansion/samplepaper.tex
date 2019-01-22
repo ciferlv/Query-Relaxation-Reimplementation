@@ -45,20 +45,43 @@ Department of Computer Science and Technology, Nanjing University, China
 %
 \section{Problem Statement}
 \subsection{Empty Answer Problem for SPARQL query}
-Users use SPARQL queries reflecting their intentions to access the  data from RDF knowledge graph, reasons for Empty Answer Problem are various, three of which are main ones, 1)the facts that users want to query  do not exist in the real world; 2)the formats of SPARQL is wrong, including  the namespace, operators and so on; 3)SPARQL queries are accurate and well-formatted, but they do not have exact matches in particular RDF knowledge graphs.
+Users use SPARQL queries reflecting their intentions to access the  data from RDF knowledge graph, reasons for Empty Answer Problem are various, three of which are main ones, 1)the facts that users want to query do not exist in the real world, this may be caused by the wrong mapping of entities or relations, the misplace of subjects or objects; 2)the formats of SPARQL is wrong, including  the namespace, operators and so on; 3)SPARQL queries are accurate and well-formatted, but they do not have exact matches in particular RDF knowledge graphs.
 
-We focus on the third one.  There are two factors that contribute to the third problems. One is the SPARQL queries have a high level of constraints, we get an instance from the released resource of ~\cite{wangEmbed}, there are three constraints for SPARQL query in table ~\ref{S_Example}. This query gets no answers, in fact, the constraints (1) and (2) are redundant, we can infer that ``?company" is dbr:Apple\_Inc with constraints (3).
+The problem 1) and 2) can be regarded as users can not use SPARQL language descripe their intentions, there are lots of works being done to solve this problem, including entity linking~\cite{el_Han}, relation linking~\cite{dubey2018earl} and more sophisticated work, translating natural language into SPARQL ~\cite{sander2014ontology}.
+These works are done under the situation that users lack the full knowledge of particular RDF knowledge graph, they aim to help users to generate well-formatted SPARQL query to reflect their intentions accurately, however, it is not enough. Even a SPARQL query can avoid the problem 1) and 2), it may still has to face problem 3).
+For example, when a user want to know ``Who is the advisor of Newton?", he makes a SPARQL \textbf{\textit{``SELECT ?avisor WHERE \{dbr:Issac\_Newton dbo:academicAdvisor ?advisor\}"}} to access Dbpedia, this is a correct SPARQL query, but it gets no answer because there is not an entity that exists explicit relation \textit{``dbo:academicAdvisor"} with \textit{``dbr:Issac\_Newton"}. But Newton really has advisors, it is \textit{``dbr:Isaac\_Barrow"}, this fact is recorded as \textit{``dbr:Issac\_Newton dbo:doctoralAdvisor dbr:Isaac\_Barrow" } in Dbpeida.  This seems that we can make some ``magic operations" to link word ``advisor" to \textit{``dbo:doctoralAdvisor"} instead of \textit{``dbo:academicAdvisor"}, we also prepare another example in table ~\ref{film_table}. We construct this query to get Asian directors and their films. It gets no answer, too. Although some directors' birthplaces are connected to \textit{``dbr:China"}, \textit{``dbr:Japan"} and so on, they are Asian directors absolutely, but no one's birthplace is connected to \textit{``dbr:Asia"} directly.
 
 \begin{table}
-\caption{SPARQL query with high constraints.}\label{S_Example}
+\caption{SPARQL to get Asian films and their films.}\label{film_table}
 \centering
-\begin{tabular}{|c|c|}
+\begin{tabular}{|c|lll|}
 \hline
-\multicolumn{2}{|l|}{SELECT ?company WHERE }\\
+\multicolumn{4}{|l|}{SELECT ?film ?director WHERE }\\
 \hline
-(1) &  ?company rdfs:type dbo:Company.\\
-(2) &  ?company dbo:industry dbr:Electronics.\\
-(3) & dbr:IPhone dbp:developer ?company.\\
+(1) &  ?film & dbo:director & ?director.\\
+(2) &  ?director & dbo:birthPlace & dbr:Asia.\\
+\hline
+\end{tabular}
+\end{table}
+
+In this paper, we assume that our SPARQL queries are not related to problem 1) and 2) and focus on problem 3).
+Problem 1) and 2) are more related to Natural Language Processing, Problem 3) is different, it is caused by the inherent limits(or features) of RDF knowledge graph. RDF knowledge graph is schema-free, there are often several similar predicates to describe the same relation, this leads to the problem about ``Newton's advisors" above; RDF knowledge graph is incomplete, it is also impossible to make a single complete RDF knowledge graph now, so it leads to the problem about ``Asian" presented above.
+
+More clearly, Problem 3) has 2 typical kinds of expressions.
+One is the SPARQL queries have a high level of constraints, we get an instance from the released resource of ~\cite{wangEmbed}, there are three constraints for the SPARQL query in table ~\ref{S_Example}. This query gets no answers, in fact, the constraints (1) and (2) are redundant, we can infer that ``?company" is ``dbr:Apple\_Inc" only with constraints (3). It seems good to relax or delete the unnecessary constraints. Some works tried to solve it by Query Relaxation techniques, including replacement with similar entities and predicates ~\cite{elbassuoni2011query}, relaxation with ontology rule ~\cite{2010combining} and approximation for related results with representation learning in vector space ~\cite{wangEmbed, hamilton2018embedding, zhang2018trquery}. Some works try to find which parts of a SPARQL query should be deleted, but it is a NP-hard problem and do not get good results. Also, there are works ~\cite{huang2012} that try to construct this problem as a complete document IR problem, which needs extra text sources. We will detail these methods later.
+
+Besides high level constraints query, there are many simple and plain SPARQL queries, like \textbf{\textit{``SELECT ?avisor WHERE \{dbr:Issac\_Newton dbo:academicAdvisor ?advisor\}"}}, relaxation techniques are not proper for these simple queries, because relaxation will change the meaning of simple SPARQL queries easily.
+
+\begin{table}
+\caption{SPARQL with high constraints.}\label{S_Example}
+\centering
+\begin{tabular}{|c|lll|}
+\hline
+\multicolumn{4}{|l|}{SELECT ?company WHERE }\\
+\hline
+(1) &  ?company & rdfs:type & dbo:Company.\\
+(2) &  ?company  & dbo:industry  & dbr:Electronics.\\
+(3) & dbr:IPhone & dbp:developer & ?company.\\
 \hline
 % \multicolumn{2}{|c|}{}}\\
 % \hline

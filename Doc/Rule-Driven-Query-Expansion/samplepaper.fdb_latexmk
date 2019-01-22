@@ -1,16 +1,18 @@
 # Fdb version 3
-["bibtex samplepaper"] 1547988485 "samplepaper.aux" "samplepaper.bbl" "samplepaper" 1547989044
+["bibtex samplepaper"] 1548126465 "samplepaper.aux" "samplepaper.bbl" "samplepaper" 1548126686
   "./splncs04.bst" 1521111745 33694 ee21ae2a29028dc8ad842a97200982c7 ""
-  "samplepaper.aux" 1547989043 1640 658ffb1176ecb527356e4bd9140b9677 ""
-  "xzlyu.bib" 1547987211 325 0e42f9da86049ae57c2a46215fc3bb98 ""
+  "samplepaper.aux" 1548126686 2219 4880f3d8ed0e747ba022dd443c582f20 ""
+  "xzlyu.bib" 1548126453 2500 96a83e1a8f464f266961c3de42c1f178 ""
   (generated)
-  "samplepaper.blg"
   "samplepaper.bbl"
-["pdflatex"] 1547989042 "samplepaper.tex" "samplepaper.pdf" "samplepaper" 1547989044
+  "samplepaper.blg"
+["pdflatex"] 1548126685 "samplepaper.tex" "samplepaper.pdf" "samplepaper" 1548126686
   "e:/Programs/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1543492901 3332 103109f5612ad95229751940c61aada0 ""
+  "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm" 1543491339 1116 4e6ba9d7914baa6482fd69f67d126380 ""
   "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1543491339 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1543491339 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1543491339 1328 5442e22a7072966dbaf88ca900acf3f0 ""
+  "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm" 1543491339 1532 9162035f4e7176612125649e348e2195 ""
   "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1543491339 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1543491339 1524 d89e2d087a9828407a196f428428ef4a ""
   "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1543491339 1288 655e228510b4c2a1abe905c368440826 ""
@@ -21,9 +23,11 @@
   "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1543491339 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmti9.tfm" 1543491339 1476 cccc6cc4935c18ec3d5623b77ecb8b74 ""
   "e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmtt9.tfm" 1543491339 764 c98a2af25c99b73a368cf7336e255190 ""
+  "e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb" 1543489317 34793 ae7a3e2775dc0ce90475eeabcb46f9f1 ""
   "e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1543489317 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1543489317 32080 340ef9bf63678554ee606688e7b5339d ""
   "e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1543489317 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
+  "e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb" 1543489317 36554 b67dc2cfa451409e100b3fcf5f506509 ""
   "e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1543489317 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1543489317 35752 024fb6c41858982481f6968b5fc26508 ""
   "e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1543489317 32734 69e00a6b65cedb993666e42eedb3d48f ""
@@ -63,9 +67,9 @@
   "e:/Programs/texlive/texmf.cnf" 1543508952 715 839ef4b14d931ce86420174d3a223d3e ""
   "fig1.eps" 1507108873 357553 7e2b7e710693198613c8426973a2c3ce ""
   "llncs.cls" 1521111699 43467 b08ec23e994470d7d8fc268d245cf555 ""
-  "samplepaper.aux" 1547989043 1640 658ffb1176ecb527356e4bd9140b9677 ""
-  "samplepaper.bbl" 1547988486 399 1b61f22f2e97507c5cfcf001d20349ed "bibtex samplepaper"
-  "samplepaper.tex" 1547989042 6645 1e048b6b34df13ad4140c0c1bf3711c0 ""
+  "samplepaper.aux" 1548126686 2219 4880f3d8ed0e747ba022dd443c582f20 ""
+  "samplepaper.bbl" 1548126465 1951 2f6988dd4e89dc92faa45f335a099904 "bibtex samplepaper"
+  "samplepaper.tex" 1548126684 10481 aacc4330ec0315e1cb88b769c84c720b ""
   (generated)
   "samplepaper.aux"
   "samplepaper.log"

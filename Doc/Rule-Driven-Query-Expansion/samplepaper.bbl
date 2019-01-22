@@ -3,9 +3,47 @@
 \providecommand{\urlprefix}{URL }
 \providecommand{\doi}[1]{https://doi.org/#1}
 
+\bibitem{dubey2018earl}
+Dubey, M., Banerjee, D., Chaudhuri, D., Lehmann, J.: Earl: Joint entity and
+  relation linking for question answering over knowledge graphs. arXiv preprint
+  arXiv:1801.03825  (2018)
+
+\bibitem{elbassuoni2011query}
+Elbassuoni, S., Ramanath, M., Weikum, G.: Query relaxation for
+  entity-relationship search. In: Extended Semantic Web Conference. pp. 62--76.
+  Springer (2011)
+
+\bibitem{hamilton2018embedding}
+Hamilton, W., Bajaj, P., Zitnik, M., Jurafsky, D., Leskovec, J.: Embedding
+  logical queries on knowledge graphs. In: Advances in Neural Information
+  Processing Systems. pp. 2030--2041 (2018)
+
+\bibitem{huang2012}
+Huang, H., Liu, C., Zhou, X.: Approximating query answering on rdf databases.
+  World Wide Web  \textbf{15}(1),  89--114 (2012)
+
+\bibitem{2010combining}
+Poulovassilis, A., Wood, P.T.: Combining approximation and relaxation in
+  semantic web path queries. In: International Semantic Web Conference. pp.
+  631--646. Springer (2010)
+
+\bibitem{sander2014ontology}
+Sander, M., Waltinger, U., Roshchin, M., Runkler, T.: Ontology-based
+  translation of natural language queries to sparql. In: NLABD: AAAI Fall
+  Symposium (2014)
+
+\bibitem{el_Han}
+Shen, W., Wang, J., Han, J.: Entity linking with a knowledge base: Issues,
+  techniques, and solutions. IEEE Transactions on Knowledge and Data
+  Engineering  \textbf{27}(2),  443--460 (2015)
+
 \bibitem{wangEmbed}
 Wang, M., Wang, R., Liu, J., Chen, Y., Zhang, L., Qi, G.: Towards empty answers
   in sparql: Approximating querying with rdf embedding. In: International
   Semantic Web Conference. pp. 513--529. Springer (2018)
+
+\bibitem{zhang2018trquery}
+Zhang, L., Zhang, X., Feng, Z.: Trquery: An embedding-based framework for
+  recommanding sparql queries. arXiv preprint arXiv:1806.06205  (2018)
 
 \end{thebibliography}
