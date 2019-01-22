@@ -1,7 +1,12 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 \providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{bordes2013translating}
+Bordes, A., Usunier, N., Garcia-Duran, A., Weston, J., Yakhnenko, O.:
+  Translating embeddings for modeling multi-relational data. In: Advances in
+  neural information processing systems. pp. 2787--2795 (2013)
 
 \bibitem{dubey2018earl}
 Dubey, M., Banerjee, D., Chaudhuri, D., Lehmann, J.: Earl: Joint entity and
@@ -22,10 +27,37 @@ Hamilton, W., Bajaj, P., Zitnik, M., Jurafsky, D., Leskovec, J.: Embedding
 Huang, H., Liu, C., Zhou, X.: Approximating query answering on rdf databases.
   World Wide Web  \textbf{15}(1),  89--114 (2012)
 
+\bibitem{ji2015knowledge}
+Ji, G., He, S., Xu, L., Liu, K., Zhao, J.: Knowledge graph embedding via
+  dynamic mapping matrix. In: Proceedings of the 53rd Annual Meeting of the
+  Association for Computational Linguistics and the 7th International Joint
+  Conference on Natural Language Processing (Volume 1: Long Papers). vol.~1,
+  pp. 687--696 (2015)
+
+\bibitem{kazemi2018simple}
+Kazemi, S.M., Poole, D.: Simple embedding for link prediction in knowledge
+  graphs. arXiv preprint arXiv:1802.04868  (2018)
+
+\bibitem{2014deepwalk}
+Perozzi, B., Al-Rfou, R., Skiena, S.: Deepwalk: Online learning of social
+  representations. In: Proceedings of the 20th ACM SIGKDD international
+  conference on Knowledge discovery and data mining. pp. 701--710. ACM (2014)
+
+\bibitem{ponza2017two}
+Ponza, M., Ferragina, P., Chakrabarti, S.: A two-stage framework for computing
+  entity relatedness in wikipedia. In: Proceedings of the 2017 ACM on
+  Conference on Information and Knowledge Management. pp. 1867--1876. ACM
+  (2017)
+
 \bibitem{2010combining}
 Poulovassilis, A., Wood, P.T.: Combining approximation and relaxation in
   semantic web path queries. In: International Semantic Web Conference. pp.
   631--646. Springer (2010)
+
+\bibitem{qian2018translating}
+Qian, W., Fu, C., Zhu, Y., Cai, D., He, X.: Translating embeddings for
+  knowledge graph completion with relation attention mechanism. In: IJCAI. pp.
+  4286--4292 (2018)
 
 \bibitem{sander2014ontology}
 Sander, M., Waltinger, U., Roshchin, M., Runkler, T.: Ontology-based
@@ -36,6 +68,11 @@ Sander, M., Waltinger, U., Roshchin, M., Runkler, T.: Ontology-based
 Shen, W., Wang, J., Han, J.: Entity linking with a knowledge base: Issues,
   techniques, and solutions. IEEE Transactions on Knowledge and Data
   Engineering  \textbf{27}(2),  443--460 (2015)
+
+\bibitem{2018weakly}
+Voskarides, N., Meij, E., Reinanda, R., Khaitan, A., Osborne, M., Stefanoni,
+  G., Kambadur, P., de~Rijke, M.: Weakly-supervised contextualization of
+  knowledge graph facts. arXiv preprint arXiv:1805.02393  (2018)
 
 \bibitem{wangEmbed}
 Wang, M., Wang, R., Liu, J., Chen, Y., Zhang, L., Qi, G.: Towards empty answers

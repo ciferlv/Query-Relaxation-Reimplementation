@@ -47,9 +47,9 @@ Department of Computer Science and Technology, Nanjing University, China
 \subsection{Empty Answer Problem for SPARQL query}
 Users use SPARQL queries reflecting their intentions to access the  data from RDF knowledge graph, reasons for Empty Answer Problem are various, three of which are main ones, 1)the facts that users want to query do not exist in the real world, this may be caused by the wrong mapping of entities or relations, the misplace of subjects or objects; 2)the formats of SPARQL is wrong, including  the namespace, operators and so on; 3)SPARQL queries are accurate and well-formatted, but they do not have exact matches in particular RDF knowledge graphs.
 
-The problem 1) and 2) can be regarded as users can not use SPARQL language descripe their intentions, there are lots of works being done to solve this problem, including entity linking~\cite{el_Han}, relation linking~\cite{dubey2018earl} and more sophisticated work, translating natural language into SPARQL ~\cite{sander2014ontology}.
+The problem 1) and 2) can be regarded as users can not use SPARQL language descripe their intentions, there are lots of works being done to solve this problem, including entity linking~\cite{el_Han}, relation linking~\cite{dubey2018earl} and more sophisticated work, translating natural language into SPARQL~\cite{sander2014ontology}.
 These works are done under the situation that users lack the full knowledge of particular RDF knowledge graph, they aim to help users to generate well-formatted SPARQL query to reflect their intentions accurately, however, it is not enough. Even a SPARQL query can avoid the problem 1) and 2), it may still has to face problem 3).
-For example, when a user want to know ``Who is the advisor of Newton?", he makes a SPARQL \textbf{\textit{``SELECT ?avisor WHERE \{dbr:Issac\_Newton dbo:academicAdvisor ?advisor\}"}} to access Dbpedia, this is a correct SPARQL query, but it gets no answer because there is not an entity that exists explicit relation \textit{``dbo:academicAdvisor"} with \textit{``dbr:Issac\_Newton"}. But Newton really has advisors, it is \textit{``dbr:Isaac\_Barrow"}, this fact is recorded as \textit{``dbr:Issac\_Newton dbo:doctoralAdvisor dbr:Isaac\_Barrow" } in Dbpeida.  This seems that we can make some ``magic operations" to link word ``advisor" to \textit{``dbo:doctoralAdvisor"} instead of \textit{``dbo:academicAdvisor"}, we also prepare another example in table ~\ref{film_table}. We construct this query to get Asian directors and their films. It gets no answer, too. Although some directors' birthplaces are connected to \textit{``dbr:China"}, \textit{``dbr:Japan"} and so on, they are Asian directors absolutely, but no one's birthplace is connected to \textit{``dbr:Asia"} directly.
+For example, when a user want to know ``Who is the advisor of Newton?", he makes a SPARQL in table~\ref{Newton} to access Dbpedia, this is a correct SPARQL query, but it gets no answer because there is not an entity that exists explicit relation \textit{``dbo:doctoralAdvisor"} with \textit{``dbr:Isaac\_Newton"}. But Newton really has advisors, it is \textit{``dbr:Isaac\_Barrow"}, this fact is recorded as \textit{``dbr:Isaac\_Newton dbo:academicAdvisor dbr:Isaac\_Barrow" } in Dbpeida.  This seems that we can make some ``magic operations" to link word ``advisor" to \textit{``dbo:academicAdvisor"} instead of \textit{``dbo:doctoralAdvisor"}, we also prepare another example in table~\ref{film_table}. We construct this query to get Asian directors and their films. It gets no answer, too. Although some directors' birthplaces are connected to \textit{``dbr:China"}, \textit{``dbr:Japan"} and so on, they are Asian directors absolutely, but no one's birthplace is connected to \textit{``dbr:Asia"} directly.
 
 \begin{table}
 \caption{SPARQL to get Asian films and their films.}\label{film_table}
@@ -68,9 +68,9 @@ In this paper, we assume that our SPARQL queries are not related to problem 1) a
 Problem 1) and 2) are more related to Natural Language Processing, Problem 3) is different, it is caused by the inherent limits(or features) of RDF knowledge graph. RDF knowledge graph is schema-free, there are often several similar predicates to describe the same relation, this leads to the problem about ``Newton's advisors" above; RDF knowledge graph is incomplete, it is also impossible to make a single complete RDF knowledge graph now, so it leads to the problem about ``Asian" presented above.
 
 More clearly, Problem 3) has 2 typical kinds of expressions.
-One is the SPARQL queries have a high level of constraints, we get an instance from the released resource of ~\cite{wangEmbed}, there are three constraints for the SPARQL query in table ~\ref{S_Example}. This query gets no answers, in fact, the constraints (1) and (2) are redundant, we can infer that ``?company" is ``dbr:Apple\_Inc" only with constraints (3). It seems good to relax or delete the unnecessary constraints. Some works tried to solve it by Query Relaxation techniques, including replacement with similar entities and predicates ~\cite{elbassuoni2011query}, relaxation with ontology rule ~\cite{2010combining} and approximation for related results with representation learning in vector space ~\cite{wangEmbed, hamilton2018embedding, zhang2018trquery}. Some works try to find which parts of a SPARQL query should be deleted, but it is a NP-hard problem and do not get good results. Also, there are works ~\cite{huang2012} that try to construct this problem as a complete document IR problem, which needs extra text sources. We will detail these methods later.
+One is the SPARQL queries have a high level of constraints, we get an instance from the released resource of~\cite{wangEmbed}, there are three constraints for the SPARQL query in table~\ref{S_Example}. This query gets no answers, in fact, the constraints (1) and (2) are redundant, we can infer that ``?company" is ``dbr:Apple\_Inc" only with constraints (3). It seems good to relax or delete the unnecessary constraints. Some works tried to solve it by Query Relaxation techniques, including replacement with similar entities and predicates~\cite{elbassuoni2011query}, relaxation with ontology rule~\cite{2010combining} and approximation for related results with representation learning in vector space~\cite{wangEmbed, hamilton2018embedding, zhang2018trquery}. Some works try to find which parts of a SPARQL query should be deleted, but it is a NP-hard problem and do not get good results. Also, there are works ~\cite{huang2012} that try to construct this problem as a complete document IR problem, which needs extra text sources. We will detail these methods later.
 
-Besides high level constraints query, there are many simple and plain SPARQL queries, like \textbf{\textit{``SELECT ?avisor WHERE \{dbr:Issac\_Newton dbo:academicAdvisor ?advisor\}"}}, relaxation techniques are not proper for these simple queries, because relaxation will change the meaning of simple SPARQL queries easily.
+Besides high level constraints query, there are many simple and plain SPARQL queries, like SPARL in table~\ref{Newton}, relaxation techniques are not proper for these simple queries, because relaxation will change the meaning of simple SPARQL queries easily.
 
 \begin{table}
 \caption{SPARQL with high constraints.}\label{S_Example}
@@ -83,8 +83,18 @@ Besides high level constraints query, there are many simple and plain SPARQL que
 (2) &  ?company  & dbo:industry  & dbr:Electronics.\\
 (3) & dbr:IPhone & dbp:developer & ?company.\\
 \hline
-% \multicolumn{2}{|c|}{}}\\
-% \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{SPARQL to get the advisors of Newton.}\label{Newton}
+\centering
+\begin{tabular}{|c|lll|}
+\hline
+\multicolumn{4}{|l|}{SELECT ?advisor WHERE }\\
+\hline
+(1) &  dbr:Isaac\_Netwon & dbo:doctoralAdvisor & ?advisor.\\
+\hline
 \end{tabular}
 \end{table}
 % \subsubsection{Sample Heading (Third Level)}
@@ -92,8 +102,34 @@ Besides high level constraints query, there are many simple and plain SPARQL que
 \subsection{Semantic Parsing}
 \subsection{Paraphrasing}
 \subsection{Similarity Based Method}
+The idea behind similarity based method is straight and simple, it wants to replace certain entities or relations with similar ones to get approximated results. For SPARQL in table~\ref{film_table}, replacing \textit{``dbr:Electronics"} with its similar one \textit{``dbr:Computer\_hardware"} will make this SPARQL return \textit{``dbr:Apple\_Inc"} successfully.
+
+This kind of works~\cite{elbassuoni2011query} are often constructed by two stages: 1)design approaches to calculate the similarity between entities and relations; 2)design stategies to replace entities and relations in original SPARQL queries.
+
+We want to point out 2 drawbacks of this method.
+\begin{enumerate}
+  \item It is hard to definen ``similar". Take SPARQL in table~\ref{Netwon_s_t} for example, users want to query Newton's students and advisors. For the first constraint, if we want to try to replace entity \textit{``dbr:Isaac\_Newton"}, we should choose Newton's classmates; for the second constraints, Newton's colleagues are more better. Similarity resides in aspects. Similar entites should be choosen according to the situations, but existing methods just choose entites under a fixed similarity ranking.
+  \item To our best of knowledge, existing entities similarity or relatedness methods~\cite{ponza2017two,2014deepwalk} often neglect the influence of predicates, they regard RDF knowledge graph as social networks to calculate similarity between entites. Triples relatedness~\cite{2018weakly} may be a good direction to get high quality and fine-grained entities relatedness. Predicates similarity or relatedness is rarely studied.
+\end{enumerate}
+\begin{table}
+\caption{SPARQL to get the advisors and students of Newton.}\label{Netwon_s_t}
+\centering
+\begin{tabular}{|c|lll|}
+\hline
+\multicolumn{4}{|l|}{SELECT ?advisor ?student WHERE }\\
+\hline
+(1) &  dbr:Isaac\_Netwon & dbo:doctoralAdvisor & ?advisor.\\
+(2) & ?student & dbo:doctoralAdvisor & dbr:Isaac\_Netwon.\\
+\hline
+\end{tabular}
+\end{table}
 \subsection{Ontology Rule Based Method}
 \subsection{Embedding Based Method}
+The basic idea behind this kind of method is to approximate results using the projection in vector space.
+This is a good  blueprint in approximating SPARQL, but we do not think Embedding method is suitable for this problem. Take SPARQL in table~\ref{film_table} for example. The \textit{``?director"} is approximated by \textit{``dbr:Asia"} and \textit{``dbo:birthPlace"}. We can note that this method only restrain \textit{``?director"} to be a ``thing" who was born in Asia, it has nothing to do with ``Film Director".
+
+For straight and simple SPARQL in table ~\ref{Newton}, this method looks great in theory but have a bad performace in practicing. Under this situation, this can be regarded as a link prediction problem with embedding~\cite{kazemi2018simple}. We survey the preformance of embedding method~\cite{bordes2013translating,ji2015knowledge,qian2018translating} in link prediction problem and have 2 conclusions: 1)the size of test dataset is much smaller than the size of the whole Dbpedia; 2)preformance is not good. Our experiments also show this method may not work.
+
 
 \begin{table}
 \caption{Table captions should be placed above the

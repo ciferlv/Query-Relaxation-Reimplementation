@@ -73,8 +73,6 @@ INPUT e:/Programs/texlive/texmf-dist/tex/latex/base/omscmr.fd
 INPUT e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
-INPUT e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT e:/Programs/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 OUTPUT samplepaper.pdf
 INPUT e:/Programs/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -91,11 +89,9 @@ INPUT ./fig1-eps-converted-to.pdf
 INPUT samplepaper.bbl
 INPUT samplepaper.bbl
 INPUT samplepaper.aux
-INPUT e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb
 INPUT e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
-INPUT e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
 INPUT e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT e:/Programs/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
