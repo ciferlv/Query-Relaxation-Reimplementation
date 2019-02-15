@@ -21,17 +21,17 @@
 % If the paper title is too long for the running head, you can set
 % an abbreviated paper title here
 %
-\author{Xinze Lyu \and
-Wei Hu}
+% \author{Xinze Lyu,
+% Wei Hu \and Yuzhong Qu}
 %
 \authorrunning{F. Author et al.}
 % First names are abbreviated in the running head.
 % If there are more than two authors, 'et al.' is used.
 %
-\institute{State Key Laboratory for Novel Software Technology, Nanjing University, China \and
-Department of Computer Science and Technology, Nanjing University, China
-\email{xzlv.nju@gmail.com, whu@nju.edu.cn}\\
-}
+% \institute{State Key Laboratory for Novel Software Technology, Nanjing University, China \and
+% Department of Computer Science and Technology, Nanjing University, China
+% \email{xzlv.nju@gmail.com, {whu,yzqu}@nju.edu.cn}\\
+% }
 %
 \maketitle              % typeset the header of the contribution
 %
@@ -45,11 +45,11 @@ Department of Computer Science and Technology, Nanjing University, China
 %
 \section{Problem Statement}
 \subsection{Empty Answer Problem for SPARQL query}
-Users use SPARQL queries reflecting their intentions to access the  data from RDF knowledge graph, reasons for Empty Answer Problem are various, three of which are main ones, 1)the facts that users want to query do not exist in the real world, this may be caused by the wrong mapping of entities or relations, the misplace of subjects or objects; 2)the formats of SPARQL is wrong, including  the namespace, operators and so on; 3)SPARQL queries are accurate and well-formatted, but they do not have exact matches in particular RDF knowledge graphs.
+Users use SPARQL queries reflecting their intentions to access the  data from RDF knowledge graph, reasons for Empty Answer Problem are various, three of which are main ones: 1) the facts that users want to query do not exist in the real world, this may be caused by the wrong mapping of entities or relations, the misplace of subjects or objects; 2) the formats of SPARQL is wrong, including  the namespace, operators and so on; 3) SPARQL queries are accurate and well-formatted, but they do not have exact matches in particular RDF knowledge graphs.
 
 The problem 1) and 2) can be regarded as users can not use SPARQL language descripe their intentions, there are lots of works being done to solve this problem, including entity linking~\cite{el_Han}, relation linking~\cite{dubey2018earl} and more sophisticated work, translating natural language into SPARQL~\cite{sander2014ontology}.
 These works are done under the situation that users lack the full knowledge of particular RDF knowledge graph, they aim to help users to generate well-formatted SPARQL query to reflect their intentions accurately, however, it is not enough. Even a SPARQL query can avoid the problem 1) and 2), it may still has to face problem 3).
-For example, when a user want to know ``Who is the advisor of Newton?", he makes a SPARQL in table~\ref{Newton} to access Dbpedia, this is a correct SPARQL query, but it gets no answer because there is not an entity that exists explicit relation \textit{``dbo:doctoralAdvisor"} with \textit{``dbr:Isaac\_Newton"}. But Newton really has advisors, it is \textit{``dbr:Isaac\_Barrow"}, this fact is recorded as \textit{``dbr:Isaac\_Newton dbo:academicAdvisor dbr:Isaac\_Barrow" } in Dbpeida.  This seems that we can make some ``magic operations" to link word ``advisor" to \textit{``dbo:academicAdvisor"} instead of \textit{``dbo:doctoralAdvisor"}, we also prepare another example in table~\ref{film_table}. We construct this query to get Asian directors and their films. It gets no answer, too. Although some directors' birthplaces are connected to \textit{``dbr:China"}, \textit{``dbr:Japan"} and so on, they are Asian directors absolutely, but no one's birthplace is connected to \textit{``dbr:Asia"} directly.
+For example, when a user want to know \textit{``Who is the advisor of Newton?"}, he makes a SPARQL in table~\ref{Newton} to access Dbpedia, this is a correct SPARQL query, but it gets no answer because there is not an entity that exists explicit relation \textit{``dbo:doctoralAdvisor"} with \textit{``dbr:Isaac\_Newton"}. But Newton really has advisors, it is \textit{``dbr:Isaac\_Barrow"}, this fact is recorded as \textit{``dbr:Isaac\_Newton dbo:academicAdvisor dbr:Isaac\_Barrow" } in Dbpeida.  This seems that we can make some ``magic operations" to link word ``advisor" to \textit{``dbo:academicAdvisor"} instead of \textit{``dbo:doctoralAdvisor"}, we also prepare another example in table~\ref{film_table}. We construct this query to get Asian directors and their films. It gets no answer, too. Although some directors' birthplaces are connected to \textit{``dbr:China"}, \textit{``dbr:Japan"} and so on, they are Asian directors absolutely, but no one's birthplace is connected to \textit{``dbr:Asia"} directly.
 
 \begin{table}
 \caption{SPARQL to get Asian films and their films.}\label{film_table}
@@ -68,12 +68,12 @@ In this paper, we assume that our SPARQL queries are not related to problem 1) a
 Problem 1) and 2) are more related to Natural Language Processing, Problem 3) is different, it is caused by the inherent limits(or features) of RDF knowledge graph. RDF knowledge graph is schema-free, there are often several similar predicates to describe the same relation, this leads to the problem about ``Newton's advisors" above; RDF knowledge graph is incomplete, it is also impossible to make a single complete RDF knowledge graph now, so it leads to the problem about ``Asian" presented above.
 
 More clearly, Problem 3) has 2 typical kinds of expressions.
-One is the SPARQL queries have a high level of constraints, we get an instance from the released resource of~\cite{wangEmbed}, there are three constraints for the SPARQL query in table~\ref{S_Example}. This query gets no answers, in fact, the constraints (1) and (2) are redundant, we can infer that ``?company" is ``dbr:Apple\_Inc" only with constraints (3). It seems good to relax or delete the unnecessary constraints. Some works tried to solve it by Query Relaxation techniques, including replacement with similar entities and predicates~\cite{elbassuoni2011query}, relaxation with ontology rule~\cite{2010combining} and approximation for related results with representation learning in vector space~\cite{wangEmbed, hamilton2018embedding, zhang2018trquery}. Some works try to find which parts of a SPARQL query should be deleted, but it is a NP-hard problem and do not get good results. Also, there are works ~\cite{huang2012} that try to construct this problem as a complete document IR problem, which needs extra text sources. We will detail these methods later.
+One is the SPARQL queries have a high level of constraints, we get an instance from the released resource of~\cite{wangEmbed}, there are three constraints for the SPARQL query in table~\ref{Over_C_Example}. This query gets no answers, in fact, the constraints (1) and (2) are redundant, we can infer that ``?company" is ``dbr:Apple\_Inc" only with constraints (3). It seems good to relax or delete the unnecessary constraints. Some works tried to solve it by Query Relaxation techniques, including replacement with similar entities and predicates~\cite{elbassuoni2011query}, relaxation with ontology rule~\cite{2010combining} and approximation for related results with representation learning in vector space~\cite{wangEmbed, hamilton2018embedding, zhang2018trquery}. Some works try to find which parts of a SPARQL query should be deleted, but it is a NP-hard problem and do not get good results. Also, there are works ~\cite{huang2012} that try to construct this problem as a complete document IR problem, which needs extra text sources. We will detail these methods later.
 
 Besides high level constraints query, there are many simple and plain SPARQL queries, like SPARL in table~\ref{Newton}, relaxation techniques are not proper for these simple queries, because relaxation will change the meaning of simple SPARQL queries easily.
 
 \begin{table}
-\caption{SPARQL with high constraints.}\label{S_Example}
+\caption{SPARQL with high constraints.}\label{Over_C_Example}
 \centering
 \begin{tabular}{|c|lll|}
 \hline
@@ -111,6 +111,7 @@ We want to point out 2 drawbacks of this method.
   \item It is hard to definen ``similar". Take SPARQL in table~\ref{Netwon_s_t} for example, users want to query Newton's students and advisors. For the first constraint, if we want to try to replace entity \textit{``dbr:Isaac\_Newton"}, we should choose Newton's classmates; for the second constraints, Newton's colleagues are more better. Similarity resides in aspects. Similar entites should be choosen according to the situations, but existing methods just choose entites under a fixed similarity ranking.
   \item To our best of knowledge, existing entities similarity or relatedness methods~\cite{ponza2017two,2014deepwalk} often neglect the influence of predicates, they regard RDF knowledge graph as social networks to calculate similarity between entites. Triples relatedness~\cite{2018weakly} may be a good direction to get high quality and fine-grained entities relatedness. Predicates similarity or relatedness is rarely studied.
 \end{enumerate}
+
 \begin{table}
 \caption{SPARQL to get the advisors and students of Newton.}\label{Netwon_s_t}
 \centering
@@ -123,76 +124,126 @@ We want to point out 2 drawbacks of this method.
 \hline
 \end{tabular}
 \end{table}
+
 \subsection{Ontology Rule Based Method}
-\subsection{Embedding Based Method}
-The basic idea behind this kind of method is to approximate results using the projection in vector space.
-This is a good  blueprint in approximating SPARQL, but we do not think Embedding method is suitable for this problem. Take SPARQL in table~\ref{film_table} for example. The \textit{``?director"} is approximated by \textit{``dbr:Asia"} and \textit{``dbo:birthPlace"}. We can note that this method only restrain \textit{``?director"} to be a ``thing" who was born in Asia, it has nothing to do with ``Film Director".
+This kind of method~\cite{2010combining} follows rules in table ~\ref{RDFS_rules}. Given an ontology $K$, this method computes the \textit{extended reduction} $extRed(K)$ of $K$ as follows: (i) compute the closure of $K$ as $cl(K)$; (ii) apply the rules of table~\ref{reduction_rdfs_rules} until no longer applicable; and (iii) apply rules (1) and (3) of table~\ref{RDFS_rules} in reverse until no longer applicable. (Applying a rule in reverse means deleting the triple deduced by the rule.) Then for rules in table~\ref{RDFS_rules}, it assigns cost of applying (2) and (4) to be $\beta$, and the cost of applying (5) and (6) to be $\gamma$. Finally, it uses thest four rules to relax some constraints and calculate the costs to rank the results.
 
-For straight and simple SPARQL in table ~\ref{Newton}, this method looks great in theory but have a bad performace in practicing. Under this situation, this can be regarded as a link prediction problem with embedding~\cite{kazemi2018simple}. We survey the preformance of embedding method~\cite{bordes2013translating,ji2015knowledge,qian2018translating} in link prediction problem and have 2 conclusions: 1)the size of test dataset is much smaller than the size of the whole Dbpedia; 2)preformance is not good. Our experiments also show this method may not work.
-
+This approach has two drawbacks.
+\begin{enumerate}
+  \item This is a very limiting relaxation. After constructing \textit{extended reduction} $extRed(K)$, every uri only has its nearest super class, super property, range and domain. According to original paper~\cite{2010combining}, it is convient to calculate final costs, but it also leads to the a uri has to relax in a small scope.
+  \item This is inaccurate in many situations.
+\end{enumerate}
 
 \begin{table}
-\caption{Table captions should be placed above the
-tables.}\label{tab1}
-\begin{tabular}{|l|l|l|}
+\caption{RDFS Inference Rules.}\label{RDFS_rules}
+\centering
+\begin{tabular}{|lll|}
 \hline
-Heading level &  Example & Font size and style\\
-\hline
-Title (centered) &  {\Large\bfseries Lecture Notes} & 14 point, bold\\
-1st-level heading &  {\large\bfseries 1 Introduction} & 12 point, bold\\
-2nd-level heading & {\bfseries 2.1 Printing Area} & 10 point, bold\\
-3rd-level heading & {\bfseries Run-in Heading in Bold.} Text follows & 10 point, bold\\
-4th-level heading & {\itshape Lowest Level Heading.} Text follows & 10 point, italic\\
+Group A (Subproperty) &  (1)$\frac{(a,sp,b)(b,sp,c)}{a,sp,c}$ & (2)$\frac{(a,sp,b)(X,a,Y)}{(X,b,Y)}$\\
+Group B (Subclass) & (3)$\frac{(a,sc,b)(b,sc,c)}{(a,sc,c)}$ & (4)$\frac{(a,sc,b)(X,type,a)}{(X,type,b)}$\\
+Group C (Typing) & (5)$\frac{(a,dom,c)(X,a,Y)}{(X,type,c)}$ & (6)$\frac{(a,range,c)(X,a,Y)}{(Y,type,c)}$ \\
 \hline
 \end{tabular}
 \end{table}
 
+\begin{table}
+\caption{Rules used to compute the extended reduction of an RDFS ontology.}\label{reduction_rdfs_rules}
+\centering
+\begin{tabular}{|ll|}
+\hline
+(e1)$\frac{(b,dom,c)(a,sp,b)}{a,dom,c}$ & (e2)$\frac{(b,range,c)(a,sp,b)}{(a,range,c)}$\\
+(e3)$\frac{(a,dom,b)(b,sc,c)}{(a,dom,c)}$ & (e4)$\frac{(a,range,b)(b,sc,a)}{(a,range,c)}$\\
+\hline
+\end{tabular}
+\end{table}
 
-\noindent Displayed equations are centered and set on a separate
-line.
-\begin{equation}
-x + y = z
-\end{equation}
-Please try to avoid rasterized images for line-art diagrams and
-schemas. Whenever possible, use vector graphics instead (see
-Fig.~\ref{fig1}).
+\subsection{Embedding Based Method}
+The basic idea behind this kind of method is to approximate results using the projection in vector space.
+This is a good  blueprint in approximating SPARQL, but we do not think Embedding method is suitable for this problem. Take SPARQL in table~\ref{film_table} for example. The \textit{``?director"} is approximated by \textit{``dbr:Asia"} and \textit{``dbo:birthPlace"}. We can note that this method only restrain \textit{``?director"} to be a ``thing" who was born in Asia, it has nothing to do with ``Film Director".
 
+For straight and simple SPARQL in table~\ref{Newton}, this method looks great in theory but have a bad performace in practicing. Under this situation, this can be regarded as a link prediction problem with embedding~\cite{kazemi2018simple}. We survey the preformance of embedding method~\cite{bordes2013translating,ji2015knowledge,qian2018translating} in link prediction problem and have 2 conclusions: 1) the size of test dataset is much smaller than the size of the whole Dbpedia; 2) even in test dataset, preformance is not good. Our experiments also show this method may not work.
+
+\subsection{Conclusions about existing methods.}
+The three methods above are all designed for SPARQL queries with over constraints.
+They all have high degree of relaxation. The first two methods make very inaccurate relaxations to reduce the influence of some redundant constraints like the second constraint in table~\ref{Over_C_Example}. Embedding method needs over constraints to approximate final results in vector space because the ability of link prediction is stable now.
+
+These method all have fatal problems when dealing with simple and straight query like SPARQL in table~\ref{Newton}.
+
+They also do not have explicit design to display why some approximated results are choosen. Before we introduce our model, we want to make serveral requirements for a query relaxation system.
+\begin{enumerate}
+  \item The ability to get accurate results, especially for the simple query like SPARQL in table~\ref{Newton}.
+  \item Explicit explanation why some results are choosen.
+\end{enumerate}
+
+\section{Our model}
+We use the reasong rules in RDF knowledge graph to edit SPQARQL query with no answers, like query graph in Fig.~\ref{Newton_fig}.
+\begin{enumerate}
+  \item Eperiment 1:rule learning in a country and test in whole world
+  \item Query test.
+\end{enumerate}
 \begin{figure}
-\includegraphics[width=\textwidth]{fig1.eps}
-\caption{A figure caption is always placed below the illustration.
-Please note that short captions are centered, while long ones are
-justified by the macro package automatically.} \label{fig1}
+\includegraphics[width=\textwidth]{Newton.png}
+\caption{Query Graph to get the advisors of Newton} \label{Newton_fig}
 \end{figure}
 
-\begin{theorem}
-This is a sample theorem. The run-in heading is set in bold, while
-the following text appears in italics. Definitions, lemmas,
-propositions, and corollaries are styled the same way.
-\end{theorem}
+
+\bibliographystyle{splncs04}
+\bibliography{xzlyu}
+\end{document}
+
+% \begin{table}
+% \caption{Table captions should be placed above the
+% tables.}\label{tab1}
+% \begin{tabular}{|l|l|l|}
+% \hline
+% Heading level &  Example & Font size and style\\
+% \hline
+% Title (centered) &  {\Large\bfseries Lecture Notes} & 14 point, bold\\
+% 1st-level heading &  {\large\bfseries 1 Introduction} & 12 point, bold\\
+% 2nd-level heading & {\bfseries 2.1 Printing Area} & 10 point, bold\\
+% 3rd-level heading & {\bfseries Run-in Heading in Bold.} Text follows & 10 point, bold\\
+% 4th-level heading & {\itshape Lowest Level Heading.} Text follows & 10 point, italic\\
+% \hline
+% \end{tabular}
+% \end{table}
+
+
+% \noindent Displayed equations are centered and set on a separate
+% line.
+% \begin{equation}
+% x + y = z
+% \end{equation}
+% Please try to avoid rasterized images for line-art diagrams and
+% schemas. Whenever possible, use vector graphics instead (see
+% Fig.~\ref{fig1}).
+
+
+
+% \begin{theorem}
+% This is a sample theorem. The run-in heading is set in bold, while
+% the following text appears in italics. Definitions, lemmas,
+% propositions, and corollaries are styled the same way.
+% \end{theorem}
 %
 % the environments 'definition', 'lemma', 'proposition', 'corollary',
 % 'remark', and 'example' are defined in the LLNCS documentclass as well.
 %
-\begin{proof}
-Proofs, examples, and remarks have the initial word in italics,
-while the following text appears in normal font.
-\end{proof}
-For citations of references, we prefer the use of square brackets
-and consecutive numbers. Citations using labels or the author/year
-convention are also acceptable. The following bibliography provides
-a sample reference list with entries for journal
-articles~\cite{ref_article1}, an LNCS chapter~\cite{ref_lncs1}, a
-book~\cite{ref_book1}, proceedings without editors~\cite{ref_proc1},
-and a homepage~\cite{ref_url1}. Multiple citations are grouped
-\cite{ref_article1,ref_lncs1,ref_book1},
-\cite{ref_article1,ref_book1,ref_proc1,ref_url1}.
+% \begin{proof}
+% Proofs, examples, and remarks have the initial word in italics,
+% while the following text appears in normal font.
+% \end{proof}
+% For citations of references, we prefer the use of square brackets
+% and consecutive numbers. Citations using labels or the author/year
+% convention are also acceptable. The following bibliography provides
+% a sample reference list with entries for journal
+% articles~\cite{ref_article1}, an LNCS chapter~\cite{ref_lncs1}, a
+% book~\cite{ref_book1}, proceedings without editors~\cite{ref_proc1},
+% and a homepage~\cite{ref_url1}. Multiple citations are grouped
+% \cite{ref_article1,ref_lncs1,ref_book1},
+% \cite{ref_article1,ref_book1,ref_proc1,ref_url1}.
 %
 % ---- Bibliography ----
 %
 % BibTeX users should specify bibliography style 'splncs04'.
 % References will then be sorted and formatted in the correct style.
 %
-\bibliographystyle{splncs04}
-\bibliography{xzlyu}
-
-\end{document}

@@ -1,5 +1,5 @@
-dbo:doctoralStudent	0.5317002257461064
+dbo:doctoralStudent	0.5317002257461063
 dbo:citizenship	0.5837122605527623
 dbo:residence	0.5853414182018359
 dbo:foundationPlace	0.5923051838968174
-dbo:locationCountry	0.5942116070870924
+dbo:locationCountry	0.5942116070870925

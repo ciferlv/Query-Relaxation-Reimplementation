@@ -3,14 +3,9 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: samplepaper.aux
 The style file: splncs04.bst
 Database file #1: xzlyu.bib
-Warning--I didn't find a database entry for "ref_article1"
-Warning--I didn't find a database entry for "ref_lncs1"
-Warning--I didn't find a database entry for "ref_book1"
-Warning--I didn't find a database entry for "ref_proc1"
-Warning--I didn't find a database entry for "ref_url1"
 You've used 16 entries,
             2850 wiz_defined-function locations,
-            688 strings with 7783 characters,
+            683 strings with 7736 characters,
 and the built_in function-call counts, 10183 in all, are:
 = -- 865
 > -- 352
@@ -49,4 +44,3 @@ warning$ -- 0
 while$ -- 81
 width$ -- 18
 write$ -- 166
-(There were 5 warnings)

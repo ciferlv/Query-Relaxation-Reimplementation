@@ -1,6 +1,6 @@
 from rdflib import Graph
-import pprint
 import queue
+import os
 
 from Data.ReformData import getShortcutName
 
@@ -58,11 +58,11 @@ class SubBasics:
         fp_str = "\t".join(list(self.fp_set))
         don_str = "\t".join(list(self.don_set))
         rng_str = "\t".join(list(self.rng_set))
-        return "sub:" + self.sub + "\n" + \
-               "fc:" + fc_str + "\n" + \
-               "fp:" + fp_str + "\n" + \
-               "don:" + don_str + "\n" + \
-               "rng:" + rng_str
+        return "sub:\t" + self.sub + "\n" + \
+               "fc:\t" + fc_str + "\n" + \
+               "fp:\t" + fp_str + "\n" + \
+               "don:\t" + don_str + "\n" + \
+               "rng:\t" + rng_str
 
 
 class DbpediaOntology:
@@ -133,6 +133,7 @@ class DbpediaOntology:
             for c_iri in a_node.don_set:
                 for b_iri in a_node.fp_set:
                     if c_iri in self.sub_dict[b_iri].don_set:
+                        print("e1: a: {}\tb: {}\t c: {}".format(a_iri, b_iri, c_iri))
                         deleted_domain.append([a_iri, c_iri])
                         break
 
@@ -144,6 +145,7 @@ class DbpediaOntology:
                     if c_iri == b_iri:
                         continue
                     if c_iri in self.sub_dict[b_iri].fc_set:
+                        print("e3: a: {}\tb: {}\t c: {}".format(a_iri, b_iri, c_iri))
                         deleted_domain.append([a_iri, c_iri])
                         break
 
@@ -153,6 +155,7 @@ class DbpediaOntology:
             for c_iri in a_node.rng_set:
                 for b_iri in a_node.fp_set:
                     if c_iri in self.sub_dict[b_iri].rng_set:
+                        print("e2: a: {}\tb: {}\t c: {}".format(a_iri, b_iri, c_iri))
                         deleted_range.append([a_iri, c_iri])
                         break
 
@@ -164,6 +167,7 @@ class DbpediaOntology:
                     if c_iri == b_iri:
                         continue
                     if c_iri in self.sub_dict[b_iri].fc_set:
+                        print("e4: a: {}\tb: {}\t c: {}".format(a_iri, b_iri, c_iri))
                         deleted_range.append([a_iri, c_iri])
                         break
 
@@ -184,6 +188,7 @@ class DbpediaOntology:
                     if c_iri == b_iri:
                         continue
                     if c_iri in self.sub_dict[b_iri].fp_set:
+                        print("sub prop 1: a: {}\tb: {}\t c: {}".format(a_iri, b_iri, c_iri))
                         deleted_fp_list.append([a_iri, c_iri])
                         break
 
@@ -195,6 +200,7 @@ class DbpediaOntology:
                     if c_iri == b_iri:
                         continue
                     if c_iri in self.sub_dict[b_iri].fc_set:
+                        print("sub class 3: a: {}\tb: {}\t c: {}".format(a_iri, b_iri, c_iri))
                         deleted_fc_list.append([a_iri, c_iri])
                         break
 
@@ -207,25 +213,38 @@ class DbpediaOntology:
     def save2file(self):
         with open(self.file_path_dict['result_file'], 'w', encoding="UTF-8") as f:
             for sub in self.sub_dict:
-                f.write(self.sub_dict[sub])
+                f.write("{}".format(self.sub_dict[sub]))
                 f.write("\n")
 
-    def reload_from_file(self):
+    def gen_deduced_ontology(self):
+        self.load_data()
+        self.gen_closure()
+        self.deduction()
+        self.save2file()
+
+    def reload_deduced_ontology_from_file(self):
         with open(self.file_path_dict['result_file'], 'w', encoding="UTF-8") as f:
             lines = f.readlines()
             i = 0
             while i < len(lines):
                 sub = lines[i].split(":")[-1]
                 self.sub_dict[sub] = SubBasics(sub)
-                fc_str = lines[i + 1].split(":")[-1]
+                fc_str = lines[i + 1].split(":")[-1].strip()
                 [self.sub_dict[sub].add_fc(one_fc) for one_fc in fc_str.split("\t")]
-                fp_str = lines[i + 2].split(":")[-1]
+                fp_str = lines[i + 2].split(":")[-1].strip()
                 [self.sub_dict[sub].add_fp(one_fp) for one_fp in fp_str.split("\t")]
-                don_str = lines[i + 3].split(":")[-1]
+                don_str = lines[i + 3].split(":")[-1].strip()
                 [self.sub_dict[sub].add_don(one_don) for one_don in don_str.split("\t")]
-                rng_str = lines[i + 4].split(":")[-1]
+                rng_str = lines[i + 4].split(":")[-1].strip()
                 [self.sub_dict[sub].add_rng(one_rng) for one_rng in rng_str.split("\t")]
                 i += 5
+
+    def display_details_of_subject(self, tar_sub):
+        if tar_sub not in self.sub_dict:
+            print("Don't have this subject: {}.".format(tar_sub))
+        else:
+            print("{}".format(self.sub_dict[tar_sub]))
+
 
 def main():
     file_path_dict = {}
@@ -235,7 +254,17 @@ def main():
             file_path_dict[key_name] = file_path
 
     do = DbpediaOntology(file_path_dict)
-    do.load_data()
+    if not os.path.exists(file_path_dict['result_file']):
+        do.gen_deduced_ontology()
+    else:
+        do.reload_deduced_ontology_from_file()
+
+    while True:
+        tar_sub = input("Please input a subject:\t")
+        tar_sub = tar_sub.strip()
+        if tar_sub == "end":
+            break
+        do.display_details_of_subject(tar_sub=tar_sub)
 
 
 if __name__ == "__main__":
