@@ -46,10 +46,12 @@ if __name__ == "__main__":
     e1_vec = e2vec[e1_idx]
     r_vec = r2vec[r_idx]
     res_vec = np.array(e1_vec + r_vec)
+    print(res_vec)
     simi = np.dot(e2vec, res_vec) / (np.linalg.norm(res_vec) * np.linalg.norm(e2vec, axis=-1))
     sorted_index = np.argsort(simi)
     for i in range(10):
         print("{}/{}.".format(i+1, 10))
         min_idx = sorted_index[i]
         print(min_idx)
+        print(simi[min_idx])
         print(idx2e[min_idx])

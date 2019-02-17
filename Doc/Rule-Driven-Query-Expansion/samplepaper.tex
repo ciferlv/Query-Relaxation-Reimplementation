@@ -176,7 +176,90 @@ They also do not have explicit design to display why some approximated results a
 \end{enumerate}
 
 \section{Our model}
-We use the reasong rules in RDF knowledge graph to edit SPQARQL query with no answers, like query graph in Fig.~\ref{Newton_fig}.
+We can see from Fig.~\ref{summary_three} that they can not handle simple query properly. We use the reasong rules in RDF knowledge graph to edit SPQARQL query with no answers, like query graph in Fig.~\ref{Newton_fig}. The ideas behind our model is simple, if we do not know who is the advisor of Newton, we can go to find someone whose student is Newton. Take SPARQL query in table~\ref{Newton} for example. We use RDF knowledge graph oriented rule learning techniques~\cite{lao2011random} to mine inference rules for predicate "dbo:doctoralAdvisor",  then we find the ``?advisor" candidates that can fulfil one of the inference rules. Then we rank candidates and design a form to display the rules to explain the reason we choose these candidates. We will detail them in subsequent sections.
+\subsection{Rule Learning Components.}
+In our problem, rule learning is used to search the inference rules of a particular predicate. Rule learning is a problem with high complexity. In recent years, there have been some machine learning methods~\cite{lao2011random,xiong2017deeppath,yang2017differentiable,das2017go,das2016chains} which try to improve the efficiency and accuracy of rule learning. But the datasets they use are FB15K-237, NELL-995, WN18RR, FB15K and WN18. We can see from table~\ref{datasetCom} that their size is much smaller than Dbpedia~\cite{dbpedi} and their underlying technologies, Reinforcement Learning, RNN, Attention, are are all trying to map the whole knowledge graph to a vector space. The time and space complexity will be very high if we apply these methods directly to Dbpedia.
+We choose Path Ranking Algorithm~\cite{lao2011random} as our main algorithm and make some adjustments with refering to some ideas from Inductive Logic Programming~\cite{camacho2004inductive} and AMIE~\cite{galarraga2013amie}, we want to describe Path Ranking Algorithm first and then show the adjustments and results.
+
+\subsubsection{Path Ranking Algorithm(PRA)}
+Given knowledge graph $G$ and a relation $R$, a inference rule $p_i$ of $R$ is a sequence of relations $R_0,R_1,R_2,...R_l$, where $domain(R_0) = domain(p_i)$ and $range(R_l)=range(p_i)$. A relation $R$ usually has several inference rules as a inference rule set $P=\{ p_0,p_1,..p_n\}$.
+PRA~\cite{lao2011random,lao2010fast} can give proper weights to every $p_i$ of $P$. For two entities $(h,t)$, we can get $score_{(h,t)}p_i$ as Eq.(\ref{htp_score}). Then we can get the probability $prob(h,R,t)$ whether $(h,t)$ has relation $R$ as Eq.(\ref{htp_prob}).
+\begin{equation}
+  \label{htp_score}
+score_{(h,t)}p_i = \left\{
+	             \begin{array}{ll}
+	             1, & \text{if} (h,p_i,t) \in G \\
+	             0, & \text{if} (h,p_i,t) \notin G
+	             \end{array}
+	\right.
+\end{equation}
+
+\begin{equation}
+  \label{htp_prob}
+prob(h,R,t) = \frac{1}{1+e^{-value(h,R,t)}}
+\end{equation}
+
+\begin{equation}
+  \label{htp_prob}
+value(h,R,t) = \theta_{0}score_{(h,t)}p_0 + \theta_{i}score_{(h,t)}p_i +...+\theta_{n}score_{(h,t)}p_n
+\end{equation}
+
+The flow of the model is as follows:
+\begin{enumerate}
+  \item For a relation $R$, it gets entity pair set $Posi$ and $Nege$ as Eqs.(\ref{posi}) and (\ref{nege}), and then it records the paths between every $(h_i,t_i)$ of $Posi$ as $P = \{ p_0,p_1,...p_n\}$.
+  \item Give relation $R$ and entity pair sets $Posi$ and $Nege$, it constructs a training set ${x_i,r_i}$, $x_i$ and $r_i$ are defined in Eqs.(\ref{xij}) and (\ref{rj}).
+\end{enumerate}
+\subsubsection{Our Implementations.}
+
+\begin{equation}\label{posi}
+    Posi = \{(h_i,t_i)|(h_i,R,t_i) \in G\}
+\end{equation}
+
+\begin{equation}\label{nege}
+    Nege = \{(h_i,t_i)|(h_i,R,t_i) \notin G\}
+\end{equation}
+
+\begin{equation}\label{xij}
+x_{ij} =
+\left\{
+\begin{array}
+  { l l } { 1, } & { \text { if } (h_i,p_j,t_i) \in G } \\
+  { 0 , } & { \text { (h_i,p_j,t_i) \notin G } }
+\end{array}
+\right.
+\end{equation}
+
+\begin{equation}\label{rj}
+r_{j} =
+\left\{
+\begin{array}
+  { l l } { 1 , } & { \text { if } (h_i,R,t_i) \in G } \\
+  { 0 , } & { \text { (h_i,R,t_i) \notin G } }
+\end{array}
+\right.
+\end{equation}
+
+\begin{table}
+\caption{Data size comparison of different datasets.}\label{datasetCom}
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textit{Dataset} & \textit{\#entities} & \textit{\#relations} & \textit{\#facts}\\
+\hline
+WN18RR & 40945 & 15 & 86835 \\
+NELL-995 & 75492 & 200 & 154213 \\
+FB15K-237 & 14504 & 237 & 272115 \\
+WN18 & 40943 & 18 & 106088 \\
+FB15K & 14951 & 1345 & 362538 \\
+\hline
+\textbf{Dbpeida} & \textbf{5900558} & \textbf{1322} & \textbf{18746174} \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Candidates Searching Components.}
+\subsection{Reasons Displaying Components.}
+
 \begin{enumerate}
   \item Eperiment 1:rule learning in a country and test in whole world
   \item Query test.
@@ -185,7 +268,10 @@ We use the reasong rules in RDF knowledge graph to edit SPQARQL query with no an
 \includegraphics[width=\textwidth]{Newton.png}
 \caption{Query Graph to get the advisors of Newton} \label{Newton_fig}
 \end{figure}
-
+\begin{figure}
+\includegraphics[width=\textwidth]{summary_three_cropped.pdf}
+\caption{Summary of Three Baselines.} \label{summary_three}
+\end{figure}
 
 \bibliographystyle{splncs04}
 \bibliography{xzlyu}

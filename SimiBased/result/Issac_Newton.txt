@@ -1,0 +1,5 @@
+dbr:Harris_Mayer	0.37190442983944805
+dbr:Louis-Benjamin_Franc?ur	0.3825686628977585
+dbr:Joseph_Adh¨¦mar	0.38337722312509026
+dbr:Am¨¦d¨¦e_Mannheim	0.38337722312509026
+dbr:Pierre_Wantzel	0.38337722312509026

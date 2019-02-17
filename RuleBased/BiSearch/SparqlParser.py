@@ -190,7 +190,7 @@ class SparqlParser:
                     self.update_res_var2entity(h_var, t_var, passed_ht_list, passed_ht_token_set)
 
     '''
-    The sparql may only have one variables, the self.searched_res can't be updated in before steps.
+    The sparql may only have one variables, the self.searched_res can't be updated in previous steps.
     Update it in this function.
     '''
 

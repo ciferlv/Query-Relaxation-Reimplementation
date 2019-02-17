@@ -158,17 +158,17 @@ if __name__ == "__main__":
     #     }
     #     """
 
-    # sparql = """
-    #     SELECT ?film WHERE{
-    #         ?film dbo:starring ?p.
-    #         ?p dbo:birthPlace dbr:Asia.
-    #     }
-    #     """
-
     sparql = """
-        SELECT * WHERE{
-         dbr:Isaac_Newton dbo:doctoralAdvisor ?p.}
+        SELECT ?film WHERE{
+            ?film dbo:starring ?p.
+            ?p dbo:birthPlace dbr:Asia.
+        }
         """
+
+    # sparql = """
+    #     SELECT * WHERE{
+    #      dbr:Isaac_Newton dbo:doctoralAdvisor ?p.}
+    #     """
 
     # sparql = """
     #         SELECT * WHERE{
