@@ -24,11 +24,6 @@ Das, R., Dhuliawala, S., Zaheer, M., Vilnis, L., Durugkar, I., Krishnamurthy,
   Reasoning over paths in knowledge bases using reinforcement learning. arXiv
   preprint arXiv:1711.05851  (2017)
 
-\bibitem{das2016chains}
-Das, R., Neelakantan, A., Belanger, D., McCallum, A.: Chains of reasoning over
-  entities, relations, and text using recurrent neural networks. arXiv preprint
-  arXiv:1607.01426  (2016)
-
 \bibitem{dubey2018earl}
 Dubey, M., Banerjee, D., Chaudhuri, D., Lehmann, J.: Earl: Joint entity and
   relation linking for question answering over knowledge graphs. arXiv preprint

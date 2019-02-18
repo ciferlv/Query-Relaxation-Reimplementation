@@ -7,6 +7,9 @@
 \usepackage{graphicx}
 \usepackage{cite}
 \usepackage{amsmath}
+\usepackage{bm}
+\usepackage{multirow}
+\usepackage{amstext}
 % Used for displaying a sample figure. If possible, figure files should
 % be included in EPS format.
 %
@@ -179,7 +182,7 @@ They also do not have explicit design to display why some approximated results a
 \section{Our model}
 We can see from Fig.~\ref{summary_three} that they can not handle simple query properly. We use the reasong rules in RDF knowledge graph to edit SPQARQL query with no answers, like query graph in Fig.~\ref{Newton_fig}. The ideas behind our model is simple, if we do not know who is the advisor of Newton, we can go to find someone whose student is Newton. Take SPARQL query in table~\ref{Newton} for example. We use RDF knowledge graph oriented rule learning techniques~\cite{lao2011random} to mine inference rules for predicate "dbo:doctoralAdvisor",  then we find the ``?advisor" candidates that can fulfil one of the inference rules. Then we rank candidates and design a form to display the rules to explain the reason we choose these candidates. We will detail them in subsequent sections.
 \subsection{Rule Learning Components.}
-In our problem, rule learning is used to search the inference rules of a particular predicate. Rule learning is a problem with high complexity. In recent years, there have been some machine learning methods~\cite{lao2011random,xiong2017deeppath,yang2017differentiable,das2017go,das2016chains} which try to improve the efficiency and accuracy of rule learning. But the datasets they use are FB15K-237, NELL-995, WN18RR, FB15K and WN18. We can see from table~\ref{datasetCom} that their size is much smaller than Dbpedia~\cite{dbpedi} and their underlying technologies, Reinforcement Learning, RNN, Attention, are are all trying to map the whole knowledge graph to a vector space. The time and space complexity will be very high if we apply these methods directly to Dbpedia.
+In our problem, rule learning is used to search the inference rules of a particular predicate. Rule learning is a problem with high complexity. In recent years, there have been some machine learning methods~\cite{lao2011random,xiong2017deeppath,yang2017differentiable,das2017go} which try to improve the efficiency and accuracy of rule learning. But the datasets they use are FB15K-237, NELL-995, WN18RR, FB15K and WN18. We can see from table~\ref{datasetCom} that their size is much smaller than Dbpedia~\cite{dbpedi} and their underlying technologies, Reinforcement Learning, RNN, Attention, are are all trying to map the whole knowledge graph to a vector space. The time and space complexity will be very high if we apply these methods directly to Dbpedia.
 We choose Path Ranking Algorithm~\cite{lao2011random} as our main algorithm and make some adjustments with refering to some ideas from Inductive Logic Programming~\cite{camacho2004inductive} and AMIE~\cite{galarraga2013amie}, we want to describe Path Ranking Algorithm first and then show the adjustments and results.
 
 \subsubsection{Path Ranking Algorithm(PRA)}
@@ -245,7 +248,7 @@ r_{j} =
 \right.
 \end{equation}
 
-Compared with rule learning methods~\cite{yang2017differentiable,das2017go} that project the whole knowledge graph into vector space, PRA can generate explicit and more generic rules, that is the main reason why we choose PRA to mine rules. To our best of knowledge, there is not work that evaluates the performance of methods that project the whole KG into vector space in big knowledge graph like Dbpedia. Methods like PRA give a direction that we can learn rules and models in a small KG and use what we have learned in a larger KG. DeepPath~\cite{xiong2017deeppath} can also get explicit rules but it still uses PRA to learn weights for different rules, and more importantly, it uses Reinforcement Learning to mine rules, so it costs much more time than PRA and the imporvements are very limited according the expriments from the paper~\cite{xiong2017deeppath}, so we think PRA is more proper.
+Compared with rule learning methods, DeepPath~\cite{xiong2017deeppath}, Neural-LP~\cite{yang2017differentiable} and MINERVA~\cite{das2017go} that project the whole knowledge graph into vector space, PRA can generate explicit and more generic rules, that is the main reason why we choose PRA to mine rules. To our best of knowledge, there is not work that evaluates the performance of methods that project the whole KG into vector space in big knowledge graph like Dbpedia. Methods like PRA give a direction that we can learn rules and models in a small KG and use what we have learned in a larger KG. DeepPath can also get explicit rules but it still uses PRA to learn weights for different rules, and more importantly, it uses Reinforcement Learning to mine rules, so it costs much more time than PRA and the imporvements are very limited according the expriments from the paper~\cite{xiong2017deeppath}, so we think PRA is more proper.
 
 PRA also has some limits, we present thest limits and adjust them as follows:
 \begin{enumerate}
@@ -272,17 +275,17 @@ PCA holds the ideas that a fact does not exsit in a KG, it is just unknown to th
 \begin{table}
 \caption{Data size comparison of different datasets.}\label{datasetCom}
 \centering
-\begin{tabular}{|c|c|c|c|}
+\begin{tabular}{|c|c|c|c|l|}
 \hline
-\textit{Dataset} & \textit{\#entities} & \textit{\#relations} & \textit{\#facts}\\
+\textit{Dataset} & \textit{\#entities} & \textit{\#relations} & \textit{\#facts} & \textit{\#Method}\\
 \hline
-WN18RR & 40945 & 15 & 86835 \\
-NELL-995 & 75492 & 200 & 154213 \\
-FB15K-237 & 14504 & 237 & 272115 \\
-WN18 & 40943 & 18 & 106088 \\
-FB15K & 14951 & 1345 & 362538 \\
+WN18RR & 40945 & 15 & 86835 & MINERVA \\
+NELL-995 & 75492 & 200 & 154213 &DeepPath,~MINERVA \\
+FB15K-237 & 14504 & 237 & 272115 & MINERVA,~Neural-LP\\
+WN18 & 40943 & 18 & 106088 & Neural-LP \\
+FB15K & 14951 & 1345 & 362538 & DeepPath,~Neural-LP\\
 \hline
-\textbf{Dbpeida} & \textbf{5900558} & \textbf{1322} & \textbf{18746174} \\
+\textbf{Dbpeida} & \textbf{5900558} & \textbf{1322} & \textbf{18746174} & \\
 \hline
 \end{tabular}
 \end{table}
@@ -291,10 +294,41 @@ FB15K & 14951 & 1345 & 362538 \\
 Candidate searching is showed in Fig.(\ref{Newton_fig}).
 \subsection{Reasons Displaying Components.}
 
-\begin{enumerate}
-  \item Eperiment 1:rule learning in a country and test in whole world
-  \item Query test.
-\end{enumerate}
+\begin{table}
+\caption{Results for Newton's advisors.}\label{newton_result}
+\centering
+\begin{tabular}{|c|c|c|}
+\hline
+Reulst 1 & $(Isaac\_Newton, doctoralAdvisor,	 Isaac\_Barrow)$ & 0.214 \\
+\hline
+\multirow{4}{*}{Rules} & \multicolumn{2}{|l|}{
+$Isaac\_Newton \rightarrow \bm{inv\_notableStudent} \rightarrow Isaac\_Barrow$} \\
+\cline{2-3}
+ & \multicolumn{2}{|l|}{
+$Isaac\_Newton \rightarrow \bm{inv\_influenced} \rightarrow Isaac\_Barrow$} \\
+\cline{2-3}
+ & \multicolumn{2}{|l|}{
+$Isaac\_Newton\rightarrow \bm{inv\_notableStudent} \rightarrow Isaac\_Barrow \rightarrow \bm{inv\_academicAdvisor}$} \\
+ & \multicolumn{2}{|l|}{
+$\rightarrow Isaac\_Newton \rightarrow \bm{inv\_notableStudent} \rightarrow Isaac\_Barrow$}\\
+\hline
+
+Reulst 2 & $(Isaac\_Newton, doctoralAdvisor,	 James\_A.\_Piper)$ & 0.109 \\
+\hline
+\multirow{4}{*}{Rules} & \multicolumn{2}{|l|}{
+$Isaac\_Newton \rightarrow \bm{knownFor} \rightarrow Optics \rightarrow \bm{inv\_field}$} \\
+ & \multicolumn{2}{|l|}{
+$\rightarrow F.\_J.\_Duarte\rightarrow \bm{doctoralAdvisor} \rightarrow James\_A.\_Piper
+$} \\
+\cline{2-3}
+ & \multicolumn{2}{|l|}{
+$Isaac\_Newton \rightarrow \bm{knownFor} \rightarrow Optics \rightarrow \bm{inv\_field}$} \\
+ & \multicolumn{2}{|l|}{
+$\rightarrow F.\_J.\_Duarte\rightarrow \bm{inv\_doctoralStudent} \rightarrow James\_A.\_Piper$}\\
+\hline
+
+\end{tabular}
+\end{table}
 
 \begin{figure}
 \includegraphics[width=\textwidth]{Newton.png}
