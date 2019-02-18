@@ -6,6 +6,7 @@
 %
 \usepackage{graphicx}
 \usepackage{cite}
+\usepackage{amsmath}
 % Used for displaying a sample figure. If possible, figure files should
 % be included in EPS format.
 %
@@ -182,21 +183,24 @@ In our problem, rule learning is used to search the inference rules of a particu
 We choose Path Ranking Algorithm~\cite{lao2011random} as our main algorithm and make some adjustments with refering to some ideas from Inductive Logic Programming~\cite{camacho2004inductive} and AMIE~\cite{galarraga2013amie}, we want to describe Path Ranking Algorithm first and then show the adjustments and results.
 
 \subsubsection{Path Ranking Algorithm(PRA)}
-Given knowledge graph $G$ and a relation $R$, a inference rule $p_i$ of $R$ is a sequence of relations $R_0,R_1,R_2,...R_l$, where $domain(R_0) = domain(p_i)$ and $range(R_l)=range(p_i)$. A relation $R$ usually has several inference rules as a inference rule set $P=\{ p_0,p_1,..p_n\}$.
-PRA~\cite{lao2011random,lao2010fast} can give proper weights to every $p_i$ of $P$. For two entities $(h,t)$, we can get $score_{(h,t)}p_i$ as Eq.(\ref{htp_score}). Then we can get the probability $prob(h,R,t)$ whether $(h,t)$ has relation $R$ as Eq.(\ref{htp_prob}).
+Given knowledge graph $G$ and a relation $R$, a inference rule $p_i$ of $R$ is a sequence of relations $R_0,R_1,R_2,...R_l$, where $domain(R_0) = domain(p_i)$ and $range(R_l)=range(p_i)$. For example, the triple $(Bob Dylan,birthPlace,USA)$ can be expressed by the inference rule $(birthPlace \rightarrow birthPlace,country)$ as follows:
+$$(Bob Dylan,birthPlace,Duluth,\_Minnesota,country,USA)$$
+A relation $R$ usually has several inference rules as a inference rule set $P=\{ p_0,p_1,...,p_n\}$.
+PRA~\cite{lao2011random,lao2010fast} can give proper weights to every $p_i$ of $P$, which is regarded as $\Theta = \{\theta_{0},...,\theta_{n }\}$. For two entities $(h,t)$, we can get $score_{(h,t)}p_i$ as Eq.(\ref{htpScore}). Then we can get the probability $prob(h,R,t)$ whether $(h,t)$ has relation $R$ as Eq.(\ref{htpProb}).
 \begin{equation}
-  \label{htp_score}
-score_{(h,t)}p_i = \left\{
-	             \begin{array}{ll}
-	             1, & \text{if} (h,p_i,t) \in G \\
-	             0, & \text{if} (h,p_i,t) \notin G
-	             \end{array}
-	\right.
+  \label{htpProb}
+prob(h,R,t) = \frac{1}{1+e^{-value(h,R,t)}}
 \end{equation}
 
-\begin{equation}
-  \label{htp_prob}
-prob(h,R,t) = \frac{1}{1+e^{-value(h,R,t)}}
+\begin{equation}\label{htpScore}
+score_{(h,t)}p_i =
+\left
+  \{
+	\begin{array}{ll}
+	  1, & \text{if} (h,p_i,t) \in G \\
+	  0, & \text{if} (h,p_i,t) \notin G
+	\end{array}
+\right.
 \end{equation}
 
 \begin{equation}
@@ -207,9 +211,9 @@ value(h,R,t) = \theta_{0}score_{(h,t)}p_0 + \theta_{i}score_{(h,t)}p_i +...+\the
 The flow of the model is as follows:
 \begin{enumerate}
   \item For a relation $R$, it gets entity pair set $Posi$ and $Nege$ as Eqs.(\ref{posi}) and (\ref{nege}), and then it records the paths between every $(h_i,t_i)$ of $Posi$ as $P = \{ p_0,p_1,...p_n\}$.
-  \item Give relation $R$ and entity pair sets $Posi$ and $Nege$, it constructs a training set ${x_i,r_i}$, $x_i$ and $r_i$ are defined in Eqs.(\ref{xij}) and (\ref{rj}).
+  \item Given a relation $R$ and a set of entity pairs $\{(h_i,t_i)\}$, it constructs a training set $\{(x_i,r_i)\}$, where $x_i$ is the path feature of $(h_i,t_i)$, the j-th component of $x_i$ is $x_{ij}=score_{(h_i,t_i)}p_j$, $r_i$ is defined as Eq.(\ref{rj}).
+  \item Given training set $\{(x_i,r_i)\}$, it uses Logistic Regression~\cite{hosmer2013applied} to estimate weights $\Theta$. The loss function is as Eq.(\ref{loss}).
 \end{enumerate}
-\subsubsection{Our Implementations.}
 
 \begin{equation}\label{posi}
     Posi = \{(h_i,t_i)|(h_i,R,t_i) \in G\}
@@ -219,25 +223,51 @@ The flow of the model is as follows:
     Nege = \{(h_i,t_i)|(h_i,R,t_i) \notin G\}
 \end{equation}
 
-\begin{equation}\label{xij}
-x_{ij} =
-\left\{
-\begin{array}
-  { l l } { 1, } & { \text { if } (h_i,p_j,t_i) \in G } \\
-  { 0 , } & { \text { (h_i,p_j,t_i) \notin G } }
-\end{array}
-\right.
+\begin{equation}
+  p_i = p(r_i = 1|\mathbf x_i; \Theta) = \frac{\exp(\Theta^T \mathbf x_i) } { 1 + \exp (\Theta^T \mathbf x_i)}
+\end{equation}
+
+\begin{equation}
+    l_{i} (\Theta) = r_{i}\ln p_{i} + (1 - y_{i}) \ln ( 1 - p_{i})
+\end{equation}
+
+\begin{equation}\label{loss}
+    L(\Theta) = \sum_{i} l_{i} (\Theta) - \lambda_{1}|\Theta|_{1}-\lambda_{2}|\Theta|_{2}
 \end{equation}
 
 \begin{equation}\label{rj}
 r_{j} =
 \left\{
-\begin{array}
-  { l l } { 1 , } & { \text { if } (h_i,R,t_i) \in G } \\
-  { 0 , } & { \text { (h_i,R,t_i) \notin G } }
+\begin{array}{ l l }
+  1, & { \text{if} (h_i,R,t_i) \in G } \\
+  0, & { \text{if} (h_i,R,t_i) \notin G }
 \end{array}
 \right.
 \end{equation}
+
+Compared with rule learning methods~\cite{yang2017differentiable,das2017go} that project the whole knowledge graph into vector space, PRA can generate explicit and more generic rules, that is the main reason why we choose PRA to mine rules. To our best of knowledge, there is not work that evaluates the performance of methods that project the whole KG into vector space in big knowledge graph like Dbpedia. Methods like PRA give a direction that we can learn rules and models in a small KG and use what we have learned in a larger KG. DeepPath~\cite{xiong2017deeppath} can also get explicit rules but it still uses PRA to learn weights for different rules, and more importantly, it uses Reinforcement Learning to mine rules, so it costs much more time than PRA and the imporvements are very limited according the expriments from the paper~\cite{xiong2017deeppath}, so we think PRA is more proper.
+
+PRA also has some limits, we present thest limits and adjust them as follows:
+\begin{enumerate}
+  \item The knowledge graph trained and tested by PRA is much smaller than Dbpeida which is showed in Table~\ref{datasetCom}. It is also difficult to train a Logistic Regression Model in the whole Dbpedia, we want to give an example to explain the ideas that we try to solve this problem. For example, if we want to get inference rules of relation ``$birthPlace$", we do not extract the entity pairs ${(h_i,t_i)}$ that hold ``$birthPlace$" from the whole Dbpeida, we extract these related to a specific country, for example, our experiments choose $USA$. We think that the whole Dbpedia represents the world, the inference rules of ``$birthPlace$" are the same to either the whole world and a small city, so we can get high-quality rules in a rather smaller knowledge graph.
+  \item The mined rules need a preliminary filter. Due to we record every pathes hold by entity pairs in $Posi$, we usually get many rules and most of them are redundant and wrong. We borrowed concept ``Partial Completeness Assumption(PCA)" used by rule learning tool AMIE~\cite{galarraga2013amie}. We use this concept to calculate the precision of a inference rule. The concept and algorithm will be displayed later.
+\end{enumerate}
+
+\subsubsection{Partial Completeness Assumption(PCA)}
+PCA holds the ideas that a fact does not exsit in a KG, it is just unknown to this KG, it may be right, so a fact can be categorized to KBtrue, KBfalse, Newtrue and Newflase as show in Fig.\ref{PCA}. The precision of a inference rule $B \Rightarrow R(h,t)$ is calculated as Eq.(\ref{pca_equation}).
+
+\begin{equation}
+  \operatorname { supp } ( \vec { B } \Rightarrow r ( x , y ) ) : = \# ( x , y ) : \exists z _ { 1 } , \ldots , z _ { m } : \vec { B } \wedge r ( x , y )
+\end{equation}
+
+\begin{equation} \label{pca_equation}
+  \operatorname { pcaconf } ( \vec { B } \Rightarrow r ( x , y ) ) : = \frac { \operatorname { supp } ( \vec { B } \Rightarrow r ( x , y ) ) } { \# ( x , y ) : \exists z _ { 1 } , \ldots , z _ { m } , y ^ { \prime } : \vec { B } \wedge r \left( x , y ^ { \prime } \right) }
+\end{equation}
+
+\begin{figure}
+\includegraphics[width=\textwidth]{pui.png}
+\caption{Prediction under Incompleteness.} \label{PCA}
+\end{figure}
 
 \begin{table}
 \caption{Data size comparison of different datasets.}\label{datasetCom}
@@ -258,16 +288,19 @@ FB15K & 14951 & 1345 & 362538 \\
 \end{table}
 
 \subsection{Candidates Searching Components.}
+Candidate searching is showed in Fig.(\ref{Newton_fig}).
 \subsection{Reasons Displaying Components.}
 
 \begin{enumerate}
   \item Eperiment 1:rule learning in a country and test in whole world
   \item Query test.
 \end{enumerate}
+
 \begin{figure}
 \includegraphics[width=\textwidth]{Newton.png}
 \caption{Query Graph to get the advisors of Newton} \label{Newton_fig}
 \end{figure}
+
 \begin{figure}
 \includegraphics[width=\textwidth]{summary_three_cropped.pdf}
 \caption{Summary of Three Baselines.} \label{summary_three}

@@ -50,6 +50,10 @@ Hamilton, W., Bajaj, P., Zitnik, M., Jurafsky, D., Leskovec, J.: Embedding
   logical queries on knowledge graphs. In: Advances in Neural Information
   Processing Systems. pp. 2030--2041 (2018)
 
+\bibitem{hosmer2013applied}
+Hosmer~Jr, D.W., Lemeshow, S., Sturdivant, R.X.: Applied logistic regression,
+  vol.~398. John Wiley \& Sons (2013)
+
 \bibitem{huang2012}
 Huang, H., Liu, C., Zhou, X.: Approximating query answering on rdf databases.
   World Wide Web  \textbf{15}(1),  89--114 (2012)
