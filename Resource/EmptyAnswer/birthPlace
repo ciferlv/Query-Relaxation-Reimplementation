@@ -1,0 +1,46 @@
+
+
+select * where {
+?a dbo:birthPlace ?b.
+?c dbo:foundationPlace ?b.
+?c dbo:country ?d.
+FILTER NOT EXISTS {?a dbo:birthPlace ?d}
+}
+
+select * where {
+   ?a dbo:birthPlace <http://dbpedia.org/resource/United_States>.
+   ?a dbo:award dbr:Fellow_of_the_Royal_Society_of_Canada.
+}
+answer: http://dbpedia.org/resource/Edith_Graef_McGeer
+
+select * where {
+?a dbo:draftTeam dbr:New_York_Knicks.
+?a dbo:birthPlace dbo:United_States.
+}
+将 dbo:United_States.换成 dbr:Chicago
+
+再试一下后面这个，可以将Canada换成Quebec，也是根据上一个规则得到的
+select * where {
+?a dbo:draftTeam dbr:New_York_Knicks.
+?a dbo:birthPlace dbr:Canada.
+}
+
+select * where {
+<http://dbpedia.org/resource/Castleton_Lyons> dbo:keyPerson ?a.
+?a dbo:birthPlace dbr:United_Kingdom.
+}
+将dbr:United_Kindom换成dbr:London
+dbo:birthPlace->dbo:country
+
+select * where {
+ dbr:Gift_of_the_Night_Fury dbo:starring ?p.
+ ?p dbo:birthPlace  dbr:United_States.
+}
+answer： <http://dbpedia.org/resource/America_Ferrera>
+
+select * where {
+ ?p dbo:birthPlace ?o.
+ ?q dbo:foundationPlace ?o.
+ ?q dbo:country ?e
+  FILTER NOT EXISTS {?p dbo:birthPlace ?e}.
+}

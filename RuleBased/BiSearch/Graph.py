@@ -10,7 +10,7 @@ from RuleBased.Classifier import LogisticRegression
 from RuleBased.Params import rule_seg, mydb, file_path_seg, database, ht_conn, ht_seg, sampled_num_to_search_rule, \
     top_frequency_rule_num, epoch, mini_batch, rule_num4train, max_step, filter_inv_pattern, \
     check_time_for_get_passed_ht, time_limit_for_get_passed_ht, branch_node_limit, limit_branch_node_num, restrain_num, \
-    restrain_num_of_posis_neges, sort_rule_criterion
+    restrain_num_of_posis_neges, sort_rule_criterion, dbpedia_folder
 from RuleBased.VirtuosoSearch.Util import Util
 
 
@@ -62,6 +62,24 @@ class Graph:
         end_time = time.time()
         print("Finishing Loading Graph. Elapsed: {}.".format(end_time -
                                                              start_time))
+
+    '''
+    If a fact(h_idx,r_idx,t_idx) is in this graph.
+    Parameters:
+    -----------
+    h_idx: int, the index of head
+    r_idx: int, the index of relation
+    t_idx: int, the index of tail
+    
+    Returns:
+    ----------
+    out: boolean, true if (h_idx,r_idx,t_idx) in graph, false else.
+    '''
+
+    def has_fact(self, h_idx, r_idx, t_idx):
+        temp_node = self.node_dict[h_idx]
+        has_r, has_t = temp_node.has_r_t(r_idx, t_idx)
+        return has_r and has_t
 
     '''
     Connect two path found by unidirection search
@@ -205,7 +223,7 @@ class Graph:
             for n in current_node_list:
                 c_node = self.node_dict[n[-1]]
                 for path in c_node.path_list:
-                    if i >= 1 and path.e == n[-3]: 
+                    if i >= 1 and path.e == n[-3]:
                         continue
                     temp_n = n.copy()
                     temp_n.append(path.r)
@@ -441,7 +459,7 @@ class Graph:
                 for ht in left_path:
                     c_node = self.node_dict[ht[-1]]
                     for tail in c_node.get_tails_of_r_idx(r_idx):
-                        if time_exceed(): 
+                        if time_exceed():
                             return True, []
                         temp_ht = ht.copy()
                         temp_ht.append(tail)
@@ -454,7 +472,7 @@ class Graph:
                 for ht in right_path:
                     c_node = self.node_dict[ht[-1]]
                     for tail in c_node.get_tails_of_r_idx(inv_r_idx):
-                        if time_exceed(): 
+                        if time_exceed():
                             return True, []
                         temp_ht = ht.copy()
                         temp_ht.append(tail)
@@ -464,14 +482,14 @@ class Graph:
         left_dict = {}
         for path in left_path:
             if path[-1] not in left_dict:
-                if time_exceed(): 
+                if time_exceed():
                     return True, []
                 left_dict[path[-1]] = []
             left_dict[path[-1]].append(path)
         for path in right_path:
             if path[-1] in left_dict:
                 for l_p in left_dict[path[-1]]:
-                    if time_exceed(): 
+                    if time_exceed():
                         return True, []
                     temp_token = "{};{}".format(l_p[0], path[0])
                     if temp_token not in res:
@@ -506,7 +524,7 @@ class Graph:
                 idx + 1, len(r_path_list), self.idx2r[r_idx], "=>".join(
                     self.display_r_path([r_path])[0])))
             rule = Rule(r_idx, r_path=r_path, rule_key=None)
-            if rule.rule_key in rule_set: 
+            if rule.rule_key in rule_set:
                 continue
             rule_set.add(rule.rule_key)
             succ = rule.restoreFromMysql()
@@ -522,7 +540,7 @@ class Graph:
                 if rule.P >= 0.001:  # the precision of rule must high enough
                     rule_list.append(rule)
                     while True:
-                        if rule.persist2mysql(): 
+                        if rule.persist2mysql():
                             break
                     print("Success persisting to mysql.")
                 else:
@@ -664,12 +682,13 @@ class Graph:
         train_y_file = folder + "train_y.npy"
         model_file_path = folder + "model.tar"
         if os.path.exists(statistics_file) and os.path.exists(model_file_path):
-            print("Load Model for Relation: {}".format(r_idx))
+            print("Load Model for Relation: {}".format(self.idx2r[r_idx]))
             with open(statistics_file, 'r', encoding="UTF-8") as f:
                 input_size = int(f.readline().strip().split()[1])
+            print("R: {}, feature size: {}.".format(self.idx2r[r_idx], input_size))
             lg = LogisticRegression(input_size)
             lg.loadModel(model_file_path)
-            print("Finish loading model from file.")
+            print("Finish loading model for R {} from file.".format(self.idx2r[r_idx]))
             return lg
 
         rule_list = self.collect_rules_for_r_idx(r_idx, statistics_file)
@@ -747,7 +766,7 @@ class Graph:
         nege_ht_list = random.sample(nege_ht_list, test_num)
         print(
             "Restrain num of posi/nege to {}. This is the minum length of posi_ht_list and nege_ht_list."
-            .format(test_num))
+                .format(test_num))
 
         print("Start getting features for positives.")
         test_x = self.get_features(rule_list, posi_ht_list)
@@ -836,7 +855,7 @@ class Graph:
         mycursor.execute(query)
         fetched = mycursor.fetchall()
         for idx, row in enumerate(fetched):
-            if idx > top_k - 1: 
+            if idx > top_k - 1:
                 break
             one_rule = Rule(r_idx, None, row[1])
             one_rule.restoreFromMysql()
@@ -867,7 +886,7 @@ class Graph:
             if len(left_node) < len(right_node):
                 left_step += 1
                 r_idx = rule[left_step - 1]
-                if r_idx not in self.idx2r: 
+                if r_idx not in self.idx2r:
                     return False
                 for e_idx in left_node:
                     c_node = self.node_dict[e_idx]
@@ -877,7 +896,7 @@ class Graph:
             else:
                 right_step += 1
                 r_idx = rule[-right_step]
-                if r_idx not in self.idx2r: 
+                if r_idx not in self.idx2r:
                     return False
                 inv_r_idx = self.convert_r(r_idx)
                 for e_idx in right_node:
@@ -920,7 +939,7 @@ class Graph:
             for h_idx in h_idx_list:
                 for t_idx in t_idx_list:
                     ht_token = "{}{}{}".format(h_idx, ht_conn, t_idx)
-                    if ht_token in ht_is_passed: 
+                    if ht_token in ht_is_passed:
                         continue
                     th = MyThread(self.is_passed, ([h_idx, t_idx], rule))
                     thread_list.append(th)
@@ -1240,38 +1259,80 @@ class Graph:
     def get_localname(self, e_r_name):
         return e_r_name.split(":")[-1]
 
+    '''
+    Get mined rules of relation
+    Parameters:
+    -------------
+    r_name: string, the relation we want to get the rules
+    Returns:
+    None
+    It will print the rules per line.    
+    '''
+
+    def get_rules_4_relation(self, r_name):
+        if r_name not in self.r2idx:
+            print("R: {} is not in the Graph.".format(r_name))
+            return
+        print("Get rules of R: {}.".format(r_name))
+        temp_idx = self.r2idx[r_name]
+        query = "SELECT rule_key,P FROM `{}` where relation_idx='{}'".format(database, temp_idx)
+        mycursor = mydb.cursor()
+        mycursor.execute(query)
+        fetched = mycursor.fetchall()
+        res = {}
+        for row in fetched:
+            my_rule = row[0]
+            rule_fetched = ",\t".join([self.idx2r[int(one_r)] for one_r in my_rule.split(":")])
+            res[rule_fetched] = float(row[1])
+        a = list(sorted(res.items(), key=lambda x: x[1], reverse=True))
+        for key, value in a:
+            print(key, value)
+
 
 if __name__ == "__main__":
-    util = Util()
+    dbpedia_scope = "All"
+    e2idx_file = dbpedia_folder + dbpedia_scope + "\\e2idx_shortcut.txt"
+    r2idx_file = dbpedia_folder + dbpedia_scope + "\\r2idx_shortcut.txt"
+    triple2idx_file = dbpedia_folder + dbpedia_scope + "\\triple2idx.txt"
+    graph = Graph(e2idx_file, r2idx_file, triple2idx_file)
+    graph.load_data()
+    graph.get_rules_4_relation("dbo:birthPlace")
+    # graph.get_rules_4_relation("dbo:regionServed")
+    # graph.get_rules_4_relation("dbo:location")
+    # graph.get_rules_4_relation("dbo:residence")
+    # graph.get_rules_4_relation("dbo:headquarter")
+
+    # util = Util()
     # source_folder = "./source/"
-    source_folder = "F:\\Data\\FB15K-237\\source\\"
-    output_folder = "F:\\Data\\FB15K-237\\output\\"
-    e2idx_file = source_folder + "e2idx.txt"
-    r2idx_file = source_folder + "r2idx.txt"
-    triple2idx_file = source_folder + "triple2idx.txt"
+    # source_folder = "F:\\Data\\FB15K-237\\source\\"
+    # output_folder = "F:\\Data\\FB15K-237\\output\\"
+    # e2idx_file = source_folder + "e2idx.txt"
+    # r2idx_file = source_folder + "r2idx.txt"
+    # triple2idx_file = source_folder + "triple2idx.txt"
 
     # relation_list = ['<http://dbpedia.org/ontology/director>',
     #                  '<http://dbpedia.org/ontology/starring>',
     #                  '<http://dbpedia.org/ontology/birthPlace>']
 
-    relation_list = ['/film/film/language']
-    graph = Graph(e2idx_file, r2idx_file, triple2idx_file)
-    graph.load_data()
-    r_idx_list = [graph.r2idx[relation] for relation in relation_list]
-    r_rules_dict = {}
-    for idx, r_idx in enumerate(r_idx_list):
-        folder = output_folder + util.gen_prefix(
-            relation_list[idx]) + file_path_seg
-        if not os.path.isdir(folder):
-            os.makedirs(folder)
-        graph.get_pra_model4r(r_idx=r_idx, folder=folder)
-        r_rules_dict[r_idx] = graph.get_top_k_rules(r_idx, 5, 'P')
+    # relation_list = ['/film/film/language']
+    # graph = Graph(e2idx_file, r2idx_file, triple2idx_file)
+    # graph.load_data()
 
-    for key in r_rules_dict.keys():
-        print("Relation: {}".format(graph.idx2r[key]))
-        for p in graph.display_r_path(r_rules_dict[key]):
-            print("=>".join(p))
-        print("\n")
+    # r_idx_list = [graph.r2idx[relation] for relation in relation_list]
+    # r_rules_dict = {}
+    # for idx, r_idx in enumerate(r_idx_list):
+    #     folder = output_folder + util.gen_prefix(
+    #         relation_list[idx]) + file_path_seg
+    #     if not os.path.isdir(folder):
+    #         os.makedirs(folder)
+    #     graph.get_pra_model4r(r_idx=r_idx, folder=folder)
+    #     r_rules_dict[r_idx] = graph.get_top_k_rules(r_idx, 5, 'P')
+    #
+    # for key in r_rules_dict.keys():
+    #     print("Relation: {}".format(graph.idx2r[key]))
+    #     for p in graph.display_r_path(r_rules_dict[key]):
+    #         print("=>".join(p))
+    #     print("\n")
 
     # displayed_path = graph.display_r_path(r_path_list)
     # displayed_path = graph.display_e_r_path(e_r_path_list)

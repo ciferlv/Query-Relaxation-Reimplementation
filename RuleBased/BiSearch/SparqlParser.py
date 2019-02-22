@@ -1,4 +1,5 @@
 import queue
+import time
 
 from RuleBased.BiSearch.Triple import Candidate
 from RuleBased.Params import ht_conn, sort_candidate_criterion, numbers_to_display_of_cands
@@ -223,7 +224,9 @@ class SparqlParser:
     '''
 
     def gen_conf_and_rule_path(self, r_rules_dict, rule_model_dict, graph):
-        for cand in self.searched_res:
+        total_num = len(self.searched_res)
+        time_start = time.time()
+        for cnt, cand in enumerate(self.searched_res):
             cand_obj = Candidate(cand)
             for one_bgp in self.sparql_BGP:
                 h_name = one_bgp[0]
@@ -241,13 +244,26 @@ class SparqlParser:
                 h_idx = graph.get_e_idx_by_e_name(h_name)
                 t_idx = graph.get_e_idx_by_e_name(t_name)
 
+                if graph.has_fact(h_idx, r_idx, t_idx):
+                    cand_obj.add_path_idx_for_bgp([[-1, h_idx, r_idx, t_idx, -1]], one_bgp_str)
+                    cand_obj.add_pra_conf_for_bgp(1, one_bgp_str)
+                    continue
+
                 rule_list = r_rules_dict[r_idx]
                 features, res_path = graph.get_passed_e_r_path(h_idx, t_idx, rule_list)
                 pra_conf = rule_model_dict[r_idx].get_output_prob([features])
                 cand_obj.add_path_idx_for_bgp(res_path, one_bgp_str)
                 cand_obj.add_pra_conf_for_bgp(pra_conf, one_bgp_str)
             cand_obj.cal_cand_pra_score()
+            print("Candidate: {}/{}.\n".format(cnt + 1, total_num))
+            print("{}".format(cand_obj.display_rule_path(graph)))
             self.cand_obj_list.append(cand_obj)
+
+            time_end = time.time()
+            ellapsed = time_end - time_start
+            if ellapsed > 3600 * 10:
+                print("Get conf and rule path, time out!")
+                return
 
     def sort_cand_obj_list(self):
         if sort_candidate_criterion == 'pra':

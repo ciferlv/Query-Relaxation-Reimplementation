@@ -3,7 +3,7 @@ import time
 
 from RuleBased.BiSearch.Graph import Graph
 from RuleBased.BiSearch.SparqlParser import SparqlParser
-from RuleBased.Params import file_path_seg, rules_num_to_search_cands, sort_candidate_criterion
+from RuleBased.Params import file_path_seg, rules_num_to_search_cands, sort_candidate_criterion, rule_num4train
 from RuleBased.VirtuosoSearch.Util import Util
 
 
@@ -28,13 +28,26 @@ class QR:
         self.r_name_list = self.sp.r_name_list
         '''
         Dict for r_idx and its list of rule object.
+        It is used to search cands.
         {
             r_idx:[Rule(),Rule(),...],
             r_idx:[Rule(),Rule(),...],
             ...
         }
         '''
-        self.r_rules_dict = {}
+        self.r_rules_dict_4_search_cands = {}
+
+        '''
+        Dict for r_idx and its list of rule object.
+        It is used to feed model.
+        {
+            r_idx:[Rule(),Rule(),...],
+            r_idx:[Rule(),Rule(),...],
+            ...
+        }
+        '''
+        self.r_rules_dict_4_feed_model = {}
+
         '''
         Dict for r_idx and its trained model.
         {
@@ -99,8 +112,10 @@ class QR:
     def gen_rules_dict(self, graph):
         print("Start collect top rules by Precision.")
         for r_idx in self.r_idx_list:
-            self.r_rules_dict[r_idx] = graph.get_top_k_rules(
+            self.r_rules_dict_4_search_cands[r_idx] = graph.get_top_k_rules(
                 r_idx, rules_num_to_search_cands)
+            self.r_rules_dict_4_feed_model[r_idx] = graph.get_top_k_rules(
+                r_idx, rule_num4train)
 
     def get_candidates(self):
         e2idx_file = self.search_root + "e2idx_shortcut.txt"
@@ -116,10 +131,10 @@ class QR:
         print("Start generating candidates.")
 
         print("Start executing 1 var BGP.")
-        self.sp.execute_var1BGP(self.r_rules_dict, graph)
+        self.sp.execute_var1BGP(self.r_rules_dict_4_search_cands, graph)
 
         print("Start executin 2 var BGP.")
-        self.sp.execute_var2BGP(self.r_rules_dict, graph)
+        self.sp.execute_var2BGP(self.r_rules_dict_4_search_cands, graph)
 
         print("Start normalize searched res.")
         self.sp.normalize_searched_res()
@@ -128,7 +143,7 @@ class QR:
         # self.sp.display_searched_res(graph)
 
         print("Calculate confidence for candidates.")
-        self.sp.gen_conf_and_rule_path(self.r_rules_dict, self.r_model_dict,
+        self.sp.gen_conf_and_rule_path(self.r_rules_dict_4_feed_model, self.r_model_dict,
                                        graph)
 
         print("Sort candidate list by {} score.".format(
@@ -158,12 +173,19 @@ if __name__ == "__main__":
     #     }
     #     """
 
-    sparql = """
-        SELECT ?film WHERE{
-            ?film dbo:starring ?p.
-            ?p dbo:birthPlace dbr:Asia.
-        }
-        """
+    # sparql = """
+    #     SELECT ?film WHERE{
+    #         ?film dbo:starring ?p.
+    #         ?p dbo:birthPlace dbr:Asia.
+    #     }
+    #     """
+    #
+    # sparql = """
+    #         SELECT ?film WHERE{
+    #             ?film dbo:starring ?p.
+    #             ?p dbo:birthPlace dbr:Asia.
+    #         }
+    #         """
 
     # sparql = """
     #     SELECT * WHERE{
@@ -171,10 +193,65 @@ if __name__ == "__main__":
     #     """
 
     # sparql = """
+    #     SELECT * WHERE{
+    #      ?company dbo:headquarter dbr:Asia.}
+    #     """
+
+    #select * where {
+    # ?p dbo:regionServed <http://dbpedia.org/resource/Lincoln,_Nebraska>. 某个地方的首都，regionServed这个国家，就会regionServe首都
+    # ?p dbo:headquarter dbr:United_States}
+
+    # sparql = """
+    # select * where {
+    #     ?p dbo:headquarter dbr:United_States.
+    #     ?p dbo:location dbr:Western_Maryland.
+    # }"""
+
+    # sparql = """
+    # select * where {
+    # ?p dbo: starring ?o.
+    # ?p dbo: location dbr: Province_of_New_York.
+    # }"""
+
+    # sparql = """
+    # select * where {
+    #         ?p dbo:regionServed dbr:Asia.
+    #         ?p dbo:location dbr:Italy}
+    # """
+
+    # sparql = """
+    #     SELECT * WHERE{
+    #      ?p dbo:residence dbr:Aisa.}
+    #     """
+
+    # sparql = """
     #         SELECT * WHERE{
     #          dbr:Albert_Einstein dbo:doctoralAdvisor ?p.}
     #         """
 
+    # sparql = """
+    #     select * where {
+    #         ?p dbo:regionServed dbr:Norway.
+    #         ?p dbo:industry dbr:Bus_transport}
+    # """
+
+    # sparql = """
+    #     select * where {
+    #         dbr:Gift_of_the_Night_Fury dbo:starring ?p.
+    #         ?p dbo:birthPlace  dbr:United_States.}
+    # """
+
+    # sparql = """
+    #     select * where {
+    #         ?p dbo:starring ?o.
+    #         ?p dbo:location dbr:Province_of_New_York.}
+    # """
+
+    sparql =  """
+        select * where {
+            ?p dbo:industry dbr:Real_estate.
+            ?p dbo:foundationPlace dbr:Washington_(state).}
+    """
     qr = QR(sparql, root_folder, train_scope, test_scope, search_scope)
 
     only_train_rule = False

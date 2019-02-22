@@ -1,0 +1,8 @@
+SELECT * WHERE{
+     dbr:Isaac_Newton dbo:doctoralAdvisor ?p.
+}
+结果为空
+若查询为
+SELECT * WHERE{
+      dbr:Isaac_Newton dbo:academicAdvisor ?p.
+}

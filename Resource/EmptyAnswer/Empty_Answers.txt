@@ -18,11 +18,30 @@ WHERE{
 答案为空
 出生于北美的电影导演
 
+select * where {?a dbo:headquarter dbr:Asia}
+
 SELECT * WHERE{
-     dbr:Isaac_Newton dbo:doctoralAdvisor ?p.
-}
-结果为空
-若查询为
+            ?p dbo:occupation dbr:Asia.
+        }
+
+ SELECT * WHERE{
+            ?film dbo:director ?p.
+            ?p dbo:residence dbr:Germany.
+        }
+
 SELECT * WHERE{
-      dbr:Isaac_Newton dbo:academicAdvisor ?p.
+            ?p dbo:residence dbr:Aisa.
+        }
+
+
+select * where {
+?p dbo:industry dbr:Real_estate.
+?p dbo:foundationPlace dbr:Washington_(state).
 }
+answer: dbr:Redfin
+
+
+
+
+
+

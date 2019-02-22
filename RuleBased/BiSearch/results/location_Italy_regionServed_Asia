@@ -1,0 +1,96 @@
+Candidates: 1/10.
+?p:[dbr:Iveco]
+dbr:Iveco	dbo:regionServed	dbr:Asia pra_conf: 0.8935582041740417
+dbr:Iveco=>dbo:regionServed=>dbr:Australia=>inv_dbo:headquarter=>dbr:Toll_Global_Express=>dbo:regionServed=>dbr:Asia
+dbr:Iveco=>dbo:regionServed=>dbr:Australia=>inv_dbo:locationCity=>dbr:Classic_International_Cruises=>dbo:regionServed=>dbr:Asia
+dbr:Iveco=>dbo:regionServed=>dbr:Australia=>inv_dbo:foundationPlace=>dbr:Goodman_Group=>dbo:regionServed=>dbr:Asia
+
+dbr:Iveco	dbo:location	dbr:Italy pra_conf: 1
+dbr:Iveco=>dbo:location=>dbr:Italy
+Candidates: 2/10.
+?p:[dbr:Order_of_Saint_Augustine]
+dbr:Order_of_Saint_Augustine	dbo:regionServed	dbr:Asia pra_conf: 1
+dbr:Order_of_Saint_Augustine=>dbo:regionServed=>dbr:Asia
+
+dbr:Order_of_Saint_Augustine	dbo:location	dbr:Italy pra_conf: 0.2546365559101105
+dbr:Order_of_Saint_Augustine=>dbo:location=>dbr:Rome=>inv_dbo:garrison=>dbr:Carabinieri=>dbo:country=>dbr:Italy
+dbr:Order_of_Saint_Augustine=>dbo:location=>dbr:Rome=>inv_dbo:garrison=>dbr:Italian_Army=>dbo:country=>dbr:Italy
+dbr:Order_of_Saint_Augustine=>dbo:location=>dbr:Rome=>inv_dbo:garrison=>dbr:Corazzieri=>dbo:country=>dbr:Italy
+Candidates: 3/10.
+?p:[dbr:First_Republic_Bank]
+dbr:First_Republic_Bank	dbo:regionServed	dbr:Asia pra_conf: 0.5528978109359741
+dbr:First_Republic_Bank=>dbo:regionServed=>dbr:California=>inv_dbo:locationCity=>dbr:Voilà_Hotel_Rewards=>dbo:regionServed=>dbr:Asia
+dbr:First_Republic_Bank=>dbo:regionServed=>dbr:United_States=>inv_dbo:locationCity=>dbr:Silver_Spring_Networks=>dbo:regionServed=>dbr:Asia
+dbr:First_Republic_Bank=>dbo:industry=>dbr:Banking=>inv_dbo:product=>dbr:Tejarat_Bank=>dbo:regionServed=>dbr:Asia
+
+dbr:First_Republic_Bank	dbo:location	dbr:Italy pra_conf: 0.07583172619342804
+dbr:First_Republic_Bank=>dbo:location=>dbr:California=>inv_owl:differentFrom=>dbr:Mendicino=>dbo:country=>dbr:Italy
+dbr:First_Republic_Bank=>dbo:location=>dbr:United_States=>inv_dbo:headquarter=>dbr:WWE_Network=>dbo:broadcastArea=>dbr:Italy
+dbr:First_Republic_Bank=>dbo:location=>dbr:California=>inv_dbo:headquarter=>dbr:TeenNick=>dbo:locationCountry=>dbr:Italy
+Candidates: 4/10.
+?p:[dbr:Pandora_Radio]
+dbr:Pandora_Radio	dbo:regionServed	dbr:Asia pra_conf: 0.7427054643630981
+dbr:Pandora_Radio=>dbo:regionServed=>dbr:Australia=>inv_dbo:headquarter=>dbr:Toll_Global_Express=>dbo:regionServed=>dbr:Asia
+dbr:Pandora_Radio=>dbo:regionServed=>dbr:Australia=>inv_dbo:locationCity=>dbr:Classic_International_Cruises=>dbo:regionServed=>dbr:Asia
+dbr:Pandora_Radio=>dbo:regionServed=>dbr:United_States=>inv_dbo:locationCity=>dbr:Silver_Spring_Networks=>dbo:regionServed=>dbr:Asia
+
+dbr:Pandora_Radio	dbo:location	dbr:Italy pra_conf: 0.0408041775226593
+dbr:Pandora_Radio=>dbo:location=>dbr:California=>inv_owl:differentFrom=>dbr:Mendicino=>dbo:country=>dbr:Italy
+dbr:Pandora_Radio=>dbo:location=>dbr:United_States=>inv_dbo:headquarter=>dbr:WWE_Network=>dbo:broadcastArea=>dbr:Italy
+dbr:Pandora_Radio=>dbo:location=>dbr:California=>inv_dbo:headquarter=>dbr:TeenNick=>dbo:locationCountry=>dbr:Italy
+Candidates: 5/10.
+?p:[dbr:Intesa_Sanpaolo]
+dbr:Intesa_Sanpaolo	dbo:regionServed	dbr:Asia pra_conf: 0.029669005423784256
+dbr:Intesa_Sanpaolo=>dbo:regionServed=>dbr:Middle_East=>inv_dbo:broadcastArea=>dbr:JimJam=>dbo:locationCountry=>dbr:Asia
+dbr:Intesa_Sanpaolo=>dbo:regionServed=>dbr:Middle_East=>inv_dbo:broadcastArea=>dbr:JimJam=>dbo:country=>dbr:Asia
+dbr:Intesa_Sanpaolo=>dbo:regionServed=>dbr:Middle_East=>inv_dbo:locationCountry=>dbr:Jaya_TV=>dbo:country=>dbr:Asia
+
+dbr:Intesa_Sanpaolo	dbo:location	dbr:Italy pra_conf: 1
+dbr:Intesa_Sanpaolo=>dbo:location=>dbr:Italy
+Candidates: 6/10.
+?p:[dbr:EMMA_for_Peace]
+dbr:EMMA_for_Peace	dbo:regionServed	dbr:Asia pra_conf: 0.029669005423784256
+dbr:EMMA_for_Peace=>dbo:regionServed=>dbr:Middle_East=>inv_dbo:broadcastArea=>dbr:JimJam=>dbo:locationCountry=>dbr:Asia
+dbr:EMMA_for_Peace=>dbo:regionServed=>dbr:Middle_East=>inv_dbo:broadcastArea=>dbr:JimJam=>dbo:country=>dbr:Asia
+dbr:EMMA_for_Peace=>dbo:regionServed=>dbr:Middle_East=>inv_dbo:locationCountry=>dbr:Jaya_TV=>dbo:country=>dbr:Asia
+
+dbr:EMMA_for_Peace	dbo:location	dbr:Italy pra_conf: 1
+dbr:EMMA_for_Peace=>dbo:location=>dbr:Italy
+Candidates: 7/10.
+?p:[dbr:Ruby's_Diner]
+dbr:Ruby's_Diner	dbo:regionServed	dbr:Asia pra_conf: 0.6228387951850891
+dbr:Ruby's_Diner=>dbo:regionServed=>dbr:California=>inv_dbo:locationCity=>dbr:Voilà_Hotel_Rewards=>dbo:regionServed=>dbr:Asia
+dbr:Ruby's_Diner=>dbo:regionServed=>dbr:California=>inv_dbo:foundationPlace=>dbr:Stüssy=>dbo:regionServed=>dbr:Asia
+dbr:Ruby's_Diner=>dbo:foundationPlace=>dbr:California=>inv_dbo:locationCity=>dbr:Voilà_Hotel_Rewards=>dbo:regionServed=>dbr:Asia
+
+dbr:Ruby's_Diner	dbo:location	dbr:Italy pra_conf: 0.0408041775226593
+dbr:Ruby's_Diner=>dbo:location=>dbr:California=>inv_owl:differentFrom=>dbr:Mendicino=>dbo:country=>dbr:Italy
+dbr:Ruby's_Diner=>dbo:location=>dbr:United_States=>inv_dbo:headquarter=>dbr:WWE_Network=>dbo:broadcastArea=>dbr:Italy
+dbr:Ruby's_Diner=>dbo:location=>dbr:California=>inv_dbo:headquarter=>dbr:TeenNick=>dbo:locationCountry=>dbr:Italy
+Candidates: 8/10.
+?p:[dbr:Raiffeisen_Landesbank_Südtirol_–_Cassa_Centrale_Raiffeisen_dell'Alto_Adige]
+dbr:Raiffeisen_Landesbank_Südtirol_–_Cassa_Centrale_Raiffeisen_dell'Alto_Adige	dbo:regionServed	dbr:Asia pra_conf: 0.025358160957694054
+dbr:Raiffeisen_Landesbank_Südtirol_–_Cassa_Centrale_Raiffeisen_dell'Alto_Adige=>dbo:industry=>dbr:Retail_banking=>inv_dbo:product=>dbr:National_Australia_Bank=>dbo:regionServed=>dbr:Asia
+dbr:Raiffeisen_Landesbank_Südtirol_–_Cassa_Centrale_Raiffeisen_dell'Alto_Adige=>dbo:industry=>dbr:Insurance=>inv_dbo:product=>dbr:National_Australia_Bank=>dbo:regionServed=>dbr:Asia
+dbr:Raiffeisen_Landesbank_Südtirol_–_Cassa_Centrale_Raiffeisen_dell'Alto_Adige=>dbo:industry=>dbr:Retail_banking=>inv_dbo:product=>dbr:Espírito_Santo_Financial_Group=>dbo:regionServed=>dbr:Asia
+
+dbr:Raiffeisen_Landesbank_Südtirol_–_Cassa_Centrale_Raiffeisen_dell'Alto_Adige	dbo:location	dbr:Italy pra_conf: 1
+dbr:Raiffeisen_Landesbank_Südtirol_–_Cassa_Centrale_Raiffeisen_dell'Alto_Adige=>dbo:location=>dbr:Italy
+Candidates: 9/10.
+?p:[dbr:BoxTV.com]
+dbr:BoxTV.com	dbo:regionServed	dbr:Asia pra_conf: 0.9489672780036926
+dbr:BoxTV.com=>dbo:regionServed=>dbr:Singapore=>inv_dbo:headquarter=>dbr:CNBC_Asia=>dbo:broadcastArea=>dbr:Asia
+dbr:BoxTV.com=>dbo:regionServed=>dbr:Singapore=>inv_dbo:headquarter=>dbr:Cinemax_(Asia)=>dbo:broadcastArea=>dbr:Asia
+dbr:BoxTV.com=>dbo:regionServed=>dbr:Singapore=>inv_dbo:headquarter=>dbr:Asia_Business_News=>dbo:broadcastArea=>dbr:Asia
+
+dbr:BoxTV.com	dbo:location	dbr:Italy pra_conf: 0.023342983797192574
+dbr:BoxTV.com=>dbo:location=>dbr:India=>inv_dbo:hometown=>dbr:Jimmy_George=>dbo:deathPlace=>dbr:Italy
+Candidates: 10/10.
+?p:[dbr:Zomato]
+dbr:Zomato	dbo:regionServed	dbr:Asia pra_conf: 0.8935582041740417
+dbr:Zomato=>dbo:regionServed=>dbr:Australia=>inv_dbo:headquarter=>dbr:Toll_Global_Express=>dbo:regionServed=>dbr:Asia
+dbr:Zomato=>dbo:regionServed=>dbr:Australia=>inv_dbo:locationCity=>dbr:Classic_International_Cruises=>dbo:regionServed=>dbr:Asia
+dbr:Zomato=>dbo:regionServed=>dbr:United_States=>inv_dbo:locationCity=>dbr:Silver_Spring_Networks=>dbo:regionServed=>dbr:Asia
+
+dbr:Zomato	dbo:location	dbr:Italy pra_conf: 0.023342983797192574
+dbr:Zomato=>dbo:location=>dbr:India=>inv_dbo:hometown=>dbr:Jimmy_George=>dbo:deathPlace=>dbr:Italy

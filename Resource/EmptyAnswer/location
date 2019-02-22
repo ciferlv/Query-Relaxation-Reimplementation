@@ -1,0 +1,10 @@
+select * where {
+            ?p dbo:regionServed dbr:Asia.
+            ?p dbo:location dbr:Italy}
+
+answer: dbr:Order_of_Saint_Augustine
+
+select * where {
+    ?p dbo: starring ?o.
+    ?p dbo: location dbr: Province_of_New_York.}
+answer: 把Province_of_New_York换成 New_York_City

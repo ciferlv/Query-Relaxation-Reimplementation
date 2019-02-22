@@ -94,6 +94,7 @@ test_nege_sample_num = 10
 '''
 This parameter determines the num of rules to ues to search candidates.
 '''
+# rules_num_to_search_cands = 200
 rules_num_to_search_cands = 100
 '''
 sort rule by criterion
@@ -107,3 +108,6 @@ sort_candidate_criterion = 'pra'
 Set the numbers to display of candidates
 '''
 numbers_to_display_of_cands = 10
+
+
+dbpedia_folder = "F:\\Data\\dbpedia\\"

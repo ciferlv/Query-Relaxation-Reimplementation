@@ -1,0 +1,12 @@
+
+select * where {
+  ?p dbo:regionServed dbr:Norway.
+  ?p dbo:industry dbr:Bus_transport}
+answer: <http://dbpedia.org/resource/Stor-Oslo_Lokaltrafikk>
+用于筛选的规则
+select * where {
+  ?p dbo:regionServed ?o.
+  ?q dbo:isPartOf ?o.
+  ?q dbo:country ?e.
+  FILTER NOT EXISTS {?p dbo:regionServed ?e}.
+}
