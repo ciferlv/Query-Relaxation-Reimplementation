@@ -1,0 +1,97 @@
+Candidates: 1/10.
+?p:[dbr:Aurizon]
+dbr:Aurizon	dbo:regionServed	dbr:South_Australia pra_conf: 1
+dbr:Aurizon=>dbo:regionServed=>dbr:South_Australia
+
+dbr:Aurizon	dbo:locationCity	dbr:Sydney pra_conf: 0.921897292137146
+dbr:Aurizon=>dbo:locationCity=>dbr:Brisbane=>inv_dbo:regionServed=>dbr:Hardy_Brothers=>dbo:foundationPlace=>dbr:Sydney
+dbr:Aurizon=>dbo:locationCity=>dbr:Brisbane=>inv_dbo:regionServed=>dbr:GoGet=>dbo:location=>dbr:Sydney
+dbr:Aurizon=>dbo:locationCity=>dbr:Brisbane=>inv_dbo:regionServed=>dbr:Angus_&_Coote=>dbo:locationCity=>dbr:Sydney
+Candidates: 2/10.
+?p:[dbr:Freight_Australia]
+dbr:Freight_Australia	dbo:regionServed	dbr:South_Australia pra_conf: 0.9865249395370483
+dbr:Freight_Australia=>dbo:regionServed=>dbr:Victoria_(Australia)=>inv_dbo:sourceRegion=>dbr:Glenelg_River_(Victoria)=>dbo:state=>dbr:South_Australia
+dbr:Freight_Australia=>dbo:regionServed=>dbr:New_South_Wales=>inv_dbo:locationCity=>dbr:Country_Energy=>dbo:regionServed=>dbr:South_Australia
+dbr:Freight_Australia=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:deathPlace=>dbr:Ferdinand_von_Mueller=>dbo:citizenship=>dbr:South_Australia
+
+dbr:Freight_Australia	dbo:locationCity	dbr:Sydney pra_conf: 0.9030859470367432
+dbr:Freight_Australia=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:regionServed=>dbr:Hardy_Brothers=>dbo:foundationPlace=>dbr:Sydney
+dbr:Freight_Australia=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:regionServed=>dbr:GoGet=>dbo:location=>dbr:Sydney
+dbr:Freight_Australia=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:foundationPlace=>dbr:Amnesty_International_Australia=>dbo:location=>dbr:Sydney
+Candidates: 3/10.
+?p:[dbr:Consolidated_Rail_Leasing]
+dbr:Consolidated_Rail_Leasing	dbo:regionServed	dbr:South_Australia pra_conf: 0.9865249395370483
+dbr:Consolidated_Rail_Leasing=>dbo:regionServed=>dbr:Victoria_(Australia)=>inv_dbo:sourceRegion=>dbr:Glenelg_River_(Victoria)=>dbo:state=>dbr:South_Australia
+dbr:Consolidated_Rail_Leasing=>dbo:regionServed=>dbr:New_South_Wales=>inv_dbo:locationCity=>dbr:Country_Energy=>dbo:regionServed=>dbr:South_Australia
+dbr:Consolidated_Rail_Leasing=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:deathPlace=>dbr:Ferdinand_von_Mueller=>dbo:citizenship=>dbr:South_Australia
+
+dbr:Consolidated_Rail_Leasing	dbo:locationCity	dbr:Sydney pra_conf: 0.9030859470367432
+dbr:Consolidated_Rail_Leasing=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:regionServed=>dbr:Hardy_Brothers=>dbo:foundationPlace=>dbr:Sydney
+dbr:Consolidated_Rail_Leasing=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:regionServed=>dbr:GoGet=>dbo:location=>dbr:Sydney
+dbr:Consolidated_Rail_Leasing=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:foundationPlace=>dbr:Amnesty_International_Australia=>dbo:location=>dbr:Sydney
+Candidates: 4/10.
+?p:[dbr:Country_Energy]
+dbr:Country_Energy	dbo:regionServed	dbr:South_Australia pra_conf: 1
+dbr:Country_Energy=>dbo:regionServed=>dbr:South_Australia
+
+dbr:Country_Energy	dbo:locationCity	dbr:Sydney pra_conf: 0.8905395269393921
+dbr:Country_Energy=>dbo:locationCity=>dbr:New_South_Wales=>inv_dbo:headquarter=>dbr:Sydney_Harbour_Foreshore_Authority=>dbo:jurisdiction=>dbr:Sydney
+dbr:Country_Energy=>dbo:locationCity=>dbr:New_South_Wales=>inv_dbo:headquarter=>dbr:Sydney_Water=>dbo:jurisdiction=>dbr:Sydney
+dbr:Country_Energy=>dbo:locationCity=>dbr:New_South_Wales=>inv_dbo:location=>dbr:Sydney_Harbour_Foreshore_Authority=>dbo:jurisdiction=>dbr:Sydney
+Candidates: 5/10.
+?p:[dbr:Gray_Line_Australia]
+dbr:Gray_Line_Australia	dbo:regionServed	dbr:South_Australia pra_conf: 0.8962046504020691
+dbr:Gray_Line_Australia=>dbo:regionServed=>dbr:Adelaide=>inv_dbo:city=>dbr:University_of_South_Australia=>dbo:state=>dbr:South_Australia
+dbr:Gray_Line_Australia=>dbo:regionServed=>dbr:Adelaide=>inv_dbo:city=>dbr:St_Peter's_College,_Adelaide=>dbo:state=>dbr:South_Australia
+dbr:Gray_Line_Australia=>dbo:regionServed=>dbr:Adelaide=>inv_dbo:city=>dbr:Wirreanda_High_School=>dbo:state=>dbr:South_Australia
+
+dbr:Gray_Line_Australia	dbo:locationCity	dbr:Sydney pra_conf: 0.9638312458992004
+dbr:Gray_Line_Australia=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:regionServed=>dbr:Hardy_Brothers=>dbo:foundationPlace=>dbr:Sydney
+dbr:Gray_Line_Australia=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:regionServed=>dbr:GoGet=>dbo:location=>dbr:Sydney
+dbr:Gray_Line_Australia=>dbo:locationCity=>dbr:Melbourne=>inv_dbo:foundationPlace=>dbr:Amnesty_International_Australia=>dbo:location=>dbr:Sydney
+Candidates: 6/10.
+?p:[dbr:Prouds]
+dbr:Prouds	dbo:regionServed	dbr:South_Australia pra_conf: 0.6925699710845947
+dbr:Prouds=>dbo:regionServed=>dbr:Brisbane=>inv_dbo:locationCity=>dbr:Aurizon=>dbo:regionServed=>dbr:South_Australia
+dbr:Prouds=>dbo:regionServed=>dbr:Sydney=>inv_dbo:locationCity=>dbr:News_Corp_Australia=>dbo:foundationPlace=>dbr:South_Australia
+dbr:Prouds=>dbo:regionServed=>dbr:Melbourne=>inv_dbo:locationCity=>dbr:Harris_Scarfe=>dbo:foundationPlace=>dbr:South_Australia
+
+dbr:Prouds	dbo:locationCity	dbr:Sydney pra_conf: 1
+dbr:Prouds=>dbo:locationCity=>dbr:Sydney
+Candidates: 7/10.
+?p:[dbr:Angus_&_Coote]
+dbr:Angus_&_Coote	dbo:regionServed	dbr:South_Australia pra_conf: 0.6925699710845947
+dbr:Angus_&_Coote=>dbo:regionServed=>dbr:Brisbane=>inv_dbo:locationCity=>dbr:Aurizon=>dbo:regionServed=>dbr:South_Australia
+dbr:Angus_&_Coote=>dbo:regionServed=>dbr:Sydney=>inv_dbo:locationCity=>dbr:News_Corp_Australia=>dbo:foundationPlace=>dbr:South_Australia
+dbr:Angus_&_Coote=>dbo:regionServed=>dbr:Melbourne=>inv_dbo:locationCity=>dbr:Harris_Scarfe=>dbo:foundationPlace=>dbr:South_Australia
+
+dbr:Angus_&_Coote	dbo:locationCity	dbr:Sydney pra_conf: 1
+dbr:Angus_&_Coote=>dbo:locationCity=>dbr:Sydney
+Candidates: 8/10.
+?p:[dbr:Hardy_Brothers]
+dbr:Hardy_Brothers	dbo:regionServed	dbr:South_Australia pra_conf: 0.6925699710845947
+dbr:Hardy_Brothers=>dbo:regionServed=>dbr:Brisbane=>inv_dbo:locationCity=>dbr:Aurizon=>dbo:regionServed=>dbr:South_Australia
+dbr:Hardy_Brothers=>dbo:regionServed=>dbr:Sydney=>inv_dbo:locationCity=>dbr:News_Corp_Australia=>dbo:foundationPlace=>dbr:South_Australia
+dbr:Hardy_Brothers=>dbo:regionServed=>dbr:Melbourne=>inv_dbo:locationCity=>dbr:Harris_Scarfe=>dbo:foundationPlace=>dbr:South_Australia
+
+dbr:Hardy_Brothers	dbo:locationCity	dbr:Sydney pra_conf: 0.9984412789344788
+dbr:Hardy_Brothers=>dbo:foundationPlace=>dbr:Sydney
+dbr:Hardy_Brothers=>dbo:locationCity=>dbr:Brisbane=>inv_dbo:regionServed=>dbr:Hardy_Brothers=>dbo:foundationPlace=>dbr:Sydney
+dbr:Hardy_Brothers=>dbo:locationCity=>dbr:Brisbane=>inv_dbo:regionServed=>dbr:GoGet=>dbo:location=>dbr:Sydney
+Candidates: 9/10.
+?p:[dbr:TransGrid]
+dbr:TransGrid	dbo:regionServed	dbr:South_Australia pra_conf: 0.5952132940292358
+dbr:TransGrid=>dbo:regionServed=>dbr:New_South_Wales=>inv_dbo:locationCity=>dbr:Country_Energy=>dbo:regionServed=>dbr:South_Australia
+
+dbr:TransGrid	dbo:locationCity	dbr:Sydney pra_conf: 1
+dbr:TransGrid=>dbo:locationCity=>dbr:Sydney
+Candidates: 10/10.
+?p:[dbr:RiverCity_Motorway]
+dbr:RiverCity_Motorway	dbo:regionServed	dbr:South_Australia pra_conf: 0.5952132940292358
+dbr:RiverCity_Motorway=>dbo:regionServed=>dbr:Brisbane=>inv_dbo:locationCity=>dbr:Aurizon=>dbo:regionServed=>dbr:South_Australia
+
+dbr:RiverCity_Motorway	dbo:locationCity	dbr:Sydney pra_conf: 0.9712274670600891
+dbr:RiverCity_Motorway=>dbo:locationCity=>dbr:Brisbane=>inv_dbo:regionServed=>dbr:Hardy_Brothers=>dbo:foundationPlace=>dbr:Sydney
+dbr:RiverCity_Motorway=>dbo:locationCity=>dbr:Brisbane=>inv_dbo:regionServed=>dbr:GoGet=>dbo:location=>dbr:Sydney
+dbr:RiverCity_Motorway=>dbo:locationCity=>dbr:Brisbane=>inv_dbo:regionServed=>dbr:Angus_&_Coote=>dbo:locationCity=>dbr:Sydney
+Finishing generating and displaying candidates. Epalsed: 149.39766597747803.

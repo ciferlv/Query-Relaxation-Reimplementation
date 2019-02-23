@@ -34,11 +34,7 @@ SELECT * WHERE{
         }
 
 
-select * where {
-?p dbo:industry dbr:Real_estate.
-?p dbo:foundationPlace dbr:Washington_(state).
-}
-answer: dbr:Redfin
+
 
 
 

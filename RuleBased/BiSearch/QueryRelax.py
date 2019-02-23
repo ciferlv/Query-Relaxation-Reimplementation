@@ -247,11 +247,70 @@ if __name__ == "__main__":
     #         ?p dbo:location dbr:Province_of_New_York.}
     # """
 
-    sparql =  """
+    # sparql =  """
+    #     select * where {
+    #         ?p dbo:industry dbr:Real_estate.
+    #         ?p dbo:foundationPlace dbr:Washington_(state).}
+    # """
+
+    # sparql = """
+    #         select * where {
+    #             ?p dbo:foundationPlace dbr:Washington_(state).}
+    #     """
+
+    # sparql = """
+    #     select * where {
+    #         ?a dbo:birthPlace dbr:United_States.
+    #         ?a dbo:award dbr:Fellow_of_the_Royal_Society_of_Canada.}
+    # """
+    # sparql = """
+    #         select * where {
+    #             ?p dbo:regionServed  dbr:Texas.
+    #             ?p dbo:owner  dbr:Google.}
+    # """
+
+    # sparql  =  """
+    #         select * where {
+    #             ?p dbo:regionServed  dbr:South_Australia.
+    #             ?p dbo:product  dbr:DVD.}
+    # """
+
+    # sparql = """
+    #     select * where {
+    #         ?p dbo:regionServed  dbr:South_Australia.
+    #         ?p dbo:locationCity  dbr:Sydney.}
+    # """
+
+    # sparql = """
+    #         SELECT * WHERE{
+    #             ?film dbo:starring ?p.
+    #             ?p dbo:residence dbr:Province_of_New_York.}
+    # """
+
+    # sparql = """
+    #     select * where {
+    #         ?a dbo:draftTeam dbr:New_York_Knicks.
+    #         ?a dbo:birthPlace dbr:United_States.}
+    # """
+
+    # sparql = """
+    #     select * where {
+    #         ?a dbo:draftTeam dbr:New_York_Knicks.
+    #         ?a dbo:birthPlace dbr:Canada.
+    #     }
+    # """
+
+    sparql = """
         select * where {
             ?p dbo:industry dbr:Real_estate.
             ?p dbo:foundationPlace dbr:Washington_(state).}
     """
+
+    # sparql="""
+    #     select * where {
+    #         dbr:Castleton_Lyons dbo:keyPerson ?a.
+    #         ?a dbo:birthPlace dbr:United_Kingdom.}
+    # """
     qr = QR(sparql, root_folder, train_scope, test_scope, search_scope)
 
     only_train_rule = False

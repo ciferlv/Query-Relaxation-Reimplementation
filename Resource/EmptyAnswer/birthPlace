@@ -7,12 +7,14 @@ select * where {
 FILTER NOT EXISTS {?a dbo:birthPlace ?d}
 }
 
+1.
 select * where {
    ?a dbo:birthPlace <http://dbpedia.org/resource/United_States>.
    ?a dbo:award dbr:Fellow_of_the_Royal_Society_of_Canada.
 }
 answer: http://dbpedia.org/resource/Edith_Graef_McGeer
 
+2.
 select * where {
 ?a dbo:draftTeam dbr:New_York_Knicks.
 ?a dbo:birthPlace dbo:United_States.
@@ -20,18 +22,21 @@ select * where {
 将 dbo:United_States.换成 dbr:Chicago
 
 再试一下后面这个，可以将Canada换成Quebec，也是根据上一个规则得到的
+3.
 select * where {
 ?a dbo:draftTeam dbr:New_York_Knicks.
 ?a dbo:birthPlace dbr:Canada.
 }
 
+4.
 select * where {
-<http://dbpedia.org/resource/Castleton_Lyons> dbo:keyPerson ?a.
+dbr:Castleton_Lyons dbo:keyPerson ?a.
 ?a dbo:birthPlace dbr:United_Kingdom.
 }
 将dbr:United_Kindom换成dbr:London
 dbo:birthPlace->dbo:country
 
+5.
 select * where {
  dbr:Gift_of_the_Night_Fury dbo:starring ?p.
  ?p dbo:birthPlace  dbr:United_States.

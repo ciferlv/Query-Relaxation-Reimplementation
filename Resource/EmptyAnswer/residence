@@ -1,3 +1,4 @@
+1.
 SELECT * WHERE{
    ?film dbo:starring ?p.
    ?p dbo:residence dbr:Province_of_New_York.

@@ -1296,9 +1296,9 @@ if __name__ == "__main__":
     triple2idx_file = dbpedia_folder + dbpedia_scope + "\\triple2idx.txt"
     graph = Graph(e2idx_file, r2idx_file, triple2idx_file)
     graph.load_data()
-    graph.get_rules_4_relation("dbo:birthPlace")
+    # graph.get_rules_4_relation("dbo:birthPlace")
     # graph.get_rules_4_relation("dbo:regionServed")
-    # graph.get_rules_4_relation("dbo:location")
+    graph.get_rules_4_relation("dbo:location")
     # graph.get_rules_4_relation("dbo:residence")
     # graph.get_rules_4_relation("dbo:headquarter")
 

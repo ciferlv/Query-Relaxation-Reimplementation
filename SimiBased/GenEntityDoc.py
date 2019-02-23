@@ -425,6 +425,9 @@ class SimiGraph:
             for s_res in sorted_result_list:
                 f.write("{}\t{}\n".format(self.r_idx2name[s_res[0]], s_res[1]))
 
+    # def e_r_context_persist2mysql(self):
+    #
+
     def pre_process_data(self):
         self.load_triples()
         self.load_e_r_dict()

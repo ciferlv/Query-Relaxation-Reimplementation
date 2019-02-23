@@ -1,0 +1,90 @@
+Print cands.
+Candidates: 1/10.
+?a:[dbr:Ernie_Vandeweghe]
+dbr:Ernie_Vandeweghe	dbo:draftTeam	dbr:New_York_Knicks pra_conf: 1
+dbr:Ernie_Vandeweghe=>dbo:draftTeam=>dbr:New_York_Knicks
+
+dbr:Ernie_Vandeweghe	dbo:birthPlace	dbr:Canada pra_conf: 0.9837185740470886
+dbr:Ernie_Vandeweghe=>dbo:birthPlace=>dbr:Montreal=>inv_dbo:garrison=>dbr:The_Royal_Canadian_Hussars_(Montreal)=>dbo:country=>dbr:Canada
+dbr:Ernie_Vandeweghe=>dbo:birthPlace=>dbr:Montreal=>inv_dbo:garrison=>dbr:The_Canadian_Grenadier_Guards=>dbo:country=>dbr:Canada
+dbr:Ernie_Vandeweghe=>dbo:birthPlace=>dbr:Montreal=>inv_dbo:garrison=>dbr:The_Black_Watch_(Royal_Highland_Regiment)_of_Canada=>dbo:country=>dbr:Canada
+Candidates: 2/10.
+?a:[dbr:Eddie_Mast]
+dbr:Eddie_Mast	dbo:draftTeam	dbr:New_York_Knicks pra_conf: 1
+dbr:Eddie_Mast=>dbo:draftTeam=>dbr:New_York_Knicks
+
+dbr:Eddie_Mast	dbo:birthPlace	dbr:Canada pra_conf: 0.8275108933448792
+dbr:Eddie_Mast=>dbo:birthPlace=>dbr:Philadelphia=>inv_dbo:billed=>dbr:Ben_Bassarab=>dbo:birthPlace=>dbr:Canada
+dbr:Eddie_Mast=>dbo:birthPlace=>dbr:Pennsylvania=>inv_dbo:billed=>dbr:Ben_Bassarab=>dbo:birthPlace=>dbr:Canada
+dbr:Eddie_Mast=>dbo:birthPlace=>dbr:Philadelphia=>inv_dbo:headquarter=>dbr:Friends_General_Conference=>dbo:location=>dbr:Canada
+Candidates: 3/10.
+?a:[dbr:Bob_McNeill]
+dbr:Bob_McNeill	dbo:draftTeam	dbr:New_York_Knicks pra_conf: 1
+dbr:Bob_McNeill=>dbo:draftTeam=>dbr:New_York_Knicks
+
+dbr:Bob_McNeill	dbo:birthPlace	dbr:Canada pra_conf: 0.4286465048789978
+dbr:Bob_McNeill=>dbo:birthPlace=>dbr:Philadelphia=>inv_dbo:billed=>dbr:Ben_Bassarab=>dbo:birthPlace=>dbr:Canada
+dbr:Bob_McNeill=>dbo:birthPlace=>dbr:Philadelphia=>inv_dbo:headquarter=>dbr:Friends_General_Conference=>dbo:location=>dbr:Canada
+Candidates: 4/10.
+?a:[dbr:Dennis_Bell_(basketball)]
+dbr:Dennis_Bell_(basketball)	dbo:draftTeam	dbr:New_York_Knicks pra_conf: 1
+dbr:Dennis_Bell_(basketball)=>dbo:draftTeam=>dbr:New_York_Knicks
+
+dbr:Dennis_Bell_(basketball)	dbo:birthPlace	dbr:Canada pra_conf: 0.22855907678604126
+dbr:Dennis_Bell_(basketball)=>dbo:birthPlace=>dbr:Cincinnati=>inv_dbo:locationCity=>dbr:Roadtrippers=>dbo:regionServed=>dbr:Canada
+dbr:Dennis_Bell_(basketball)=>dbo:birthPlace=>dbr:Ohio=>inv_dbo:locationCity=>dbr:Roadtrippers=>dbo:regionServed=>dbr:Canada
+dbr:Dennis_Bell_(basketball)=>dbo:birthPlace=>dbr:Ohio=>inv_dbo:headquarter=>dbr:American_Classical_League=>dbo:location=>dbr:Canada
+Candidates: 5/10.
+?a:[dbr:Larry_Friend]
+dbr:Larry_Friend	dbo:draftTeam	dbr:New_York_Knicks pra_conf: 1
+dbr:Larry_Friend=>dbo:draftTeam=>dbr:New_York_Knicks
+
+dbr:Larry_Friend	dbo:birthPlace	dbr:Canada pra_conf: 0.08661086112260818
+dbr:Larry_Friend=>dbo:birthPlace=>dbr:Chicago=>inv_dbo:headquarter=>dbr:Big_Ten_Network=>dbo:broadcastArea=>dbr:Canada
+dbr:Larry_Friend=>dbo:birthPlace=>dbr:Illinois=>inv_dbo:headquarter=>dbr:Big_Ten_Network=>dbo:broadcastArea=>dbr:Canada
+dbr:Larry_Friend=>dbo:birthPlace=>dbr:Illinois=>inv_dbo:regionServed=>dbr:Richtree_Market=>dbo:locationCountry=>dbr:Canada
+Candidates: 6/10.
+?a:[dbr:Wayne_Molis]
+dbr:Wayne_Molis	dbo:draftTeam	dbr:New_York_Knicks pra_conf: 1
+dbr:Wayne_Molis=>dbo:draftTeam=>dbr:New_York_Knicks
+
+dbr:Wayne_Molis	dbo:birthPlace	dbr:Canada pra_conf: 0.08661086112260818
+dbr:Wayne_Molis=>dbo:birthPlace=>dbr:Chicago=>inv_dbo:headquarter=>dbr:Big_Ten_Network=>dbo:broadcastArea=>dbr:Canada
+dbr:Wayne_Molis=>dbo:birthPlace=>dbr:Illinois=>inv_dbo:headquarter=>dbr:Big_Ten_Network=>dbo:broadcastArea=>dbr:Canada
+dbr:Wayne_Molis=>dbo:birthPlace=>dbr:Illinois=>inv_dbo:regionServed=>dbr:Richtree_Market=>dbo:locationCountry=>dbr:Canada
+Candidates: 7/10.
+?a:[dbr:Gene_Littles]
+dbr:Gene_Littles	dbo:draftTeam	dbr:New_York_Knicks pra_conf: 1
+dbr:Gene_Littles=>dbo:draftTeam=>dbr:New_York_Knicks
+
+dbr:Gene_Littles	dbo:birthPlace	dbr:Canada pra_conf: 0.06938353925943375
+dbr:Gene_Littles=>dbo:birthPlace=>dbr:Washington,_D.C.=>inv_dbo:headquarter=>dbr:BET=>dbo:broadcastArea=>dbr:Canada
+dbr:Gene_Littles=>dbo:birthPlace=>dbr:Washington,_D.C.=>inv_dbo:headquarter=>dbr:Association_of_Research_Libraries=>dbo:location=>dbr:Canada
+dbr:Gene_Littles=>dbo:birthPlace=>dbr:Washington,_D.C.=>inv_dbo:headquarter=>dbr:Association_of_American_Universities=>dbo:location=>dbr:Canada
+Candidates: 8/10.
+?a:[dbr:Donald_Washington_(basketball)]
+dbr:Donald_Washington_(basketball)	dbo:draftTeam	dbr:New_York_Knicks pra_conf: 1
+dbr:Donald_Washington_(basketball)=>dbo:draftTeam=>dbr:New_York_Knicks
+
+dbr:Donald_Washington_(basketball)	dbo:birthPlace	dbr:Canada pra_conf: 0.06938353925943375
+dbr:Donald_Washington_(basketball)=>dbo:birthPlace=>dbr:Washington,_D.C.=>inv_dbo:headquarter=>dbr:BET=>dbo:broadcastArea=>dbr:Canada
+dbr:Donald_Washington_(basketball)=>dbo:birthPlace=>dbr:Washington,_D.C.=>inv_dbo:headquarter=>dbr:Association_of_Research_Libraries=>dbo:location=>dbr:Canada
+dbr:Donald_Washington_(basketball)=>dbo:birthPlace=>dbr:Washington,_D.C.=>inv_dbo:headquarter=>dbr:Association_of_American_Universities=>dbo:location=>dbr:Canada
+Candidates: 9/10.
+?a:[dbr:Michael_Sweetney]
+dbr:Michael_Sweetney	dbo:draftTeam	dbr:New_York_Knicks pra_conf: 1
+dbr:Michael_Sweetney=>dbo:draftTeam=>dbr:New_York_Knicks
+
+dbr:Michael_Sweetney	dbo:birthPlace	dbr:Canada pra_conf: 0.06938353925943375
+dbr:Michael_Sweetney=>dbo:birthPlace=>dbr:Washington,_D.C.=>inv_dbo:headquarter=>dbr:BET=>dbo:broadcastArea=>dbr:Canada
+dbr:Michael_Sweetney=>dbo:birthPlace=>dbr:Washington,_D.C.=>inv_dbo:headquarter=>dbr:Association_of_Research_Libraries=>dbo:location=>dbr:Canada
+dbr:Michael_Sweetney=>dbo:birthPlace=>dbr:Washington,_D.C.=>inv_dbo:headquarter=>dbr:Association_of_American_Universities=>dbo:location=>dbr:Canada
+Candidates: 10/10.
+?a:[dbr:Bob_Thornton]
+dbr:Bob_Thornton	dbo:draftTeam	dbr:New_York_Knicks pra_conf: 1
+dbr:Bob_Thornton=>dbo:draftTeam=>dbr:New_York_Knicks
+
+dbr:Bob_Thornton	dbo:birthPlace	dbr:Canada pra_conf: 0.05004173889756203
+dbr:Bob_Thornton=>dbo:birthPlace=>dbr:Los_Angeles=>inv_dbo:billed=>dbr:Melissa_Coates=>dbo:birthPlace=>dbr:Canada
+dbr:Bob_Thornton=>dbo:birthPlace=>dbr:Los_Angeles=>inv_dbo:locationCity=>dbr:Goldline_International=>dbo:regionServed=>dbr:Canada
+dbr:Bob_Thornton=>dbo:birthPlace=>dbr:Los_Angeles=>inv_dbo:locationCity=>dbr:ViSalus=>dbo:regionServed=>dbr:Canada
