@@ -1,7 +1,0 @@
-1.
-SELECT * WHERE{
-   ?film dbo:starring ?p.
-   ?p dbo:residence dbr:Province_of_New_York.
-}
-answer: 把province_of_new_York换成new_York_city
-

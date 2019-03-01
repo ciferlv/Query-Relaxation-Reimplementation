@@ -1298,9 +1298,14 @@ if __name__ == "__main__":
     graph.load_data()
     # graph.get_rules_4_relation("dbo:birthPlace")
     # graph.get_rules_4_relation("dbo:regionServed")
-    graph.get_rules_4_relation("dbo:location")
+    # graph.get_rules_4_relation("dbo:location")
+    # graph.get_rules_4_relation("dbo:owner")
+    # graph.get_rules_4_relation("dbo:founder")
+    # graph.get_rules_4_relation("dbo:foundationPlace")
     # graph.get_rules_4_relation("dbo:residence")
     # graph.get_rules_4_relation("dbo:headquarter")
+    graph.get_rules_4_relation("dbo:origin")
+    # graph.get_rules_4_relation("dbo:locationCountry")
 
     # util = Util()
     # source_folder = "./source/"

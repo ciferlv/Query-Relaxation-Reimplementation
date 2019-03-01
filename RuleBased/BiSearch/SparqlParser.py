@@ -11,6 +11,7 @@ class SparqlParser:
         self.sparql_BGP = []
         self.var2entity = {}
         self.r_name_list = []
+        self.e_name_list = []
         '''[var1,var2,var3], sorted by alphabet order'''
         self.var_list = []
         '''
@@ -49,6 +50,10 @@ class SparqlParser:
         for BGP in body.split("\n"):
             BGP = BGP.strip().strip(".")
             head, relation, tail = BGP.split()
+            if not head.startswith("?"):
+                self.e_name_list.append(head)
+            if not tail.startswith("?"):
+                self.e_name_list.append(tail)
             self.sparql_BGP.append([head, relation, tail])
             self.r_name_list.append(relation)
             if head.startswith('?') and tail.startswith("?"):

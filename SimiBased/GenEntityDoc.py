@@ -3,6 +3,8 @@ import numpy as np
 import scipy
 import os
 
+from Empty_Answer_Query import eaqs
+from RuleBased.BiSearch.SparqlParser import SparqlParser
 from SimiBased.SimiBasedParams import js_key_differ_num_threshold, alpha, js_top_k, num_threshold_after_merging, miu_o, \
     miu_s
 
@@ -425,16 +427,13 @@ class SimiGraph:
             for s_res in sorted_result_list:
                 f.write("{}\t{}\n".format(self.r_idx2name[s_res[0]], s_res[1]))
 
-    # def e_r_context_persist2mysql(self):
-    #
-
     def pre_process_data(self):
         self.load_triples()
         self.load_e_r_dict()
         self.getLM()
 
 
-def main():
+def search_manual():
     file_path_dict = {}
     with open("./file_path_store.txt", 'r', encoding="UTF-8") as f:
         for line in f.readlines():
@@ -461,12 +460,65 @@ def main():
         elif mode == "e":
             my_input = input("Please input entity: ")
             result_file = result_folder + my_input.split(":")[-1] + ".txt"
+            if os.path.exists(result_file):
+                print("{} already exists.".format(result_file))
+                continue
             simiGraph.get_top_K_simi_entity(my_input, result_file)
         elif mode == "r":
             my_input = input("Please input relation: ")
             result_file = result_folder + my_input.split(":")[-1] + ".txt"
+            if os.path.exists(result_file):
+                print("{} already exists.".format(result_file))
+                continue
             simiGraph.get_top_K_simi_relation(my_input, result_file)
 
 
+def search_bunch():
+    file_path_dict = {}
+    with open("./file_path_store.txt", 'r', encoding="UTF-8") as f:
+        for line in f.readlines():
+            key_name, file_path = line.split()
+            file_path_dict[key_name] = file_path
+
+    folder = file_path_dict["folder"]
+    e2idx_shortcut_file = folder + file_path_dict["e2idx_shortcut_file"]
+    # add inverse relation
+    r2idx_shortcut_file = folder + file_path_dict["r2idx_shortcut_file"]
+    triple2idx_file = folder + file_path_dict["triple2idx_file"]
+
+    result_folder = file_path_dict["result_folder"]
+    if not os.path.exists(result_folder):
+        os.mkdir(result_folder)
+
+    simiGraph = SimiGraph(triple2idx_file, e2idx_shortcut_file, r2idx_shortcut_file)
+    simiGraph.pre_process_data()
+
+    entity_list = []
+    relation_list = []
+
+    for query in eaqs:
+        a = SparqlParser(sparql=query)
+        a.parse_sparql()
+        entity_list.extend(a.e_name_list)
+        relation_list.extend(a.r_name_list)
+
+    for e_name in list(set(entity_list)):
+        print("Get similar entities of E: {}.".format(e_name))
+        result_file = result_folder + e_name.split(":")[-1] + ".txt"
+        if os.path.exists(result_file):
+            print("{} already exists.".format(result_file))
+            continue
+        simiGraph.get_top_K_simi_entity(e_name, result_file)
+
+    for r_name in list(set(relation_list)):
+        print("Get similar relations of R: {}.".format(r_name))
+        result_file = result_folder + r_name.split(":")[-1] + ".txt"
+        if os.path.exists(result_file):
+            print("{} already exists.".format(result_file))
+            continue
+        simiGraph.get_top_K_simi_relation(r_name, result_file)
+
+
 if __name__ == "__main__":
-    main()
+    # search_manual()
+    search_bunch()

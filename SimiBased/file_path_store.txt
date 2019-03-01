@@ -1,4 +1,4 @@
-folder  F:\\Data\\dbpedia\\Japan\\
+folder  F:\\Data\\dbpedia\\All\\
 e2idx_shortcut_file e2idx_shortcut.txt
 r2idx_shortcut_file r2idx_shortcut.txt
 triple2idx_file triple2idx.txt

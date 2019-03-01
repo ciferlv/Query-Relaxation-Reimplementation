@@ -197,7 +197,7 @@ if __name__ == "__main__":
     #      ?company dbo:headquarter dbr:Asia.}
     #     """
 
-    #select * where {
+    # select * where {
     # ?p dbo:regionServed <http://dbpedia.org/resource/Lincoln,_Nebraska>. 某个地方的首都，regionServed这个国家，就会regionServe首都
     # ?p dbo:headquarter dbr:United_States}
 
@@ -300,17 +300,52 @@ if __name__ == "__main__":
     #     }
     # """
 
-    sparql = """
-        select * where {
-            ?p dbo:industry dbr:Real_estate.
-            ?p dbo:foundationPlace dbr:Washington_(state).}
-    """
+    # sparql = """
+    #     select * where {
+    #         ?p dbo:industry dbr:Real_estate.
+    #         ?p dbo:foundationPlace dbr:Washington_(state).}
+    # """
 
     # sparql="""
     #     select * where {
     #         dbr:Castleton_Lyons dbo:keyPerson ?a.
     #         ?a dbo:birthPlace dbr:United_Kingdom.}
     # """
+
+    # sparql = """
+    # select * where {
+    #     ?p dbo:product dbr:Automobile.
+    #     ?p dbo:foundationPlace dbr:England.}
+    # """
+
+    # sparql = """
+    # select * where {
+    #     ?p dbo:locationCity dbr:Sheffield.
+    #     ?p dbo:foundationPlace dbr:United_States.}
+    # """
+
+    # sparql = """
+    #     select * where {
+    #         ?p dbo:owner dbr:Jim_Pattison_Group.
+    #         ?p dbo:foundationPlace dbr:Canada.}"""
+
+    # sparql = """
+    # SELECT ?uri WHERE {?uri dbo:founder dbr:John_Forbes_(British_Army_officer).}
+    # """
+
+    # sparql = """
+    # SELECT * WHERE { dbr:Henry_Cluney dbo:origin ?uri }
+    # """
+
+    # sparql = """
+    # SELECT * WHERE { dbr:Carmel_Winery dbo:locationCountry ?uri }
+    # """
+
+    sparql = """
+    SELECT * WHERE {dbr:Lula_J._Davis dbo:residence ?uri. 
+    dbr:John_McTaggart_(jockey) dbo:deathPlace ?uri}
+    """
+
     qr = QR(sparql, root_folder, train_scope, test_scope, search_scope)
 
     only_train_rule = False
