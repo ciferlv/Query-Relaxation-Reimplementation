@@ -51,12 +51,24 @@ class LogisticRegression(nn.Module):
                 self.logger.info("Epoch:{} Loss:{}".format(
                     epoch_i, loss_running))
 
-    def test(self, x, y):
+    def test_precision(self, x, y):
         output = self.forward(torch.Tensor(x))
         output_label = (output.squeeze(-1).detach().numpy() > 0.5) * 1
         precision = np.sum((output_label == np.array(y)) * 1) / len(x)
-        # self.logger.info("Precision: {}".format(precision))
         return precision
+
+    def test_map(self, x, y):
+        output = self.forward(torch.Tensor(x))
+        output = output.squeeze(-1).detach().numpy()
+        test = list(zip(output, y))
+        test.sort(key=lambda p: p[0])
+        MAP_metric = 0.0
+        posi_num = 0
+        for idx, a_pair in enumerate(test):
+            if a_pair[1] == 1:
+                posi_num += 1
+                MAP_metric += (1.0 * posi_num) / (idx + 1)
+        return MAP_metric / posi_num
 
     def get_output_prob(self, x):
         output = self.forward(torch.Tensor(x))

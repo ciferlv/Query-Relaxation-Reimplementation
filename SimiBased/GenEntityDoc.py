@@ -299,7 +299,7 @@ class SimiGraph:
         key_differ_num = abs(len(p_dict.keys()) - len(q_dict.keys()))
         if key_differ_num >= js_key_differ_num_threshold:
             print("p: {}, q: {}, differ {}.".format(len(p_dict.keys()), len(q_dict.keys()), key_differ_num))
-            return 1
+            # return 1
 
         merged_key_set = p_dict.keys() | q_dict.keys()
         p_key_differ_num = abs(len(p_dict.keys()) - len(merged_key_set))
@@ -307,7 +307,7 @@ class SimiGraph:
         if p_key_differ_num > num_threshold_after_merging or q_key_differ_num > num_threshold_after_merging:
             print("p: {}, q: {}, megerd: {}.".format(len(p_dict.keys()), len(q_dict.keys()), len(merged_key_set)))
             print("p differ: {}, q differ {}.".format(p_key_differ_num, q_key_differ_num))
-            return 1
+            # return 1
 
         def add_one_prob(tar_key, prob_dict, tar_prob_list):
             if tar_key in prob_dict:
@@ -502,6 +502,14 @@ def search_bunch():
         entity_list.extend(a.e_name_list)
         relation_list.extend(a.r_name_list)
 
+    for r_name in list(set(relation_list)):
+        print("Get similar relations of R: {}.".format(r_name))
+        result_file = result_folder + r_name.split(":")[-1] + ".txt"
+        if os.path.exists(result_file):
+            print("{} already exists.".format(result_file))
+            continue
+        simiGraph.get_top_K_simi_relation(r_name, result_file)
+
     for e_name in list(set(entity_list)):
         print("Get similar entities of E: {}.".format(e_name))
         result_file = result_folder + e_name.split(":")[-1] + ".txt"
@@ -510,13 +518,7 @@ def search_bunch():
             continue
         simiGraph.get_top_K_simi_entity(e_name, result_file)
 
-    for r_name in list(set(relation_list)):
-        print("Get similar relations of R: {}.".format(r_name))
-        result_file = result_folder + r_name.split(":")[-1] + ".txt"
-        if os.path.exists(result_file):
-            print("{} already exists.".format(result_file))
-            continue
-        simiGraph.get_top_K_simi_relation(r_name, result_file)
+
 
 
 if __name__ == "__main__":

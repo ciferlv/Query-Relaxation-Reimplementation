@@ -90,24 +90,24 @@ class QR:
         r2idx_file = self.test_root + "r2idx_shortcut.txt"
         triple2idx_file = self.test_root + "triple2idx.txt"
 
-        test_file_folder = self.test_root + "test_model\\"
-        if not os.path.isdir(test_file_folder):
-            os.makedirs(test_file_folder)
-
         graph = Graph(e2idx_file, r2idx_file, triple2idx_file)
         graph.load_data()
 
         print("Start Testing Rules.")
         for idx, r_idx in enumerate(self.r_idx_list):
-            metric_record_file = test_file_folder + graph.get_localname(
-                graph.get_r_name_by_r_idx(r_idx)) + "_metric.txt"
+            metric_record_folder = self.test_root + "test_model" + file_path_seg + graph.get_localname(
+                graph.get_r_name_by_r_idx(r_idx)) + file_path_seg
+            if not os.path.isdir(metric_record_folder):
+                os.makedirs(metric_record_folder)
+            metric_record_file = metric_record_folder + "metric.txt"
+
             with open(metric_record_file, 'w', encoding="UTF-8") as f:
                 f.write("Use Model trained from {}.\n".format(
                     self.train_scope))
             print("Going to train R:{}".format(graph.idx2r[r_idx]))
             model = self.r_model_dict[r_idx]
             rule_list = graph.get_rule4train_from_mysql(r_idx)
-            graph.test_model(r_idx, model, rule_list, metric_record_file)
+            graph.test_model(r_idx, model, rule_list, metric_record_folder, metric_record_file)
 
     def gen_rules_dict(self, graph):
         print("Start collect top rules by Precision.")
@@ -165,190 +165,13 @@ if __name__ == "__main__":
     search_scope = "All"
     # search_scope = "United_States"
 
-    # sparql = """
-    #     SELECT ?film WHERE{
-    #         ?film dbo:director ?p.
-    #         ?film dbo:starring ?p.
-    #         ?p dbo:birthPlace dbr:North_America.
-    #     }
-    #     """
-
-    # sparql = """
-    #     SELECT ?film WHERE{
-    #         ?film dbo:starring ?p.
-    #         ?p dbo:birthPlace dbr:Asia.
-    #     }
-    #     """
-    #
-    # sparql = """
-    #         SELECT ?film WHERE{
-    #             ?film dbo:starring ?p.
-    #             ?p dbo:birthPlace dbr:Asia.
-    #         }
-    #         """
-
-    # sparql = """
-    #     SELECT * WHERE{
-    #      dbr:Isaac_Newton dbo:doctoralAdvisor ?p.}
-    #     """
-
-    # sparql = """
-    #     SELECT * WHERE{
-    #      ?company dbo:headquarter dbr:Asia.}
-    #     """
-
-    # select * where {
-    # ?p dbo:regionServed <http://dbpedia.org/resource/Lincoln,_Nebraska>. 某个地方的首都，regionServed这个国家，就会regionServe首都
-    # ?p dbo:headquarter dbr:United_States}
-
-    # sparql = """
-    # select * where {
-    #     ?p dbo:headquarter dbr:United_States.
-    #     ?p dbo:location dbr:Western_Maryland.
-    # }"""
-
-    # sparql = """
-    # select * where {
-    # ?p dbo: starring ?o.
-    # ?p dbo: location dbr: Province_of_New_York.
-    # }"""
-
-    # sparql = """
-    # select * where {
-    #         ?p dbo:regionServed dbr:Asia.
-    #         ?p dbo:location dbr:Italy}
-    # """
-
-    # sparql = """
-    #     SELECT * WHERE{
-    #      ?p dbo:residence dbr:Aisa.}
-    #     """
-
-    # sparql = """
-    #         SELECT * WHERE{
-    #          dbr:Albert_Einstein dbo:doctoralAdvisor ?p.}
-    #         """
-
-    # sparql = """
-    #     select * where {
-    #         ?p dbo:regionServed dbr:Norway.
-    #         ?p dbo:industry dbr:Bus_transport}
-    # """
-
-    # sparql = """
-    #     select * where {
-    #         dbr:Gift_of_the_Night_Fury dbo:starring ?p.
-    #         ?p dbo:birthPlace  dbr:United_States.}
-    # """
-
-    # sparql = """
-    #     select * where {
-    #         ?p dbo:starring ?o.
-    #         ?p dbo:location dbr:Province_of_New_York.}
-    # """
-
-    # sparql =  """
-    #     select * where {
-    #         ?p dbo:industry dbr:Real_estate.
-    #         ?p dbo:foundationPlace dbr:Washington_(state).}
-    # """
-
-    # sparql = """
-    #         select * where {
-    #             ?p dbo:foundationPlace dbr:Washington_(state).}
-    #     """
-
-    # sparql = """
-    #     select * where {
-    #         ?a dbo:birthPlace dbr:United_States.
-    #         ?a dbo:award dbr:Fellow_of_the_Royal_Society_of_Canada.}
-    # """
-    # sparql = """
-    #         select * where {
-    #             ?p dbo:regionServed  dbr:Texas.
-    #             ?p dbo:owner  dbr:Google.}
-    # """
-
-    # sparql  =  """
-    #         select * where {
-    #             ?p dbo:regionServed  dbr:South_Australia.
-    #             ?p dbo:product  dbr:DVD.}
-    # """
-
-    # sparql = """
-    #     select * where {
-    #         ?p dbo:regionServed  dbr:South_Australia.
-    #         ?p dbo:locationCity  dbr:Sydney.}
-    # """
-
-    # sparql = """
-    #         SELECT * WHERE{
-    #             ?film dbo:starring ?p.
-    #             ?p dbo:residence dbr:Province_of_New_York.}
-    # """
-
-    # sparql = """
-    #     select * where {
-    #         ?a dbo:draftTeam dbr:New_York_Knicks.
-    #         ?a dbo:birthPlace dbr:United_States.}
-    # """
-
-    # sparql = """
-    #     select * where {
-    #         ?a dbo:draftTeam dbr:New_York_Knicks.
-    #         ?a dbo:birthPlace dbr:Canada.
-    #     }
-    # """
-
-    # sparql = """
-    #     select * where {
-    #         ?p dbo:industry dbr:Real_estate.
-    #         ?p dbo:foundationPlace dbr:Washington_(state).}
-    # """
-
-    # sparql="""
-    #     select * where {
-    #         dbr:Castleton_Lyons dbo:keyPerson ?a.
-    #         ?a dbo:birthPlace dbr:United_Kingdom.}
-    # """
-
-    # sparql = """
-    # select * where {
-    #     ?p dbo:product dbr:Automobile.
-    #     ?p dbo:foundationPlace dbr:England.}
-    # """
-
-    # sparql = """
-    # select * where {
-    #     ?p dbo:locationCity dbr:Sheffield.
-    #     ?p dbo:foundationPlace dbr:United_States.}
-    # """
-
-    # sparql = """
-    #     select * where {
-    #         ?p dbo:owner dbr:Jim_Pattison_Group.
-    #         ?p dbo:foundationPlace dbr:Canada.}"""
-
-    # sparql = """
-    # SELECT ?uri WHERE {?uri dbo:founder dbr:John_Forbes_(British_Army_officer).}
-    # """
-
-    # sparql = """
-    # SELECT * WHERE { dbr:Henry_Cluney dbo:origin ?uri }
-    # """
-
-    # sparql = """
-    # SELECT * WHERE { dbr:Carmel_Winery dbo:locationCountry ?uri }
-    # """
-
     sparql = """
-    SELECT * WHERE {dbr:Lula_J._Davis dbo:residence ?uri. 
-    dbr:John_McTaggart_(jockey) dbo:deathPlace ?uri}
-    """
+        SELECT * WHERE { dbr:Carmel_Winery dbo:birthPlace ?uri }
+        """
 
     qr = QR(sparql, root_folder, train_scope, test_scope, search_scope)
 
-    only_train_rule = False
+    only_train_rule = True
     if only_train_rule:
         qr.train_rules()
         qr.test_rules()

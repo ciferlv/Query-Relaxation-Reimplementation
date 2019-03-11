@@ -1,20 +1,30 @@
 import mysql.connector
+import sys
 
 rule_seg = ":"  # break up the rule, birthPlace <= birthPlace:location
 ht_conn = ","  # connect h and t, [Microsoft,Seattle] ==> "Microsoft,Seattle"
 ht_seg = ";"  # break up between different hts, [[Micorsoft,Seattle],[Apple,LA]] ==> "Microsoft,Seattel;Apple,LA"
 
+file_path_seg = "\\"
 mydb = mysql.connector.connect(
     host='localhost',
-    user="root",
-    password="3721",
+    user="xzlyu",
+    password="123456",
     auth_plugin="mysql_native_password",
     database="kg")
 
-file_path_seg = "\\"
+if sys.platform.startswith("linux"):
+    file_path_seg = "/"
+    mydb = mysql.connector.connect(
+        host='114.212.86.67',
+        user="xzlyu",
+        password="123456",
+        auth_plugin="mysql_native_password",
+        database="kg")
 
 # database = ' fb15k '
 database = 'dbpedia_ontology'
+
 '''
 For a relation, we sample its ht to search the path which can conclude to it,
 this parameter is the number of ht sampled.
@@ -108,6 +118,5 @@ sort_candidate_criterion = 'pra'
 Set the numbers to display of candidates
 '''
 numbers_to_display_of_cands = 10
-
 
 dbpedia_folder = "F:\\Data\\dbpedia\\"

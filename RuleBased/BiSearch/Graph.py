@@ -25,6 +25,14 @@ class Graph:
         self.r2idx = {}
         self.idx2r = {}
         self.node_dict = {}
+
+        """
+        {
+            r_idx:[[h,t],...,[h,t]],
+            r_idx:[[h,t],...,[h,t]],
+            ...
+        }
+        """
         self.r2ht = {}
 
     def load_data(self):
@@ -136,7 +144,7 @@ class Graph:
     index of tail entity
     step: int
     the max length between head and tail.
-    for example, when step = 3, we get path whose length is 1,2 and 3
+    for example, when step = 3, we get path whose length is 1, 2 and 3
     
     Returns:
     -----------
@@ -303,8 +311,8 @@ class Graph:
     Returns:
     -----------
     out: list, list
-    first list is the path of r, [r_idx,r_idx,r_idx,...]
-    second list is the path of e and r, [-1,e_idx,r_idx,e_idx,r_iex,...,-1]
+    first list is the path of r, [[r_idx,r_idx,r_idx,...],...,[r_idx,r_idx,r_idx,...]]
+    second list is the path of e and r, [[-1,e_idx,r_idx,e_idx,r_iex,...,-1],...,[-1,e_idx,r_idx,e_idx,r_iex,...,-1]]
     """
 
     def search_path(self, r_idx, max_step):
@@ -741,32 +749,60 @@ class Graph:
     A list of rule obejct, sorted by precision descendingly.
     '''
 
-    def test_model(self, tar_r_idx, model, rule_list, record_file):
+    def test_model(self, tar_r_idx, model, rule_list, test_file_folder, record_file):
         print("Test model of Relation: {}.".format(self.idx2r[tar_r_idx]))
+        posi_ht_file = test_file_folder + "posi_ht.txt"
+        nege_ht_file = test_file_folder + "nege_ht.txt"
 
-        posi_ht_list = self.r2ht[tar_r_idx]
-        nege_ht_list = []
-        for r_idx in self.r2ht:
-            if r_idx != tar_r_idx:
-                nege_ht_list.extend(
-                    self.sample_from_list(self.r2ht[r_idx], 10))
+        if not os.path.exists(posi_ht_file) or not os.path.exists(nege_ht_file):
+            posi_ht_list = self.r2ht[tar_r_idx]
+            nege_ht_list = []
+            for r_idx in self.r2ht:
+                if r_idx != tar_r_idx:
+                    nege_ht_list.extend(
+                        self.sample_from_list(self.r2ht[r_idx], 10))
 
-        if restrain_num_of_posis_neges and len(posi_ht_list) > restrain_num:
-            posi_ht_list = random.sample(posi_ht_list, restrain_num)
-            print("Restrain posi num from {} to {}.".format(
-                len(posi_ht_list), restrain_num))
+            if restrain_num_of_posis_neges and len(posi_ht_list) > restrain_num:
+                posi_ht_list = random.sample(posi_ht_list, restrain_num)
+                print("Restrain posi num from {} to {}.".format(
+                    len(posi_ht_list), restrain_num))
 
-        if restrain_num_of_posis_neges and len(nege_ht_list) > restrain_num:
-            nege_ht_list = random.sample(nege_ht_list, restrain_num)
-            print("Restrain posi num from {} to {}.".format(
-                len(nege_ht_list), restrain_num))
+            if restrain_num_of_posis_neges and len(nege_ht_list) > restrain_num:
+                nege_ht_list = random.sample(nege_ht_list, restrain_num)
+                print("Restrain posi num from {} to {}.".format(
+                    len(nege_ht_list), restrain_num))
 
-        test_num = min(len(posi_ht_list), len(nege_ht_list))
-        posi_ht_list = random.sample(posi_ht_list, test_num)
-        nege_ht_list = random.sample(nege_ht_list, test_num)
-        print(
-            "Restrain num of posi/nege to {}. This is the minum length of posi_ht_list and nege_ht_list."
-                .format(test_num))
+            test_num = min(len(posi_ht_list), len(nege_ht_list))
+            posi_ht_list = random.sample(posi_ht_list, test_num)
+            nege_ht_list = random.sample(nege_ht_list, test_num)
+
+            print("Wring posi_ht and nege_ht to file.")
+            with open(posi_ht_file, "w", encoding="UTF-8") as f:
+                f.write("{}\n".format(test_num))
+                for ht in posi_ht_list:
+                    f.write("{}\t{}\n".format(ht[0], ht[1]))
+
+            with open(nege_ht_file, "w", encoding="UTF-8") as f:
+                f.write("{}\n".format(test_num))
+                for ht in nege_ht_list:
+                    f.write("{}\t{}\n".format(ht[0], ht[1]))
+
+            print(
+                "Restrain num of posi/nege to {}. This is the minum length of posi_ht_list and nege_ht_list."
+                    .format(test_num))
+        else:
+            posi_ht_list = []
+            nege_ht_list = []
+            with open(posi_ht_file, 'r', encoding="UTF-8") as f:
+                for idx, line in enumerate(f.readlines()):
+                    if idx == 0:
+                        continue
+                    posi_ht_list.append([int(num) for num in line.split()])
+            with open(nege_ht_file, 'r', encoding="UTF-8") as f:
+                for idx, line in enumerate(f.readlines()):
+                    if idx == 0:
+                        continue
+                    nege_ht_list.append([int(num) for num in line.split()])
 
         print("Start getting features for positives.")
         test_x = self.get_features(rule_list, posi_ht_list)
@@ -776,10 +812,14 @@ class Graph:
         test_x.extend(self.get_features(rule_list, nege_ht_list))
         test_y.extend(list(np.zeros(len(nege_ht_list))))
 
-        precision = model.test(test_x, test_y)
+        precision = model.test_precision(test_x, test_y)
         print("Prec: {}".format(precision))
-        with open(record_file, 'w', encoding="UTF-8") as f:
+
+        map_metric = model.test_map(test_x, test_y)
+        print("MAP: {}".format(map_metric))
+        with open(record_file, "a+", encoding="UTF-8") as f:
             f.write("Prec.: {}\n".format(precision))
+            f.write("MAP: {}\n".format(map_metric))
 
     '''
     Sample from a list, if sampled num is larger than the size of the list,

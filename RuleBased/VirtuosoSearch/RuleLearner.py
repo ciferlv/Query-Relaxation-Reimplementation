@@ -321,8 +321,8 @@ class RuleLearner:
         test_x = np.append(test_x_posi, test_x_nege, axis=0)
         test_y = np.append(test_y_posi, test_y_nege)
 
-        lg.test(train_x, train_y)
-        lg.test(test_x, test_y)
+        lg.test_precision(train_x, train_y)
+        lg.test_precision(test_x, test_y)
 
     def load_rule_sorted_by_recall(self):
         if len(self.filtered_rule_sorted_by_recall_list) != 0: return
