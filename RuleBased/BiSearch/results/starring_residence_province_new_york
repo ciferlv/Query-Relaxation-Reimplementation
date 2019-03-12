@@ -8,6 +8,7 @@ dbr:Tommy_Dreamer	dbo:residence	dbr:Province_of_New_York pra_conf: 0.97232425212
 dbr:Tommy_Dreamer=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Tommy_Dreamer=>dbo:residence=>dbr:New_York_City=>inv_rdfs:seeAlso=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Tommy_Dreamer=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 2/10.
 ?film:[dbr:The_Cheetah_Girls_2]	?p:[dbr:Raven-Symoné]
 dbr:The_Cheetah_Girls_2	dbo:starring	dbr:Raven-Symoné pra_conf: 1
@@ -17,6 +18,7 @@ dbr:Raven-Symoné	dbo:residence	dbr:Province_of_New_York pra_conf: 0.91438335180
 dbr:Raven-Symoné=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Raven-Symoné=>dbo:residence=>dbr:New_York_City=>inv_rdfs:seeAlso=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Raven-Symoné=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 3/10.
 ?film:[dbr:Little_Fish,_Strange_Pond]	?p:[dbr:Matthew_Modine]
 dbr:Little_Fish,_Strange_Pond	dbo:starring	dbr:Matthew_Modine pra_conf: 1
@@ -26,6 +28,7 @@ dbr:Matthew_Modine	dbo:residence	dbr:Province_of_New_York pra_conf: 0.9143833518
 dbr:Matthew_Modine=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Matthew_Modine=>dbo:residence=>dbr:New_York_City=>inv_rdfs:seeAlso=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Matthew_Modine=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 4/10.
 ?film:[dbr:You_Can_Count_On_Me]	?p:[dbr:Mark_Ruffalo]
 dbr:You_Can_Count_On_Me	dbo:starring	dbr:Mark_Ruffalo pra_conf: 1
@@ -35,6 +38,7 @@ dbr:Mark_Ruffalo	dbo:residence	dbr:Province_of_New_York pra_conf: 0.914383351802
 dbr:Mark_Ruffalo=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Mark_Ruffalo=>dbo:residence=>dbr:New_York_City=>inv_rdfs:seeAlso=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Mark_Ruffalo=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 5/10.
 ?film:[dbr:Vanya_on_42nd_Street]	?p:[dbr:Julianne_Moore]
 dbr:Vanya_on_42nd_Street	dbo:starring	dbr:Julianne_Moore pra_conf: 1
@@ -44,6 +48,7 @@ dbr:Julianne_Moore	dbo:residence	dbr:Province_of_New_York pra_conf: 0.9143833518
 dbr:Julianne_Moore=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Julianne_Moore=>dbo:residence=>dbr:New_York_City=>inv_rdfs:seeAlso=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Julianne_Moore=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 6/10.
 ?film:[dbr:Apple_Pie_(TV_series)]	?p:[dbr:Jack_Gilford]
 dbr:Apple_Pie_(TV_series)	dbo:starring	dbr:Jack_Gilford pra_conf: 1
@@ -53,6 +58,7 @@ dbr:Jack_Gilford	dbo:residence	dbr:Province_of_New_York pra_conf: 0.914383351802
 dbr:Jack_Gilford=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Jack_Gilford=>dbo:residence=>dbr:New_York_City=>inv_rdfs:seeAlso=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Jack_Gilford=>dbo:residence=>dbr:Greenwich_Village=>dbo:isPartOf=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 7/10.
 ?film:[dbr:Recess:_School's_Out]	?p:[dbr:Pamela_Adlon]
 dbr:Recess:_School's_Out	dbo:starring	dbr:Pamela_Adlon pra_conf: 1
@@ -62,6 +68,7 @@ dbr:Pamela_Adlon	dbo:residence	dbr:Province_of_New_York pra_conf: 0.914383351802
 dbr:Pamela_Adlon=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Pamela_Adlon=>dbo:residence=>dbr:New_York_City=>inv_rdfs:seeAlso=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Pamela_Adlon=>dbo:residence=>dbr:Manhattan=>dbo:isPartOf=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 8/10.
 ?film:[dbr:Marie_and_Bruce]	?p:[dbr:Julianne_Moore]
 dbr:Marie_and_Bruce	dbo:starring	dbr:Julianne_Moore pra_conf: 1
@@ -71,6 +78,7 @@ dbr:Julianne_Moore	dbo:residence	dbr:Province_of_New_York pra_conf: 0.9143833518
 dbr:Julianne_Moore=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Julianne_Moore=>dbo:residence=>dbr:New_York_City=>inv_rdfs:seeAlso=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Julianne_Moore=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 9/10.
 ?film:[dbr:Margaret_(2011_film)]	?p:[dbr:Mark_Ruffalo]
 dbr:Margaret_(2011_film)	dbo:starring	dbr:Mark_Ruffalo pra_conf: 1
@@ -80,6 +88,7 @@ dbr:Mark_Ruffalo	dbo:residence	dbr:Province_of_New_York pra_conf: 0.914383351802
 dbr:Mark_Ruffalo=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Mark_Ruffalo=>dbo:residence=>dbr:New_York_City=>inv_rdfs:seeAlso=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:Mark_Ruffalo=>dbo:residence=>dbr:New_York_City=>dbo:isPartOf=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 10/10.
 ?film:[dbr:Huff_(TV_series)]	?p:[dbr:Oliver_Platt]
 dbr:Huff_(TV_series)	dbo:starring	dbr:Oliver_Platt pra_conf: 1

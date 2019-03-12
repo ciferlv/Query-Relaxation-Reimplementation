@@ -1,11 +1,18 @@
 import mysql.connector
 
+# mydb = mysql.connector.connect(
+#     host='localhost',
+#     user="root",
+#     password="3721",
+#     auth_plugin="mysql_native_password",
+#     database="kg")
+
 mydb = mysql.connector.connect(
-    host='localhost',
-    user="root",
-    password="3721",
-    auth_plugin="mysql_native_password",
-    database="kg")
+        host='114.212.86.67',
+        user="xzlyu",
+        password="123456",
+        auth_plugin="mysql_native_password",
+        database="kg")
 
 """
 Unigram ration

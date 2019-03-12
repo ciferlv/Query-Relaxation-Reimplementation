@@ -7,6 +7,7 @@ dbr:The_Affair_(TV_series)	dbo:location	dbr:Province_of_New_York pra_conf: 0.696
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>dbo:largestCity=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:Westchester_County,_New_York=>rdfs:seeAlso=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 2/10.
 ?o:[dbr:Josh_Stamberg]	?p:[dbr:The_Affair_(TV_series)]
 dbr:The_Affair_(TV_series)	dbo:starring	dbr:Josh_Stamberg pra_conf: 1
@@ -16,6 +17,7 @@ dbr:The_Affair_(TV_series)	dbo:location	dbr:Province_of_New_York pra_conf: 0.696
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>dbo:largestCity=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:Westchester_County,_New_York=>rdfs:seeAlso=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 3/10.
 ?o:[dbr:Julia_Goldani_Telles]	?p:[dbr:The_Affair_(TV_series)]
 dbr:The_Affair_(TV_series)	dbo:starring	dbr:Julia_Goldani_Telles pra_conf: 1
@@ -25,6 +27,7 @@ dbr:The_Affair_(TV_series)	dbo:location	dbr:Province_of_New_York pra_conf: 0.696
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>dbo:largestCity=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:Westchester_County,_New_York=>rdfs:seeAlso=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 4/10.
 ?o:[dbr:Dominic_West]	?p:[dbr:The_Affair_(TV_series)]
 dbr:The_Affair_(TV_series)	dbo:starring	dbr:Dominic_West pra_conf: 1
@@ -34,6 +37,7 @@ dbr:The_Affair_(TV_series)	dbo:location	dbr:Province_of_New_York pra_conf: 0.696
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>dbo:largestCity=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:Westchester_County,_New_York=>rdfs:seeAlso=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 5/10.
 ?o:[dbr:Jake_Siciliano]	?p:[dbr:The_Affair_(TV_series)]
 dbr:The_Affair_(TV_series)	dbo:starring	dbr:Jake_Siciliano pra_conf: 1
@@ -43,6 +47,7 @@ dbr:The_Affair_(TV_series)	dbo:location	dbr:Province_of_New_York pra_conf: 0.696
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>dbo:largestCity=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:Westchester_County,_New_York=>rdfs:seeAlso=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 6/10.
 ?o:[dbr:Joshua_Jackson]	?p:[dbr:The_Affair_(TV_series)]
 dbr:The_Affair_(TV_series)	dbo:starring	dbr:Joshua_Jackson pra_conf: 1
@@ -52,6 +57,7 @@ dbr:The_Affair_(TV_series)	dbo:location	dbr:Province_of_New_York pra_conf: 0.696
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>dbo:largestCity=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:Westchester_County,_New_York=>rdfs:seeAlso=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 7/10.
 ?o:[dbr:Ruth_Wilson]	?p:[dbr:The_Affair_(TV_series)]
 dbr:The_Affair_(TV_series)	dbo:starring	dbr:Ruth_Wilson pra_conf: 1
@@ -61,6 +67,7 @@ dbr:The_Affair_(TV_series)	dbo:location	dbr:Province_of_New_York pra_conf: 0.696
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>dbo:largestCity=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:Westchester_County,_New_York=>rdfs:seeAlso=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 8/10.
 ?o:[dbr:Campbell_Scott]	?p:[dbr:The_Affair_(TV_series)]
 dbr:The_Affair_(TV_series)	dbo:starring	dbr:Campbell_Scott pra_conf: 0.9226634502410889
@@ -70,6 +77,7 @@ dbr:The_Affair_(TV_series)	dbo:location	dbr:Province_of_New_York pra_conf: 0.696
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>dbo:largestCity=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:Westchester_County,_New_York=>rdfs:seeAlso=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 9/10.
 ?o:[dbr:Liane_Balaban]	?p:[dbr:The_Affair_(TV_series)]
 dbr:The_Affair_(TV_series)	dbo:starring	dbr:Liane_Balaban pra_conf: 0.9226634502410889
@@ -79,6 +87,7 @@ dbr:The_Affair_(TV_series)	dbo:location	dbr:Province_of_New_York pra_conf: 0.696
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>dbo:largestCity=>dbr:New_York_City=>dbo:isPartOf=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
 dbr:The_Affair_(TV_series)=>dbo:location=>dbr:Westchester_County,_New_York=>rdfs:seeAlso=>dbr:New_York=>rdfs:seeAlso=>dbr:Province_of_New_York
+
 Candidates: 10/10.
 ?o:[dbr:India_Ennenga]	?p:[dbr:The_Affair_(TV_series)]
 dbr:The_Affair_(TV_series)	dbo:starring	dbr:India_Ennenga pra_conf: 0.3647387623786926

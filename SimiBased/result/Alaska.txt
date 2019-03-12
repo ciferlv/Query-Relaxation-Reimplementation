@@ -1,0 +1,5 @@
+dbr:Michael_O'Donoghue__Mr._Mike:_The_Life_and_Work_of_Michael_O'Donoghue__1	0.2976555638567462
+dbr:The_Regular_Guys	0.2976555638567462
+dbr:The_Monsters_in_the_Morning	0.2976555638567462
+dbr:Hero_(magazine)	0.2976555638567462
+dbr:Oliver_Butterworth	0.2976555638567462

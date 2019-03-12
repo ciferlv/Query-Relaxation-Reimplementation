@@ -4,7 +4,6 @@ import time
 from RuleBased.BiSearch.Triple import Candidate
 from RuleBased.Params import ht_conn, sort_candidate_criterion, numbers_to_display_of_cands
 
-
 class SparqlParser:
     def __init__(self, sparql):
         self.sparql = sparql
@@ -82,7 +81,7 @@ class SparqlParser:
             self.temp_res.append([])
 
     '''
-    Update results searched. This is used for BGP with 2 variables.
+    results searched. This is used for BGP with 2 variables.
     Parameters:
     -----------
     h_var: string, name of head variable
@@ -93,7 +92,7 @@ class SparqlParser:
     Returns:
     -----------
     None
-    Update self.var2entity[h_var], self.var2entity[t_var] and res.
+    self.var2entity[h_var], self.var2entity[t_var] and res.
     '''
 
     def update_res_var2entity(self, h_var, t_var, passed_ht_list, passed_ht_token_set):

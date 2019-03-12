@@ -5,18 +5,18 @@ rule_seg = ":"  # break up the rule, birthPlace <= birthPlace:location
 ht_conn = ","  # connect h and t, [Microsoft,Seattle] ==> "Microsoft,Seattle"
 ht_seg = ";"  # break up between different hts, [[Micorsoft,Seattle],[Apple,LA]] ==> "Microsoft,Seattel;Apple,LA"
 
-file_path_seg = "\\"
-mydb = mysql.connector.connect(
-    host='localhost',
-    user="xzlyu",
-    password="123456",
-    auth_plugin="mysql_native_password",
-    database="kg")
-
 if sys.platform.startswith("linux"):
     file_path_seg = "/"
     mydb = mysql.connector.connect(
         host='114.212.86.67',
+        user="xzlyu",
+        password="123456",
+        auth_plugin="mysql_native_password",
+        database="kg")
+else:
+    file_path_seg = "\\"
+    mydb = mysql.connector.connect(
+        host='localhost',
         user="xzlyu",
         password="123456",
         auth_plugin="mysql_native_password",

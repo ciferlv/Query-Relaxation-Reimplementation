@@ -384,7 +384,7 @@ class SimiGraph:
             result_dict[q_e_idx] = weighted_jsd
             print("JSD: U: {}, B: {}, Weighted: {}.".format(U_jsd, B_jsd, weighted_jsd))
 
-        sorted_result_list = sorted(result_dict.items(), key=lambda kv: kv[1])[:js_top_k]
+        sorted_result_list = sorted(result_dict.items(), key=lambda kv: kv[1])[:js_top_k*5]
         with open(result_file, 'w', encoding="UTF-8") as f:
             for s_res in sorted_result_list:
                 f.write("{}\t{}\n".format(self.e_idx2name[s_res[0]], s_res[1]))
@@ -516,9 +516,9 @@ def search_bunch():
         if os.path.exists(result_file):
             print("{} already exists.".format(result_file))
             continue
+        with open(result_file, 'w', encoding="UTF-8") as f:
+            f.write("Test\n")
         simiGraph.get_top_K_simi_entity(e_name, result_file)
-
-
 
 
 if __name__ == "__main__":

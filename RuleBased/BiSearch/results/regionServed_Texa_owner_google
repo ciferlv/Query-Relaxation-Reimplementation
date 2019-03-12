@@ -7,6 +7,7 @@ dbr:Google_Fiber=>dbo:regionServed=>dbr:Austin,_Texas=>inv_dbo:city=>dbr:St._Edw
 
 dbr:Google_Fiber	dbo:owner	dbr:Google pra_conf: 1
 dbr:Google_Fiber=>dbo:owner=>dbr:Google
+
 Candidates: 2/10.
 ?p:[dbr:BufferBox]
 dbr:BufferBox	dbo:regionServed	dbr:Texas pra_conf: 0.0036004078574478626
@@ -16,6 +17,7 @@ dbr:BufferBox	dbo:owner	dbr:Google pra_conf: 0.9998581409454346
 dbr:BufferBox=>dbo:owner=>dbr:Alphabet_Inc.=>inv_dbo:owningCompany=>dbr:Google_Fiber=>dbo:owner=>dbr:Google
 dbr:BufferBox=>dbo:owningCompany=>dbr:Alphabet_Inc.=>inv_dbo:owner=>dbr:Google_Fiber=>dbo:owningCompany=>dbr:Google
 dbr:BufferBox=>dbo:parentCompany=>dbr:Google=>inv_dbo:owner=>dbr:Neotonic_Software=>dbo:parentCompany=>dbr:Google
+
 Candidates: 3/10.
 ?p:[dbr:Equity_Bank_South_Sudan_Limited]
 dbr:Equity_Bank_South_Sudan_Limited	dbo:regionServed	dbr:Texas pra_conf: 0.0432891808450222
@@ -26,6 +28,7 @@ dbr:Equity_Bank_South_Sudan_Limited=>dbo:product=>dbr:Investments=>inv_dbo:indus
 dbr:Equity_Bank_South_Sudan_Limited	dbo:owner	dbr:Google pra_conf: 0.051794566214084625
 dbr:Equity_Bank_South_Sudan_Limited=>dbo:parentCompany=>dbr:Equity_Group_Holdings_Limited=>inv_dbo:owningCompany=>dbr:BebaPay=>dbo:owner=>dbr:Google
 dbr:Equity_Bank_South_Sudan_Limited=>dbo:parentCompany=>dbr:Equity_Group_Holdings_Limited=>inv_dbo:owner=>dbr:BebaPay=>dbo:owningCompany=>dbr:Google
+
 Candidates: 4/10.
 ?p:[dbr:Dropcam]
 dbr:Dropcam	dbo:regionServed	dbr:Texas pra_conf: 0.0004467722901608795
@@ -35,6 +38,7 @@ dbr:Dropcam=>dbo:industry=>dbr:Consumer_electronics=>inv_dbo:type=>dbr:Incredibl
 dbr:Dropcam	dbo:owner	dbr:Google pra_conf: 0.9994389414787292
 dbr:Dropcam=>dbo:owner=>dbr:Alphabet_Inc.=>inv_dbo:owningCompany=>dbr:Google_Fiber=>dbo:owner=>dbr:Google
 dbr:Dropcam=>dbo:owningCompany=>dbr:Alphabet_Inc.=>inv_dbo:owner=>dbr:Google_Fiber=>dbo:owningCompany=>dbr:Google
+
 Candidates: 5/10.
 ?p:[dbr:Vevo]
 dbr:Vevo	dbo:regionServed	dbr:Texas pra_conf: 0.004598737228661776
@@ -46,6 +50,7 @@ dbr:Vevo	dbo:owner	dbr:Google pra_conf: 0.0732874944806099
 dbr:Vevo=>dbo:parentCompany=>dbr:Google=>inv_dbo:owner=>dbr:Neotonic_Software=>dbo:parentCompany=>dbr:Google
 dbr:Vevo=>dbo:parentCompany=>dbr:Google=>inv_dbo:owningCompany=>dbr:Neotonic_Software=>dbo:parentCompany=>dbr:Google
 dbr:Vevo=>dbo:parentCompany=>dbr:Google=>inv_dbo:owningCompany=>dbr:Orkut=>dbo:owner=>dbr:Google
+
 Candidates: 6/10.
 ?p:[dbr:ITA_Software]
 dbr:ITA_Software	dbo:regionServed	dbr:Texas pra_conf: 0.003467477625235915
@@ -57,6 +62,7 @@ dbr:ITA_Software	dbo:owner	dbr:Google pra_conf: 0.0732874944806099
 dbr:ITA_Software=>dbo:parentCompany=>dbr:Google=>inv_dbo:owner=>dbr:Neotonic_Software=>dbo:parentCompany=>dbr:Google
 dbr:ITA_Software=>dbo:parentCompany=>dbr:Google=>inv_dbo:owningCompany=>dbr:Neotonic_Software=>dbo:parentCompany=>dbr:Google
 dbr:ITA_Software=>dbo:parentCompany=>dbr:Google=>inv_dbo:owningCompany=>dbr:Orkut=>dbo:owner=>dbr:Google
+
 Candidates: 7/10.
 ?p:[dbr:Brewer_Investment_Group]
 dbr:Brewer_Investment_Group	dbo:regionServed	dbr:Texas pra_conf: 0.0008499628747813404
@@ -66,6 +72,7 @@ dbr:Brewer_Investment_Group=>dbo:industry=>dbr:Wealth_Management=>inv_dbo:produc
 dbr:Brewer_Investment_Group	dbo:owner	dbr:Google pra_conf: 0.19477103650569916
 dbr:Brewer_Investment_Group=>dbo:foundedBy=>dbr:Entrepreneur=>inv_dbo:keyPerson=>dbr:Google_Maps=>dbo:owningCompany=>dbr:Google
 dbr:Brewer_Investment_Group=>dbo:foundedBy=>dbr:Entrepreneur=>inv_dbo:keyPerson=>dbr:Google_Maps=>dbo:owner=>dbr:Google
+
 Candidates: 8/10.
 ?p:[dbr:Softcard]
 dbr:Softcard	dbo:regionServed	dbr:Texas pra_conf: 4.2233761632815003e-05
@@ -76,6 +83,7 @@ dbr:Softcard=>dbo:regionServed=>dbr:United_States=>inv_dbo:locationCity=>dbr:Cen
 dbr:Softcard	dbo:owner	dbr:Google pra_conf: 0.9994389414787292
 dbr:Softcard=>dbo:owner=>dbr:Alphabet_Inc.=>inv_dbo:owningCompany=>dbr:Google_Fiber=>dbo:owner=>dbr:Google
 dbr:Softcard=>dbo:owningCompany=>dbr:Alphabet_Inc.=>inv_dbo:owner=>dbr:Google_Fiber=>dbo:owningCompany=>dbr:Google
+
 Candidates: 9/10.
 ?p:[dbr:Google_Capital]
 dbr:Google_Capital	dbo:regionServed	dbr:Texas pra_conf: 6.327545997919515e-05
@@ -87,6 +95,7 @@ dbr:Google_Capital	dbo:owner	dbr:Google pra_conf: 0.16842985153198242
 dbr:Google_Capital=>dbo:parentCompany=>dbr:Alphabet_Inc.=>dbo:subsidiary=>dbr:Google_Fiber=>dbo:owner=>dbr:Google
 dbr:Google_Capital=>dbo:parentCompany=>dbr:Alphabet_Inc.=>dbo:subsidiary=>dbr:Google_Fiber=>dbo:owningCompany=>dbr:Google
 dbr:Google_Capital=>dbo:parentCompany=>dbr:Alphabet_Inc.=>inv_dbo:owner=>dbr:YouTube=>dbo:parentCompany=>dbr:Google
+
 Candidates: 10/10.
 ?p:[dbr:Motorola_Mobility]
 dbr:Motorola_Mobility	dbo:regionServed	dbr:Texas pra_conf: 2.985124046972487e-05

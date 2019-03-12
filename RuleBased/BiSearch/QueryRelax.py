@@ -1,6 +1,7 @@
 import os
 import time
 
+from Empty_Answer_Query import eaqs
 from RuleBased.BiSearch.Graph import Graph
 from RuleBased.BiSearch.SparqlParser import SparqlParser
 from RuleBased.Params import file_path_seg, rules_num_to_search_cands, sort_candidate_criterion, rule_num4train
@@ -21,9 +22,9 @@ class QR:
         self.test_scope = test_scope
         self.search_scope = search_scope
 
-        self.search_root = root_folder + search_scope + "\\"
-        self.train_root = root_folder + train_scope + "\\"
-        self.test_root = root_folder + test_scope + "\\"
+        self.search_root = root_folder + search_scope + file_path_seg
+        self.train_root = root_folder + train_scope + file_path_seg
+        self.test_root = root_folder + test_scope + file_path_seg
 
         self.r_name_list = self.sp.r_name_list
         '''
@@ -61,7 +62,7 @@ class QR:
     def train_rules(self):
         start_time = time.time()
 
-        saved_model_folder = self.train_root + "model\\"
+        saved_model_folder = self.train_root + "model" + file_path_seg
         e2idx_file = self.train_root + "e2idx_shortcut.txt"
         r2idx_file = self.train_root + "r2idx_shortcut.txt"
         triple2idx_file = self.train_root + "triple2idx.txt"
@@ -99,7 +100,9 @@ class QR:
                 graph.get_r_name_by_r_idx(r_idx)) + file_path_seg
             if not os.path.isdir(metric_record_folder):
                 os.makedirs(metric_record_folder)
-            metric_record_file = metric_record_folder + "metric.txt"
+            else:
+                continue
+            metric_record_file = metric_record_folder + "pra_metric.txt"
 
             with open(metric_record_file, 'w', encoding="UTF-8") as f:
                 f.write("Use Model trained from {}.\n".format(
@@ -159,22 +162,19 @@ class QR:
 
 if __name__ == "__main__":
     root_folder = "F:\\Data\\dbpedia\\"
+    # root_folder = "../Data/dbpedia/"
     train_scope = "United_States"
     # train_scope = "Japan"
     test_scope = "Canada"
     search_scope = "All"
     # search_scope = "United_States"
 
-    sparql = """
-        SELECT * WHERE { dbr:Carmel_Winery dbo:birthPlace ?uri }
-        """
-
-    qr = QR(sparql, root_folder, train_scope, test_scope, search_scope)
-
-    only_train_rule = True
-    if only_train_rule:
-        qr.train_rules()
-        qr.test_rules()
-    else:
-        qr.train_rules()
-        qr.get_candidates()
+    for sparql in eaqs:
+        qr = QR(sparql, root_folder, train_scope, test_scope, search_scope)
+        only_train_rule = True
+        if only_train_rule:
+            qr.train_rules()
+            qr.test_rules()
+        else:
+            qr.train_rules()
+            qr.get_candidates()

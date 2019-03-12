@@ -61,7 +61,7 @@ class LogisticRegression(nn.Module):
         output = self.forward(torch.Tensor(x))
         output = output.squeeze(-1).detach().numpy()
         test = list(zip(output, y))
-        test.sort(key=lambda p: p[0])
+        test.sort(key=lambda p: p[0],reverse=True)
         MAP_metric = 0.0
         posi_num = 0
         for idx, a_pair in enumerate(test):
