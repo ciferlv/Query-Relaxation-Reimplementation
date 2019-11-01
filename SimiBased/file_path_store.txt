@@ -2,4 +2,4 @@ folder  ../MyData/DBO/All/
 e2idx_shortcut_file entity2id.txt
 r2idx_shortcut_file relation2id.txt
 triple2idx_file triple2id.txt
-result_folder   ./result/
+result_folder   ./simi_result/

@@ -1,0 +1,25 @@
+dbr:Arthur_William_à_Beckett	0.4371237024112795
+dbr:John_Moore_(anarchist)	0.4371237024112795
+dbr:John_Brown_(Vicar_of_St_Mary's,_Leicester)	0.4371237024112795
+dbr:Mike_Pattenden	0.4371237024112795
+dbr:Roy_Ridley	0.4371237024112795
+dbr:William_Henry_Hitchener	0.4371237024112795
+dbr:David_Davies_(Welsh_priest)__UK-Christian-clergy-stub__1	0.4371237024112795
+dbr:Justin_Wintle	0.4371237024112795
+dbr:Trevor_Kavanagh	0.4371237024112795
+dbr:John_Moore_(Baptist)	0.4371237024112795
+dbr:Kathleen_Richardson,_Baroness_Richardson_of_Calow	0.4371237024112795
+dbr:Sue_Ellicott	0.4371237024112795
+dbr:Marjorie_Boulton	0.4371237024112795
+dbr:John_Morgan_(journalist)	0.4371237024112795
+dbr:John_MacEnery	0.4371237024112795
+dbr:Julia_Hartley-Brewer	0.4371237024112795
+dbr:Terry_Wynn__UK-Christian-clergy-stub__1	0.4371237024112795
+dbr:Matt_Bishop	0.4371237024112795
+dbr:Marjorie_Proops	0.4371237024112795
+dbr:Jason_Gwynne	0.4371237024112795
+dbr:Frank_Frankfort_Moore	0.4371237024112795
+dbr:Richard_Bannatyne__UK-Christian-clergy-stub__1	0.4371237024112795
+dbr:Dea_Birkett	0.4371237024112795
+dbr:Louise_Doughty__UK-journalist-stub__1	0.4371237024112795
+dbr:David_McKie	0.4371237024112795
