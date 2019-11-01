@@ -1,0 +1,12 @@
+
+6.	
+SELECT * WHERE{
+        dbr:Isaac_Newton dbo:doctoralAdvisor ?o.}
+
+Rule (5)
+dbo:doctoralAdvisor rdfs:range dbo:Person
+
+Reformed Query:
+SELECT * WHERE{
+        ?s rdf:type dbo:Person.}
+		

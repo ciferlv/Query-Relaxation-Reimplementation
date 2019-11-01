@@ -1,5 +1,5 @@
-folder  ../Data/dbpedia/All/
-e2idx_shortcut_file e2idx_shortcut.txt
-r2idx_shortcut_file r2idx_shortcut.txt
-triple2idx_file triple2idx.txt
+folder  ../MyData/DBO/All/
+e2idx_shortcut_file entity2id.txt
+r2idx_shortcut_file relation2id.txt
+triple2idx_file triple2id.txt
 result_folder   ./result/

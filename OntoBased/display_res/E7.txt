@@ -1,0 +1,12 @@
+
+7.
+SELECT * WHERE {
+        dbr:Paris dbo:timeZone ?o.}
+
+Rule (2)
+dbo:timeZone rdfs:subPropertyOf dulo:sameSettingAs	
+
+Reformed Query:
+SELECT * WHERE {
+        dbr:Paris rdfs:subPropertyOf  ?o}
+

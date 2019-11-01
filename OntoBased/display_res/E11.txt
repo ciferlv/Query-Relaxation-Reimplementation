@@ -1,0 +1,13 @@
+
+11.		
+select * where {
+        ?a dbo:birthPlace dbr:United_States.
+        ?a dbo:award dbr:Fellow_of_the_Royal_Society_of_Canada.}
+
+Rule (5)
+dbo:birthPlace rdfs:domain dbo:Person
+
+Reformed Query:
+SELECT * WHERE{
+        ?a rdf:type dbo:Person.}
+

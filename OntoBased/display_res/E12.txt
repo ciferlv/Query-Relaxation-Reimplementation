@@ -1,0 +1,11 @@
+
+12.
+select * where {
+            ?p dbo:regionServed dbr:Asia.
+            ?p dbo:location dbr:Italy}
+Rule (5)
+dbo:regionServed rdfs:domain dbo:Organisation
+
+Reformed Query:
+select * where {
+            ?p rdf:type dbo:Organisation}

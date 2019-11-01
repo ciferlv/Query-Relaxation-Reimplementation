@@ -1,0 +1,20 @@
+
+19.
+select * where {
+        ?p dbo:locationCountry dbr:Canada.
+        ?p dbo:foundationPlace dbr:United_States.}
+
+Rule (2)
+dbo:locationCountry rdfs:subPropertyOf dbo:location
+
+Reformed Query:
+SELECT * WHERE {
+        ?p dbo:location dbr:Canada.
+        ?p dbo:foundationPlace dbr:United_States.}
+		
+Rule (6)
+dbo:foundationPlace rdfs:domain dbo:Organisation
+
+Reformed Query:
+SELECT * WHERE {
+	?p rdf:type dbo:Organisation.}

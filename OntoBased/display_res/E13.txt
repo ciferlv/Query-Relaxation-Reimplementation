@@ -1,0 +1,13 @@
+
+13.
+select * where {
+        ?p dbo:product dbr:Automobile.
+        ?p dbo:foundationPlace dbr:England.}
+
+Rule (5)
+dbo:product rdfs:domain dbo:Organisation
+dbo:foundationPlace rdfs:domain dbo:Organisation
+
+Reformed Query:
+select * where {
+            ?p rdf:type dbo:Organisation}

@@ -1,5 +1,0 @@
-dbr:Jamaica_Bay_Wildlife_Refuge	0.1980746105623252
-dbr:Type_Directors_Club	0.1980746105623252
-dbr:Girls,_Inc.	0.1980746105623252
-dbr:EcoHealth_Alliance	0.1980746105623252
-dbr:Children's_Tumor_Foundation	0.1980746105623252

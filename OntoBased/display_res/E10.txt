@@ -1,0 +1,18 @@
+
+10.
+SELECT * WHERE { 
+        dbr:Carmel_Winery dbo:locationCountry ?uri.}
+
+Rule (6)
+dbo:locationCountry rdf:type dbo:Country
+
+Reformed Query:
+SELECT * WHERE {
+        ?p rdf:type dbo:Country.}
+
+Rule (2)
+dbo:locationCountry rdfs:subPropertyOf dbo:location
+
+Reformed Query:
+SELECT * WHERE {
+        dbr:Carmel_Winery dbo:location ?p.}

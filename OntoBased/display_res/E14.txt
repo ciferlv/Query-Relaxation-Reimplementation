@@ -1,0 +1,13 @@
+
+14.
+SELECT * WHERE { 
+        dbr:Lula_J._Davis dbo:residence ?uri. 
+        dbr:John_McTaggart_(jockey) dbo:deathPlace ?uri}
+
+Rule (6)
+dbo:residence rdfs:range dbo:Place
+dbo:deathPlace rdfs:range dbo:Place
+
+Reformed Query:
+SELECT * WHERE {
+        ?uri rdf:type dbo:Place.}

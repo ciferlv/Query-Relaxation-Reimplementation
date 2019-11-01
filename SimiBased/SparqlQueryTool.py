@@ -6,7 +6,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 class SparqlQueryTool:
     def __init__(self):
         self.sparql_query = ""
-        self.sparql_database = "http://114.212.86.67:8890/sparql"
+        self.sparql_database = "http://114.212.84.251:8891/sparql"
         self.sparql_port = SPARQLWrapper(self.sparql_database)
         self.max_num_per_time = 10000
 
@@ -42,6 +42,7 @@ class SparqlQueryTool:
         cnt = 0
         while True:
             tmp_query = self.sparql_query + " limit 10000  offset " + str(10000 * cnt)
+            print(tmp_query)
             cnt += 1
             self.sparql_port.setQuery(tmp_query)
             self.sparql_port.setReturnFormat(JSON)

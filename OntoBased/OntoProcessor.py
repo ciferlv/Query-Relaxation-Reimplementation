@@ -2,7 +2,7 @@ from rdflib import Graph
 import queue
 import os
 
-from Data.ReformData import getShortcutName
+from MyData.DBO.All.ReformData import getShortcutName
 
 
 class SubBasics:
@@ -48,10 +48,14 @@ class SubBasics:
             self.add_cp(_uri)
         if _type == "inv_rdfs:subClassOf":
             self.add_cc(_uri)
-        if _type.strip("inv_") == "rdfs:domain":
+        if _type == "rdfs:domain":
             self.add_don(_uri)
-        if _type.strip("inv_") == "rdfs:range":
+        if _type == "rdfs:range":
             self.add_rng(_uri)
+        # if _type == "inv_rdfs:domain":
+        #     self.add_don(_uri)
+        # if _type.strip("inv_") == "rdfs:range":
+        #     self.add_rng(_uri)
 
     def __str__(self):
         fc_str = "\t".join(list(self.fc_set))
@@ -88,8 +92,8 @@ class DbpediaOntology:
                 if obj not in self.sub_dict:
                     self.sub_dict[obj] = SubBasics(obj)
                 self.sub_dict[obj].add_info("inv_" + pred, sub)
-        # for subject in self.sub_dict:
-        #     print(self.sub_dict[subject], end="\n\n")
+        for subject in self.sub_dict:
+            print(self.sub_dict[subject], end="\n\n")
 
     def gen_closure(self):
         print("Start generating closure.")
@@ -188,7 +192,7 @@ class DbpediaOntology:
                     if c_iri == b_iri:
                         continue
                     if c_iri in self.sub_dict[b_iri].fp_set:
-                        print("sub prop 1: a: {}\tb: {}\t c: {}".format(a_iri, b_iri, c_iri))
+                        # print("sub prop 1: a: {}\tb: {}\t c: {}".format(a_iri, b_iri, c_iri))
                         deleted_fp_list.append([a_iri, c_iri])
                         break
 
@@ -200,7 +204,7 @@ class DbpediaOntology:
                     if c_iri == b_iri:
                         continue
                     if c_iri in self.sub_dict[b_iri].fc_set:
-                        print("sub class 3: a: {}\tb: {}\t c: {}".format(a_iri, b_iri, c_iri))
+                        # print("sub class 3: a: {}\tb: {}\t c: {}".format(a_iri, b_iri, c_iri))
                         deleted_fc_list.append([a_iri, c_iri])
                         break
 
@@ -223,23 +227,24 @@ class DbpediaOntology:
         self.save2file()
 
     def reload_deduced_ontology_from_file(self):
-        with open(self.file_path_dict['result_file'], 'w', encoding="UTF-8") as f:
+        with open(self.file_path_dict['result_file'], 'r', encoding="UTF-8") as f:
             lines = f.readlines()
             i = 0
             while i < len(lines):
-                sub = lines[i].split(":")[-1]
+                sub = lines[i].split("\t")[-1].strip()
                 self.sub_dict[sub] = SubBasics(sub)
-                fc_str = lines[i + 1].split(":")[-1].strip()
+                fc_str = lines[i + 1].split("\t")[-1].strip()
                 [self.sub_dict[sub].add_fc(one_fc) for one_fc in fc_str.split("\t")]
-                fp_str = lines[i + 2].split(":")[-1].strip()
+                fp_str = lines[i + 2].split("\t")[-1].strip()
                 [self.sub_dict[sub].add_fp(one_fp) for one_fp in fp_str.split("\t")]
-                don_str = lines[i + 3].split(":")[-1].strip()
+                don_str = lines[i + 3].split("\t")[-1].strip()
                 [self.sub_dict[sub].add_don(one_don) for one_don in don_str.split("\t")]
-                rng_str = lines[i + 4].split(":")[-1].strip()
+                rng_str = lines[i + 4].split("\t")[-1].strip()
                 [self.sub_dict[sub].add_rng(one_rng) for one_rng in rng_str.split("\t")]
                 i += 5
 
     def display_details_of_subject(self, tar_sub):
+        print(self.sub_dict.keys())
         if tar_sub not in self.sub_dict:
             print("Don't have this subject: {}.".format(tar_sub))
         else:

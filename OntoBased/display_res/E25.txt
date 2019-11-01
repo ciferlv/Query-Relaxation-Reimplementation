@@ -1,0 +1,29 @@
+
+25.
+SELECT * WHERE { 
+        ?x dbo:owner dbr:Google .
+        ?x dbo:foundationPlace ?uri.}
+
+Rule (2)
+dbo:owner rdfs:subPropertyOf dulo:sameSettingAs
+
+Reformed Query:
+SELECT * WHERE { 
+        ?x dulo:sameSettingAs dbr:Google .
+        ?x dbo:foundationPlace ?uri.}
+
+Rule (5)
+dbo:foundationPlace rdfs:domain dbo:Organisation
+dbo:foundationPlace rdfs:range dbo:City
+
+Reformed Query:
+SELECT * WHERE { 
+		?uri rdf:type dbo:City
+        ?x dbo:owner dbr:Google .
+        ?x rdf:type dbo:Organisation.}
+
+
+
+
+
+

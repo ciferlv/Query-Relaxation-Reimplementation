@@ -1,0 +1,18 @@
+
+15.
+select * where {
+        dbr:Gift_of_the_Night_Fury dbo:starring ?p.
+        ?p dbo:birthPlace  dbr:United_States.}
+
+Rule (6)
+dbo:starring rdfs:range dbo:Actor
+Reformed Query:
+select * where {
+        ?p rdf:type dbo:Actor}
+		
+Rule (5)
+dbo:birthPlace rdfs:domain dbo:Person
+
+Reformed Query:
+select * where {
+        ?p rdf:type dbo:Person}

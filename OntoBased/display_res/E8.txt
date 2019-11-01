@@ -1,0 +1,18 @@
+
+8.
+SELECT * WHERE {
+        dbr:Amazon.com dbo:locationCountry ?p.}
+
+Rule (6)
+dbo:locationCountry rdf:type dbo:Country
+
+Reformed Query:
+SELECT * WHERE {
+        ?p rdf:type dbo:Country.}
+
+Rule (2)
+dbo:locationCountry rdfs:subPropertyOf dbo:location
+
+Reformed Query:
+SELECT * WHERE {
+        dbr:Amazon.com dbo:location ?p.}

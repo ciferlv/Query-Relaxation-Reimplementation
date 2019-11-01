@@ -1,0 +1,12 @@
+
+16.
+select * where {
+        ?p dbo:owner dbr:Jim_Pattison_Group.
+        ?p dbo:foundationPlace dbr:Canada.}
+
+Rule (5)
+dbo:foundationPlace rdfs:domain dbo:Organisation
+
+Reformed Query:
+select * where {
+            ?p rdf:type dbo:Organisation}

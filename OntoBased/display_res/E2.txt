@@ -1,0 +1,11 @@
+
+2.
+SELECT * WHERE {
+        dbr:Glasgow dbo:timeZone ?o}
+
+Rule (2)
+dbo:timeZone rdfs:subPropertyOf dulo:sameSettingAs
+
+Reformed Query:
+SELECT * WHERE {
+        dbr:Glasgow dulo:sameSettingAs ?o}

@@ -1,0 +1,24 @@
+
+24.
+SELECT * WHERE { 
+        dbr:Game_of_Thrones dbo:publisher ?x . 
+        ?x dbo:residence ?uri. }
+
+Rule (6)
+dbo:publisher dbo:range dbo:Agent
+dbo:residence dbo:range dbo:Place
+
+Reformed Query:
+SELECT * WHERE {
+	?x rdf:type dbo:Agent
+	?uri rdf:type dbo:Place
+}
+
+Rule (5)
+dbo:residence dbo:domain dbo:Person
+
+Reformed Query:
+SELECT * WHERE {
+	?x rdf:type dbo:Person
+}
+

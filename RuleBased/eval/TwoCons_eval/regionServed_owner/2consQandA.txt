@@ -1,0 +1,3000 @@
+dbo:regionServed	dbr:Murray_Bridge
+dbo:owner	dbr:Keolis_Downer
+dbr:Australian_Transit_Enterprises	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:owner	dbr:Government_of_the_People's_Republic_of_China
+dbr:China_Southern_Power_Grid_Company	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:owner	dbr:Sony_Pictures_Television
+dbr:CSC_Media_Group	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Rogers_Communications
+dbr:Rogers_Radio	dbr:Shomi	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:Politics_of_Cyprus
+dbr:Cyprus_Popular_Bank	
+dbo:regionServed	dbr:Sweden
+dbo:owner	dbr:Reitan_Group
+dbr:Pressbyrån	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Conn-Selmer
+dbr:Vincent_Bach_Corporation	
+dbo:regionServed	dbr:Tohoku_region
+dbo:owner	dbr:Dai-ichi_Life
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:World
+dbo:owner	dbr:Alphabet_Inc.
+dbr:YouTube	
+dbo:regionServed	dbr:Rhein-Main-Verkehrsverbund
+dbo:owner	dbr:Westerwaldbahn_GmbH
+dbr:Vectus_Verkehrsgesellschaft	
+dbo:regionServed	dbr:Louisiana
+dbo:owner	dbr:Bobby_Lowder
+dbr:Colonial_Bank	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Motorola_Solutions
+dbr:Airwave_Solutions	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Government_of_Serbia
+dbr:Elektroprivreda_Srbije	dbr:Serbian_Railways	dbr:Komercijalna_banka	dbr:Poštanska_štedionica	dbr:Novosti_a.d.	dbr:Lasta_Beograd	dbr:Elektromreža_Srbije	
+dbo:regionServed	dbr:Midwestern_United_States
+dbo:owner	dbr:David_Normandin
+dbr:Braun's_Express	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Christen_Sveaas
+dbr:Kistefos	
+dbo:regionServed	dbr:Chugoku_region
+dbo:owner	dbr:Mizuho_Corporate_Bank
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Middle_East
+dbo:owner	<http://www.nhk-cm.co.uk/>
+dbr:JSTV	
+dbo:regionServed	dbr:UAE
+dbo:owner	dbr:Joy_Alukkas
+dbr:Joyalukkas	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:owner	dbr:Terra_Firma_Capital_Partners
+dbr:Odeon_Cinemas	
+dbo:regionServed	dbr:Shikoku
+dbo:owner	dbr:Japan_Railway_Construction,_Transport_and_Technology_Agency
+dbr:Shikoku_Railway_Company	
+dbo:regionServed	dbr:Hokuriku_region
+dbo:owner	dbr:SSBT_OD05_OMNIBUS_ACCOUNT—TREATY_CLIENTS
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Bell_Canada
+dbr:CraveTV	
+dbo:regionServed	dbr:Adriatic_Sea
+dbo:owner	dbr:Grimaldi_Group
+dbr:Minoan_Lines	
+dbo:regionServed	dbr:Hokuriku_region
+dbo:owner	dbr:Japan_Trustee_Services_Bank
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Bulgaria
+dbo:owner	dbr:Hellenic_Financial_Stability_Fund
+dbr:Piraeus_Bank	
+dbo:regionServed	dbr:Kansai_region
+dbo:owner	dbr:Sumitomo_Mitsui_Trust_Holdings
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Germany
+dbo:owner	dbr:Canal+_Group
+dbr:StudioCanal	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Sony_Pictures_Networks
+dbr:Sony_LIV	
+dbo:regionServed	dbr:Midwest
+dbo:owner	dbr:Bain_Capital
+dbr:Bob's_Discount_Furniture	
+dbo:regionServed	dbr:Nevada
+dbo:owner	dbr:Adam_Fleischman
+dbr:Umami_Burger	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Macquarie_Telecom
+dbr:Terria_(consortium)	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Shogakukan
+dbr:Viz_Media_Europe	
+dbo:regionServed	dbr:New_Mexico
+dbo:owner	dbr:Edward_R._Tinsley
+dbr:K-Bob's_Steakhouse	
+dbo:regionServed	dbr:Kitchener,_Ontario
+dbo:owner	dbr:Toronto_Transit_Commission
+dbr:Gray_Coach	
+dbo:regionServed	dbr:British_Columbia
+dbo:owner	dbr:Virtuos
+dbr:Sparx_Animation_Studios	
+dbo:regionServed	dbr:Czech_Republic
+dbo:owner	dbr:O2_(United_Kingdom)
+dbr:Tesco_Mobile	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:Lion_Capital_LLP
+dbr:Weetabix_Limited	
+dbo:regionServed	dbr:Malaysia
+dbo:owner	dbr:Lindsay_Fox
+dbr:Linfox	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Sony
+dbr:Bandit.fm	
+dbo:regionServed	dbr:Central,_Hong_Kong
+dbo:owner	dbr:Win's_Entertainment
+dbr:Ocean_Shores_Video	
+dbo:regionServed	dbr:Bayraklı
+dbo:owner	dbr:İzmir_Municipality
+dbr:ESHOT	
+dbo:regionServed	dbr:Blood_Centers_of_the_Pacific
+dbo:owner	<https://web.archive.org/web/20150224021845/http://www.bloodsystems.org/>
+dbr:United_Blood_Services	
+dbo:regionServed	dbr:Japan
+dbo:owner	dbr:State_Street_Bank_and_Trust_Company
+dbr:Tokyo_Electron	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Council_of_Australian_Governments
+dbr:Healthdirect	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:owner	dbr:Government_of_Serbia
+dbr:Komercijalna_banka	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Leonard_Green_&_Partners
+dbr:Life_Time_Fitness	
+dbo:regionServed	dbr:Tokyo
+dbo:owner	dbr:Dai-ichi_Life
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:British_Rail
+dbr:Sealink	
+dbo:regionServed	dbr:Central_African_Republic
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:The_Americas
+dbo:owner	dbr:SES_S.A.
+dbr:Ciel_Satellite_Group	
+dbo:regionServed	dbr:UK
+dbo:owner	dbr:UK_Asset_Resolution
+dbr:NRAM_Limited	
+dbo:regionServed	dbr:Japan
+dbo:owner	dbr:21st_Century_Fox
+dbr:Hulu	
+dbo:regionServed	dbr:Latin_America
+dbo:owner	dbr:Chilean_Air_Force
+dbr:ENAER	
+dbo:regionServed	dbr:Netherlands
+dbo:owner	dbr:Boparan_Holdings
+dbr:2_Sisters_Food_Group	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Time_Warner
+dbr:Hulu	
+dbo:regionServed	dbr:Jaipur
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:World
+dbo:owner	dbr:George_Economou_(shipbuilder)
+dbr:Danaos_Corporation	
+dbo:regionServed	dbr:Czech_Republic
+dbo:owner	dbr:Airfield_Holding_B.V.
+dbr:M7_Group_S.A.	
+dbo:regionServed	dbr:Portugal
+dbo:owner	dbr:Grupo_Planeta
+dbr:Planeta_DeAgostini	
+dbo:regionServed	dbr:Slovenia
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbr:The_United_Group	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Bank_Austria
+dbr:UniCredit_banka	
+dbo:regionServed	dbr:Shizuoka_Prefecture
+dbo:owner	dbr:Dai-ichi_Life
+dbr:East_Japan_Railway_Company	dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Laos
+dbo:owner	dbr:Bertofan_Investments
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Apokjeden
+dbr:Apotek_1	
+dbo:regionServed	dbr:Japan
+dbo:owner	dbr:Doing_business_as
+dbr:Culture_Convenience_Club	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Politics_of_Cyprus
+dbr:Cyprus_Popular_Bank	
+dbo:regionServed	dbr:Tokai_region
+dbo:owner	dbr:Mizuho_Bank
+dbr:Central_Japan_Railway_Company	
+dbo:regionServed	dbr:Portugal
+dbo:owner	dbr:Brait_SE
+dbr:Virgin_Active	
+dbo:regionServed	dbr:Belgium
+dbo:owner	dbr:Airfield_Holding_B.V.
+dbr:M7_Group_S.A.	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:Liberty_Global
+dbr:Lionsgate	
+dbo:regionServed	dbr:Commonwealth_of_Independent_States
+dbo:owner	dbr:Russian_Federation
+dbr:VTB_Bank	
+dbo:regionServed	dbr:Ufa
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Booker_Group
+dbr:Londis_(United_Kingdom)	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:ICA_AB
+dbr:Rimi_(Norway)	
+dbo:regionServed	dbr:Latvia
+dbo:owner	dbr:Bank_Snoras
+dbr:Latvijas_Krājbanka	
+dbo:regionServed	dbr:Uganda
+dbo:owner	dbr:Dairo_Air_Services
+dbr:DAS_Handling_Limited	
+dbo:regionServed	dbr:Carolina,_Puerto_Rico
+dbo:owner	dbr:Liberty_Global
+dbr:OneLink_Communications	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Karan_Thapar
+dbr:Infotainment_Television	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:ITC_Limited
+dbr:ITC_Hotels	
+dbo:regionServed	dbr:Africa
+dbo:owner	dbr:Shogakukan
+dbr:Viz_Media_Europe	
+dbo:regionServed	dbr:Michigan
+dbo:owner	dbr:SpartanNash
+dbr:Glen's_Markets	dbr:Family_Fare	
+dbo:regionServed	dbr:Kansai_region
+dbo:owner	dbr:Yomiuri_Shimbun
+dbr:Yomiuri_Telecasting_Corporation	
+dbo:regionServed	dbr:Niigata_Prefecture
+dbo:owner	dbr:Dai-ichi_Life
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Samoa_Breweries
+dbo:owner	dbr:HSBC
+dbr:Coca-Cola_Amatil	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Landry's,_Inc.
+dbr:Bubba_Gump_Shrimp_Company	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:owner	dbr:China_Central_Huijin
+dbr:China_Re	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Discovery_Communications
+dbr:Channel_4_Learning	dbr:Lionsgate	
+dbo:regionServed	dbr:Wisconsin
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:Florida
+dbo:owner	dbr:Bobby_Lowder
+dbr:Colonial_Bank	
+dbo:regionServed	dbr:North_Korea
+dbo:owner	dbr:Unification_Church
+dbr:Pyeonghwa_Motors	
+dbo:regionServed	dbr:Southeast_Asia
+dbo:owner	dbr:Turner_Broadcasting_System
+dbr:Turner_Broadcasting_System_Asia_Pacific	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Shueisha
+dbr:Viz_Media_Europe	
+dbo:regionServed	dbr:Pakistan
+dbo:owner	dbr:Bertofan_Investments
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Toronto_Star
+dbr:Workopolis	
+dbo:regionServed	dbr:World
+dbo:owner	<http://www.excellance.fr/>
+dbr:Kinomap	
+dbo:regionServed	dbr:Hong_Kong
+dbo:owner	dbr:Eastern_Option_Limited
+dbr:Asia_Airfreight_Terminal	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Reckitt_Benckiser
+dbr:Mortein	
+dbo:regionServed	dbr:Hokuriku_region
+dbo:owner	dbr:The_Master_Trust_Bank_of_Japan
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Golan_Heights
+dbo:owner	dbr:Worker_cooperative
+dbr:Egged_(company)	
+dbo:regionServed	dbr:Toronto
+dbo:owner	dbr:Larry_Tanenbaum
+dbr:Maple_Leaf_Sports_&_Entertainment	
+dbo:regionServed	dbr:Denmark
+dbo:owner	dbr:Norgesgruppen
+dbr:Kiwi_(store)	
+dbo:regionServed	dbr:Bahrain
+dbo:owner	dbr:MMC_Corporation_Berhad
+dbr:Malakoff_(power_company)	
+dbo:regionServed	dbr:Maghreb
+dbo:owner	dbr:General_Motors
+dbr:Industries_Mécaniques_Maghrébines	
+dbo:regionServed	dbr:New_Jersey
+dbo:owner	dbr:Angelo,_Gordon_&_Co.
+dbr:Kings_Food_Markets	
+dbo:regionServed	dbr:Indonesia
+dbo:owner	dbr:Lindsay_Fox
+dbr:Linfox	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:Aaron_Rubashkin
+dbr:Agriprocessors	
+dbo:regionServed	dbr:Staffordshire
+dbo:owner	dbr:Wellglade_Group
+dbr:Trentbarton	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Wang_Zhongjun
+dbr:Huayi_Brothers	
+dbo:regionServed	dbr:Chapel_Hill,_NC
+dbo:owner	dbr:Walgreens
+dbr:Kerr_Drug	
+dbo:regionServed	dbr:Yamanashi_Prefecture
+dbo:owner	dbr:Mizuho_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:owner	dbr:Telekom_Srpske
+dbr:SUPER_TV_(Bosnia_and_Herzegovina)	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:21st_Century_Fox
+dbr:Sky_plc	
+dbo:regionServed	dbr:Martinique
+dbo:owner	dbr:Altice_(company)
+dbr:SFR	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:The_J.M._Smucker_Company
+dbr:Big_Heart_Pet_Brands	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:Walgreens_Boots_Alliance
+dbr:Alliance_Healthcare	
+dbo:regionServed	dbr:Bucharest
+dbo:owner	dbr:RCS_&_RDS
+dbr:Dance_FM	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Westinghouse_Electric_(1886)
+dbr:Infinity_Broadcasting_Corporation	
+dbo:regionServed	dbr:Keyser,_West_Virginia
+dbo:owner	dbr:Greer_Industries
+dbr:West_Virginia_Radio_Corporation	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Tandem_Group
+dbr:Falcon_Cycles	dbr:Dawes_Cycles	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Sky_plc
+dbr:Freeview_(UK)	
+dbo:regionServed	dbr:Czech_Republic
+dbo:owner	dbr:Ahold_Delhaize
+dbr:Ahold_Czech_Republic	
+dbo:regionServed	dbr:New_Zealand
+dbo:owner	dbr:Warburg_Pincus
+dbr:Crossmark	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Government_of_Morocco
+dbr:Société_Nationale_de_Radiodiffusion_et_de_Télévision	
+dbo:regionServed	dbr:Kentucky
+dbo:owner	dbr:Gordon_Brothers_Group
+dbr:K's_Merchandise_Mart	
+dbo:regionServed	dbr:Madhya_Pradesh
+dbo:owner	dbr:Government_of_India
+dbr:Madhyanchal_Gramin_Bank	
+dbo:regionServed	dbr:Kingston_upon_Hull
+dbo:owner	dbr:Stagecoach_Group
+dbr:Stagecoach_in_Hull	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Lenovo
+dbr:Medion	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:owner	dbr:German_Investment_Corporation
+dbr:Komercijalna_banka	
+dbo:regionServed	dbr:Saint_Helena
+dbo:owner	dbr:Politics_of_Saint_Helena
+dbr:Bank_of_St._Helena	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Joy_Alukkas
+dbr:Joyalukkas	
+dbo:regionServed	dbr:Kyrgyzstan
+dbo:owner	dbr:Telenor
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Todd_Wagner
+dbr:Landmark_Theatres	
+dbo:regionServed	dbr:Agder
+dbo:owner	dbr:Statkraft
+dbr:Agder_Energi	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Goldman_Sachs
+dbr:Travelodge_UK	
+dbo:regionServed	dbr:Illinois
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:Cambodia
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Cayman_Islands
+dbo:owner	dbr:Levine_Leichtman_Capital_Partners
+dbr:Fastsigns	
+dbo:regionServed	dbr:Shetland
+dbo:owner	dbr:Shetland_Islands_Council
+dbr:SIC_Ferries	
+dbo:regionServed	dbr:Wyoming
+dbo:owner	dbr:Berkshire_Hathaway
+dbr:PacifiCorp	
+dbo:regionServed	dbr:Kenya
+dbo:owner	dbr:Google
+dbr:BebaPay	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Virgin_Group
+dbr:Virgin_Unite	
+dbo:regionServed	dbr:Illinois
+dbo:owner	dbr:Gordon_Brothers_Group
+dbr:K's_Merchandise_Mart	
+dbo:regionServed	dbr:France
+dbo:owner	dbr:Liberty_Global
+dbr:Lionsgate	
+dbo:regionServed	dbr:New_York_(state)
+dbo:owner	dbr:Daniel_R._Gernatt,_Sr.
+dbr:Dan_Gernatt_Farms	
+dbo:regionServed	dbr:Chile
+dbo:owner	dbr:SABMiller
+dbr:Bavaria_Brewery_(Colombia)	
+dbo:regionServed	dbr:Blue_Mountains,_New_South_Wales
+dbo:owner	dbr:Government_of_New_South_Wales
+dbr:Endeavour_Energy	
+dbo:regionServed	dbr:Georgia_(country)
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Slovakia
+dbo:owner	dbr:O2_(United_Kingdom)
+dbr:Tesco_Mobile	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:UnipolSai
+dbr:DDOR_Novi_Sad	
+dbo:regionServed	dbr:Paris
+dbo:owner	dbr:Todd_Manning
+dbr:Lord_family	
+dbo:regionServed	dbr:Nevada
+dbo:owner	dbr:The_Church_of_Jesus_Christ_of_Latter-day_Saints
+dbr:Deseret_Telegraph_Company	
+dbo:regionServed	dbr:Ottawa
+dbo:owner	dbr:Labatt_Brewing_Company
+dbr:Mill_Street_Brewery	
+dbo:regionServed	dbr:Finland
+dbo:owner	dbr:Gazprom
+dbr:Gasum	
+dbo:regionServed	dbr:New_Zealand
+dbo:owner	dbr:Kirin_Brewery_Company
+dbr:Lion_Dairy_&_Drinks	
+dbo:regionServed	dbr:Europe
+dbo:owner	<http://www.nhk-cm.co.uk/>
+dbr:JSTV	
+dbo:regionServed	dbr:Samoa_Breweries
+dbo:owner	dbr:The_Coca-Cola_Company
+dbr:Coca-Cola_Amatil	
+dbo:regionServed	dbr:Malaysia
+dbo:owner	dbr:Toray_Industries
+dbr:Penfibre	
+dbo:regionServed	dbr:Mumbai
+dbo:owner	dbr:Ministry_of_Information_and_Broadcasting_(India)
+dbr:National_Film_Development_Corporation_of_India	
+dbo:regionServed	dbr:Belgium
+dbo:owner	dbr:LKW_Walter
+dbr:Crossrail_Benelux	
+dbo:regionServed	dbr:Vladimir,_Russia
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:New_York
+dbo:owner	dbr:Bruno_Grollo
+dbr:Grocon	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:China_Merchants_Group
+dbr:China_Merchants_Bank	
+dbo:regionServed	dbr:Monaco
+dbo:owner	dbr:Agence_des_participations_de_l'État
+dbr:La_Poste_(France)	
+dbo:regionServed	dbr:Montenegro
+dbo:owner	dbr:Delhaize_Group
+dbr:Maxi_(Serbian_supermarket)	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Arla_Foods
+dbr:Arla_Foods_UK	
+dbo:regionServed	dbr:New_York_metropolitan_area
+dbo:owner	dbr:Fred_Bass_(Strand_Bookstore)
+dbr:Strand_Bookstore	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:owner	dbr:Lindsay_Fox
+dbr:Linfox	
+dbo:regionServed	dbr:Ireland
+dbo:owner	dbr:Raidió_Teilifís_Éireann
+dbr:RTÉ_Sport	
+dbo:regionServed	dbr:Nagano_Prefecture
+dbo:owner	dbr:Nippon_Life
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Ukraine
+dbo:owner	dbr:Leonid_Klimov
+dbr:Imexbank	
+dbo:regionServed	dbr:Toronto
+dbo:owner	dbr:Bell_Canada
+dbr:Maple_Leaf_Sports_&_Entertainment	
+dbo:regionServed	dbr:Fort_Wayne,_Indiana
+dbo:owner	dbr:Community_Health_Systems
+dbr:Lutheran_Health_Network	
+dbo:regionServed	dbr:Greenland
+dbo:owner	dbr:NorgesGruppen
+dbr:Dagrofa	
+dbo:regionServed	dbr:Thailand
+dbo:owner	dbr:Credit_Saison
+dbr:Loft_(store)	
+dbo:regionServed	dbr:Toowoomba
+dbo:owner	dbr:Pulitano_Group
+dbr:Bus_Queensland_Toowoomba	
+dbo:regionServed	dbr:France
+dbo:owner	dbr:Comcast_Corporation
+dbr:Broadnet_Holdings_BV	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Shenzhen_Overseas_Chinese_Town_Holding_Company
+dbr:Happy_Valley_(amusement_parks)	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Viacom_(original)
+dbr:Infinity_Broadcasting_Corporation	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Piraeus_Bank
+dbr:Piraeus_Bank_Beograd	
+dbo:regionServed	dbr:Malaysia
+dbo:owner	dbr:Joy_Alukkas
+dbr:Joyalukkas	
+dbo:regionServed	dbr:Australian_Capital_Territory
+dbo:owner	dbr:Seven_Group_Holdings
+dbr:WesTrac	
+dbo:regionServed	dbr:South_East_Queensland
+dbo:owner	dbr:Queensland_Government
+dbr:Energex	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Esure
+dbr:Gocompare.com	
+dbo:regionServed	dbr:Ahmedabad
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Vardis_Vardinogiannis
+dbr:Avin_International_S.A.	
+dbo:regionServed	dbr:Verkehrsverbund_Rhein-Mosel
+dbo:owner	dbr:Westerwaldbahn_GmbH
+dbr:Vectus_Verkehrsgesellschaft	
+dbo:regionServed	dbr:Shenzhen
+dbo:owner	dbr:Hong_Kong_Government
+dbr:MTR_Corporation	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Mars,_Incorporated
+dbr:Nutro_Products	
+dbo:regionServed	dbr:Dickson_Street
+dbo:owner	dbr:Arkansas_State_Highway_and_Transportation_Department
+dbr:Razorback_Transit	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Vivendi
+dbr:StudioCanal	
+dbo:regionServed	dbr:Zimbabwe
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Jaguar_Land_Rover
+dbr:Chery_Jaguar_Land_Rover	
+dbo:regionServed	dbr:Montenegro
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbr:The_United_Group	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:SouthPeak_Games
+dbr:Gamecock_Media_Group	
+dbo:regionServed	dbr:English_Channel
+dbo:owner	dbr:SNCF
+dbr:SeaFrance	
+dbo:regionServed	dbr:Newcastle,_New_South_Wales
+dbo:owner	dbr:Government_of_New_South_Wales
+dbr:EnergyAustralia_(state_government_enterprise)	
+dbo:regionServed	dbr:Kuyavian-Pomeranian_Voivodeship
+dbo:owner	dbr:DB_Schenker_Rail_Polska
+dbr:Arriva_RP	
+dbo:regionServed	dbr:Australasia
+dbo:owner	dbr:John_C._Malone
+dbr:Lionsgate	
+dbo:regionServed	dbr:Middle_East
+dbo:owner	dbr:Shogakukan
+dbr:Viz_Media_Europe	
+dbo:regionServed	dbr:Belgium
+dbo:owner	dbr:Mediterranean_Shipping_Company
+dbr:Crossrail_Benelux	
+dbo:regionServed	dbr:Croatia
+dbo:owner	dbr:The_European_Bank_for_Reconstruction_and_Development
+dbr:The_United_Group	
+dbo:regionServed	dbr:Worldwide
+dbo:owner	dbr:Comcast
+dbr:Universal_Pictures_Home_Entertainment	
+dbo:regionServed	dbr:Espírito_Santo
+dbo:owner	dbr:Vale_(mining_company)
+dbr:Samarco	
+dbo:regionServed	dbr:Frankfurt
+dbo:owner	dbr:Hellenic_Financial_Stability_Fund
+dbr:Piraeus_Bank	
+dbo:regionServed	dbr:Warsaw_metropolitan_area
+dbo:owner	dbr:City_of_Warsaw
+dbr:Szybka_Kolej_Miejska_(Warsaw)	
+dbo:regionServed	dbr:New_Zealand
+dbo:owner	dbr:Sony
+dbr:Bandit.fm	
+dbo:regionServed	dbr:Malta
+dbo:owner	dbr:Nationalist_Party_(Malta)
+dbr:Media.link_Communications	
+dbo:regionServed	dbr:Canada
+dbo:owner	<http://www.kentww.com/>
+dbr:By_Nature	
+dbo:regionServed	dbr:France
+dbo:owner	dbr:Sysco
+dbr:Brake_Bros	
+dbo:regionServed	dbr:Saint_Petersburg
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:Tochigi_Prefecture
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:North_Korea
+dbo:owner	dbr:Ryonbong
+dbr:Pyeonghwa_Motors	
+dbo:regionServed	dbr:Hong_Kong
+dbo:owner	dbr:Lindsay_Fox
+dbr:Linfox	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Star_India
+dbr:Hotstar	
+dbo:regionServed	dbr:Neendor
+dbo:owner	dbr:Rajasthan_State_Road_Transport_Corporation
+dbr:Jaipur_City_Transport_Services_Limited	
+dbo:regionServed	dbr:Japan
+dbo:owner	dbr:Sogo_&_Seibu
+dbr:Loft_(store)	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Private_sector
+dbr:China_Minsheng_Bank	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:IiNet
+dbr:Terria_(consortium)	
+dbo:regionServed	dbr:Lower_Silesia
+dbo:owner	dbr:Lower_Silesian_Voivodship
+dbr:Koleje_Dolnośląskie	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Norsk_Medisinaldepot
+dbr:Ditt_Apotek	dbr:Vitusapotek	
+dbo:regionServed	dbr:Chugoku_region
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Wawne
+dbo:owner	dbr:Stagecoach_Group
+dbr:Stagecoach_in_Hull	
+dbo:regionServed	dbr:Cameroon
+dbo:owner	dbr:Government_of_Cameroon
+dbr:Cameroon_Radio_Television	
+dbo:regionServed	dbr:Cape_Verde
+dbo:owner	dbr:21st_Century_Fox
+dbr:Fox_Networks_Group_Portugal	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Government_of_Denmark
+dbr:SAS_Group	
+dbo:regionServed	dbr:Thane
+dbo:owner	dbr:Sanjeev_Kapoor
+dbr:Stir_Crazy_Thane	
+dbo:regionServed	dbr:New_South_Wales
+dbo:owner	dbr:NSW_Electricity_Networks
+dbr:TransGrid	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Virgin_Group
+dbr:Virgin_Active	dbr:Virgin_Money	
+dbo:regionServed	dbr:Bangladesh
+dbo:owner	dbr:Naspers
+dbr:Ekhanei.com	
+dbo:regionServed	dbr:Netherlands
+dbo:owner	dbr:TenneT
+dbr:NOVEC	
+dbo:regionServed	dbr:Pakistan
+dbo:owner	dbr:Government_of_India
+dbr:Indian_Railways	
+dbo:regionServed	dbr:Greater_Toronto_Area
+dbo:owner	dbr:Alphabet_Inc.
+dbr:BufferBox	
+dbo:regionServed	dbr:South_America
+dbo:owner	dbr:The_J.M._Smucker_Company
+dbr:Big_Heart_Pet_Brands	
+dbo:regionServed	dbr:Malaysia
+dbo:owner	dbr:Government_of_Malaysia
+dbr:Petronas	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Chang'an_Automobile_Group
+dbr:Changan_Ford_Mazda	
+dbo:regionServed	dbr:Vietnam
+dbo:owner	dbr:Hutchison_Asia_Telecom_Group
+dbr:Vietnamobile	
+dbo:regionServed	dbr:Atlanta_metropolitan_area
+dbo:owner	dbr:Google
+dbr:Google_Fiber	
+dbo:regionServed	dbr:Spain
+dbo:owner	dbr:Goldman_Sachs
+dbr:Travelodge_UK	
+dbo:regionServed	dbr:Denmark
+dbo:owner	dbr:Statoil_Fuel_&_Retail
+dbr:1-2-3_(fuel_station)	
+dbo:regionServed	dbr:Latvia
+dbo:owner	dbr:Government_of_Estonia
+dbr:Eesti_Energia	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Alliance_Entertainment
+dbr:NCircle_Entertainment	
+dbo:regionServed	dbr:Fukui_Prefecture
+dbo:owner	dbr:Nippon_Life_Insurance_Company
+dbr:Kansai_Electric_Power_Company	
+dbo:regionServed	dbr:Iowa
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:UAE
+dbo:owner	dbr:Levine_Leichtman_Capital_Partners
+dbr:Fastsigns	
+dbo:regionServed	dbr:Mussoorie
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:Italy
+dbo:owner	dbr:Ministry_of_Economy_and_Finance_(Italy)
+dbr:RAI	dbr:ENAV	dbr:Consip	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Eurobank_Ergasias
+dbr:Eurobank_a.d.	
+dbo:regionServed	dbr:Missouri
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:Sindh
+dbo:owner	dbr:University_of_Sindh
+dbr:Institute_of_Sindhology	
+dbo:regionServed	dbr:Northeastern_United_States
+dbo:owner	dbr:David_Normandin
+dbr:Braun's_Express	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Vector_Group
+dbr:Liggett_Group	
+dbo:regionServed	dbr:Central_Coast,_New_South_Wales
+dbo:owner	dbr:Government_of_New_South_Wales
+dbr:EnergyAustralia_(state_government_enterprise)	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:Lesaffre
+dbr:Red_Star_Yeast	
+dbo:regionServed	dbr:Canterbury_Region
+dbo:owner	dbr:Christchurch_City_Council
+dbr:Christchurch_City_Holdings	
+dbo:regionServed	dbr:New_Zealand
+dbo:owner	dbr:Lindsay_Fox
+dbr:Linfox	
+dbo:regionServed	dbr:Pakistan
+dbo:owner	dbr:State_Council_of_the_People's_Republic_of_China
+dbr:China_Mobile	
+dbo:regionServed	dbr:Western_Europe
+dbo:owner	dbr:Accell
+dbr:Sparta_B.V.	
+dbo:regionServed	dbr:Middle_East
+dbo:owner	dbr:Hitachi
+dbr:Hitachi_Construction_Machinery_(Europe)	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:owner	dbr:Joy_Alukkas
+dbr:Joyalukkas	
+dbo:regionServed	dbr:Ghana
+dbo:owner	dbr:Barclays
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Andhra_Pradesh
+dbo:owner	dbr:Government_of_Andhra_Pradesh
+dbr:Transmission_Corporation_of_Andhra_Pradesh	
+dbo:regionServed	dbr:Cayman_Islands
+dbo:owner	dbr:Corpbanca
+dbr:Helm_Bank	
+dbo:regionServed	dbr:Ukraine
+dbo:owner	dbr:Weather_Investments_II
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Gurgaon
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:Zimbabwe
+dbo:owner	dbr:Telenor
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Syria
+dbo:owner	dbr:Cabinet_of_Syria
+dbr:Commercial_Bank_of_Syria	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Levine_Leichtman_Capital_Partners
+dbr:Fastsigns	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Intesa_Sanpaolo
+dbr:Banca_Intesa_Beograd	
+dbo:regionServed	dbr:France
+dbo:owner	dbr:British_Rail
+dbr:Sealink	
+dbo:regionServed	dbr:Slovakia
+dbo:owner	dbr:Airfield_Holding_B.V.
+dbr:M7_Group_S.A.	
+dbo:regionServed	dbr:Tokyo
+dbo:owner	dbr:Shinagawa,_Tokyo
+dbr:Rinkai_Line__Tokyo_Waterfront_Area_Rapid_Transit東京臨海高速鉄道株式会社__1	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Fox_Entertainment_Group
+dbr:Fox_Television_Stations	
+dbo:regionServed	dbr:Jerrabomberra,_New_South_Wales
+dbo:owner	dbr:ComfortDelGro_Cabcharge
+dbr:Qcity_Transit	
+dbo:regionServed	dbr:France
+dbo:owner	dbr:Vivendi
+dbr:StudioCanal	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Corpbanca
+dbr:Helm_Bank	
+dbo:regionServed	dbr:Bulgaria
+dbo:owner	dbr:Worker_cooperative
+dbr:Egged_(company)	
+dbo:regionServed	dbr:International
+dbo:owner	dbr:Poju_Zabludowicz
+dbr:Tamares_Group	
+dbo:regionServed	dbr:Port_of_Antwerp
+dbo:owner	dbr:Mediterranean_Shipping_Company
+dbr:Crossrail_Benelux	
+dbo:regionServed	dbr:New_York
+dbo:owner	dbr:The_Blackstone_Group
+dbr:BankUnited	
+dbo:regionServed	dbr:Denmark
+dbo:owner	dbr:KFI_Erhvervsdrivende_Fond
+dbr:Dagrofa	
+dbo:regionServed	dbr:Kyrgyzstan
+dbo:owner	dbr:Bertofan_Investments
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Greenland
+dbo:owner	dbr:KFI_Erhvervsdrivende_Fond
+dbr:Dagrofa	
+dbo:regionServed	dbr:Ibaraki_Prefecture
+dbo:owner	dbr:Dai-ichi_Life
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Utah
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:Krasnoyarsk
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:Switzerland
+dbo:owner	dbr:Canal+_Group
+dbr:StudioCanal	
+dbo:regionServed	dbr:State_of_Palestine
+dbo:owner	dbr:Paltel_Group
+dbr:Jawwal_Telecom	
+dbo:regionServed	dbr:Georgia_(U.S._state)
+dbo:owner	dbr:Kroger
+dbr:Harris_Teeter	
+dbo:regionServed	dbr:Tohoku_region
+dbo:owner	dbr:The_Bank_of_Tokyo-Mitsubishi_UFJ
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:City_of_Toronto
+dbr:Toronto_Hydro	
+dbo:regionServed	dbr:Toa_Baja
+dbo:owner	dbr:Liberty_Global
+dbr:OneLink_Communications	
+dbo:regionServed	dbr:Czech_Republic
+dbo:owner	dbr:KBC_Bank
+dbr:Československá_obchodní_banka	
+dbo:regionServed	dbr:Scandinavia
+dbo:owner	dbr:Norwegian_State_Railways
+dbr:Linx_(railway_company)	dbr:CargoNet	
+dbo:regionServed	dbr:Denmark
+dbo:owner	dbr:Hakon_Invest
+dbr:ICA_Gruppen	
+dbo:regionServed	dbr:Hokuriku_region
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Nevada
+dbo:owner	dbr:SBE_(company)
+dbr:Umami_Burger	
+dbo:regionServed	dbr:Tajikistan
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Hong_Kong
+dbo:owner	dbr:Keppel_Corporation
+dbr:Asia_Airfreight_Terminal	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:21st_Century_Fox
+dbr:Hotstar	
+dbo:regionServed	dbr:Singapore
+dbo:owner	dbr:Brait_SE
+dbr:Virgin_Active	
+dbo:regionServed	dbr:Florida
+dbo:owner	dbr:Kroger
+dbr:Harris_Teeter	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:Megaliner_Group
+dbr:Mega-Anime	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Leonard_Green_&_Partners
+dbr:Life_Time_Fitness	
+dbo:regionServed	dbr:Sweden
+dbo:owner	dbr:Kooperativa_Förbundet
+dbr:Coop_Forum	
+dbo:regionServed	dbr:Kanto_region
+dbo:owner	dbr:Mizuho_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Hokuriku_region
+dbo:owner	dbr:Nippon_Life
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Hokkaido
+dbo:owner	dbr:Japan_Railway_Construction,_Transport_and_Technology_Agency
+dbr:Hokkaido_Railway_Company	
+dbo:regionServed	dbr:Tanzania
+dbo:owner	dbr:Barclays
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Western_Australia
+dbo:owner	dbr:Seven_Group_Holdings
+dbr:WesTrac	
+dbo:regionServed	dbr:Athens
+dbo:owner	dbr:Marfin_Investment_Group
+dbr:Attica_Group	
+dbo:regionServed	dbr:Hong_Kong
+dbo:owner	dbr:State_Council_of_the_People's_Republic_of_China
+dbr:China_Mobile	
+dbo:regionServed	dbr:Northern_Africa
+dbo:owner	dbr:Vardis_Vardinogiannis
+dbr:Motor_Oil_Hellas	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:owner	dbr:China_Merchants_Group
+dbr:China_Merchants_Port	dbr:China_Merchants_Energy_Shipping	
+dbo:regionServed	dbr:London
+dbo:owner	dbr:Landry's,_Inc.
+dbr:Bubba_Gump_Shrimp_Company	
+dbo:regionServed	dbr:Greece
+dbo:owner	dbr:Telenor
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Brazil
+dbo:owner	dbr:Grupo_Planeta
+dbr:Planeta_DeAgostini	
+dbo:regionServed	dbr:Idaho
+dbo:owner	dbr:Berkshire_Hathaway
+dbr:PacifiCorp	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Government_of_Serbia
+dbr:Lasta_Beograd	
+dbo:regionServed	dbr:Tokyo
+dbo:owner	dbr:Nuclear_Damage_Compensation_and_Decommissioning_Facilitation_Corporation
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Cyprus
+dbo:owner	dbr:Sklavenitis_Market
+dbr:Marinopoulos_Market	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Daimler_AG
+dbr:Beijing_Benz	dbr:Denza	
+dbo:regionServed	dbr:Alabama
+dbo:owner	dbr:Bobby_Lowder
+dbr:Colonial_Bank	
+dbo:regionServed	dbr:Community_Blood_Services
+dbo:owner	<https://web.archive.org/web/20150224021845/http://www.bloodsystems.org/>
+dbr:United_Blood_Services	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Government_of_West_Bengal
+dbr:West_Bengal_Housing_Infrastructure_Development_Corporation	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Sigma_Pharmaceuticals_Limited
+dbr:Amcal	
+dbo:regionServed	dbr:Malaysia
+dbo:owner	dbr:Prasarana_Malaysia
+dbr:Rapid_Penang	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Norwegian_Confederation_of_Trade_Unions
+dbr:SpareBank_1	
+dbo:regionServed	dbr:Basque_Country_(autonomous_community)
+dbo:owner	dbr:Kutxabank
+dbr:Euskaltel	
+dbo:regionServed	dbr:Tokai_region
+dbo:owner	dbr:The_Bank_of_Tokyo-Mitsubishi_UFJ
+dbr:Central_Japan_Railway_Company	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:NRDC_Equity_Partners
+dbr:Saks,_Inc.	dbr:Hudson's_Bay_Trading_Company	
+dbo:regionServed	dbr:Mexico
+dbo:owner	dbr:General_Motors
+dbr:Cadillac	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Wyndham_Worldwide
+dbr:Super_8_Motels	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:MidOcean_Partners
+dbr:LegalShield	
+dbo:regionServed	dbr:Outer_Hebrides
+dbo:owner	dbr:Scottish_Government
+dbr:Caledonian_Maritime_Assets	dbr:Caledonian_MacBrayne	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Apax_Partners
+dbr:Rue21	
+dbo:regionServed	dbr:Riau_Islands
+dbo:owner	dbr:Temasek_Holdings
+dbr:Mediacorp	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:BSH_Hausgeräte
+dbr:Pitsos	
+dbo:regionServed	dbr:Shizuoka_Prefecture
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbr:East_Japan_Railway_Company	dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Steinway_Musical_Instruments
+dbr:Vincent_Bach_Corporation	
+dbo:regionServed	dbr:Lithuania
+dbo:owner	dbr:Government_of_Estonia
+dbr:Eesti_Energia	
+dbo:regionServed	dbr:Salt_Lake_City,_Utah
+dbo:owner	dbr:Alphabet_Inc.
+dbr:Google_Fiber	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Samsung
+dbr:SmartThings	
+dbo:regionServed	dbr:Shizuoka_Prefecture
+dbo:owner	dbr:The_Bank_of_Tokyo-Mitsubishi_UFJ
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Portugal
+dbo:owner	dbr:NOS_(Portuguese_media_company)
+dbr:Dreamia	
+dbo:regionServed	dbr:Laos
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Mainland_China
+dbo:owner	dbr:People's_Republic_of_China
+dbr:China_Post	dbr:China_Telecom	dbr:Jinjiang_International	
+dbo:regionServed	dbr:Portugal
+dbo:owner	dbr:21st_Century_Fox
+dbr:Fox_Networks_Group_Portugal	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:Sampo_Group
+dbr:If_P&C_Insurance	
+dbo:regionServed	dbr:Australasia
+dbo:owner	dbr:Liberty_Global
+dbr:Lionsgate	
+dbo:regionServed	dbr:Kentucky
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Brait_SE
+dbr:Virgin_Active	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:owner	dbr:European_Bank_for_Reconstruction_and_Development
+dbr:Komercijalna_banka	
+dbo:regionServed	dbr:New_York_(state)
+dbo:owner	dbr:Wayne_Lytle
+dbr:Animusic	
+dbo:regionServed	dbr:Vancouver
+dbo:owner	dbr:Virtuos
+dbr:Sparx_Animation_Studios	
+dbo:regionServed	dbr:Chiba_Prefecture
+dbo:owner	dbr:Dai-ichi_Life
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Government_of_Portland,_Oregon
+dbo:owner	dbr:Portland_Traction_Company
+dbr:Rose_City_Transit	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Sparebanken_Hedmark
+dbr:SpareBank_1	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Sichuan
+dbr:Sichuan_Radio_and_Television	
+dbo:regionServed	dbr:Queensland
+dbo:owner	dbr:Quick_Service_Restaurant_Holdings
+dbr:Chooks_Fresh_&_Tasty	
+dbo:regionServed	dbr:Niigata_Prefecture
+dbo:owner	dbr:Mizuho_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:owner	dbr:Hunan
+dbr:Hunan_Broadcasting_System	
+dbo:regionServed	dbr:Tanzania
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Mars,_Incorporated
+dbr:The_Goodlife_Recipe	dbr:Nutro_Products	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Baosteel_Group
+dbr:Wuhan_Iron_and_Steel_Corporation	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Reckitt_Benckiser
+dbr:Mortein	
+dbo:regionServed	dbr:Southampton
+dbo:owner	dbr:M&G_Investments
+dbr:Red_Funnel	
+dbo:regionServed	dbr:Hokuriku_region
+dbo:owner	dbr:The_Bank_of_Tokyo-Mitsubishi_UFJ
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Government_of_Sweden
+dbr:SAS_Group	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Kingfisher_plc
+dbr:Big_W_(UK_Chain)	dbr:Music_and_Video_Club	
+dbo:regionServed	dbr:Pittsboro,_NC
+dbo:owner	dbr:Walgreens
+dbr:Kerr_Drug	
+dbo:regionServed	dbr:Hong_Kong
+dbo:owner	dbr:China_Everbright_Group
+dbr:China_Everbright_Limited	
+dbo:regionServed	dbr:Delaware
+dbo:owner	dbr:Kroger
+dbr:Harris_Teeter	
+dbo:regionServed	dbr:Peterborough
+dbo:owner	dbr:Transit_Systems
+dbr:Go_Whippet	
+dbo:regionServed	dbr:Northwest_Arkansas_Mall
+dbo:owner	dbr:Arkansas_State_Highway_and_Transportation_Department
+dbr:Razorback_Transit	
+dbo:regionServed	dbr:Vietnam
+dbo:owner	dbr:Lindsay_Fox
+dbr:Linfox	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:SNCF
+dbr:SeaFrance	
+dbo:regionServed	dbr:Inner_Hebrides
+dbo:owner	dbr:Scottish_Government
+dbr:Caledonian_Maritime_Assets	dbr:Caledonian_MacBrayne	
+dbo:regionServed	dbr:Tokyo
+dbo:owner	dbr:JR_East
+dbr:Rinkai_Line__Tokyo_Waterfront_Area_Rapid_Transit東京臨海高速鉄道株式会社__1	
+dbo:regionServed	dbr:Bassi,_India
+dbo:owner	dbr:Rajasthan_State_Road_Transport_Corporation
+dbr:Jaipur_City_Transport_Services_Limited	
+dbo:regionServed	dbr:National_Highways_of_Pakistan
+dbo:owner	dbr:Emirates_Telecommunications_Corporation
+dbr:Ufone	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:owner	dbr:John_Timpson_(businessman)
+dbr:Timpson_(retailer)	
+dbo:regionServed	dbr:New_Zealand
+dbo:owner	dbr:Customers
+dbr:The_Co-operative_Bank_(New_Zealand)	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Samsung
+dbr:SmartThings	
+dbo:regionServed	dbr:Thailand
+dbo:owner	dbr:Ministry_of_Information_and_Communication_Technology_(Thailand)
+dbr:Thailand_Post	
+dbo:regionServed	dbr:Argentina
+dbo:owner	dbr:Government_of_Argentina
+dbr:ARSAT	
+dbo:regionServed	dbr:Sweden
+dbo:owner	dbr:Time_Warner
+dbr:Turner_Broadcasting_System_Sweden	
+dbo:regionServed	dbr:Central_America
+dbo:owner	dbr:Marfin_Investment_Group
+dbr:Vivartia	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:Ayala_Corporation
+dbr:Integrated_Micro-Electronics,_Inc.	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Sony_Pictures_Networks
+dbr:Sony_LIV	
+dbo:regionServed	dbr:Great_Britain
+dbo:owner	dbr:Virgin_Group
+dbr:Virgin_Unite	
+dbo:regionServed	dbr:Shin'etsu_region
+dbo:owner	dbr:The_Bank_of_Tokyo-Mitsubishi_UFJ
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Ukraine
+dbo:owner	dbr:Oleh_Babayev
+dbr:Kremenchukm'yaso	
+dbo:regionServed	dbr:Tomsk
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:Belchertown,_Massachusetts
+dbo:owner	dbr:Pioneer_Valley_Transit_Authority
+dbr:University_of_Massachusetts_Transportation_Services	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Lenovo
+dbr:Medion	
+dbo:regionServed	dbr:Mexico
+dbo:owner	dbr:The_Coca-Cola_Company
+dbr:Jugos_del_Valle	
+dbo:regionServed	dbr:Dunedin
+dbo:owner	dbr:JUCY
+dbr:YourDrive	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:Daimler_AG
+dbr:Thomas_Built_Buses	
+dbo:regionServed	dbr:Mainland_China
+dbo:owner	dbr:China_Everbright_Group
+dbr:China_Everbright_Limited	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Andrew_Michael_(entrepreneur)
+dbr:Bark_(company)	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Germany
+dbo:owner	dbr:Ahold_Delhaize
+dbr:Albert_Heijn	
+dbo:regionServed	dbr:Montenegro
+dbo:owner	dbr:The_European_Bank_for_Reconstruction_and_Development
+dbr:The_United_Group	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:Iskander_Makhmudov
+dbr:Transmashholding	
+dbo:regionServed	dbr:Washington_(state)
+dbo:owner	dbr:Berkshire_Hathaway
+dbr:PacifiCorp	
+dbo:regionServed	dbr:New_Zealand
+dbo:owner	dbr:Reckitt_Benckiser
+dbr:Mortein	
+dbo:regionServed	dbr:Isle_of_Wight
+dbo:owner	dbr:British_Rail
+dbr:Sealink	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:Gazprom
+dbr:Gazprom_Promgaz	
+dbo:regionServed	dbr:Salt_Lake_City,_Utah
+dbo:owner	dbr:Google
+dbr:Google_Fiber	
+dbo:regionServed	dbr:Switzerland
+dbo:owner	dbr:RTL_interactive
+dbr:Wer-kennt-wen	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:General_Motors
+dbr:SAIC-GM-Wuling	
+dbo:regionServed	dbr:Thailand
+dbo:owner	dbr:Lindsay_Fox
+dbr:Linfox	
+dbo:regionServed	dbr:Buenos_Aires_Province
+dbo:owner	dbr:Grupo_Emepa
+dbr:Ferrocentral	
+dbo:regionServed	dbr:New_Zealand
+dbo:owner	dbr:Time_Warner
+dbr:Turner_International_Australia	
+dbo:regionServed	dbr:Philippines
+dbo:owner	dbr:Ford_Motor_Company
+dbr:Ford_Motor_Company_Philippines	
+dbo:regionServed	dbr:Argentina
+dbo:owner	dbr:Telefónica
+dbr:Tuenti	
+dbo:regionServed	dbr:Ireland
+dbo:owner	dbr:NBC_Sports_Group
+dbr:GolfNow	
+dbo:regionServed	dbr:Ashantiland
+dbo:owner	dbr:Manhyia_Palace
+dbr:Great_Consolidated_Diamonds	
+dbo:regionServed	dbr:Romania
+dbo:owner	dbr:RCS_&_RDS
+dbr:Dance_FM	
+dbo:regionServed	dbr:Croatia
+dbo:owner	dbr:Mediavision_LTD
+dbr:New_Europe_Market	
+dbo:regionServed	dbr:Philippines
+dbo:owner	dbr:San_Miguel_Pure_Foods_Company
+dbr:Magnolia_(company)	
+dbo:regionServed	dbr:Peru
+dbo:owner	dbr:SABMiller
+dbr:Bavaria_Brewery_(Colombia)	
+dbo:regionServed	dbr:Toronto_Pearson_International_Airport
+dbo:owner	dbr:Toronto_Transit_Commission
+dbr:Wheel-Trans	
+dbo:regionServed	dbr:Hong_Kong
+dbo:owner	dbr:Cheung_Kong_Property_Holdings
+dbr:Harbour_Plaza_Hotel_Management	
+dbo:regionServed	dbr:Ghana
+dbo:owner	dbr:Government_of_Ghana
+dbr:Ghana_Broadcasting_Corporation	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:ISUZU
+dbr:Jianxi_Isuzu_Motors	
+dbo:regionServed	dbr:Santa_Fe_Province
+dbo:owner	dbr:Private_company
+dbr:Tucumán_Ferrocarriles	
+dbo:regionServed	dbr:Halifax_Regional_Municipality
+dbo:owner	dbr:Nova_Scotia
+dbr:Halifax_Harbour_Bridges	
+dbo:regionServed	dbr:Gunma_Prefecture
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Malaysia
+dbo:owner	dbr:701Search
+dbr:Mudah.my	
+dbo:regionServed	dbr:Washington_(U.S._state)
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:Astrahan
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:Nehru_Centre
+dbo:owner	dbr:Ministry_of_Information_and_Broadcasting_(India)
+dbr:National_Film_Development_Corporation_of_India	
+dbo:regionServed	dbr:South_India
+dbo:owner	dbr:Kalyan_Group
+dbr:Kalyan_Silks	
+dbo:regionServed	dbr:New_York
+dbo:owner	dbr:Wellcome_Trust
+dbr:BankUnited	
+dbo:regionServed	dbr:Commonwealth_of_Independent_States
+dbo:owner	dbr:General_Motors
+dbr:GM-AvtoVAZ	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:owner	dbr:Ministry_of_Finance_of_the_People's_Republic_of_China
+dbr:China_Huarong_Asset_Management	dbr:China_Re	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Government_of_Kerala
+dbr:Oushadhi	dbr:Kerala_Gramin_Bank	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:BNY_Mellon
+dbr:CIBC_Mellon	
+dbo:regionServed	dbr:Toronto
+dbo:owner	dbr:Toronto_Transit_Commission
+dbr:Wheel-Trans	dbr:Gray_Coach	
+dbo:regionServed	dbr:Tula,_Russia
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Aalto_University
+dbr:Aalto_University_Executive_Education	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Hyundai_Motor_Company
+dbr:Beijing_Hyundai	
+dbo:regionServed	dbr:North_Africa
+dbo:owner	dbr:Remon_Magar
+dbr:Egyptian_Arts_Group	
+dbo:regionServed	dbr:Santiago_del_Estero_Province
+dbo:owner	dbr:Private_company
+dbr:Tucumán_Ferrocarriles	
+dbo:regionServed	dbr:Seychelles
+dbo:owner	dbr:Barclays
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Time_Warner
+dbr:Turner_International_Australia	
+dbo:regionServed	dbr:UK
+dbo:owner	dbr:Government_of_the_United_Kingdom
+dbr:NRAM_Limited	
+dbo:regionServed	dbr:Southern_Asia
+dbo:owner	dbr:Turner_Broadcasting_System
+dbr:Turner_Broadcasting_System_Asia_Pacific	
+dbo:regionServed	dbr:Brazil
+dbo:owner	dbr:Equinix
+dbr:Alog_Datacenters	
+dbo:regionServed	dbr:North_Bay,_Ontario
+dbo:owner	dbr:Toronto_Transit_Commission
+dbr:Gray_Coach	
+dbo:regionServed	dbr:Beckley,_West_Virginia
+dbo:owner	dbr:Greer_Industries
+dbr:West_Virginia_Radio_Corporation	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Del_Monte_Foods
+dbr:Contadina	
+dbo:regionServed	dbr:Verkehrsverbund_Rhein-Mosel
+dbo:owner	dbr:Hessische_Landesbahn
+dbr:Vectus_Verkehrsgesellschaft	
+dbo:regionServed	dbr:North_Dakota
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:Poland,_Slovakia
+dbo:owner	dbr:Naspers
+dbr:Allegro_(auction_website)	
+dbo:regionServed	dbr:Bahamas
+dbo:owner	dbr:Cable_&_Wireless_Communications
+dbr:BTC_(Bahamas)	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Government_of_Tamil_Nadu
+dbr:Pallavan_Grama_Bank	dbr:Tamil_Nadu_Industrial_Development_Corporation	dbr:TNEB	dbr:Tamil_Nadu_Horticultural_Producers_Co-operative_Enterprises_Limited	dbr:Tamil_Nadu_Horticulture_Development_Agency	dbr:Tamil_Nadu_State_Agricultural_Marketing_Board	dbr:Tamil_Nadu_Tourism_Development_Corporation	dbr:Tamil_Nadu_Civil_Supplies_Corporation	
+dbo:regionServed	dbr:World
+dbo:owner	dbr:Vassilis_C._Constantakopoulos
+dbr:Costamare	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:ITV_plc
+dbr:Freeview_(UK)	dbr:ITV_Sport	dbr:ITV_Mobile	
+dbo:regionServed	dbr:Ireland
+dbo:owner	dbr:Canal+_Group
+dbr:StudioCanal	
+dbo:regionServed	dbr:Greek_Islands
+dbo:owner	dbr:Piraeus_Bank
+dbr:Hellenic_Seaways	
+dbo:regionServed	dbr:Tajikistan
+dbo:owner	dbr:Telenor
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:Government_of_Argentina
+dbr:ARSAT	
+dbo:regionServed	dbr:Cambodia
+dbo:owner	dbr:Telenor
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Central_African_Republic
+dbo:owner	dbr:Telenor
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Kalgoorlie
+dbo:owner	dbr:Keolis_Downer
+dbr:Australian_Transit_Enterprises	
+dbo:regionServed	dbr:Austria
+dbo:owner	dbr:Canal+_Group
+dbr:StudioCanal	
+dbo:regionServed	dbr:Palmerston_North
+dbo:owner	dbr:JUCY
+dbr:YourDrive	
+dbo:regionServed	dbr:Northampton,_Massachusetts
+dbo:owner	dbr:Five_College_Consortium
+dbr:University_of_Massachusetts_Transportation_Services	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:The_Arena_Group_UK_Ltd
+dbr:Planet_Ice	
+dbo:regionServed	dbr:Udaipur
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:TransGroup_AC
+dbr:Transmashholding	
+dbo:regionServed	dbr:Qatar
+dbo:owner	dbr:Joy_Alukkas
+dbr:Joyalukkas	
+dbo:regionServed	dbr:Saitama_Prefecture
+dbo:owner	dbr:Dai-ichi_Life
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Montenegro
+dbo:owner	dbr:Carlsberg_Group
+dbr:Carlsberg_Srbija	
+dbo:regionServed	dbr:Utah
+dbo:owner	dbr:The_Church_of_Jesus_Christ_of_Latter-day_Saints
+dbr:Deseret_Telegraph_Company	
+dbo:regionServed	dbr:Commonwealth_of_Independent_States
+dbo:owner	dbr:AvtoVAZ
+dbr:GM-AvtoVAZ	
+dbo:regionServed	dbr:Tokai_region
+dbo:owner	dbr:The_Master_Trust_Bank_of_Japan
+dbr:Central_Japan_Railway_Company	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Liberty_Media
+dbr:Sirius_XM_Holdings	
+dbo:regionServed	dbr:West_Bank
+dbo:owner	dbr:Worker_cooperative
+dbr:Egged_(company)	
+dbo:regionServed	dbr:Yamanashi_Prefecture
+dbo:owner	dbr:SSBT_OD05_OMNIBUS_ACCOUNT—TREATY_CLIENTS
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Shogakukan-Shueisha_Productions
+dbr:Viz_Media_Europe	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:OTP_Bank
+dbr:OTP_banka_Srbija	
+dbo:regionServed	dbr:Megabus_(United_States)
+dbo:owner	dbr:Coach_Canada
+dbr:Megabus_(North_America)	
+dbo:regionServed	dbr:Victoria_(Australia)
+dbo:owner	dbr:Tom_O'Toole
+dbr:Beechworth_Bakery	
+dbo:regionServed	dbr:Ecuador
+dbo:owner	dbr:Empresas_Copec
+dbr:Terpel	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:News_Corporation
+dbr:XYZnetworks	
+dbo:regionServed	dbr:South_America
+dbo:owner	dbr:Lindsay_G._Merrithew
+dbr:Stott_Pilates	
+dbo:regionServed	dbr:Texas
+dbo:owner	dbr:Bobby_Lowder
+dbr:Colonial_Bank	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Zhang_Yadong
+dbr:Taihe_Rye_Music	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Kalyan_Group
+dbr:Kalyan_Jewellers	
+dbo:regionServed	dbr:Mozambique
+dbo:owner	dbr:21st_Century_Fox
+dbr:Fox_Networks_Group_Portugal	
+dbo:regionServed	dbr:Middle_East
+dbo:owner	dbr:Shogakukan-Shueisha_Productions
+dbr:Viz_Media_Europe	
+dbo:regionServed	dbr:Kanto_region
+dbo:owner	dbr:The_Bank_of_Tokyo-Mitsubishi_UFJ
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Shizuoka_Prefecture
+dbo:owner	dbr:Mizuho_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Saitama_Prefecture
+dbo:owner	dbr:Nuclear_Damage_Compensation_and_Decommissioning_Facilitation_Corporation
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Bjørvika
+dbo:owner	dbr:Oslo_Port_Authority
+dbr:HAV_Eiendom	
+dbo:regionServed	dbr:California
+dbo:owner	dbr:Wayne_Lytle
+dbr:Animusic	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Marfin_Investment_Group
+dbr:Vivartia	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbr:The_United_Group	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Real_Mex_Restaurants
+dbr:Chevys_Fresh_Mex	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Sam_Wordsworth
+dbr:Dgtl_Concepts	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Time_Warner
+dbr:Turner_Broadcasting_System_Europe	
+dbo:regionServed	dbr:New_Zealand
+dbo:owner	dbr:Mars,_Incorporated
+dbr:Nutro_Products	
+dbo:regionServed	dbr:Kansai_region
+dbo:owner	dbr:The_Master_Trust_Bank_of_Japan
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Michigan
+dbo:owner	dbr:Burger_Time
+dbr:Hot_'n_Now	
+dbo:regionServed	dbr:Des_Voeux_Road
+dbo:owner	dbr:TVB
+dbr:Win's_Entertainment	
+dbo:regionServed	dbr:Middle_East
+dbo:owner	dbr:Lindsay_G._Merrithew
+dbr:Stott_Pilates	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Avenue_Capital_Group
+dbr:Travelodge_UK	
+dbo:regionServed	dbr:Chugoku_region
+dbo:owner	dbr:Japan_Trustee_Services_Bank
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Ireland
+dbo:owner	dbr:Boparan_Holdings
+dbr:2_Sisters_Food_Group	
+dbo:regionServed	dbr:East_Coast_of_the_United_States
+dbo:owner	dbr:Jim_Crockett
+dbr:Jim_Crockett_Promotions	
+dbo:regionServed	dbr:World
+dbo:owner	dbr:Synnex_Corporation
+dbr:Concentrix	
+dbo:regionServed	dbr:West_Midlands_(county)
+dbo:owner	dbr:Arriva_Midlands
+dbr:Midland_(bus_operator)	
+dbo:regionServed	dbr:Italy
+dbo:owner	dbr:Minoan_Lines
+dbr:Hellenic_Seaways	
+dbo:regionServed	dbr:Albania
+dbo:owner	dbr:Sklavenitis_Market
+dbr:Marinopoulos_Market	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:owner	dbr:Sysco
+dbr:Brake_Bros	
+dbo:regionServed	dbr:Hungary
+dbo:owner	dbr:Airfield_Holding_B.V.
+dbr:M7_Group_S.A.	
+dbo:regionServed	dbr:Nagano_Prefecture
+dbo:owner	dbr:Japan_Trustee_Services_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Albania
+dbo:owner	dbr:Hellenic_Financial_Stability_Fund
+dbr:Piraeus_Bank	
+dbo:regionServed	dbr:Kerala
+dbo:owner	dbr:Canara_Bank
+dbr:Kerala_Gramin_Bank	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:Marfin_Investment_Group
+dbr:Vivartia	
+dbo:regionServed	dbr:Germany
+dbo:owner	dbr:Walgreens_Boots_Alliance
+dbr:Alliance_Healthcare	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Norwegian_Ministry_of_Petroleum_and_Energy
+dbr:Enova_SF	
+dbo:regionServed	dbr:Scandinavia
+dbo:owner	dbr:Reitangruppen
+dbr:Uno-X	dbr:REMA_1000	
+dbo:regionServed	dbr:Hospet
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:South_Australia
+dbo:owner	dbr:Cheung_Kong_Infrastructure_Holdings
+dbr:SA_Power_Networks	
+dbo:regionServed	dbr:St_Ives,_Cambridgeshire
+dbo:owner	dbr:Transit_Systems
+dbr:Go_Whippet	
+dbo:regionServed	dbr:Tucumán_Province
+dbo:owner	dbr:Private_company
+dbr:Tucumán_Ferrocarriles	
+dbo:regionServed	dbr:Konak,_Izmir
+dbo:owner	dbr:İzmir_Municipality
+dbr:ESHOT	
+dbo:regionServed	dbr:Midwestern_United_States
+dbo:owner	dbr:Cynthia_Normandin
+dbr:Braun's_Express	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Shivinder_Mohan_Singh
+dbr:Fortis_Healthcare	
+dbo:regionServed	dbr:Hokuriku_region
+dbo:owner	dbr:Sumitomo_Mitsui_Trust_Holdings
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:South_West_England
+dbo:owner	dbr:Cheung_Kong_Infrastructure_Holdings
+dbr:Wales_&_West_Utilities	
+dbo:regionServed	dbr:Middle_East
+dbo:owner	dbr:Time_Warner
+dbr:Turner_Broadcasting_System_Europe	
+dbo:regionServed	dbr:Owen_Sound
+dbo:owner	dbr:Toronto_Transit_Commission
+dbr:Gray_Coach	
+dbo:regionServed	dbr:Morgantown,_West_Virginia
+dbo:owner	dbr:Greer_Industries
+dbr:West_Virginia_Radio_Corporation	
+dbo:regionServed	dbr:Baltic_Sea
+dbo:owner	dbr:3i
+dbr:Scandlines	
+dbo:regionServed	dbr:South_Asia
+dbo:owner	dbr:Government_of_India
+dbr:National_Insurance_Company	
+dbo:regionServed	dbr:Ibaraki_Prefecture
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Iowa
+dbo:owner	dbr:SpartanNash
+dbr:Family_Fare	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Shaw_Communications
+dbr:Shomi	
+dbo:regionServed	dbr:Israel
+dbo:owner	dbr:Aaron_Rubashkin
+dbr:Agriprocessors	
+dbo:regionServed	dbr:Guelph
+dbo:owner	dbr:Toronto_Transit_Commission
+dbr:Gray_Coach	
+dbo:regionServed	dbr:Manchester
+dbo:owner	dbr:The_Co-operative_Group
+dbr:Co-operative_College	
+dbo:regionServed	dbr:Latin_America
+dbo:owner	dbr:TimeWarner
+dbr:HBO_Latin_America_Group	
+dbo:regionServed	dbr:Wyoming
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Brookfield_Property_Partners
+dbr:Brookfield_Office_Properties	
+dbo:regionServed	dbr:Cottingham,_East_Riding_of_Yorkshire
+dbo:owner	dbr:Stagecoach_Group
+dbr:Stagecoach_in_Hull	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:SeaWorld_Parks_&_Entertainment
+dbr:Aquatica_(water_parks)	
+dbo:regionServed	dbr:Peru,_Indiana
+dbo:owner	dbr:Community_Health_Systems
+dbr:Lutheran_Health_Network	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:owner	dbr:Central_People's_Government
+dbr:CITIC_Group	dbr:Beijing_Urban_Construction_Investment_Development	dbr:China_Resources_Shenzhen_International_Trust	dbr:Guosen_Securities	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Woolworths_Group
+dbr:Big_W_(UK_Chain)	dbr:Music_and_Video_Club	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Capita
+dbr:Fire_Service_College	
+dbo:regionServed	dbr:Dover
+dbo:owner	dbr:SNCF
+dbr:SeaFrance	
+dbo:regionServed	dbr:Beijing
+dbo:owner	dbr:Hong_Kong_Government
+dbr:MTR_Corporation	
+dbo:regionServed	dbr:Santa_Fe_Province
+dbo:owner	dbr:Grupo_Emepa
+dbr:Ferrocentral	
+dbo:regionServed	dbr:Puducherry
+dbo:owner	dbr:Government_of_Tamil_Nadu
+dbr:Tamil_Nadu_State_Transport_Corporation	
+dbo:regionServed	dbr:Arizona
+dbo:owner	dbr:The_Church_of_Jesus_Christ_of_Latter-day_Saints
+dbr:Deseret_Telegraph_Company	
+dbo:regionServed	dbr:Yoshkar-Ola
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:Greater_Manchester
+dbo:owner	dbr:John_Laing_plc
+dbr:Greater_Manchester_Metro_Limited	
+dbo:regionServed	dbr:Shin'etsu_region
+dbo:owner	dbr:Mizuho_Corporate_Bank
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:World
+dbo:owner	dbr:Groupe_Acticall
+dbr:Sitel	
+dbo:regionServed	dbr:Oregon
+dbo:owner	dbr:Berkshire_Hathaway
+dbr:PacifiCorp	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Delta_Holding
+dbr:Niš-Ekspres	
+dbo:regionServed	dbr:Namibia
+dbo:owner	dbr:Barclays
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:New_South_Wales
+dbo:owner	dbr:Government_of_New_South_Wales
+dbr:Snowy_Hydro	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Statoil
+dbr:Naturkraft	
+dbo:regionServed	dbr:Scotland
+dbo:owner	dbr:Sea_Containers
+dbr:SeaCat	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Wuling_Motors
+dbr:SAIC-GM-Wuling	
+dbo:regionServed	dbr:Warringah_Council
+dbo:owner	dbr:Government_of_New_South_Wales
+dbr:Mackellar_County_Council	
+dbo:regionServed	dbr:World
+dbo:owner	dbr:Privately_held_company
+dbr:Transparent_Value	
+dbo:regionServed	dbr:Shizuoka_Prefecture
+dbo:owner	dbr:Mizuho_Corporate_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Kanagawa_Prefecture
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Quebec
+dbo:owner	dbr:Government_of_Quebec
+dbr:Hydro-Québec	
+dbo:regionServed	dbr:Nebraska
+dbo:owner	dbr:SpartanNash
+dbr:Family_Fare	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:Gazprom-Media
+dbr:Rutube	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:owner	dbr:Avenue_Capital_Group
+dbr:Travelodge_UK	
+dbo:regionServed	dbr:Burundi
+dbo:owner	dbr:Telenor
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Kerala
+dbo:owner	dbr:Government_of_India
+dbr:Kerala_Gramin_Bank	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:International_Finance_Corporation
+dbr:Komercijalna_banka	
+dbo:regionServed	dbr:Nairobi
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Sony_Pictures_Television
+dbr:CSC_Media_Group	
+dbo:regionServed	dbr:Province_of_Alessandria
+dbo:owner	<http://www.comune.torino.it/commercioeimpresa/partecipazioni-aziendali/schede/gtt.htm>
+dbr:Gruppo_Torinese_Trasporti	
+dbo:regionServed	dbr:Northampton,_Massachusetts
+dbo:owner	dbr:Pioneer_Valley_Transit_Authority
+dbr:University_of_Massachusetts_Transportation_Services	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:RZD
+dbr:Transmashholding	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Nuclear_Decommissioning_Authority
+dbr:Magnox_Ltd	
+dbo:regionServed	dbr:Thailand
+dbo:owner	dbr:Chulalongkorn_University
+dbr:Chulalongkorn_University_Book_Center	
+dbo:regionServed	dbr:Nagano_Prefecture
+dbo:owner	dbr:The_Bank_of_Tokyo-Mitsubishi_UFJ
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Telenor
+dbr:Norges_Televisjon	
+dbo:regionServed	dbr:Cambodia
+dbo:owner	dbr:Weather_Investments_II
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Sberbank_of_Russia
+dbr:Sberbank_Srbija	
+dbo:regionServed	dbr:Nashville,_Tennessee
+dbo:owner	dbr:Google
+dbr:Google_Fiber	
+dbo:regionServed	dbr:Bahrain
+dbo:owner	dbr:Joy_Alukkas
+dbr:Joyalukkas	
+dbo:regionServed	dbr:Turkey
+dbo:owner	dbr:Walgreens_Boots_Alliance
+dbr:Alliance_Healthcare	
+dbo:regionServed	dbr:Montenegro
+dbo:owner	dbr:Telekom_Srbija
+dbr:Telekom_Srbija	dbr:Mobile_Telephony_of_Serbia	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Terra_Firma_Capital_Partners
+dbr:Odeon_Cinemas	
+dbo:regionServed	dbr:Asia_Pacific
+dbo:owner	dbr:Doreen_Jaeger-Soong
+dbr:Hughes-Castell	
+dbo:regionServed	dbr:Armenia
+dbo:owner	dbr:Bertofan_Investments
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Highland_Creek_(Charlotte_neighborhood)
+dbo:owner	dbr:Google
+dbr:Google_Fiber	
+dbo:regionServed	dbr:Caribbean
+dbo:owner	dbr:Royal_Caribbean_Cruises_Ltd.
+dbr:Pullmantur_Cruises	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Hyundai_Motor_Company
+dbr:Hyundai_Motor_America	
+dbo:regionServed	dbr:Asia
+dbo:owner	dbr:Ayala_Corporation
+dbr:Integrated_Micro-Electronics,_Inc.	
+dbo:regionServed	dbr:United_States_of_America
+dbo:owner	dbr:Raycom_Media
+dbr:Raycom_Sports	
+dbo:regionServed	dbr:Greece
+dbo:owner	dbr:Weather_Investments_II
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Haridwar
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:Dubai
+dbo:owner	dbr:Kalyan_Group
+dbr:Kalyan_Silks	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Warburton_family
+dbr:Wimco_Villas	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Johan_H._Andresen_jr.
+dbr:Ferd_(company)	
+dbo:regionServed	dbr:North_Carolina
+dbo:owner	dbr:Lone_Star_Funds
+dbr:Southeastern_Grocers	
+dbo:regionServed	dbr:Nagano_Prefecture
+dbo:owner	dbr:Mizuho_Corporate_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Stockholm
+dbo:owner	dbr:Hong_Kong_Government
+dbr:MTR_Corporation	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Yucaipa_Companies
+dbr:Wild_Oats_Markets	
+dbo:regionServed	dbr:Río_Negro_Province
+dbo:owner	dbr:Camargo_Correa
+dbr:Ferrosur_Roca	
+dbo:regionServed	dbr:Indian_Subcontinent
+dbo:owner	dbr:The_J.M._Smucker_Company
+dbr:Big_Heart_Pet_Brands	
+dbo:regionServed	dbr:Bosnia_&_Herzegovina
+dbo:owner	dbr:Delhaize_Group
+dbr:Maxi_(Serbian_supermarket)	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Mazda
+dbr:Changan_Ford_Mazda	
+dbo:regionServed	dbr:Auckland_Region
+dbo:owner	dbr:Auckland_Regional_Council
+dbr:Auckland_Regional_Transport_Authority	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Yash_sonkar
+dbr:Fastrack	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Zhejiang
+dbr:Zhejiang_Radio_and_Television_Group	
+dbo:regionServed	dbr:Costa_Rica
+dbo:owner	dbr:SABMiller
+dbr:Bavaria_Brewery_(Colombia)	
+dbo:regionServed	dbr:Iowa
+dbo:owner	dbr:Gordon_Brothers_Group
+dbr:K's_Merchandise_Mart	
+dbo:regionServed	dbr:Japan
+dbo:owner	dbr:Time_Warner
+dbr:Hulu	
+dbo:regionServed	dbr:Poland
+dbo:owner	dbr:UPC_Broadband
+dbr:UPC_Polska	
+dbo:regionServed	dbr:Nairobi
+dbo:owner	dbr:Equity_Group_Holdings_Limited
+dbr:BebaPay	
+dbo:regionServed	dbr:Tohoku_region
+dbo:owner	dbr:Nippon_Life
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:CVC_Capital_Partners
+dbr:RAC_Limited	
+dbo:regionServed	dbr:Motorsport
+dbo:owner	dbr:Fuji_Heavy_Industries
+dbr:Subaru_Tecnica_International	
+dbo:regionServed	dbr:Paris
+dbo:owner	dbr:Dorian_Lord
+dbr:Lord_family	
+dbo:regionServed	dbr:Saitama_Prefecture
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Honda_Motor
+dbr:Guangqi_Honda	
+dbo:regionServed	dbr:Victoria_Harbour
+dbo:owner	dbr:Win's_Entertainment
+dbr:Ocean_Shores_Video	
+dbo:regionServed	dbr:Port_of_Antwerp
+dbo:owner	dbr:LKW_Walter
+dbr:Crossrail_Benelux	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:PepsiCo
+dbr:The_Smith's_Snackfood_Company	
+dbo:regionServed	dbr:Commonwealth_of_Independent_States
+dbo:owner	dbr:Megaliner_Group
+dbr:Mega-Anime	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:BMW
+dbr:BMW_Brilliance	
+dbo:regionServed	dbr:Isle_of_Man
+dbo:owner	dbr:Isle_of_Man_Government
+dbr:Isle_of_Man_Railway	dbr:Isle_of_Man_Transport	dbr:Isle_of_Man_Post_Office	
+dbo:regionServed	dbr:Germany
+dbo:owner	dbr:Ministry_of_Finance_(Netherlands)
+dbr:TenneT	
+dbo:regionServed	dbr:Slovakia
+dbo:owner	dbr:KBC_Bank
+dbr:Československá_obchodní_banka	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Liberty_Global
+dbr:Lionsgate	
+dbo:regionServed	dbr:Spain
+dbo:owner	dbr:SABMiller
+dbr:Bavaria_Brewery_(Colombia)	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:National_Bank_of_Greece
+dbr:Vojvođanska_banka	
+dbo:regionServed	dbr:Ecuador
+dbo:owner	dbr:Telefónica
+dbr:Tuenti	
+dbo:regionServed	dbr:Puerto_Rico
+dbo:owner	dbr:Highstar_Capital
+dbr:Aerostar_Airport_Holdings	
+dbo:regionServed	dbr:Zanzibar
+dbo:owner	dbr:Tanzanian_Government
+dbr:TANESCO	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Walgreens_Boots_Alliance
+dbr:Alliance_Healthcare	dbr:Boots_Opticians	
+dbo:regionServed	dbr:New_York
+dbo:owner	dbr:East_Rock_Endowment_Fund
+dbr:BankUnited	
+dbo:regionServed	dbr:Estonia
+dbo:owner	dbr:Tallinna_Kaubamaja
+dbr:Selver	
+dbo:regionServed	dbr:Australasia
+dbo:owner	dbr:Graeme_Hart
+dbr:Carter_Holt_Harvey	
+dbo:regionServed	dbr:Malaysia
+dbo:owner	dbr:MMC_Corporation_Berhad
+dbr:Malakoff_(power_company)	
+dbo:regionServed	dbr:Aegean_Sea
+dbo:owner	dbr:Grimaldi_Group
+dbr:Minoan_Lines	
+dbo:regionServed	dbr:Leicestershire
+dbo:owner	dbr:Wellglade_Group
+dbr:Trentbarton	
+dbo:regionServed	dbr:Japan
+dbo:owner	dbr:Keisei_Electric_Railway
+dbr:Airport_Transport_Service	
+dbo:regionServed	dbr:Greece
+dbo:owner	dbr:Bertofan_Investments
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Kansas
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:Argentina
+dbo:owner	dbr:Grupo_Planeta
+dbr:Planeta_DeAgostini	
+dbo:regionServed	dbr:Bangalore
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:Finland
+dbo:owner	dbr:Sampo_Group
+dbr:If_P&C_Insurance	
+dbo:regionServed	dbr:Luxembourg
+dbo:owner	dbr:Vivendi
+dbr:StudioCanal	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Susquehanna_Pfaltzgraff
+dbr:Susquehanna_Radio_Corporation	
+dbo:regionServed	dbr:Albania
+dbo:owner	dbr:Delhaize_Group
+dbr:Maxi_(Serbian_supermarket)	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:Telenor
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Australian_Capital_Territory
+dbo:owner	dbr:ComfortDelGro_Cabcharge
+dbr:Transborder_Express	
+dbo:regionServed	dbr:Denmark
+dbo:owner	dbr:Government_of_Sweden
+dbr:SJ_AB	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:JMCG
+dbr:Jianxi_Isuzu_Motors	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Alliance_Boots
+dbr:Alliance_Apotek	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Crédit_Agricole
+dbr:Crédit_Agricole_Srbija	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Telenor
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Ukraine
+dbo:owner	dbr:Megaliner_Group
+dbr:Mega-Anime	
+dbo:regionServed	dbr:Hungary
+dbo:owner	dbr:Government_of_Hungary
+dbr:MTVA_(Hungary)	
+dbo:regionServed	dbr:Dominican_Republic
+dbo:owner	dbr:Empresas_Copec
+dbr:Terpel	
+dbo:regionServed	dbr:British_Columbia
+dbo:owner	dbr:Government_of_British_Columbia
+dbr:BC_Hydro	dbr:Transportation_Investment_Corporation	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:General_Motors
+dbr:Cadillac	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Choice_Hotels
+dbr:Rodeway_Inn	
+dbo:regionServed	dbr:World
+dbo:owner	dbr:Investor
+dbr:Gravity_R&D	
+dbo:regionServed	dbr:Jaipur
+dbo:owner	dbr:Rajasthan_State_Road_Transport_Corporation
+dbr:Jaipur_City_Transport_Services_Limited	
+dbo:regionServed	dbr:Nepal
+dbo:owner	dbr:Ministry_of_Information_and_Communications_(Nepal)
+dbr:Film_Development_Board	
+dbo:regionServed	dbr:Netherlands
+dbo:owner	dbr:Intergamma
+dbr:Gamma_(store)	dbr:Karwei	
+dbo:regionServed	dbr:South_America
+dbo:owner	dbr:Volkswagen_Group
+dbr:Volkswagen_do_Brasil	
+dbo:regionServed	dbr:St_Neots
+dbo:owner	dbr:Transit_Systems
+dbr:Go_Whippet	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Bruno_Grollo
+dbr:Grocon	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:BT_Group
+dbr:BT_TV	dbr:BT_Business	dbr:BT_Consumer	dbr:BT_Wholesale	dbr:BT_Mobile	dbr:BT_MyDonate	
+dbo:regionServed	dbr:Kanto_region
+dbo:owner	dbr:Mizuho_Corporate_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Internacionale_Retail
+dbr:MK_One	
+dbo:regionServed	dbr:Wellington
+dbo:owner	dbr:JUCY
+dbr:YourDrive	
+dbo:regionServed	dbr:Ecuador
+dbo:owner	dbr:Grupo_Planeta
+dbr:Planeta_DeAgostini	
+dbo:regionServed	dbr:Gibraltar
+dbo:owner	dbr:Telekom_Slovenije
+dbr:Gibtelecom	
+dbo:regionServed	dbr:Sindhi_people
+dbo:owner	dbr:University_of_Sindh
+dbr:Institute_of_Sindhology	
+dbo:regionServed	dbr:Georgia_(U.S._state)
+dbo:owner	dbr:Bobby_Lowder
+dbr:Colonial_Bank	
+dbo:regionServed	dbr:Yamanashi_Prefecture
+dbo:owner	dbr:Dai-ichi_Life
+dbr:East_Japan_Railway_Company	dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Armenia
+dbo:owner	dbr:Weather_Investments_II
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Macau
+dbo:owner	dbr:RATP_Group
+dbr:Reolian_Public_Transport_Co.	
+dbo:regionServed	dbr:Kanagawa_Prefecture
+dbo:owner	dbr:Dai-ichi_Life
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Middle_Eastern
+dbo:owner	dbr:Ideal_Team_Ventures_Limited
+dbr:Apollo_Automobil	
+dbo:regionServed	dbr:Sydney
+dbo:owner	dbr:Government_of_New_South_Wales
+dbr:EnergyAustralia_(state_government_enterprise)	dbr:Endeavour_Energy	
+dbo:regionServed	dbr:Hong_Kong
+dbo:owner	dbr:Private_sector
+dbr:China_Minsheng_Bank	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Erste_Group
+dbr:Erste_Bank_Novi_Sad	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Levine_Leichtman_Capital_Partners
+dbr:Fastsigns	
+dbo:regionServed	dbr:Provo,_Utah
+dbo:owner	dbr:Alphabet_Inc.
+dbr:Google_Fiber	
+dbo:regionServed	dbr:Moldova,_Republic_of
+dbo:owner	dbr:BRD_–_Groupe_Société_Générale
+dbr:MobiasBanca	
+dbo:regionServed	dbr:Des_Voeux_Road
+dbo:owner	dbr:Win's_Entertainment
+dbr:Ocean_Shores_Video	
+dbo:regionServed	dbr:Latvia
+dbo:owner	dbr:Vladimir_Aleksandrovich_Antonov
+dbr:Latvijas_Krājbanka	
+dbo:regionServed	dbr:Greece
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Nepal
+dbo:owner	dbr:Dileep_Agrawal
+dbr:WorldLink	
+dbo:regionServed	dbr:Mexico
+dbo:owner	dbr:Levine_Leichtman_Capital_Partners
+dbr:Fastsigns	
+dbo:regionServed	dbr:New_York_metropolitan_area
+dbo:owner	dbr:Qualcomm
+dbr:LinkNYC	
+dbo:regionServed	dbr:Colombia
+dbo:owner	dbr:Telefónica
+dbr:Telefónica_Telecom	
+dbo:regionServed	dbr:Singapore
+dbo:owner	dbr:Luxottica
+dbr:OPSM	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Ministry_of_Information_and_Broadcasting_(India)
+dbr:National_Film_Development_Corporation_of_India	dbr:DD_Free_Dish	
+dbo:regionServed	dbr:Atlantic_Canada
+dbo:owner	dbr:Quebecor_Media
+dbr:Jumbo_Video	
+dbo:regionServed	dbr:Belgium
+dbo:owner	dbr:Intergamma
+dbr:Gamma_(store)	
+dbo:regionServed	dbr:Gilgit_Baltistan
+dbo:owner	dbr:Government_of_Pakistan
+dbr:Special_Communications_Organization	
+dbo:regionServed	dbr:Argentina
+dbo:owner	dbr:The_Walt_Disney_Company
+dbr:The_Walt_Disney_Company_Argentina	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Molson_Coors
+dbr:Apatin_Brewery	
+dbo:regionServed	dbr:Baltic_states
+dbo:owner	dbr:Megaliner_Group
+dbr:Mega-Anime	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Fox_Entertainment_Group
+dbr:Fox_Television_Stations	
+dbo:regionServed	dbr:Gunma_Prefecture
+dbo:owner	dbr:Nuclear_Damage_Compensation_and_Decommissioning_Facilitation_Corporation
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Globecast
+dbr:GlobeCast_World_TV	
+dbo:regionServed	dbr:Ireland
+dbo:owner	dbr:Liberty_Global
+dbr:TV3_Group	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Mars,_Incorporated
+dbr:Nutro_Products	
+dbo:regionServed	dbr:Asia
+dbo:owner	dbr:Thomson_Reuters
+dbr:Pricing_Partners_Cie	
+dbo:regionServed	dbr:Hong_Kong
+dbo:owner	dbr:Bridgepoint_Capital
+dbr:Pret_a_Manger	
+dbo:regionServed	dbr:Greater_Manchester
+dbo:owner	dbr:3i
+dbr:Greater_Manchester_Metro_Limited	
+dbo:regionServed	dbr:Netherlands
+dbo:owner	dbr:Worker_cooperative
+dbr:Egged_(company)	
+dbo:regionServed	dbr:Tohoku_region
+dbo:owner	dbr:Japan_Trustee_Services_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Sweden
+dbo:owner	dbr:StatoilHydro
+dbr:Hydro_(fuel-station_chain)	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:P._F._Chang's_China_Bistro
+dbr:Pei_Wei_Asian_Diner	
+dbo:regionServed	dbr:Belgium
+dbo:owner	dbr:Hupac
+dbr:Crossrail_Benelux	
+dbo:regionServed	dbr:The_Americas
+dbo:owner	dbr:Borealis_Infrastructure
+dbr:Ciel_Satellite_Group	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Jiangsu
+dbr:Jiangsu_Broadcasting_Corporation	
+dbo:regionServed	dbr:Sofia
+dbo:owner	<http://www.p-s.com/PS/132>
+dbr:Powernet	
+dbo:regionServed	dbr:Belgium
+dbo:owner	dbr:Ahold
+dbr:AH_Basic	
+dbo:regionServed	dbr:Sri_Lanka
+dbo:owner	dbr:Capital_Maharaja
+dbr:MBC_Networks	
+dbo:regionServed	dbr:Germany
+dbo:owner	dbr:Airfield_Holding_B.V.
+dbr:M7_Group_S.A.	
+dbo:regionServed	dbr:Midwestern_United_States
+dbo:owner	dbr:Pokagon_Band_of_Potawatomi_Indians
+dbr:Four_Winds_Casinos	
+dbo:regionServed	dbr:Channel_Islands
+dbo:owner	dbr:British_Rail
+dbr:Sealink	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Alpha_Bank
+dbr:Alpha_Bank_Srbija	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Dairy_Industry_Association_of_Australia
+dbr:Australian_Dairy_Foods	
+dbo:regionServed	dbr:Commonwealth_of_Independent_States
+dbo:owner	dbr:Gazprom-Media
+dbr:Rutube	
+dbo:regionServed	dbr:Eastern_North_Carolina
+dbo:owner	dbr:Vidant_Health
+dbr:EastCare	
+dbo:regionServed	dbr:Pakistan
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Niagara_Falls,_Ontario
+dbo:owner	dbr:Toronto_Transit_Commission
+dbr:Gray_Coach	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:owner	dbr:Minister_for_Agriculture,_Food_and_the_Marine
+dbr:Coillte	
+dbo:regionServed	dbr:Sweden
+dbo:owner	dbr:Sysco
+dbr:Brake_Bros	
+dbo:regionServed	dbr:New_York_(state)
+dbo:owner	dbr:New_York_(state)
+dbr:Long_Island_Power_Authority	
+dbo:regionServed	dbr:South_America
+dbo:owner	dbr:Government_of_Argentina
+dbr:ARSAT	
+dbo:regionServed	dbr:Buca
+dbo:owner	dbr:İzmir_Municipality
+dbr:ESHOT	
+dbo:regionServed	dbr:Denmark
+dbo:owner	dbr:Reitangruppen
+dbr:YX_Energi	
+dbo:regionServed	dbr:Belgium
+dbo:owner	dbr:Vivendi
+dbr:StudioCanal	
+dbo:regionServed	dbr:Minnesota
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:Cape_Verde
+dbo:owner	dbr:AMC_Networks_International_Iberia
+dbr:Dreamia	
+dbo:regionServed	dbr:Belchertown,_Massachusetts
+dbo:owner	dbr:Five_College_Consortium
+dbr:University_of_Massachusetts_Transportation_Services	
+dbo:regionServed	dbr:Cumberland,_Maryland
+dbo:owner	dbr:Greer_Industries
+dbr:West_Virginia_Radio_Corporation	
+dbo:regionServed	dbr:Australasia
+dbo:owner	dbr:Discovery_Communications
+dbr:Lionsgate	
+dbo:regionServed	dbr:Japan
+dbo:owner	dbr:Mitsubishi_Corporation
+dbr:KFC_in_Japan	
+dbo:regionServed	dbr:Hamilton,_Ontario
+dbo:owner	dbr:Toronto_Transit_Commission
+dbr:Gray_Coach	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Dongfeng_Motor
+dbr:Dongfeng_Yulon	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Optus
+dbr:Terria_(consortium)	
+dbo:regionServed	dbr:Northeastern_United_States
+dbo:owner	dbr:Bain_Capital
+dbr:Bob's_Discount_Furniture	
+dbo:regionServed	dbr:Balçova
+dbo:owner	dbr:İzmir_Municipality
+dbr:ESHOT	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:FirstGroup
+dbr:First_Student_Canada	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:Archer_Daniels_Midland_Company
+dbr:Red_Star_Yeast	
+dbo:regionServed	dbr:Montenegro
+dbo:owner	dbr:International_Finance_Corporation
+dbr:Komercijalna_banka	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Walmart
+dbr:Asda_Mobile	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Hakon_Invest
+dbr:ICA_Gruppen	
+dbo:regionServed	dbr:Missouri
+dbo:owner	dbr:Bobby_Lowder
+dbr:Colonial_Bank	
+dbo:regionServed	dbr:Israel
+dbo:owner	dbr:Bezeq
+dbr:Pelephone	
+dbo:regionServed	dbr:Akershus
+dbo:owner	dbr:Akershus_county_municipality
+dbr:Stor-Oslo_Lokaltrafikk	
+dbo:regionServed	dbr:Telangana
+dbo:owner	dbr:Government_of_Tamil_Nadu
+dbr:Tamil_Nadu_State_Transport_Corporation	
+dbo:regionServed	dbr:Indiana
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:Georgia_(U.S._state)
+dbo:owner	dbr:Lone_Star_Funds
+dbr:Southeastern_Grocers	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Weston_family
+dbr:George_Weston_Limited	
+dbo:regionServed	dbr:Indiana
+dbo:owner	dbr:Gordon_Brothers_Group
+dbr:K's_Merchandise_Mart	
+dbo:regionServed	dbr:Israel
+dbo:owner	dbr:Government_of_Israel
+dbr:Israel_Postal_Company	dbr:Israel_Railways	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:John_C._Malone
+dbr:Lionsgate	
+dbo:regionServed	dbr:World
+dbo:owner	dbr:Younes_Jaele
+dbr:Shirin_Asal_Food_Industrial_Group	
+dbo:regionServed	dbr:Lithuania
+dbo:owner	dbr:Sampo_Group
+dbr:If_P&C_Insurance	
+dbo:regionServed	dbr:North_Carolina
+dbo:owner	dbr:Kroger
+dbr:Harris_Teeter	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Lindsay_Fox
+dbr:Linfox	
+dbo:regionServed	dbr:Nigeria
+dbo:owner	dbr:Barclays
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Greater_Manchester
+dbo:owner	dbr:Serco
+dbr:Greater_Manchester_Metro_Limited	
+dbo:regionServed	dbr:Namibia
+dbo:owner	dbr:KfW
+dbr:FIDES_Bank_Namibia	
+dbo:regionServed	dbr:Province_of_Turin
+dbo:owner	<http://www.comune.torino.it/commercioeimpresa/partecipazioni-aziendali/schede/gtt.htm>
+dbr:Gruppo_Torinese_Trasporti	
+dbo:regionServed	dbr:Tamilnadu
+dbo:owner	dbr:Government_of_Tamil_Nadu
+dbr:Tamil_Nadu_State_Transport_Corporation	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Statkraft
+dbr:Naturkraft	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Patrick_Collins_(film)
+dbr:Elegant_Angel	
+dbo:regionServed	dbr:Algeria
+dbo:owner	dbr:Bertofan_Investments
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Niagara-on-the-Lake,_Ontario
+dbo:owner	dbr:Niagara_Falls_Transit
+dbr:WEGO_Niagara_Falls_Visitor_Transportation	
+dbo:regionServed	dbr:Thailand
+dbo:owner	dbr:Sogo_&_Seibu
+dbr:Loft_(store)	
+dbo:regionServed	dbr:San_Francisco
+dbo:owner	dbr:Alphabet_Inc.
+dbr:BufferBox	
+dbo:regionServed	dbr:Austria
+dbo:owner	dbr:RTL_interactive
+dbr:Wer-kennt-wen	
+dbo:regionServed	dbr:France
+dbo:owner	dbr:Government_of_France
+dbr:Radio_France	
+dbo:regionServed	dbr:Northern_Territory
+dbo:owner	dbr:Government_of_the_Northern_Territory
+dbr:Power_and_Water_Corporation	
+dbo:regionServed	dbr:Ontario
+dbo:owner	dbr:Quebecor_Media
+dbr:Jumbo_Video	
+dbo:regionServed	dbr:Serbia
+dbo:owner	dbr:Securitas_(Swedish_security_company)
+dbr:Securitas_Services_d.o.o.	
+dbo:regionServed	dbr:Italy
+dbo:owner	dbr:Telecom_Italia
+dbr:INWIT	
+dbo:regionServed	dbr:Kongsvinger_Line
+dbo:owner	dbr:Government_of_Sweden
+dbr:SJ_AB	
+dbo:regionServed	dbr:New_York_(state)
+dbo:owner	dbr:Adam_Fleischman
+dbr:Umami_Burger	
+dbo:regionServed	dbr:Germany
+dbo:owner	dbr:Vivendi
+dbr:StudioCanal	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:The_Times_Group
+dbr:BoxTV.com	
+dbo:regionServed	dbr:Northern_Ireland
+dbo:owner	dbr:Sea_Containers
+dbr:SeaCat	
+dbo:regionServed	dbr:Ukraine
+dbo:owner	dbr:Politics_of_Cyprus
+dbr:Cyprus_Popular_Bank	
+dbo:regionServed	dbr:Egypt
+dbo:owner	dbr:Reckitt_Benckiser
+dbr:Mortein	
+dbo:regionServed	dbr:Lafayette,_Louisiana
+dbo:owner	dbr:Lloyd_Lerille
+dbr:Borden's_Ice_Cream	
+dbo:regionServed	dbr:River_Clyde
+dbo:owner	dbr:Scottish_Government
+dbr:Caledonian_Maritime_Assets	dbr:Argyll_Ferries	dbr:Caledonian_MacBrayne	
+dbo:regionServed	dbr:Oman
+dbo:owner	dbr:Dr.Azad_Moopen
+dbr:Aster_DM_Healthcare	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:John_Lloyd_(writer)
+dbr:Quite_Interesting_Limited	
+dbo:regionServed	dbr:Asia-Pacific
+dbo:owner	dbr:Fiat_Chrysler_Automobiles
+dbr:Fiat_Professional	
+dbo:regionServed	dbr:Canada
+dbo:owner	dbr:Cascade_Investment
+dbr:Canadian_National_Railway__Company__1	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:General_Motors
+dbr:Vauxhall_Motors	
+dbo:regionServed	dbr:Bungendore,_New_South_Wales
+dbo:owner	dbr:ComfortDelGro_Cabcharge
+dbr:Qcity_Transit	
+dbo:regionServed	dbr:Melbourne
+dbo:owner	dbr:MTR_Corporation
+dbr:Metro_Trains_Melbourne	
+dbo:regionServed	dbr:Bangladesh
+dbo:owner	dbr:Beximco_Group
+dbr:Real_VU	
+dbo:regionServed	dbr:Tanzania
+dbo:owner	dbr:Tanzanian_Government
+dbr:TANESCO	dbr:Tanzania_Telecommunications_Company_Limited	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:SAIC_Motor
+dbr:SAIC-GM	dbr:SAIC-GM-Wuling	
+dbo:regionServed	dbr:Morocco
+dbo:owner	dbr:Reckitt_Benckiser
+dbr:Mortein	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:John_C._Malone
+dbr:Lionsgate	
+dbo:regionServed	dbr:Zimbabwe
+dbo:owner	dbr:Weather_Investments_II
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Colombia
+dbo:owner	dbr:Eder_Family
+dbr:Manuelita	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:Lindsay_G._Merrithew
+dbr:Stott_Pilates	
+dbo:regionServed	dbr:Angola
+dbo:owner	dbr:NOS_(Portuguese_media_company)
+dbr:Dreamia	
+dbo:regionServed	dbr:Shin'etsu_region
+dbo:owner	dbr:Japan_Trustee_Services_Bank
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:New_York_(state)
+dbo:owner	dbr:Flavia_C._Gernatt
+dbr:Dan_Gernatt_Farms	
+dbo:regionServed	dbr:Germany
+dbo:owner	dbr:Ahold
+dbr:AH_Basic	
+dbo:regionServed	dbr:Africa
+dbo:owner	dbr:Hitotsubashi_Group
+dbr:Viz_Media_Europe	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Chery
+dbr:Chery_Jaguar_Land_Rover	dbr:Qoros	
+dbo:regionServed	dbr:Chile
+dbo:owner	dbr:Empresas_Copec
+dbr:Terpel	
+dbo:regionServed	dbr:United_Arab_Emirates
+dbo:owner	dbr:Noor_Investment_Group
+dbr:Noor_Takaful	
+dbo:regionServed	dbr:Mozambique
+dbo:owner	dbr:Barclays
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Primus_Telecom
+dbr:Terria_(consortium)	
+dbo:regionServed	dbr:Hong_Kong
+dbo:owner	dbr:Landry's,_Inc.
+dbr:Bubba_Gump_Shrimp_Company	
+dbo:regionServed	dbr:Niigata_Prefecture
+dbo:owner	dbr:SSBT_OD05_OMNIBUS_ACCOUNT—TREATY_CLIENTS
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Samsung
+dbr:SmartThings	
+dbo:regionServed	dbr:Pune
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:Lithuania
+dbo:owner	dbr:Walgreens_Boots_Alliance
+dbr:Alliance_Healthcare	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Asia_Broadcast_Satellite
+dbr:ABS_Free_Dish	
+dbo:regionServed	dbr:Bavaria
+dbo:owner	dbr:Free_State_of_Bavaria
+dbr:Bayerische_Eisenbahngesellschaft	
+dbo:regionServed	dbr:Southern_Ontario
+dbo:owner	dbr:Toronto_Transit_Commission
+dbr:Gray_Coach	
+dbo:regionServed	dbr:Asia
+dbo:owner	dbr:Mars,_Incorporated
+dbr:Nutro_Products	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:The_Times_Group
+dbr:BoxTV.com	
+dbo:regionServed	dbr:Northeastern_India
+dbo:owner	dbr:Ministry_of_Power_(India)
+dbr:North_Eastern_Electric_Power_Corporation_Limited	
+dbo:regionServed	dbr:Canon_City,_Colorado
+dbo:owner	dbr:Edward_R._Tinsley
+dbr:K-Bob's_Steakhouse	
+dbo:regionServed	dbr:European_Union
+dbo:owner	dbr:Royal_Mail
+dbr:General_Logistics_Systems	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Lion_Capital_LLP
+dbr:Weetabix_Limited	
+dbo:regionServed	dbr:Illinois
+dbo:owner	dbr:Enterprise_Holdings
+dbr:I-GO	
+dbo:regionServed	dbr:Mexico
+dbo:owner	dbr:Empresas_Copec
+dbr:Terpel	
+dbo:regionServed	dbr:Colombia
+dbo:owner	dbr:Millicom
+dbr:Colombia_Móvil	
+dbo:regionServed	dbr:Yamanashi_Prefecture
+dbo:owner	dbr:Nippon_Life
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Vietnam
+dbo:owner	dbr:State_Bank_of_Vietnam
+dbr:Vietinbank	
+dbo:regionServed	dbr:South_Africa
+dbo:owner	dbr:Brait_SE
+dbr:Virgin_Active	
+dbo:regionServed	dbr:PRC
+dbo:owner	dbr:Zhou_Hao
+dbr:TH_Entertainment	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Vivendi
+dbr:StudioCanal	
+dbo:regionServed	dbr:Africa
+dbo:owner	dbr:Shogakukan-Shueisha_Productions
+dbr:Viz_Media_Europe	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Discovery_Communications
+dbr:Lionsgate	
+dbo:regionServed	dbr:Tohoku_region
+dbo:owner	dbr:Mizuho_Corporate_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Northern_Ireland
+dbo:owner	dbr:Government_of_the_United_Kingdom
+dbr:British_Rail	
+dbo:regionServed	dbr:Netherlands
+dbo:owner	dbr:A.S._Watson_Group
+dbr:Kruidvat	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Shop_Direct_Group
+dbr:Woolworths.co.uk	
+dbo:regionServed	dbr:Shimoga
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:Atlanta_metropolitan_area
+dbo:owner	dbr:Alphabet_Inc.
+dbr:Google_Fiber	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:Tom_O'Toole
+dbr:Beechworth_Bakery	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:owner	dbr:MMC_Corporation_Berhad
+dbr:Malakoff_(power_company)	
+dbo:regionServed	dbr:Botswana
+dbo:owner	dbr:Barclays
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Philippines
+dbo:owner	dbr:Capital_Group_Companies
+dbr:Puregold	
+dbo:regionServed	dbr:Kansai_region
+dbo:owner	dbr:Japan_Trustee_Services_Bank
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Newfoundland_and_Labrador
+dbo:owner	dbr:Government_of_Canada
+dbr:Atlantic_Pilotage_Authority	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Nomura_Group
+dbr:Nordsee	
+dbo:regionServed	dbr:Bangladesh
+dbo:owner	dbr:Bertofan_Investments
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Oman
+dbo:owner	dbr:Joy_Alukkas
+dbr:Joyalukkas	
+dbo:regionServed	dbr:Mozambique
+dbo:owner	dbr:AMC_Networks_International_Iberia
+dbr:Dreamia	
+dbo:regionServed	dbr:Michigan
+dbo:owner	dbr:Sun_Capital_Partners
+dbr:Shopko	
+dbo:regionServed	dbr:Taiwan
+dbo:owner	dbr:People's_Republic_of_China
+dbr:China_Unicom	
+dbo:regionServed	dbr:Luxembourg
+dbo:owner	dbr:Airfield_Holding_B.V.
+dbr:M7_Group_S.A.	
+dbo:regionServed	dbr:North_Carolina
+dbo:owner	dbr:Southeastern_Grocers
+dbr:BI-LO_(United_States)	
+dbo:regionServed	dbr:Worldwide
+dbo:owner	dbr:NBCUniversal
+dbr:Universal_Pictures_Home_Entertainment	
+dbo:regionServed	dbr:Namibia
+dbo:owner	dbr:Virgin_Group
+dbr:Virgin_Active	
+dbo:regionServed	dbr:Republic_of_Croatia
+dbo:owner	dbr:Bank_Austria
+dbr:Zagrebačka_banka	
+dbo:regionServed	dbr:Buenos_Aires_Province
+dbo:owner	dbr:Camargo_Correa
+dbr:Ferrosur_Roca	
+dbo:regionServed	dbr:Kanto_region
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Italy
+dbo:owner	dbr:Piraeus_Bank
+dbr:Hellenic_Seaways	
+dbo:regionServed	dbr:Nagano_Prefecture
+dbo:owner	dbr:The_Master_Trust_Bank_of_Japan
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Nagano_Prefecture
+dbo:owner	dbr:Mizuho_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Sony_Pictures_Networks
+dbr:Sony_LIV	
+dbo:regionServed	dbr:Pakistan
+dbo:owner	dbr:Weather_Investments_II
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Yamanashi_Prefecture
+dbo:owner	dbr:Japan_Trustee_Services_Bank
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Buckhannon,_West_Virginia
+dbo:owner	dbr:Greer_Industries
+dbr:West_Virginia_Radio_Corporation	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Fiat_Chrysler_Automobiles
+dbr:GAC_Fiat	
+dbo:regionServed	dbr:Kovrov
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:Rajkot
+dbo:owner	dbr:Chender_K._Baljee
+dbr:Royal_Orchid_Hotels	
+dbo:regionServed	dbr:Naberezhnye_Chelny
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:Ireland
+dbo:owner	dbr:Otto_GmbH
+dbr:Grattan_plc	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Comcast
+dbr:Hulu	
+dbo:regionServed	dbr:European_Union
+dbo:owner	dbr:Takeover_Group
+dbr:Takeover_Entertainment	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Bharti_Enterprises
+dbr:Easyday	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:StreamCo
+dbr:Stan_(company)	
+dbo:regionServed	dbr:Commonwealth_of_Independent_States
+dbo:owner	dbr:Grigory_Guselnikov
+dbr:Norvik_Banka	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:Walgreens_Boots_Alliance
+dbr:Alliance_Healthcare	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:BYD_Auto
+dbr:Denza	
+dbo:regionServed	dbr:East_Asia
+dbo:owner	dbr:Takeover_Group
+dbr:Star_in_the_Hood_(company)	
+dbo:regionServed	dbr:France
+dbo:owner	dbr:Agence_des_participations_de_l'État
+dbr:La_Poste_(France)	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Golden_Gate_Capital
+dbr:California_Pizza_Kitchen	
+dbo:regionServed	dbr:Mexico
+dbo:owner	dbr:Grupo_Planeta
+dbr:Planeta_DeAgostini	
+dbo:regionServed	dbr:Central,_Hong_Kong
+dbo:owner	dbr:TVB
+dbr:Win's_Entertainment	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:SpareBank_Nord-Norge
+dbr:SpareBank_1	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Virtuos
+dbr:Sparx_Animation_Studios	
+dbo:regionServed	dbr:Shizuoka_Prefecture
+dbo:owner	dbr:The_Master_Trust_Bank_of_Japan
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Asia-Pacific
+dbo:owner	dbr:Lenovo
+dbr:Medion	
+dbo:regionServed	dbr:Kazakhstan
+dbo:owner	dbr:Telenor
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:NACCO_Industries
+dbr:Proctor_Silex	
+dbo:regionServed	dbr:Armenia
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Darwin,_Northern_Territory
+dbo:owner	dbr:Government_of_the_Northern_Territory
+dbr:Darwinbus	
+dbo:regionServed	dbr:Ireland
+dbo:owner	dbr:British_Rail
+dbr:Sealink	
+dbo:regionServed	dbr:Mumbai
+dbo:owner	dbr:Government_of_India
+dbr:National_Film_Development_Corporation_of_India	
+dbo:regionServed	dbr:Moldova,_Republic_of
+dbo:owner	dbr:EBRD
+dbr:MobiasBanca	
+dbo:regionServed	dbr:Greece
+dbo:owner	dbr:BSH_Hausgeräte
+dbr:Pitsos	
+dbo:regionServed	dbr:Kazakhstan
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Singapore
+dbo:owner	dbr:Temasek_Holdings
+dbr:Mediacorp	
+dbo:regionServed	dbr:Cambridge
+dbo:owner	dbr:Transit_Systems
+dbr:Go_Whippet	
+dbo:regionServed	dbr:Florida
+dbo:owner	dbr:Lone_Star_Funds
+dbr:Southeastern_Grocers	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:GAC_Group
+dbr:GAC_Toyota	dbr:Guangqi_Honda	dbr:GAC_Fiat	
+dbo:regionServed	dbr:Germany
+dbo:owner	dbr:Time_Warner
+dbr:Turner_Broadcasting_System_Germany	
+dbo:regionServed	dbr:District_of_Columbia
+dbo:owner	dbr:Kroger
+dbr:Harris_Teeter	
+dbo:regionServed	dbr:Uzbekistan
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Illinois
+dbo:owner	dbr:Adam_Fleischman
+dbr:Umami_Burger	
+dbo:regionServed	dbr:Thailand
+dbo:owner	dbr:Brait_SE
+dbr:Virgin_Active	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:owner	dbr:Raidió_Teilifís_Éireann
+dbr:RTÉ_News_and_Current_Affairs	dbr:RTÉ_Television	
+dbo:regionServed	dbr:Bangladesh
+dbo:owner	dbr:Telenor
+dbr:Ekhanei.com	dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Victoria_Harbour
+dbo:owner	dbr:TVB
+dbr:Win's_Entertainment	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Daimler_AG
+dbr:Orion_International	
+dbo:regionServed	dbr:Greater_Manchester
+dbo:owner	dbr:AnsaldoBreda
+dbr:Greater_Manchester_Metro_Limited	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Takeover_Group
+dbr:Takeover_Entertainment	
+dbo:regionServed	dbr:Japan
+dbo:owner	dbr:Virtuos
+dbr:Sparx_Animation_Studios	
+dbo:regionServed	dbr:Tajikistan
+dbo:owner	dbr:Weather_Investments_II
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:North_America
+dbo:owner	dbr:GungHo_Online_Entertainment
+dbr:Gravity_Interactive	
+dbo:regionServed	dbr:Ireland
+dbo:owner	dbr:The_Irish_Times
+dbr:Entertainment.ie	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Indian_Railways
+dbr:RailTel_Corporation_of_India	
+dbo:regionServed	dbr:Pakistan
+dbo:owner	dbr:Reckitt_Benckiser
+dbr:Mortein	
+dbo:regionServed	dbr:Belgium
+dbo:owner	dbr:Ahold_Delhaize
+dbr:Albert_Heijn	
+dbo:regionServed	dbr:Argentina
+dbo:owner	dbr:Techint
+dbr:Ferroexpreso_Pampeano	
+dbo:regionServed	dbr:Venezuela
+dbo:owner	dbr:Grupo_Planeta
+dbr:Planeta_DeAgostini	
+dbo:regionServed	dbr:United_States
+dbo:owner	dbr:Roark_Capital_Group
+dbr:Il_Fornaio	
+dbo:regionServed	dbr:Elkins,_West_Virginia
+dbo:owner	dbr:Greer_Industries
+dbr:West_Virginia_Radio_Corporation	
+dbo:regionServed	dbr:Ibaraki_Prefecture
+dbo:owner	dbr:Nuclear_Damage_Compensation_and_Decommissioning_Facilitation_Corporation
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Kenya
+dbo:owner	dbr:Equity_Group_Holdings_Limited
+dbr:BebaPay	
+dbo:regionServed	dbr:India
+dbo:owner	dbr:Arun_Firodia
+dbr:Kinetic_Honda	
+dbo:regionServed	dbr:Jordan
+dbo:owner	dbr:Government_of_Estonia
+dbr:Eesti_Energia	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Song_Ke
+dbr:Taihe_Rye_Music	
+dbo:regionServed	dbr:Sweden
+dbo:owner	dbr:Government_of_Sweden
+dbr:SJ_AB	
+dbo:regionServed	dbr:Shanghai
+dbo:owner	dbr:Shanghai_Media_&_Entertainment_Group
+dbr:Shanghai_Synergy_Culture_&_Entertainment_Group	
+dbo:regionServed	dbr:Norway
+dbo:owner	dbr:NRK
+dbr:Norges_Televisjon	
+dbo:regionServed	dbr:Tanzania
+dbo:owner	dbr:Swissport_International
+dbr:Swissport_Tanzania	
+dbo:regionServed	dbr:Kanto_region
+dbo:owner	dbr:SSBT_OD05_OMNIBUS_ACCOUNT—TREATY_CLIENTS
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:Spain
+dbo:owner	dbr:Avenue_Capital_Group
+dbr:Travelodge_UK	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Guangdong
+dbr:Guangdong_Radio_and_Television	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:Dansk_Supermarked_A/S
+dbr:Netto_UK	
+dbo:regionServed	dbr:Illawarra,_New_South_Wales
+dbo:owner	dbr:Government_of_New_South_Wales
+dbr:Endeavour_Energy	
+dbo:regionServed	dbr:New_England
+dbo:owner	dbr:Paul_Howley
+dbr:That's_Entertainment_(comic_shop)	
+dbo:regionServed	dbr:Kanto_region
+dbo:owner	dbr:The_Master_Trust_Bank_of_Japan
+dbr:East_Japan_Railway_Company	
+dbo:regionServed	dbr:London
+dbo:owner	dbr:Hellenic_Financial_Stability_Fund
+dbr:Piraeus_Bank	
+dbo:regionServed	dbr:Northern_Europe
+dbo:owner	<http://framtakssjodur.is/>
+dbr:Advania	
+dbo:regionServed	dbr:Gujarat
+dbo:owner	dbr:GUVNL
+dbr:Gujarat_Energy_Transmission_Corporation	dbr:Dakshin_Gujarat_Vij_Company	dbr:Madhya_Gujarat_Vij	dbr:Paschim_Gujarat_Vij	
+dbo:regionServed	dbr:Thiruvananthapuram
+dbo:owner	dbr:Government_of_Kerala
+dbr:Kerala_Rapid_Transit_Corporation_Ltd	
+dbo:regionServed	dbr:West_Bengal
+dbo:owner	dbr:Government_of_West_Bengal
+dbr:West_Bengal_Housing_Infrastructure_Development_Corporation	
+dbo:regionServed	dbr:Vietnam
+dbo:owner	dbr:Ryonbong
+dbr:Pyeonghwa_Motors	
+dbo:regionServed	dbr:Hadley,_Massachusetts
+dbo:owner	dbr:University_of_Massachusetts_Amherst
+dbr:University_of_Massachusetts_Transportation_Services	
+dbo:regionServed	dbr:Russia
+dbo:owner	dbr:Bertofan_Investments
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Queanbeyan,_New_South_Wales
+dbo:owner	dbr:ComfortDelGro_Cabcharge
+dbr:Qcity_Transit	
+dbo:regionServed	dbr:Asia
+dbo:owner	dbr:Kirin_Brewery_Company
+dbr:Lion_Dairy_&_Drinks	
+dbo:regionServed	dbr:Adriatic_Sea
+dbo:owner	dbr:SEM_Maritime_Company
+dbr:Blue_Line_International	
+dbo:regionServed	dbr:Tochigi_Prefecture
+dbo:owner	dbr:Nuclear_Damage_Compensation_and_Decommissioning_Facilitation_Corporation
+dbr:Tokyo_Electric_Power_Company	
+dbo:regionServed	dbr:Singapore
+dbo:owner	dbr:The_Times_Group
+dbr:BoxTV.com	
+dbo:regionServed	dbr:Latin_America
+dbo:owner	dbr:The_Walt_Disney_Company
+dbr:The_Walt_Disney_Company_Latin_America	
+dbo:regionServed	dbr:Hokuriku_region
+dbo:owner	dbr:Mizuho_Corporate_Bank
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:Singapore
+dbo:owner	dbr:Virgin_Group
+dbr:Virgin_Active	
+dbo:regionServed	dbr:Andhra_Pradesh
+dbo:owner	dbr:Government_of_Tamil_Nadu
+dbr:State_Express_Transport_Corporation_(Tamil_Nadu)	dbr:Tamil_Nadu_State_Transport_Corporation	
+dbo:regionServed	dbr:National_Electricity_Market
+dbo:owner	dbr:AGL_Energy
+dbr:Macquarie_Generation	
+dbo:regionServed	dbr:Ukraine
+dbo:owner	dbr:Altimo
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Republic_of_Macedonia
+dbo:owner	dbr:Sklavenitis_Market
+dbr:Marinopoulos_Market	
+dbo:regionServed	dbr:Nehru_Centre
+dbo:owner	dbr:Government_of_India
+dbr:National_Film_Development_Corporation_of_India	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:GIC_Private_Limited
+dbr:RAC_Limited	
+dbo:regionServed	dbr:Australia
+dbo:owner	dbr:AGL_Energy
+dbr:Macquarie_Generation	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:OMERS
+dbr:Oxford_Properties	
+dbo:regionServed	dbr:SE_Europe
+dbo:owner	dbr:Vardis_Vardinogiannis
+dbr:Motor_Oil_Hellas	
+dbo:regionServed	dbr:Orenburg
+dbo:owner	dbr:MegaFon
+dbr:Yota	
+dbo:regionServed	dbr:Honduras
+dbo:owner	dbr:Grupo_Continental_(Honduras)
+dbr:Banco_Continental_(Honduras)	
+dbo:regionServed	dbr:China
+dbo:owner	dbr:Beijing_Automotive_Group
+dbr:Beijing_Benz	dbr:Beijing_Hyundai	
+dbo:regionServed	dbr:Libya
+dbo:owner	dbr:Reckitt_Benckiser
+dbr:Mortein	
+dbo:regionServed	dbr:CALABARZON
+dbo:owner	dbr:Government_of_the_Philippines
+dbr:Philippine_National_Railways	
+dbo:regionServed	dbr:Europe
+dbo:owner	dbr:Socrates_Kokkalis
+dbr:Intracom	
+dbo:regionServed	dbr:Democratic_Republic_of_the_Congo
+dbo:owner	dbr:Dan_Gertler
+dbr:Nikanor_Plc	
+dbo:regionServed	dbr:South_Carolina
+dbo:owner	dbr:Southeastern_Grocers
+dbr:BI-LO_(United_States)	
+dbo:regionServed	dbr:Louisiana
+dbo:owner	dbr:Lone_Star_Funds
+dbr:Southeastern_Grocers	
+dbo:regionServed	dbr:Africa
+dbo:owner	dbr:Hitachi
+dbr:Hitachi_Construction_Machinery_(Europe)	
+dbo:regionServed	dbr:Switzerland
+dbo:owner	dbr:Time_Warner
+dbr:Turner_Broadcasting_System_Germany	
+dbo:regionServed	dbr:Hong_Kong
+dbo:owner	dbr:Luxottica
+dbr:OPSM	
+dbo:regionServed	dbr:Bornova
+dbo:owner	dbr:İzmir_Municipality
+dbr:ESHOT	
+dbo:regionServed	dbr:Belgium
+dbo:owner	dbr:A.S._Watson_Group
+dbr:Kruidvat	
+dbo:regionServed	dbr:United_Kingdom
+dbo:owner	dbr:BBC
+dbr:Freeview_(UK)	

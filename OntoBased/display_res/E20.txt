@@ -1,0 +1,12 @@
+
+20.
+select * where {
+        ?p dbo:regionServed  dbr:Texas.
+        ?p dbo:owner  dbr:Google.}
+
+Rule (5)
+dbo:regionServed rdfs:domain dbo:Organisation
+
+Reformed Query:
+select * where {
+            ?p rdf:type dbo:Organisation}

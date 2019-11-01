@@ -1,0 +1,3000 @@
+dbo:birthPlace	dbr:Elmira,_Ontario
+dbo:award	dbr:Order_of_Canada
+dbr:Carl_Klinck	
+dbo:birthPlace	dbr:Oak_Park,_Illinois
+dbo:award	dbr:American_Humanist_Association
+dbr:Carl_Rogers	
+dbo:birthPlace	dbr:Wanstead
+dbo:award	dbr:Knight_Commander_of_the_Order_of_St_Michael_and_St_George
+dbr:Godfrey_Haggard	
+dbo:birthPlace	dbr:Kolkata
+dbo:award	dbr:Abanindranath_Tagore
+dbr:Meera_Mukherjee	
+dbo:birthPlace	dbr:Nazi_Germany
+dbo:award	dbr:Prince_Mahidol_Award
+dbr:Harald_zur_Hausen	
+dbo:birthPlace	dbr:Windsor,_Berkshire
+dbo:award	dbr:Order_of_the_British_Empire
+dbr:Ranulph_Fiennes	
+dbo:birthPlace	dbr:Japan
+dbo:award	dbr:Military_Cross
+dbr:W._Stanley_Moss	
+dbo:birthPlace	dbr:Osaka,_Japan
+dbo:award	dbr:Harold_Pender_Award
+dbr:Leo_Esaki	
+dbo:birthPlace	dbr:Chattanooga
+dbo:award	dbr:Society_of_American_Business_Editors_and_Writers
+dbr:Bill_Dedman	
+dbo:birthPlace	dbr:Newark,_New_Jersey
+dbo:award	dbr:Pulitzer_Prize_for_Poetry
+dbr:C._K._Williams	
+dbo:birthPlace	dbr:Graz,_Austria
+dbo:award	dbr:IEEE_Medal_of_Honor
+dbr:Herwig_Kogelnik	
+dbo:birthPlace	dbr:Gwalior
+dbo:award	dbr:Homi_Jehangir_Bhabha
+dbr:Ajay_K._Sood	
+dbo:birthPlace	dbr:Eastbourne
+dbo:award	dbr:Costa_Book_Awards
+dbr:Rumer_Godden	
+dbo:birthPlace	dbr:Brazil
+dbo:award	dbr:Alfonso_Reyes_International_Prize
+dbr:Antonio_Candido	
+dbo:birthPlace	dbr:Sweden
+dbo:award	dbr:Fields_Medal
+dbr:Lars_Hörmander	
+dbo:birthPlace	dbr:Douglas,_Isle_of_Man
+dbo:award	dbr:National_Television_Awards
+dbr:Kevin_Woodford	
+dbo:birthPlace	dbr:Sydney
+dbo:award	dbr:National_Book_Critics_Circle_Award
+dbr:Shirley_Hazzard	
+dbo:birthPlace	dbr:Ponnani
+dbo:award	dbr:Piravi
+dbr:Premji	
+dbo:birthPlace	dbr:Scranton,_Pennsylvania
+dbo:award	dbr:American_Statistical_Association
+dbr:Morris_H._DeGroot	
+dbo:birthPlace	dbr:Chittoor_district
+dbo:award	dbr:Tulsi_Samman
+dbr:Jonnalagadda_Gurappa_Chetty	
+dbo:birthPlace	dbr:Belgium
+dbo:award	dbr:Trends_(Belgian_magazine)
+dbr:Gert_Verhulst	
+dbo:birthPlace	dbr:Fontana_Liri
+dbo:award	dbr:Dark_Eyes_(film)
+dbr:Marcello_Mastroianni	
+dbo:birthPlace	dbr:Sahiwal
+dbo:award	dbr:Padma_Bhushan
+dbr:M._N._Buch	
+dbo:birthPlace	dbr:Konstantynów_Łódzki
+dbo:award	dbr:Prize_of_the_Foundation_for_Polish_Science
+dbr:Krzysztof_Matyjaszewski	
+dbo:birthPlace	dbr:Dundee
+dbo:award	dbr:Gustav-Steinmann-Medaille
+dbr:Philip_Kuenen	
+dbo:birthPlace	dbr:Des_Moines,_Iowa
+dbo:award	dbr:IEEE_Medal_of_Honor
+dbr:John_R._Pierce	
+dbo:birthPlace	dbr:Indiana,_Pennsylvania
+dbo:award	dbr:Golden_Globe_Award_for_Best_Actor_–_Television_Series_Drama
+dbr:James_Stewart	
+dbo:birthPlace	dbr:Boulogne-Billancourt
+dbo:award	dbr:Grand_Prix_du_roman_de_l'Académie_française
+dbr:Patrick_Modiano	
+dbo:birthPlace	dbr:Louisiana
+dbo:award	dbr:Eclipse_Award_for_Outstanding_Apprentice_Jockey
+dbr:Kent_Desormeaux	
+dbo:birthPlace	dbr:Springfield,_Massachusetts
+dbo:award	dbr:Nobel_Prize_in_Chemistry
+dbr:Richard_F._Heck	
+dbo:birthPlace	dbr:Sankt_Andrä-Wördern
+dbo:award	dbr:Medal_of_the_Crown_of_King_Zvonimir
+dbr:Kurt_Waldheim	
+dbo:birthPlace	dbr:Sussex,_England
+dbo:award	dbr:Accomplishment_by_a_Senior_Scientist_Award
+dbr:Michael_Ashburner	
+dbo:birthPlace	dbr:Baja,_Hungary
+dbo:award	dbr:Order_of_Australia
+dbr:George_Bornemissza	
+dbo:birthPlace	dbr:Los_Angeles
+dbo:award	dbr:Adbusters
+dbr:Steve_Lambert	
+dbo:birthPlace	dbr:British_America
+dbo:award	dbr:Magellanic_Premium
+dbr:Francis_Hopkinson	
+dbo:birthPlace	dbr:Grayville,_Illinois
+dbo:award	dbr:Silver_Star
+dbr:Victor_Heintz	
+dbo:birthPlace	dbr:Maharashtra
+dbo:award	dbr:Shanti_Swarup_Bhatnagar_Prize
+dbr:Niyaz_Ahmed	dbr:Jayant_B._Udgaonkar	dbr:Kanury_Venkata_Subba_Rao	dbr:Prafullachandra_Vishnu_Sane	
+dbo:birthPlace	dbr:Nagoya
+dbo:award	dbr:Japan_Prize
+dbr:Masao_Ito	
+dbo:birthPlace	dbr:U.S.A
+dbo:award	dbr:National_Geographic_Society
+dbr:Saleem_Ali_(academic)	
+dbo:birthPlace	dbr:Indiana,_Pennsylvania
+dbo:award	dbr:Academy_Award_for_Best_Actor
+dbr:James_Stewart	
+dbo:birthPlace	dbr:British_India
+dbo:award	dbr:Nobel_Prize_in_Physiology_or_Medicine
+dbr:Ronald_Ross	
+dbo:birthPlace	dbr:Moguluru
+dbo:award	dbr:Jnanpith_Award
+dbr:Ravuri_Bharadhwaja	
+dbo:birthPlace	dbr:Ponnani
+dbo:award	dbr:Sahitya_Akademi_Award
+dbr:Uroob	
+dbo:birthPlace	dbr:Kanchipuram
+dbo:award	dbr:Padma_Shri
+dbr:Damal_Kandalai_Srinivasan	
+dbo:birthPlace	dbr:France
+dbo:award	dbr:John_von_Neumann_Award
+dbr:Philippe_Aghion	
+dbo:birthPlace	dbr:Russian_SFSR
+dbo:award	dbr:Order_of_Lenin
+dbr:Valeri_Polyakov	
+dbo:birthPlace	dbr:England
+dbo:award	dbr:Academy_Award_for_Best_Art_Direction
+dbr:Anton_Furst	
+dbo:birthPlace	dbr:Kansas
+dbo:award	dbr:Right_Livelihood_Award
+dbr:Wes_Jackson	
+dbo:birthPlace	dbr:Tirumalagiri
+dbo:award	dbr:Padma_Bhushan
+dbr:Shyam_Benegal	
+dbo:birthPlace	dbr:Mexico
+dbo:award	dbr:SIGMOD_Edgar_F._Codd_Innovations_Award
+dbr:Héctor_García-Molina	
+dbo:birthPlace	dbr:German_Empire
+dbo:award	dbr:Order_of_the_Zähringer_Lion
+dbr:Hermann_Göring	
+dbo:birthPlace	dbr:Hampstead
+dbo:award	dbr:Queen's_Counsel
+dbr:John_Mortimer	
+dbo:birthPlace	dbr:Flanders
+dbo:award	dbr:Nobel_Prize_for_Physiology_or_Medicine
+dbr:Corneille_Heymans	
+dbo:birthPlace	dbr:Empire_of_Japan
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Hideki_Yukawa	
+dbo:birthPlace	dbr:Punnayurkulam
+dbo:award	dbr:Saraswati_Samman
+dbr:Balamani_Amma	
+dbo:birthPlace	dbr:SFR_Yugoslavia
+dbo:award	dbr:Basketball_Bundesliga
+dbr:Nihad_Đedović	
+dbo:birthPlace	dbr:Glasgow
+dbo:award	dbr:Companion_of_the_Order_of_Australia
+dbr:Ian_Frazer	
+dbo:birthPlace	dbr:Czech_Republic
+dbo:award	dbr:Order_of_Merit_of_the_Federal_Republic_of_Germany
+dbr:Herwig_Schopper	
+dbo:birthPlace	dbr:Kiev
+dbo:award	dbr:Honorable_mention
+dbr:Zuzanna_Ginczanka	
+dbo:birthPlace	dbr:Lahore
+dbo:award	dbr:Pride_of_Performance
+dbr:Amjad_Islam_Amjad	dbr:Anwar_Ali_(physicist)	dbr:Shaukat_Hameed_Khan	
+dbo:birthPlace	dbr:South_Korea
+dbo:award	dbr:Yi_Sang_Literary_Award
+dbr:Kim_Young-ha	
+dbo:birthPlace	dbr:Banovina_of_Croatia
+dbo:award	dbr:Order_of_Ante_Starčević
+dbr:Mate_Boban	
+dbo:birthPlace	dbr:Northamptonshire
+dbo:award	dbr:Nobel_Prize_in_Physiology_or_Medicine
+dbr:Francis_Crick	
+dbo:birthPlace	dbr:Paris
+dbo:award	dbr:My_Neighbor_My_Killer
+dbr:Anne_Aghion	
+dbo:birthPlace	dbr:New_York_(state)
+dbo:award	dbr:Harvey_Prize
+dbr:Eric_Lander	
+dbo:birthPlace	dbr:Damascus
+dbo:award	dbr:University_of_Oxford
+dbr:Wafic_Saïd	
+dbo:birthPlace	dbr:Thailand
+dbo:award	dbr:Cinema_of_Thailand
+dbr:Chatchai_Plengpanich	
+dbo:birthPlace	dbr:Budapest
+dbo:award	dbr:Kontroll
+dbr:Sándor_Csányi	
+dbo:birthPlace	dbr:Boston,_Massachusetts
+dbo:award	dbr:Presidential_Medal_of_Freedom
+dbr:Ben_Bradlee	
+dbo:birthPlace	dbr:Western_Australia
+dbo:award	dbr:Miles_Franklin_Award
+dbr:Randolph_Stow	
+dbo:birthPlace	dbr:Kharkov
+dbo:award	dbr:Canadian_Portrait_Academy
+dbr:Eugenia_Berlin	
+dbo:birthPlace	dbr:Burgundy_(region)
+dbo:award	dbr:Dickson_Prize
+dbr:Jean_Fréchet	
+dbo:birthPlace	dbr:Liverpool,_England
+dbo:award	dbr:Distinguished_Service_Order
+dbr:Charles_Yardley_Weaver	
+dbo:birthPlace	dbr:Colorado
+dbo:award	dbr:Bradley_Foundation
+dbr:James_Q._Wilson	
+dbo:birthPlace	dbr:Buenos_Aires
+dbo:award	dbr:Clarín_Awards
+dbr:Jorge_Guinzburg	
+dbo:birthPlace	dbr:Bessarabia_Governorate
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Jerzy_Neyman	
+dbo:birthPlace	dbr:Chicago
+dbo:award	dbr:The_Sveriges_Riksbank_Prize_in_Economic_Sciences_in_Memory_of_Alfred_Nobel
+dbr:Harry_Markowitz	
+dbo:birthPlace	dbr:Washington_(state)
+dbo:award	dbr:Bronze_Star_Medal
+dbr:Matt_Shea	
+dbo:birthPlace	dbr:Hyannis,_Massachusetts
+dbo:award	dbr:The_Aviator_(2004_film)
+dbr:Robert_Richardson_(cinematographer)	
+dbo:birthPlace	dbr:Valapad
+dbo:award	dbr:Kerala_Sahitya_Akademi_Award
+dbr:Kunjunni_Mash	
+dbo:birthPlace	dbr:East_Punjab
+dbo:award	dbr:Indian_National_Science_Academy
+dbr:Ranbir_Chander_Sobti	
+dbo:birthPlace	dbr:Illinois
+dbo:award	dbr:Lower_Manhattan_Cultural_Council
+dbr:Simone_Leigh	
+dbo:birthPlace	dbr:Lahore
+dbo:award	dbr:Imtiazi_Sanad
+dbr:Anis_Ahmed_(military_officer)	
+dbo:birthPlace	dbr:Toronto
+dbo:award	dbr:Tin_Toy
+dbr:William_Reeves_(animator)	
+dbo:birthPlace	dbr:Hampstead,_London
+dbo:award	dbr:Nobel_Prize_in_Physiology_or_Medicine
+dbr:Andrew_Huxley	
+dbo:birthPlace	dbr:Georgia_(country)
+dbo:award	dbr:Order_of_Lenin
+dbr:Yuri_Neprintsev	
+dbo:birthPlace	dbr:Italy
+dbo:award	dbr:Tutta_la_vita_davanti
+dbr:Sabrina_Ferilli	
+dbo:birthPlace	dbr:Copenhagen
+dbo:award	dbr:Descartes_Prize
+dbr:Dorthe_Dahl-Jensen	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Crafoord_Prize
+dbr:Paul_R._Ehrlich	
+dbo:birthPlace	dbr:Debrecen
+dbo:award	dbr:Bloomberg_Distinguished_Professorships
+dbr:Alex_Szalay	
+dbo:birthPlace	dbr:Kingdom_of_Hungary
+dbo:award	dbr:Buchanan_Medal
+dbr:George_Radda	
+dbo:birthPlace	dbr:Beacon_Falls
+dbo:award	dbr:John_Fritz_Medal
+dbr:William_F._Durand	
+dbo:birthPlace	dbr:Buffalo,_New_York
+dbo:award	dbr:American_Sociological_Association
+dbr:William_Chambliss	
+dbo:birthPlace	dbr:Šabac
+dbo:award	dbr:EuroLeague_Women
+dbr:Ivana_Matović	
+dbo:birthPlace	dbr:Switzerland
+dbo:award	dbr:University_of_Copenhagen
+dbr:Peter_Jenni	
+dbo:birthPlace	dbr:Arizona
+dbo:award	dbr:United_States_Champion_Thoroughbred_Trainer_by_earnings
+dbr:Bob_Baffert	dbr:Mesh_Tenney	
+dbo:birthPlace	dbr:Karimnagar
+dbo:award	dbr:CNN-IBN
+dbr:K._T._Rama_Rao	
+dbo:birthPlace	dbr:Los_Angeles,_California
+dbo:award	dbr:Mid-Eastern_Athletic_Conference_Men's_Basketball_Player_of_the_Year
+dbr:Jahsha_Bluntt	
+dbo:birthPlace	dbr:Jerusalem
+dbo:award	dbr:Davidson_Prize
+dbr:Yuval_Peres	
+dbo:birthPlace	dbr:Quebec
+dbo:award	dbr:United_States_National_Academy_of_Sciences
+dbr:Steven_Pinker	
+dbo:birthPlace	dbr:Kavutavaram
+dbo:award	dbr:Shanti_Swarup_Bhatnagar_Gold_Medal,_INSA
+dbr:Patcha_Ramachandra_Rao	
+dbo:birthPlace	dbr:Switzerland
+dbo:award	dbr:Royal_Gold_Medal
+dbr:Peter_Zumthor	
+dbo:birthPlace	dbr:Cresco,_Iowa
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Norman_Borlaug	
+dbo:birthPlace	dbr:Ireland
+dbo:award	dbr:Rumford_Medal
+dbr:Sir_George_Stokes,_1st_Baronet	
+dbo:birthPlace	dbr:Gurdaspur_district
+dbo:award	dbr:Padma_Bhushan
+dbr:Dev_Anand	
+dbo:birthPlace	dbr:Moscow
+dbo:award	dbr:Pushkin_Prize
+dbr:Apollon_Maykov	
+dbo:birthPlace	dbr:Tome,_Miyagi
+dbo:award	dbr:Tezuka_Osamu_Cultural_Prize
+dbr:Shotaro_Ishinomori	
+dbo:birthPlace	dbr:Leningrad_region
+dbo:award	dbr:USSR_State_Prize
+dbr:Vasily_Vladimirov	
+dbo:birthPlace	dbr:Gibraltar
+dbo:award	dbr:European_Boxing_Union
+dbr:Pepe_Forbes	
+dbo:birthPlace	dbr:Kursk_Governorate
+dbo:award	dbr:Honored_Artist_of_the_RSFSR
+dbr:Mikhail_Trufanov	
+dbo:birthPlace	dbr:Mexico_City
+dbo:award	dbr:Unión_Nacional_de_Intérpretes_de_Marionetas
+dbr:Mireya_Cueto	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:National_Endowment_for_the_Arts
+dbr:Squeak_Carnwath	dbr:L.S._Asekoff	dbr:Clyde_Connell	
+dbo:birthPlace	dbr:West_Bengal
+dbo:award	dbr:Asutosh_Mookerjee
+dbr:Bishnupada_Mukerjee	
+dbo:birthPlace	dbr:Tokyo
+dbo:award	dbr:Golden_Lion
+dbr:Takeshi_Kitano	dbr:Hiroshi_Inagaki	
+dbo:birthPlace	dbr:New_York_City
+dbo:award	dbr:Laurel_Award_for_Screenwriting_Achievement
+dbr:Eric_Roth	
+dbo:birthPlace	dbr:Tegucigalpa
+dbo:award	dbr:Royal_College_of_Physicians
+dbr:Salvador_Moncada	
+dbo:birthPlace	dbr:Pallikunnu
+dbo:award	dbr:Vallathol_Award
+dbr:T._Padmanabhan	
+dbo:birthPlace	dbr:Sheffield
+dbo:award	dbr:Man_Booker_Prize
+dbr:A._S._Byatt	
+dbo:birthPlace	dbr:Lancashire
+dbo:award	dbr:Victoria_University_of_Manchester
+dbr:Anthony_Burgess	
+dbo:birthPlace	dbr:Novohrad-Volynskyi
+dbo:award	dbr:Nika_Award
+dbr:Elena_Yakovleva	
+dbo:birthPlace	dbr:Ust-Ilimsky_District
+dbo:award	dbr:Order_of_the_October_Revolution
+dbr:Mikhail_Yangel	
+dbo:birthPlace	dbr:Zhejiang_Province
+dbo:award	dbr:National_Natural_Science_Foundation_of_China
+dbr:Gui-Qiang_Chen	
+dbo:birthPlace	dbr:Kerala
+dbo:award	dbr:India
+dbr:Sajitha_R_Shankar	
+dbo:birthPlace	dbr:Pontiac,_Michigan
+dbo:award	dbr:Achievement_Medal
+dbr:Gary_Peters_(politician)	
+dbo:birthPlace	dbr:Stainforth,_South_Yorkshire
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:George_Porter	
+dbo:birthPlace	dbr:Ames,_Iowa
+dbo:award	dbr:Pictures_of_the_Year
+dbr:Brian_Smith_(photographer)	
+dbo:birthPlace	dbr:Berwyn,_Illinois
+dbo:award	dbr:Daniel_Guggenheim_Medal
+dbr:Fred_Weick	
+dbo:birthPlace	dbr:Chaffeys_Locks,_Ontario
+dbo:award	dbr:Order_of_Ontario
+dbr:Agnes_Benidickson	
+dbo:birthPlace	dbr:Budapest
+dbo:award	dbr:International_Communication_Association
+dbr:Eszter_Hargittai	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Pennsylvania_Academy_of_the_Fine_Arts
+dbr:Ernest_Ludvig_Ipsen	
+dbo:birthPlace	dbr:Karlovy_Vary
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Martin_Fleischmann	
+dbo:birthPlace	dbr:USSR
+dbo:award	dbr:Fellow_of_the_Royal_Society_of_Canada
+dbr:Victor_Ivrii	
+dbo:birthPlace	dbr:Deri,_Caerphilly
+dbo:award	dbr:Glynn_Vivian_Art_Gallery
+dbr:John_Uzzell_Edwards	
+dbo:birthPlace	dbr:Nysa,_Poland
+dbo:award	dbr:Szczecin
+dbr:Ryszard_Wasko	
+dbo:birthPlace	dbr:Lisbon
+dbo:award	dbr:Order_of_the_Crown_of_Italy
+dbr:Henrique_de_Barros_Gomes	
+dbo:birthPlace	dbr:Kingdom_of_Italy
+dbo:award	dbr:Sostiene_Pereira
+dbr:Marcello_Mastroianni	
+dbo:birthPlace	dbr:Pattikkad,_Thrissur
+dbo:award	dbr:Kerala_Sahitya_Akademi_Award
+dbr:E._Santhosh_Kumar	
+dbo:birthPlace	dbr:British_India
+dbo:award	dbr:National_Film_Award_for_Best_Supporting_Actress
+dbr:Vijaya_Mehta	
+dbo:birthPlace	dbr:Kerala_State
+dbo:award	dbr:Odakkuzhal_Award
+dbr:N._S._Madhavan	
+dbo:birthPlace	dbr:Bussolengo
+dbo:award	<http://www.nserc-crsng.gc.ca/Media-Media/ForMedia-PourMedias/Steacie-Steacie/Morandotti-Morandotti_eng.asp>
+dbr:Roberto_Morandotti	
+dbo:birthPlace	dbr:New_York_City
+dbo:award	dbr:Nobel_Peace_Prize
+dbr:Theodore_Roosevelt	
+dbo:birthPlace	dbr:Margraviate_of_Moravia
+dbo:award	dbr:Order_of_Canada
+dbr:Nicholas_Goldschmidt	
+dbo:birthPlace	dbr:Dawsonville,_Georgia
+dbo:award	dbr:International_Motorsports_Hall_of_Fame
+dbr:Raymond_Parks_(auto_racing)	
+dbo:birthPlace	dbr:Connecticut
+dbo:award	dbr:Lilienfeld_Prize
+dbr:David_Mermin	
+dbo:birthPlace	dbr:Israel
+dbo:award	dbr:Broken_Wings_(film)
+dbr:Maya_Maron	
+dbo:birthPlace	dbr:Rugby,_Warwickshire
+dbo:award	dbr:James_Tiptree,_Jr._Award
+dbr:M._John_Harrison	
+dbo:birthPlace	dbr:Munich
+dbo:award	dbr:Lieben_Prize
+dbr:Wilhelm_Schlenk	
+dbo:birthPlace	dbr:Kodungallur
+dbo:award	dbr:Jamnalal_Bajaj_Award
+dbr:T._G._K._Menon	
+dbo:birthPlace	dbr:Free_Imperial_City_of_Frankfurt
+dbo:award	dbr:University_of_Tartu
+dbr:Friedrich_Maximilian_Klinger	
+dbo:birthPlace	dbr:Kiev
+dbo:award	dbr:The_Franklin_Institute_Awards
+dbr:Igor_Sikorsky	
+dbo:birthPlace	dbr:Lazio
+dbo:award	dbr:David_di_Donatello_for_Best_Actor
+dbr:Marcello_Mastroianni	
+dbo:birthPlace	dbr:Edinburgh
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Thomas_Graham_Brown	dbr:Keith_Moffatt	dbr:Fraser_Stoddart	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Commander_of_the_Order_of_the_British_Empire
+dbr:Bruce_Alberts	dbr:Edmund_Hill	
+dbo:birthPlace	dbr:Yelizovo
+dbo:award	dbr:Russia
+dbr:Alexander_Victorovich_Fedorov	
+dbo:birthPlace	dbr:Middlesex
+dbo:award	dbr:Royal_Medal
+dbr:Charles_Scott_Sherrington	dbr:Thomas_Henry_Huxley	dbr:William_Huggins	dbr:Henry_Head	dbr:Henry_Hallett_Dale	dbr:Philip_Cohen_(British_biochemist)	dbr:Edward_Albert_Sharpey-Schafer	dbr:G._I._Taylor	dbr:William_Henry_Perkin,_Jr.	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Once_and_Again
+dbr:Julia_Whelan	
+dbo:birthPlace	dbr:Russian_Empire
+dbo:award	dbr:Medal_of_Freedom
+dbr:George_Kistiakowsky	
+dbo:birthPlace	dbr:Manhattan
+dbo:award	dbr:David_Gordon_(choreographer)
+dbr:David_Gordon_(choreographer)	
+dbo:birthPlace	dbr:Washington_D.C.
+dbo:award	dbr:MacArthur_Foundation_Fellowship
+dbr:Martin_Puryear	
+dbo:birthPlace	dbr:Badagry
+dbo:award	dbr:Defense_Superior_Service_Medal
+dbr:Adesola_Nunayon_Amosu	
+dbo:birthPlace	dbr:Marshall_County,_Kentucky
+dbo:award	dbr:Tolman_Award
+dbr:Robert_H._Grubbs	
+dbo:birthPlace	dbr:Hartford,_Connecticut
+dbo:award	dbr:William_Procter_Prize_for_Scientific_Achievement
+dbr:Alexander_Rich	
+dbo:birthPlace	dbr:Russian_Soviet_Federative_Socialist_Republic
+dbo:award	dbr:Wired_(magazine)
+dbr:Nicholas_A._Kotov	
+dbo:birthPlace	dbr:India
+dbo:award	dbr:National_Film_Awards_(Bangladesh)
+dbr:Abul_Hayat	
+dbo:birthPlace	dbr:New_Haven
+dbo:award	dbr:United_States_National_Academy_of_Sciences
+dbr:David_Mermin	
+dbo:birthPlace	dbr:Kingdom_of_Saxony
+dbo:award	dbr:Albert_Medal_(Royal_Society_of_Arts)
+dbr:Nikolaus_Pevsner	
+dbo:birthPlace	dbr:RSFSR
+dbo:award	dbr:People's_Artist_of_the_Russian_Federation
+dbr:Valentina_Telichkina	
+dbo:birthPlace	dbr:Dublin
+dbo:award	dbr:Shamus_Award
+dbr:John_Connolly_(author)	
+dbo:birthPlace	dbr:Melbourne
+dbo:award	dbr:Clay_Research_Award
+dbr:Jonathan_Pila	
+dbo:birthPlace	dbr:Baghdad
+dbo:award	dbr:Aga_Khan_Award_for_Architecture
+dbr:Rifat_Chadirji	
+dbo:birthPlace	dbr:County_Borough_of_Salford
+dbo:award	dbr:British_Independent_Film_Award
+dbr:Ayub_Khan-Din	
+dbo:birthPlace	dbr:Mulhouse,_France
+dbo:award	dbr:Alfred_P._Sloan,_Jr._Prize
+dbr:Pierre_Chambon	
+dbo:birthPlace	dbr:Zhejiang
+dbo:award	dbr:Chauvenet_Prize
+dbr:Shiing-Shen_Chern	
+dbo:birthPlace	dbr:Scotland
+dbo:award	dbr:Distinguished_Service_Cross_(United_States)
+dbr:Alexander_MacWilliam,_Sr.	
+dbo:birthPlace	dbr:Hertfordshire
+dbo:award	dbr:American_Philosophical_Society
+dbr:Richard_M._Goody	
+dbo:birthPlace	dbr:Cambridge,_Massachusetts
+dbo:award	dbr:Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(musical)
+dbr:Chris_Tashima	
+dbo:birthPlace	dbr:England
+dbo:award	dbr:Associate_of_the_Royal_Academy
+dbr:James_Ward_(artist)	
+dbo:birthPlace	dbr:Zurich
+dbo:award	dbr:Academy_of_Management
+dbr:Edgar_Schein	
+dbo:birthPlace	dbr:Finland
+dbo:award	dbr:Vuorineuvos
+dbr:Erik_Gillberg	
+dbo:birthPlace	dbr:Devonport,_Tasmania
+dbo:award	dbr:Ian_McHarg
+dbr:Peter_Fox_(professor)	
+dbo:birthPlace	dbr:Hrvace
+dbo:award	dbr:Order_of_Ban_Jelačić
+dbr:Ante_Kotromanović	
+dbo:birthPlace	dbr:Barnstaple
+dbo:award	dbr:Drama_Desk_Award_for_Outstanding_Director_of_a_Play
+dbr:Richard_Eyre	
+dbo:birthPlace	dbr:Santa_Barbara,_California
+dbo:award	dbr:Winsor_McCay_Award
+dbr:Floyd_Norman	
+dbo:birthPlace	dbr:Ljubljana
+dbo:award	dbr:Tirana
+dbr:Tanja_Fajon	
+dbo:birthPlace	dbr:Bethel,_Connecticut
+dbo:award	dbr:American_Institute_of_Chemists_Gold_Medal
+dbr:Robert_L._McNeil,_Jr.	
+dbo:birthPlace	dbr:Abadan,_Iran
+dbo:award	dbr:Water_Polo
+dbr:Hossein_Nassim	
+dbo:birthPlace	dbr:Wilton,_New_Hampshire
+dbo:award	dbr:Rumford_Prize
+dbr:Charles_Greeley_Abbot	
+dbo:birthPlace	dbr:Kuwait
+dbo:award	dbr:Tunisia
+dbr:Abdulhussain_Abdulredha	
+dbo:birthPlace	dbr:King's_Lynn
+dbo:award	dbr:Smith's_Prize
+dbr:Hamnet_Holditch	
+dbo:birthPlace	dbr:Oldham
+dbo:award	dbr:Michael_Faraday_Prize
+dbr:Brian_Cox_(physicist)	
+dbo:birthPlace	dbr:Gerry,_New_York
+dbo:award	dbr:Medal_of_Honor
+dbr:John_Schofield	
+dbo:birthPlace	dbr:Worth,_West_Sussex
+dbo:award	dbr:BBVA_Foundation_Frontiers_of_Knowledge_Awards
+dbr:David_Mumford	
+dbo:birthPlace	dbr:Alandi
+dbo:award	dbr:Sangeet_Natak_Akademi_Fellowship
+dbr:Krishnarao_Phulambrikar	
+dbo:birthPlace	dbr:Fyzabad
+dbo:award	dbr:Boltzmann_Medal
+dbr:Michael_Fisher	
+dbo:birthPlace	dbr:Vologda_Governorate
+dbo:award	dbr:Lenin_Prize
+dbr:Nikolay_Devyatkov	
+dbo:birthPlace	dbr:Rangpur_District
+dbo:award	dbr:Bangla_Academy_Award
+dbr:Anisul_Hoque	
+dbo:birthPlace	dbr:Quezon_City
+dbo:award	dbr:Philippine_Basketball_Association
+dbr:Alex_Cabagnot	dbr:Paolo_Mendoza	
+dbo:birthPlace	dbr:Lordship_of_Jever
+dbo:award	dbr:Royal_Medal
+dbr:Eilhard_Mitscherlich	
+dbo:birthPlace	dbr:Canton_of_Basel-Stadt
+dbo:award	dbr:César_Keiser
+dbr:César_Keiser	
+dbo:birthPlace	dbr:Tuttle,_Oklahoma
+dbo:award	dbr:Ernst_&_Young
+dbr:Chad_Richison	
+dbo:birthPlace	dbr:Domont
+dbo:award	dbr:Wolf_Prize_in_Medicine
+dbr:Jean-Pierre_Changeux	
+dbo:birthPlace	dbr:Indianapolis
+dbo:award	dbr:Daytime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Drama_Series
+dbr:Steve_Burton_(actor)	
+dbo:birthPlace	dbr:Aberdeen
+dbo:award	dbr:Pour_le_Mérite
+dbr:David_Gill_(astronomer)	
+dbo:birthPlace	dbr:Lithuania
+dbo:award	dbr:Lenin_Order
+dbr:David_A._Frank-Kamenetskii	
+dbo:birthPlace	dbr:Washington,_D.C.
+dbo:award	dbr:Pulitzer_Prize_for_General_Non-Fiction
+dbr:Steve_Coll	
+dbo:birthPlace	dbr:Telangana
+dbo:award	dbr:Bharat_Ratna
+dbr:Zakir_Husain_(politician)	
+dbo:birthPlace	dbr:Berlin
+dbo:award	dbr:University_of_Passau
+dbr:Knut_Borchardt	
+dbo:birthPlace	dbr:Brooke_County,_West_Virginia
+dbo:award	dbr:Brevet_(military)
+dbr:Thayer_Melvin	
+dbo:birthPlace	dbr:Minsk
+dbo:award	dbr:Order_of_the_Badge_of_Honour
+dbr:Vladimir_Baryshevsky	
+dbo:birthPlace	dbr:Lockport_(city),_New_York
+dbo:award	dbr:IEEE_Medal_of_Honor
+dbr:Walter_Ransom_Gail_Baker	
+dbo:birthPlace	dbr:Tatsuno,_Hyōgo
+dbo:award	dbr:Naoki_Prize
+dbr:Ryō_Hanmura	
+dbo:birthPlace	dbr:Qaimganj
+dbo:award	dbr:Hilal-i-Imtiaz
+dbr:Rahimuddin_Khan	
+dbo:birthPlace	dbr:Allentown,_Pennsylvania
+dbo:award	dbr:Defense_Superior_Service_Medal
+dbr:John_Kline_(politician)	
+dbo:birthPlace	dbr:Geel
+dbo:award	dbr:Organofluorine_chemistry
+dbr:Véronique_Gouverneur	
+dbo:birthPlace	dbr:Toowoomba
+dbo:award	dbr:Miles_Franklin_Award
+dbr:Ronald_McKie	
+dbo:birthPlace	dbr:Chicago,_Illinois
+dbo:award	dbr:American_Psychological_Association
+dbr:Kenneth_Spence	
+dbo:birthPlace	dbr:Paris,_France
+dbo:award	dbr:Médaille_militaire
+dbr:André_Maginot	
+dbo:birthPlace	dbr:Pakkoku
+dbo:award	dbr:Pakokku_U_Ohn_Pe_literary_award
+dbr:Nay_Myo_Thant	
+dbo:birthPlace	dbr:Bridgeport,_Connecticut
+dbo:award	dbr:Pfizer_Award_in_Enzyme_Chemistry
+dbr:Albert_L._Lehninger	
+dbo:birthPlace	dbr:Ohio
+dbo:award	dbr:PECASE
+dbr:Justin_Jacobs	
+dbo:birthPlace	dbr:Florida
+dbo:award	dbr:Eclipse_Award_for_Outstanding_Trainer
+dbr:Sherrill_W._Ward	
+dbo:birthPlace	dbr:England
+dbo:award	dbr:Fellow_of_the_Indian_National_Science_Academy
+dbr:Bryce_Chudleigh_Burt	
+dbo:birthPlace	dbr:United_Kingdom
+dbo:award	dbr:Denham_Harman_Research_Award
+dbr:Mark_A._Smith	
+dbo:birthPlace	dbr:Yorkshire
+dbo:award	dbr:RoNA_Award
+dbr:Brenda_Jagger	
+dbo:birthPlace	dbr:New_York_(state)
+dbo:award	dbr:National_Academy_of_Engineering
+dbr:James_Collins_(bioengineer)	
+dbo:birthPlace	dbr:Bamawm,_Victoria
+dbo:award	dbr:Mentioned_in_Despatches
+dbr:George_Rankin	
+dbo:birthPlace	dbr:Cleveland
+dbo:award	dbr:Charles_S._Mott_Prize
+dbr:Judah_Folkman	
+dbo:birthPlace	dbr:Nagpur
+dbo:award	dbr:Shanti_Swarup_Bhatnagar_Prize
+dbr:Ramanath_Cowsik	
+dbo:birthPlace	dbr:Stalingrad
+dbo:award	dbr:State_Prize_of_Ukraine
+dbr:Volodymyr_Nemoshkalenko	
+dbo:birthPlace	dbr:Omsk
+dbo:award	dbr:Russian_Professional_Basketball_League
+dbr:Andrey_Vorontsevich	
+dbo:birthPlace	dbr:Chakwal
+dbo:award	dbr:Third_World_Academy_of_Sciences
+dbr:Sukh_Dev	
+dbo:birthPlace	dbr:Alice,_Texas
+dbo:award	dbr:Gairdner_Foundation_International_Award
+dbr:James_P._Allison	
+dbo:birthPlace	dbr:Ripon
+dbo:award	dbr:Senior_Whitehead_Prize
+dbr:David_George_Kendall	
+dbo:birthPlace	dbr:Shanxi
+dbo:award	dbr:ASME_Fellow
+dbr:Yuwen_Zhang	
+dbo:birthPlace	dbr:New_York,_New_York
+dbo:award	dbr:Lasker-DeBakey_Clinical_Medical_Research_Award
+dbr:Alfred_Sommer	
+dbo:birthPlace	dbr:Madras
+dbo:award	dbr:Isaac_Newton_Medal
+dbr:Tom_Kibble	
+dbo:birthPlace	dbr:Saskatchewan
+dbo:award	dbr:Avelino_Gomez_Memorial_Award
+dbr:David_A._Gall	
+dbo:birthPlace	dbr:British_Overseas_Territory
+dbo:award	dbr:Rumford_Medal
+dbr:William_Penney,_Baron_Penney	
+dbo:birthPlace	dbr:Azerbaijan
+dbo:award	dbr:USSR_State_Prize
+dbr:Togrul_Narimanbekov	dbr:Kerim_Kerimov	dbr:Sadig_Dadashov	
+dbo:birthPlace	dbr:Wisconsin
+dbo:award	dbr:World_Fantasy_Award
+dbr:Peter_Straub	
+dbo:birthPlace	dbr:India
+dbo:award	dbr:Genie_Award_for_Best_Performance_by_an_Actress_in_a_Supporting_Role
+dbr:Seema_Biswas	
+dbo:birthPlace	dbr:New_York_City
+dbo:award	dbr:Association_of_Universities_for_Research_in_Astronomy
+dbr:Frank_Hill_(scientist)	dbr:Marc_Postman	
+dbo:birthPlace	dbr:Reedsburg,_Wisconsin
+dbo:award	dbr:Kalinga_Prize
+dbr:Warren_Weaver	
+dbo:birthPlace	dbr:Ishpeming,_Michigan
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Glenn_T._Seaborg	
+dbo:birthPlace	dbr:San_Francisco,_California
+dbo:award	dbr:Pollock-Krasner_Foundation
+dbr:Carlos_Villa	
+dbo:birthPlace	dbr:Congress_Poland
+dbo:award	dbr:Albert_Einstein_Peace_Prize
+dbr:Joseph_Rotblat	
+dbo:birthPlace	dbr:Steglitz
+dbo:award	dbr:National_Board_of_Review_Award_for_Best_Film
+dbr:Henry_Blanke	
+dbo:birthPlace	dbr:Montreux
+dbo:award	dbr:Clemens_von_Pirquet
+dbr:Alain_de_Weck	
+dbo:birthPlace	dbr:Wimbledon,_London
+dbo:award	dbr:Gold_Medal_(RGS)
+dbr:Lester_Charles_King	
+dbo:birthPlace	dbr:Missouri
+dbo:award	dbr:Elected_Member,_National_Academy_of_Sciences,_2006
+dbr:Don_W._Cleveland	
+dbo:birthPlace	dbr:Brisbane
+dbo:award	dbr:Mueller_Medal
+dbr:Isobel_Bennett	
+dbo:birthPlace	dbr:St._Louis,_Missouri
+dbo:award	dbr:Distinguished_Service_Cross_(United_States)
+dbr:Andrew_Davis_Bruce	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Joint_Service_Commendation_Medal
+dbr:George_P._Bush	dbr:Joe_Sestak	
+dbo:birthPlace	dbr:Taiwan
+dbo:award	dbr:Comstock_Prize_in_Physics
+dbr:Maw-Kuen_Wu	
+dbo:birthPlace	dbr:Erstfeld
+dbo:award	dbr:Marcel_Benoist_Prize
+dbr:Albert_Eschenmoser	
+dbo:birthPlace	dbr:Netherlands
+dbo:award	dbr:Descartes_Prize
+dbr:Ed_van_den_Heuvel	
+dbo:birthPlace	dbr:Lebanon
+dbo:award	dbr:MIPIM_AR_Future_Projects_Award
+dbr:Nabil_Gholam	
+dbo:birthPlace	dbr:Soviet_Union
+dbo:award	dbr:Science
+dbr:Myhailo_Yadrenko	
+dbo:birthPlace	dbr:Burg_bei_Magdeburg
+dbo:award	dbr:Deutscher_Schallplattenpreis
+dbr:Heinz_Hennig	
+dbo:birthPlace	dbr:Kulhudhuffushi
+dbo:award	dbr:Medal_for_Exceptional_Bravery
+dbr:Hussain_Adam	
+dbo:birthPlace	dbr:Conway,_South_Carolina
+dbo:award	dbr:Nebula_Award
+dbr:William_Gibson	
+dbo:birthPlace	dbr:Cambridge,_Massachusetts
+dbo:award	dbr:Service_to_America_Medal
+dbr:Katharine_Blodgett_Gebbie	
+dbo:birthPlace	dbr:Kingdom_of_Prussia
+dbo:award	dbr:PhD_(Hon)
+dbr:Hermann_Grassmann	dbr:Karl_Weierstrass	
+dbo:birthPlace	dbr:Farmington_Hills,_Michigan
+dbo:award	dbr:National_Board_of_Review_Award_for_Best_Cast
+dbr:Elizabeth_Berkley	
+dbo:birthPlace	dbr:Ripley,_Derbyshire
+dbo:award	dbr:Albert_Medal_(Royal_Society_of_Arts)
+dbr:Barnes_Wallis	
+dbo:birthPlace	dbr:Finland
+dbo:award	dbr:William_Allan_Award
+dbr:Albert_de_la_Chapelle	
+dbo:birthPlace	dbr:New_York_City
+dbo:award	dbr:Wolf_Prize
+dbr:Hassler_Whitney	
+dbo:birthPlace	dbr:Socialist_Republic_of_Bosnia_and_Herzegovina
+dbo:award	dbr:Grand_Order_of_King_Petar_Krešimir_IV
+dbr:Gojko_Šušak	
+dbo:birthPlace	dbr:West_Midlands_(county)
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:David_Baulcombe	dbr:Peter_J._Barnes_(respiratory_scientist)	
+dbo:birthPlace	dbr:Murshidabad
+dbo:award	dbr:Bangla_Academy_Award
+dbr:Anwar_Pasha	
+dbo:birthPlace	dbr:Mexico_City,_Mexico
+dbo:award	dbr:Academy_Award_for_Best_Cinematography
+dbr:Guillermo_Navarro	
+dbo:birthPlace	dbr:Samut_Prakan_Province
+dbo:award	dbr:Monrak_Transistor
+dbr:Siriyakorn_Pukkavesh	
+dbo:birthPlace	dbr:Summit,_New_Jersey
+dbo:award	dbr:American_Academy_of_Poets
+dbr:Henry_Allen_(journalist)	
+dbo:birthPlace	dbr:Cambridge
+dbo:award	dbr:Nobel_prize_in_Physiology_or_Medicine
+dbr:John_Sulston	
+dbo:birthPlace	dbr:Christchurch
+dbo:award	dbr:NetGuide
+dbr:Tama_Easton	
+dbo:birthPlace	dbr:Etterbeek
+dbo:award	dbr:Balzan_Prize
+dbr:Pierre_Deligne	
+dbo:birthPlace	dbr:Lac_La_Biche,_Alberta
+dbo:award	dbr:Wolf_Prize
+dbr:Raymond_Lemieux	
+dbo:birthPlace	dbr:Leeuwarden
+dbo:award	dbr:Colombina
+dbr:Tjitske_Reidinga	
+dbo:birthPlace	dbr:Kishoreganj_District
+dbo:award	dbr:Ekushey_Padak
+dbr:Ataus_Samad	
+dbo:birthPlace	dbr:Jerusalem
+dbo:award	dbr:Bernstein_Prize
+dbr:David_Grossman	
+dbo:birthPlace	dbr:Castile-La_Mancha
+dbo:award	dbr:TP_de_Oro
+dbr:Constantino_Romero	
+dbo:birthPlace	dbr:Limerick
+dbo:award	dbr:Order_of_the_Bath
+dbr:Eyre_Coote_(East_India_Company_officer)	
+dbo:birthPlace	dbr:Leningrad
+dbo:award	dbr:EMS_Prize
+dbr:Stanislav_Smirnov	
+dbo:birthPlace	dbr:Hampton,_London
+dbo:award	dbr:Royal_Medal
+dbr:Richard_Doll	
+dbo:birthPlace	dbr:Zlatoust
+dbo:award	dbr:Medal_For_the_Capture_of_Berlin
+dbr:Sergei_Babkov_(painter)	
+dbo:birthPlace	dbr:Fairview_Park,_Ohio
+dbo:award	dbr:Defense_Meritorious_Service_Medal
+dbr:Dan_Sullivan_(U.S._Senator)	
+dbo:birthPlace	dbr:Salem,_Massachusetts
+dbo:award	dbr:Meritorious_Service_Medal_(United_States)
+dbr:Thaddeus_M._Buczko	
+dbo:birthPlace	dbr:Ontario
+dbo:award	dbr:Canadian_Identification_Society
+dbr:Brian_E._Dalrymple	
+dbo:birthPlace	dbr:Ludwigsburg
+dbo:award	dbr:Nobel_Prize_in_Chemistry
+dbr:Hartmut_Michel	
+dbo:birthPlace	dbr:Marylebone
+dbo:award	dbr:Order_of_Merit
+dbr:George_Frederic_Watts	
+dbo:birthPlace	dbr:Cape_Town
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Solly_Zuckerman,_Baron_Zuckerman	dbr:Richard_Borcherds	
+dbo:birthPlace	dbr:England
+dbo:award	dbr:Israel_Prize
+dbr:David_Harel	
+dbo:birthPlace	dbr:Ambala_district
+dbo:award	dbr:Padma_Shri
+dbr:Sunita_Jain	
+dbo:birthPlace	dbr:Montreal
+dbo:award	dbr:American_Sociological_Association
+dbr:Philip_N._Howard	
+dbo:birthPlace	dbr:Cologne
+dbo:award	dbr:German_Academy_of_Sciences_Leopoldina
+dbr:Michael_Theobald	
+dbo:birthPlace	dbr:Little_Rock,_Arkansas
+dbo:award	dbr:National_Humanities_Medal
+dbr:David_Levering_Lewis	
+dbo:birthPlace	dbr:Klaipėda
+dbo:award	dbr:LKL_All-Star_Game
+dbr:Arvydas_Macijauskas	
+dbo:birthPlace	dbr:England
+dbo:award	dbr:St._John's_College,_Cambridge
+dbr:George_Humphrey_(psychologist)	
+dbo:birthPlace	dbr:Berkeley,_California
+dbo:award	dbr:Humboldt_Prize
+dbr:Curtis_T._McMullen	
+dbo:birthPlace	dbr:Georgia_(U.S._state)
+dbo:award	dbr:National_Defense_Service_Medal
+dbr:Max_Cleland	
+dbo:birthPlace	dbr:Mangalore
+dbo:award	dbr:Nandi_Award
+dbr:Anushka_Shetty	
+dbo:birthPlace	dbr:Essex
+dbo:award	dbr:Society_of_Antiquaries_of_London
+dbr:Dominic_Powlesland	
+dbo:birthPlace	dbr:Buchans,_Newfoundland_and_Labrador
+dbo:award	dbr:RBC_Bronwen_Wallace_Award_for_Emerging_Writers
+dbr:Michael_Crummey	
+dbo:birthPlace	dbr:Mysore_Kingdom
+dbo:award	dbr:Padma_Bhushan
+dbr:K._Venkatalakshamma	dbr:Raja_Rao	
+dbo:birthPlace	dbr:Michigan
+dbo:award	dbr:Centenary_Medal_of_the_UK_Royal_Society_of_Chemistry
+dbr:Henry_F._Schaefer,_III	
+dbo:birthPlace	dbr:Bangalore
+dbo:award	dbr:Padma_Vibhushan
+dbr:V._K._Aatre	dbr:Rajinikanth	dbr:C._N._R._Rao	dbr:M._R._Srinivasan	
+dbo:birthPlace	dbr:Liverpool
+dbo:award	dbr:Albert_Lasker_Award_for_Basic_Medical_Research
+dbr:Bernard_Brodie_(biochemist)	
+dbo:birthPlace	dbr:Kyoto
+dbo:award	dbr:Nobel_Prize_in_Chemistry
+dbr:Osamu_Shimomura	
+dbo:birthPlace	dbr:Barbados
+dbo:award	dbr:Doctor_of_Letters
+dbr:Hilary_Beckles	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Robert_A._Welch_Foundation
+dbr:Paul_Doughty_Bartlett	
+dbo:birthPlace	dbr:Kiev_Oblast
+dbo:award	dbr:Shevchenko_National_Prize
+dbr:Nataliya_Sumska	
+dbo:birthPlace	dbr:Oak_Ridge,_Tennessee
+dbo:award	dbr:Grammy_Award
+dbr:George_Holz	
+dbo:birthPlace	dbr:Pompano_Beach,_Florida
+dbo:award	dbr:Summer_of_My_German_Soldier_(TV_film)
+dbr:Esther_Rolle	
+dbo:birthPlace	dbr:Silesia_Province
+dbo:award	dbr:Lorentz_Medal
+dbr:Fritz_London	
+dbo:birthPlace	dbr:Minsk_Governorate
+dbo:award	dbr:German_Academy_of_Sciences_Leopoldina
+dbr:Solomon_Mikhlin	
+dbo:birthPlace	dbr:Central_Java,_Indonesia
+dbo:award	dbr:Parliament_of_the_World’s_Religions
+dbr:Swami_Anand_Krishna	
+dbo:birthPlace	dbr:Skopje
+dbo:award	dbr:Macedonian_First_League_(basketball)
+dbr:Uroš_Vasiljević	dbr:Ljubomir_Mladenovski	
+dbo:birthPlace	dbr:Philadelphia
+dbo:award	dbr:Knox_Fellowship
+dbr:Peter_York_Solmssen	
+dbo:birthPlace	dbr:Manila
+dbo:award	dbr:Filoil_Flying_V_Preseason_Hanes_Cup
+dbr:Ranbill_Tongco	
+dbo:birthPlace	dbr:British_Raj
+dbo:award	dbr:Yamanam
+dbr:Bharath_Gopi	
+dbo:birthPlace	dbr:Queensland
+dbo:award	dbr:Daytime_Emmy_Award
+dbr:Bindi_Irwin	
+dbo:birthPlace	dbr:France
+dbo:award	dbr:Order_of_the_Elephant
+dbr:Jean_Henri_Desmercières	
+dbo:birthPlace	dbr:Fontana_Liri
+dbo:award	dbr:The_Pizza_Triangle
+dbr:Marcello_Mastroianni	
+dbo:birthPlace	dbr:Görlitz
+dbo:award	dbr:Nobel_Prize_in_Physics
+dbr:Hans_Georg_Dehmelt	
+dbo:birthPlace	dbr:Opobo
+dbo:award	dbr:Order_of_the_Federal_Republic
+dbr:Kenneth_Minimah	
+dbo:birthPlace	dbr:Tenkasi
+dbo:award	dbr:VASVIK_Industrial_Research_Award
+dbr:G._S._Venkataraman	
+dbo:birthPlace	dbr:Cheshire
+dbo:award	dbr:Royal_Medal
+dbr:Horace_Lamb	dbr:Hugh_Huxley	dbr:Arthur_Smith_Woodward	dbr:Tim_Hunt	
+dbo:birthPlace	dbr:Nakhichevan-on-Don
+dbo:award	dbr:Hero_of_Socialist_Labour
+dbr:Martiros_Saryan	
+dbo:birthPlace	dbr:Brooklyn
+dbo:award	dbr:National_Book_Award_for_Nonfiction
+dbr:Ron_Chernow	
+dbo:birthPlace	dbr:Colombia
+dbo:award	dbr:Salón_de_Artistas_Colombianos
+dbr:Santiago_Martínez_Delgado	
+dbo:birthPlace	dbr:Bristol
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Paul_Dirac	dbr:M._J._Seaton	
+dbo:birthPlace	dbr:South_Australia
+dbo:award	dbr:Red_Ochre_Award
+dbr:Hector_Burton	
+dbo:birthPlace	dbr:Kunashaksky_District
+dbo:award	dbr:Medal_%22For_the_Victory_over_Germany_in_the_Great_Patriotic_War_1941–1945%22
+dbr:Kadir_Timergazin	
+dbo:birthPlace	dbr:Douai
+dbo:award	dbr:Légion_d'Honneur
+dbr:Georges_Maroniez	
+dbo:birthPlace	dbr:Maharashtra
+dbo:award	dbr:Massachusetts
+dbr:Abhay_Ashtekar	
+dbo:birthPlace	dbr:Chattanooga
+dbo:award	dbr:Pulitzer_Prize_for_Investigative_Reporting
+dbr:Bill_Dedman	
+dbo:birthPlace	dbr:Massachusetts
+dbo:award	dbr:Roy_Harvey_Pearce_Prize_for_Lifetime_Achievement
+dbr:Susan_Howe	
+dbo:birthPlace	dbr:Cambridge
+dbo:award	dbr:Elmer_A._Sperry_Award
+dbr:Christopher_Cockerell	
+dbo:birthPlace	dbr:Alappuzha_district
+dbo:award	dbr:Padma_Shri
+dbr:Thomas_Kunnunkal	
+dbo:birthPlace	dbr:Chicago,_Illinois
+dbo:award	dbr:Turkish_Basketball_Super_League
+dbr:Marc_Salyers	
+dbo:birthPlace	dbr:Massachusetts
+dbo:award	dbr:Henri_Poincaré_Prize
+dbr:Elliott_H._Lieb	
+dbo:birthPlace	dbr:Shusha
+dbo:award	dbr:People's_Artist_of_the_USSR
+dbr:Jalal_Garyaghdi	
+dbo:birthPlace	dbr:Kolhapur_State
+dbo:award	dbr:Academy_Award_for_Costume_Design
+dbr:Bhanu_Athaiya	
+dbo:birthPlace	dbr:Šiauliai
+dbo:award	dbr:Eurobasket_2003
+dbr:Antanas_Sireika	
+dbo:birthPlace	dbr:Seattle,_Washington
+dbo:award	dbr:National_Medal_of_Technology
+dbr:Joe_Sutter	
+dbo:birthPlace	dbr:Taxobeni
+dbo:award	dbr:Order_of_the_Star_of_Romania
+dbr:Ilie_Ilașcu	
+dbo:birthPlace	dbr:Philippines
+dbo:award	dbr:NCAA_Season_88_basketball_tournaments
+dbr:Baser_Amer	dbr:Ranbill_Tongco	
+dbo:birthPlace	dbr:Winnetka,_Illinois
+dbo:award	dbr:Guggenheim_Fellowship
+dbr:Deborah_Eisenberg	
+dbo:birthPlace	dbr:Australia
+dbo:award	dbr:Australia_Council_for_the_Arts
+dbr:Anne_Pincus	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Record_producer
+dbr:Mike_More	
+dbo:birthPlace	dbr:Tadayken
+dbo:award	dbr:Order_of_St._Anna
+dbr:Nestor_Genko	
+dbo:birthPlace	dbr:Indiana_(U.S._state)
+dbo:award	dbr:RWA_Best_First_Mystery
+dbr:Erin_Hart	
+dbo:birthPlace	dbr:Marshalltown,_Iowa
+dbo:award	dbr:USDA
+dbr:Noel_T._Keen	
+dbo:birthPlace	dbr:Illinois
+dbo:award	dbr:Partnership_at_Drugfree.org
+dbr:Ginna_Marston	
+dbo:birthPlace	dbr:Junagadh
+dbo:award	dbr:Dhanji_Kanji_Gandhi_Suvarna_Chandrak
+dbr:Manoj_Khanderia	
+dbo:birthPlace	dbr:Bavaria
+dbo:award	dbr:Copley_Medal
+dbr:Karl_Gegenbaur	
+dbo:birthPlace	dbr:Florida
+dbo:award	dbr:Drexel_Institute
+dbr:Charles_H._Percy	
+dbo:birthPlace	dbr:Munshiganj_District
+dbo:award	dbr:Ekushey_Padak
+dbr:M._A._Naser	
+dbo:birthPlace	dbr:Nalchik
+dbo:award	dbr:Order_of_Courage
+dbr:Yury_Kokov	
+dbo:birthPlace	dbr:Marsabit
+dbo:award	dbr:Stuttgart_Peace_Prize
+dbr:Fatuma_Abdulkadir_Adan	
+dbo:birthPlace	dbr:Arlington,_Texas
+dbo:award	dbr:IEEE_Edison_Medal
+dbr:Archie_W._Straiton	
+dbo:birthPlace	dbr:Scotland
+dbo:award	dbr:Benjamin_Franklin_Medal_(Franklin_Institute)
+dbr:Robin_M._Hochstrasser	
+dbo:birthPlace	dbr:Gifu_Prefecture
+dbo:award	dbr:Humboldt_Prize
+dbr:Hirosi_Ooguri	
+dbo:birthPlace	dbr:Consort,_Alberta
+dbo:award	dbr:Queen_Elizabeth_II_Golden_Jubilee_Medal
+dbr:Basil_Boulton	
+dbo:birthPlace	dbr:Oshawa,_Ontario
+dbo:award	dbr:Canadian_Champion_Jockey_by_wins
+dbr:Sandy_Hawley	
+dbo:birthPlace	dbr:New_York,_New_York
+dbo:award	dbr:Eli_Lilly_Award_in_Biological_Chemistry
+dbr:George_Wald	
+dbo:birthPlace	dbr:New_York_(state)
+dbo:award	dbr:Lorentz_Medal
+dbr:Frank_Wilczek	
+dbo:birthPlace	dbr:Kerala
+dbo:award	dbr:Indian_Academy_of_Sciences
+dbr:K._R._Ramanathan	
+dbo:birthPlace	dbr:Missouri
+dbo:award	dbr:Nobel_Prize_in_Physics
+dbr:Steven_Chu	
+dbo:birthPlace	dbr:New_York,_NY
+dbo:award	dbr:Rhodes_Family_Award_for_Excellence
+dbr:Cordy_Ryman	
+dbo:birthPlace	dbr:Illinois
+dbo:award	dbr:Pulitzer_Prize_for_Fiction
+dbr:Ernest_Poole	
+dbo:birthPlace	dbr:Yuli,_Hualien
+dbo:award	dbr:Comstock_Prize_in_Physics
+dbr:Maw-Kuen_Wu	
+dbo:birthPlace	dbr:Bangalore_district
+dbo:award	dbr:Padma_Bhushan
+dbr:C._D._Narasimhaiah	
+dbo:birthPlace	dbr:Riga
+dbo:award	dbr:Order_of_Three_Stars
+dbr:Eižens_Laube	
+dbo:birthPlace	dbr:Dorfchemnitz
+dbo:award	dbr:Millennium_Technology_Prize
+dbr:Michael_Grätzel	
+dbo:birthPlace	dbr:Dominion_of_Newfoundland
+dbo:award	dbr:Gemini_Awards
+dbr:Max_Keeping	
+dbo:birthPlace	dbr:Brooklyn
+dbo:award	dbr:National_Endowment_for_the_Arts
+dbr:Carole_L._Glickfeld	dbr:Ted_Stamm	
+dbo:birthPlace	dbr:Baku_Governorate
+dbo:award	dbr:Max_Planck_Medal
+dbr:Lev_Landau	
+dbo:birthPlace	dbr:Genoa
+dbo:award	dbr:AIA_Gold_Medal
+dbr:Renzo_Piano	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Hollywood_Walk_Of_Fame
+dbr:Bobby_Driscoll	
+dbo:birthPlace	dbr:Russian_Empire
+dbo:award	dbr:Order_of_St._Stanislaus
+dbr:Karim_bey_Mehmandarov	
+dbo:birthPlace	dbr:Sabadell
+dbo:award	dbr:Chevalier_des_Arts_et_des_Lettres
+dbr:Antoni_Taulé	
+dbo:birthPlace	dbr:Greenfield,_Ohio
+dbo:award	dbr:Silver_Star
+dbr:John_E._Hull	
+dbo:birthPlace	dbr:Sialkot
+dbo:award	dbr:Friends_of_Liberation_War_Honour
+dbr:Waris_Mir	
+dbo:birthPlace	dbr:Derby
+dbo:award	dbr:International_Linear_Algebra_(ILAS)_Hans_Schneider_Prize
+dbr:Richard_A._Brualdi	
+dbo:birthPlace	dbr:Soviet_Union
+dbo:award	dbr:BC_Neptūnas
+dbr:Arvydas_Macijauskas	
+dbo:birthPlace	dbr:South_Boston
+dbo:award	dbr:Hamburg_University
+dbr:William_L._Langer	
+dbo:birthPlace	dbr:Australia
+dbo:award	dbr:Arthur_Guy_Memorial_Painting_Prize
+dbr:Christopher_Beaumont	
+dbo:birthPlace	dbr:Philadelphia,_Pennsylvania
+dbo:award	dbr:International_Horror_Guild_Award
+dbr:Jason_Van_Hollander	
+dbo:birthPlace	dbr:Edinburgh
+dbo:award	dbr:Royal_Academy
+dbr:James_Orrock	
+dbo:birthPlace	dbr:Costa_Rica
+dbo:award	dbr:American_Chemical_Society
+dbr:Samuel_I._Stupp	
+dbo:birthPlace	dbr:Boston,_Massachusetts
+dbo:award	dbr:Robert_Frost_Award
+dbr:Deborah_Warren	
+dbo:birthPlace	dbr:Cheranallur
+dbo:award	dbr:Pandit_Karuppan
+dbr:V._V._K._Valath	
+dbo:birthPlace	dbr:Nashville,_Tennessee
+dbo:award	dbr:Parade_All-America_Boys_Basketball_Team
+dbr:Jamont_Gordon	
+dbo:birthPlace	dbr:Tokyo
+dbo:award	dbr:House_on_Fire
+dbr:Ken_Ogata	
+dbo:birthPlace	dbr:Lutsk
+dbo:award	dbr:Order_of_Merit_of_the_Federal_Republic_of_Germany
+dbr:Szymon_Szurmiej	
+dbo:birthPlace	dbr:Nazi_Germany
+dbo:award	dbr:Kassel_Literary_Prize
+dbr:Irmtraud_Morgner	
+dbo:birthPlace	dbr:Spain
+dbo:award	dbr:Polish_Cup_in_women_basketball
+dbr:Laia_Palau	
+dbo:birthPlace	dbr:Oxford
+dbo:award	dbr:Colworth_Medal
+dbr:Alec_Jeffreys	
+dbo:birthPlace	dbr:Russian_Turkestan
+dbo:award	dbr:Order_of_the_Red_Banner_of_Labour
+dbr:Gʻafur_Gʻulom	
+dbo:birthPlace	dbr:Adelaide
+dbo:award	dbr:Roebling_Medal
+dbr:William_Lawrence_Bragg	
+dbo:birthPlace	dbr:Kenosha,_Wisconsin
+dbo:award	dbr:43rd_Academy_Awards
+dbr:Orson_Welles	
+dbo:birthPlace	dbr:Middletown,_Connecticut
+dbo:award	dbr:Ernest_Orlando_Lawrence_Award
+dbr:Nicholas_Turro	
+dbo:birthPlace	dbr:Berhampur
+dbo:award	dbr:VASVIK_Industrial_Research_Award
+dbr:P._V._S._Rao	
+dbo:birthPlace	dbr:Erfurt
+dbo:award	dbr:International_Johann_Sebastian_Bach_Competition
+dbr:Christoph_Genz	
+dbo:birthPlace	dbr:Antioch
+dbo:award	dbr:Gold_Medal_of_the_Royal_Astronomical_Society
+dbr:Walter_Sydney_Adams	
+dbo:birthPlace	dbr:Yalkim_village
+dbo:award	dbr:People's_Artist_of_USSR
+dbr:Izzat_Klychev	
+dbo:birthPlace	dbr:Gibraltar
+dbo:award	dbr:British_Ornithologists'_Union
+dbr:Clive_Finlayson	
+dbo:birthPlace	dbr:Ukrainian_SSR
+dbo:award	dbr:Shevchenko_Prize
+dbr:Viacheslav_Chornovil	dbr:Hryhoriy_Tiutiunnyk	
+dbo:birthPlace	dbr:India
+dbo:award	dbr:VASVIK_Industrial_Research_Award
+dbr:Ratan_Kumar_Sinha	
+dbo:birthPlace	dbr:Florence
+dbo:award	dbr:Days_and_Clouds
+dbr:Alba_Rohrwacher	
+dbo:birthPlace	dbr:Manitoba
+dbo:award	dbr:Crafoord_Prize
+dbr:Jim_Peebles	
+dbo:birthPlace	dbr:Kanchanaburi
+dbo:award	dbr:Hit_Man_File
+dbr:Chatchai_Plengpanich	
+dbo:birthPlace	dbr:Kerala
+dbo:award	dbr:Achanurangatha_Veedu
+dbr:Salim_Kumar	
+dbo:birthPlace	dbr:Yorkshire
+dbo:award	dbr:Fellow_of_the_Royal_Society_of_Arts
+dbr:Antony_G._Sweeney	
+dbo:birthPlace	dbr:Carcassonne
+dbo:award	dbr:Japan_Prize
+dbr:Albert_Fert	
+dbo:birthPlace	dbr:Krasnoturyinsk
+dbo:award	dbr:Wollaston_Medal
+dbr:Alexander_Karpinsky	
+dbo:birthPlace	dbr:Mobile,_Alabama
+dbo:award	dbr:Commendation_Medal
+dbr:Jeremiah_Denton	
+dbo:birthPlace	dbr:Akron,_Ohio
+dbo:award	dbr:Catholic_Theological_Society_of_America
+dbr:David_Burrell	
+dbo:birthPlace	dbr:Boston,_Massachusetts
+dbo:award	dbr:Legion_of_Honour
+dbr:Ben_Bradlee	
+dbo:birthPlace	dbr:Amsterdam
+dbo:award	dbr:Prix_de_Rome_(Netherlands)
+dbr:Viviane_Sassen	
+dbo:birthPlace	dbr:France
+dbo:award	dbr:Leading_trainer_in_France_by_earnings
+dbr:François_Boutin	
+dbo:birthPlace	dbr:Hong_Kong
+dbo:award	dbr:CPJ_International_Press_Freedom_Awards
+dbr:Yuen-Ying_Chan	
+dbo:birthPlace	dbr:Breslau
+dbo:award	dbr:Knight's_Cross_of_the_Iron_Cross
+dbr:Karl-Günther_von_Hase	
+dbo:birthPlace	dbr:Aqrah
+dbo:award	dbr:Pfeffer_Peace_Prize
+dbr:Widad_Akrawi	
+dbo:birthPlace	dbr:Saint_Paul,_Minnesota
+dbo:award	dbr:Fellow_of_the_American_Institute_of_Architects
+dbr:John_O._Merrill	
+dbo:birthPlace	dbr:Republic_of_Ireland
+dbo:award	dbr:Pritzker_Prize
+dbr:Kevin_Roche	
+dbo:birthPlace	dbr:Edelfingen,_Germany
+dbo:award	dbr:R._H._Wright_Award_in_Olfactory_Research
+dbr:Julius_Adler_(biochemist)	
+dbo:birthPlace	dbr:New_York,_New_York
+dbo:award	dbr:Margaret_Mead_Award
+dbr:Nancy_Scheper-Hughes	
+dbo:birthPlace	dbr:Yevpatoria
+dbo:award	dbr:Olof_Palme_Prize
+dbr:Lyudmila_Alexeyeva	
+dbo:birthPlace	dbr:West_Bengal
+dbo:award	dbr:Lalit_Kala_Akademi
+dbr:Biman_Bihari_Das	
+dbo:birthPlace	dbr:Cornwall
+dbo:award	dbr:Gorseth_Kernow
+dbr:Arthur_Quiller-Couch	
+dbo:birthPlace	dbr:Oxfordshire
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Alec_Jeffreys	
+dbo:birthPlace	dbr:Mexico
+dbo:award	dbr:Dennis_Gabor_Award
+dbr:Albert_Baez	
+dbo:birthPlace	dbr:Stockholm
+dbo:award	dbr:Copley_Medal
+dbr:Tomas_Lindahl	
+dbo:birthPlace	dbr:Sachsen
+dbo:award	dbr:Millennium_Technology_Prize
+dbr:Michael_Grätzel	
+dbo:birthPlace	dbr:Gravesend
+dbo:award	dbr:Royal_Medal
+dbr:Derek_Barton	
+dbo:birthPlace	dbr:Nebraska
+dbo:award	dbr:United_States_National_Academy_of_Sciences
+dbr:John_A._Eddy	
+dbo:birthPlace	dbr:Brahmanbaria_District
+dbo:award	dbr:D._Dinesh_Chandra_Sen_Award
+dbr:Quazi_Johirul_Islam	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Rumford_Medal
+dbr:Robert_W._Wood	
+dbo:birthPlace	dbr:Cagayan_de_Oro
+dbo:award	dbr:Military_Merit_Medal_of_Philippines
+dbr:Jovito_Palparan	
+dbo:birthPlace	dbr:Syria
+dbo:award	dbr:Berlin_International_Film_Festival
+dbr:Mohammad_Malas	
+dbo:birthPlace	dbr:Liaoning
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Bai_Chunli	
+dbo:birthPlace	dbr:Alfred,_New_York
+dbo:award	dbr:West_Germany
+dbr:Lowell_Fitz_Randolph	
+dbo:birthPlace	dbr:Sylhet
+dbo:award	dbr:Ekushey_Padak
+dbr:Dilwar_Khan	
+dbo:birthPlace	dbr:Italy
+dbo:award	dbr:Biennale_di_Venezia
+dbr:Francesco_Messina	
+dbo:birthPlace	dbr:Shimla
+dbo:award	dbr:Ordre_des_Arts_et_des_Lettres
+dbr:Ram_Kumar_(artist)	
+dbo:birthPlace	dbr:Oskarshamn
+dbo:award	dbr:Maria_Bonnier_Dahlins_Stiftelse
+dbr:Per_Hüttner	
+dbo:birthPlace	dbr:Karnataka
+dbo:award	dbr:Kalaimamani
+dbr:Anushka_Shetty	
+dbo:birthPlace	dbr:Slough
+dbo:award	dbr:Guggenheim_Fellow
+dbr:Peter_Marler	
+dbo:birthPlace	dbr:Białystok
+dbo:award	dbr:National_Medal_of_Science
+dbr:Albert_Sabin	
+dbo:birthPlace	dbr:Stanisławów_Voivodeship
+dbo:award	dbr:Warsaw_University
+dbr:Dmytro_Pavlychko	
+dbo:birthPlace	dbr:Obninsk
+dbo:award	dbr:TEFI
+dbr:Alexander_Gordon_(journalist)	
+dbo:birthPlace	dbr:United_Kingdom
+dbo:award	dbr:Karl_Landsteiner_Memorial_Award
+dbr:Michael_Houghton_(virologist)	
+dbo:birthPlace	dbr:New_York_City
+dbo:award	dbr:IEEE_Alexander_Graham_Bell_Medal
+dbr:Leonard_Kleinrock	dbr:Bob_Kahn	
+dbo:birthPlace	dbr:San_Jose,_California
+dbo:award	dbr:SFMOMA
+dbr:Chris_Johanson	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:NASA_Distinguished_Service_Medal
+dbr:Steven_J._Ostro	
+dbo:birthPlace	dbr:Queensland
+dbo:award	dbr:American_Society_of_Cinematographers_Award_for_Outstanding_Achievement_in_Cinematography_in_Theatrical_Releases
+dbr:Dion_Beebe	
+dbo:birthPlace	dbr:Ukraine
+dbo:award	dbr:Dannie_Heineman_Prize_for_Mathematical_Physics
+dbr:Stanley_Deser	
+dbo:birthPlace	dbr:Scott_County,_Kentucky
+dbo:award	dbr:Medal_for_Merit
+dbr:Charles_Allen_Thomas	
+dbo:birthPlace	dbr:Puthur,_Thrissur
+dbo:award	dbr:Padma_Bhushan
+dbr:N._S._Ramaswamy	
+dbo:birthPlace	dbr:Echo_Park,_California
+dbo:award	dbr:Sue_Kaufman_Prize_for_First_Fiction
+dbr:Brando_Skyhorse	
+dbo:birthPlace	dbr:Moundsville,_West_Virginia
+dbo:award	dbr:European-African-Middle_Eastern_Campaign_Medal
+dbr:Arch_A._Moore_Jr.	
+dbo:birthPlace	dbr:Morpeth,_Northumberland
+dbo:award	dbr:British_Institution
+dbr:Luke_Clennell	
+dbo:birthPlace	dbr:Jerusalem
+dbo:award	dbr:Peace_Prize_of_the_German_Book_Trade
+dbr:Amos_Oz	
+dbo:birthPlace	dbr:Ithaca
+dbo:award	dbr:Humboldt_Research_Award
+dbr:George_Paxinos	
+dbo:birthPlace	dbr:Chakwal
+dbo:award	dbr:American_Chemical_Society
+dbr:Sukh_Dev	
+dbo:birthPlace	dbr:Maryland
+dbo:award	dbr:Oersted_Medal
+dbr:Robert_Resnick	
+dbo:birthPlace	dbr:Italy
+dbo:award	dbr:Sulman_Prize
+dbr:Salvatore_Zofrea	
+dbo:birthPlace	dbr:Montclair,_New_Jersey
+dbo:award	dbr:Israel
+dbr:Ralph_L._Brinster	
+dbo:birthPlace	dbr:Israel
+dbo:award	<https://www.simonsfoundation.org/>
+dbr:Yuval_Flicker	
+dbo:birthPlace	dbr:Skövde
+dbo:award	dbr:Kasper_Salin_Prize
+dbr:Gert_Wingårdh	
+dbo:birthPlace	dbr:Alberta
+dbo:award	dbr:The_Hollywood_Reporter
+dbr:David_Cormican	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:John_von_Neumann_Theory_Prize
+dbr:Herbert_A._Simon	
+dbo:birthPlace	dbr:Switzerland
+dbo:award	dbr:Pritzker_Prize
+dbr:Peter_Zumthor	
+dbo:birthPlace	dbr:Finland
+dbo:award	dbr:Tieto-Finlandia
+dbr:Esko_Valtaoja	
+dbo:birthPlace	dbr:Montreal
+dbo:award	dbr:American_Humanist_Association
+dbr:Steven_Pinker	
+dbo:birthPlace	dbr:British_Columbia
+dbo:award	dbr:Career_Achievement_Award
+dbr:Bill_Mathews	
+dbo:birthPlace	dbr:New_York_City
+dbo:award	dbr:Nobel_Prize_in_Literature
+dbr:Eugene_O'Neill	
+dbo:birthPlace	dbr:Fort_Kochi
+dbo:award	dbr:Padma_Bhushan
+dbr:K._J._Yesudas	
+dbo:birthPlace	dbr:Saku,_Nagano
+dbo:award	dbr:John_Adam_Fleming_Medal
+dbr:Syun-Ichi_Akasofu	
+dbo:birthPlace	dbr:Bussolengo
+dbo:award	dbr:Optical_Society
+dbr:Roberto_Morandotti	
+dbo:birthPlace	dbr:Lithuania
+dbo:award	dbr:Jerwood_Foundation
+dbr:Indrė_Šerpytytė	
+dbo:birthPlace	dbr:Argentina
+dbo:award	dbr:Martín_Varsavsky
+dbr:Martín_Varsavsky	
+dbo:birthPlace	dbr:Scotland
+dbo:award	dbr:Lifetime_Achievement_Award
+dbr:Stanley_Baxter	
+dbo:birthPlace	dbr:Switzerland
+dbo:award	dbr:Albany_Medical_Center_Prize
+dbr:David_Botstein	
+dbo:birthPlace	dbr:Dublin
+dbo:award	dbr:British_flat_racing_Champion_Jockey
+dbr:Richard_Hughes_(jockey)	
+dbo:birthPlace	dbr:India
+dbo:award	dbr:Eringen_Medal
+dbr:Subra_Suresh	
+dbo:birthPlace	dbr:England
+dbo:award	dbr:Doctor_of_Science
+dbr:Mary_F._Lyon	
+dbo:birthPlace	dbr:County_Tipperary
+dbo:award	dbr:Bakerian_Lecture
+dbr:John_Desmond_Bernal	
+dbo:birthPlace	dbr:France
+dbo:award	dbr:Académie_des_Sciences
+dbr:Ernest_Fourneau	dbr:Marc_Tiffeneau	
+dbo:birthPlace	dbr:Kiev_Oblast
+dbo:award	dbr:Hero_of_Ukraine_%22The_Order_of_State%22
+dbr:Viacheslav_Chornovil	
+dbo:birthPlace	dbr:New_York_(state)
+dbo:award	dbr:Nobel_Prize_in_Physiology_or_Medicine
+dbr:David_Baltimore	dbr:Baruch_Samuel_Blumberg	dbr:Daniel_Carleton_Gajdusek	dbr:Richard_Axel	
+dbo:birthPlace	dbr:Poland
+dbo:award	dbr:List_of_Israel_Prize_recipients
+dbr:Arieh_Sharon	
+dbo:birthPlace	dbr:New_York_City
+dbo:award	dbr:Lichtenstein_Medal
+dbr:Theodore_E._Steinway	dbr:Louise_Boyd_Dale	
+dbo:birthPlace	dbr:Struble,_Iowa
+dbo:award	dbr:Air_Medal
+dbr:Jim_Nicholson_(Secretary_of_Veterans_Affairs)	
+dbo:birthPlace	dbr:Military_Frontier
+dbo:award	dbr:John_Fritz_Medal
+dbr:Mihajlo_Pupin	
+dbo:birthPlace	dbr:Luchsingen,_Switzerland
+dbo:award	dbr:Honorary_degree
+dbr:Jakob_Klaesi	
+dbo:birthPlace	dbr:Sandringham,_Victoria
+dbo:award	dbr:Newspaper_Guild
+dbr:Paul_Rigby	
+dbo:birthPlace	dbr:Poland
+dbo:award	dbr:Nobel_Prize_for_Chemistry
+dbr:Kurt_Alder	
+dbo:birthPlace	dbr:North_Ossetian_ASSR
+dbo:award	dbr:Medal_%22For_Courage%22_(Russia)
+dbr:Yunus-bek_Yevkurov	
+dbo:birthPlace	dbr:Boston,_Massachusetts
+dbo:award	dbr:Harvey_Prize
+dbr:Jon_Kleinberg	dbr:Richard_M._Karp	
+dbo:birthPlace	dbr:Independence,_Missouri
+dbo:award	dbr:Pulitzer_Prize_for_Feature_Writing
+dbr:Teresa_Carpenter	
+dbo:birthPlace	dbr:Detroit,_Michigan
+dbo:award	dbr:Golden_Goose_Award
+dbr:Paul_Milgrom	
+dbo:birthPlace	dbr:New_York_City
+dbo:award	dbr:PEN/ESPN_Lifetime_Achievement_Award_for_Literary_Sports_Writing
+dbr:Roger_Angell	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Robert_H._MacArthur_Award
+dbr:Alan_Hastings	
+dbo:birthPlace	dbr:Paris
+dbo:award	dbr:The_Messenger:_The_Story_of_Joan_of_Arc
+dbr:Vincent_Tulli	
+dbo:birthPlace	dbr:Anoka,_Minnesota
+dbo:award	dbr:Stevens_Award
+dbr:Larry_Constantine	
+dbo:birthPlace	dbr:British_India
+dbo:award	dbr:National_Research_Development_Corporation
+dbr:Lalji_Singh	
+dbo:birthPlace	dbr:Avignon
+dbo:award	dbr:Académie_française
+dbr:René_Girard	
+dbo:birthPlace	dbr:London
+dbo:award	dbr:British_Academy_of_Film_and_Television_Arts
+dbr:Emily_Lloyd	dbr:Derek_Meddings	
+dbo:birthPlace	dbr:Catalonia
+dbo:award	dbr:Venice_Biennale
+dbr:Joan_Miró	
+dbo:birthPlace	dbr:Missouri
+dbo:award	dbr:ACM_Grace_Murray_Hopper_Award
+dbr:Guy_L._Steele_Jr.	
+dbo:birthPlace	dbr:Empire_of_Brazil
+dbo:award	dbr:Order_of_the_Southern_Cross
+dbr:Deodoro_da_Fonseca	
+dbo:birthPlace	dbr:Mart,_Texas
+dbo:award	dbr:National_Medal_of_Science
+dbr:E._Donnall_Thomas	
+dbo:birthPlace	dbr:Macon,_Georgia
+dbo:award	dbr:Georgia_Scientist_of_the_Year
+dbr:Earl_W._McDaniel	
+dbo:birthPlace	dbr:Stepanavan
+dbo:award	dbr:People's_Artist_of_the_USSR
+dbr:Sos_Sargsyan	
+dbo:birthPlace	dbr:Leipzig
+dbo:award	dbr:Swedish_Society_for_Anthropology_and_Geography
+dbr:Albrecht_Penck	
+dbo:birthPlace	dbr:Seine-et-Marne
+dbo:award	dbr:César_Award_for_Best_Film
+dbr:Bruno_Nuytten	
+dbo:birthPlace	dbr:Dominion_of_Newfoundland
+dbo:award	dbr:Willet_G._Miller_Medal
+dbr:Harold_Williams_(geologist)	
+dbo:birthPlace	dbr:Lockport_(city),_New_York
+dbo:award	dbr:Order_of_St._Gregory_the_Great
+dbr:John_J._Raskob	
+dbo:birthPlace	dbr:Maharashtra
+dbo:award	dbr:Clay_Research_Award
+dbr:Rahul_Pandharipande	
+dbo:birthPlace	dbr:Nairobi
+dbo:award	dbr:Zoological_Society_of_London
+dbr:Richard_Dawkins	
+dbo:birthPlace	dbr:India
+dbo:award	dbr:Soviet_Land_Nehru_Award
+dbr:Ashangbam_Minaketan_Singh	
+dbo:birthPlace	dbr:Exeter
+dbo:award	dbr:Royal_Academy
+dbr:Edward_Bowring_Stephens	
+dbo:birthPlace	dbr:Kerala
+dbo:award	dbr:Food_and_Agriculture_Organization
+dbr:Thangam_Philip	
+dbo:birthPlace	dbr:Ukrainian_SSR
+dbo:award	dbr:Order_of_Prince_Yaroslav_the_Wise
+dbr:Viacheslav_Chornovil	
+dbo:birthPlace	dbr:Baku
+dbo:award	dbr:Medal_%22For_Merit_in_Space_Exploration%22
+dbr:Musa_Manarov	
+dbo:birthPlace	dbr:St._Louis,_Missouri
+dbo:award	dbr:2nd_Streamy_Awards
+dbr:Sklar_Brothers	
+dbo:birthPlace	dbr:Takaoka,_Toyama
+dbo:award	dbr:Tezuka_Osamu_Cultural_Prize
+dbr:Fujiko_Fujio	
+dbo:birthPlace	dbr:Coleyville
+dbo:award	dbr:National_Organization_for_the_Professional_Advancement_of_Black_Chemists_and_Chemical_Engineers
+dbr:Bertram_Fraser-Reid	
+dbo:birthPlace	dbr:Socialist_Federal_Republic_of_Yugoslavia
+dbo:award	dbr:Radivoj_Korać_Cup
+dbr:Goran_Jeretin	dbr:Čedomir_Vitkovac	dbr:Dragan_Milosavljević	dbr:Bojan_Subotić	dbr:Marko_Simonović	dbr:Nemanja_Protić	
+dbo:birthPlace	dbr:Soviet_Union
+dbo:award	dbr:Medal_%22For_Valiant_Labour_in_the_Great_Patriotic_War_1941–1945%22
+dbr:Vera_Altayskaya	
+dbo:birthPlace	dbr:Dera_Ismail_Khan_District
+dbo:award	dbr:Pride_of_Performance
+dbr:Ghulam_Muhammad_Qasir	
+dbo:birthPlace	dbr:Blekinge
+dbo:award	dbr:Leroy_P._Steele_Prize
+dbr:Lars_Hörmander	
+dbo:birthPlace	dbr:Japan
+dbo:award	dbr:Noma_Prize
+dbr:Tatsuo_Nagai	
+dbo:birthPlace	dbr:Bangor,_Maine
+dbo:award	dbr:Emmy_Award
+dbr:Kate_Snow	
+dbo:birthPlace	dbr:Quebec_City
+dbo:award	dbr:National_Order_of_Quebec
+dbr:Lionel_Boulet	dbr:Richard_Drouin	dbr:Fernand_Labrie	dbr:Robert_Després	dbr:Hélène_Dorion	dbr:Guy_Coulombe	dbr:Gilles_Cloutier	dbr:Larkin_Kerwin	dbr:Richard_Garneau	dbr:Jean_Dussault	dbr:Joanne_Liu	
+dbo:birthPlace	dbr:England
+dbo:award	dbr:Sovereign_Award_for_Outstanding_Jockey
+dbr:Robin_Platts	
+dbo:birthPlace	dbr:Dharapuram
+dbo:award	dbr:National_Film_Award_for_Best_Book_on_Cinema
+dbr:S._Theodore_Baskaran	
+dbo:birthPlace	dbr:Collarenebri,_New_South_Wales
+dbo:award	dbr:Companion_of_the_Order_of_the_Bath
+dbr:Robert_Wordsworth	
+dbo:birthPlace	dbr:Brasil
+dbo:award	dbr:L'Oréal-UNESCO_Awards_for_Women_in_Science
+dbr:Beatriz_Barbuy	
+dbo:birthPlace	dbr:Baker,_Nevada
+dbo:award	dbr:IEEE_Medal_of_Honor
+dbr:Calvin_Quate	
+dbo:birthPlace	dbr:Weston_Favell
+dbo:award	dbr:Gairdner_Foundation_International_Award
+dbr:Francis_Crick	
+dbo:birthPlace	dbr:German_Empire
+dbo:award	dbr:Balzan_Prize
+dbr:Ernst_Mayr	
+dbo:birthPlace	dbr:British_Indian_Empire
+dbo:award	dbr:Hilal-i-Jurat
+dbr:Amir_Abdullah_Khan_Niazi	
+dbo:birthPlace	dbr:Malta
+dbo:award	dbr:Avelino_Gomez_Memorial_Award
+dbr:Larry_Attard	
+dbo:birthPlace	dbr:Feldafing_displaced_persons_camp
+dbo:award	dbr:Victorian_Premier's_Prize_for_Poetry
+dbr:Lily_Brett	
+dbo:birthPlace	dbr:Israel
+dbo:award	dbr:Earth_Award_for_Future_Crucial_Design
+dbr:Neri_Oxman	
+dbo:birthPlace	dbr:Hidalgo_(Mexico)
+dbo:award	dbr:ESPY_Awards
+dbr:Victor_Espinoza	
+dbo:birthPlace	dbr:Barranquilla
+dbo:award	dbr:ACE_Award
+dbr:Natalia_Cruz	
+dbo:birthPlace	dbr:Zürich
+dbo:award	dbr:Inigo_Gallo
+dbr:Inigo_Gallo	
+dbo:birthPlace	dbr:Penzance
+dbo:award	dbr:Copley_Medal
+dbr:Humphry_Davy	
+dbo:birthPlace	dbr:New_Braunfels
+dbo:award	dbr:National_Academy_of_Sciences_(US)
+dbr:V._Craig_Jordan	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Legion_of_Honour
+dbr:Herman_Jay_Cohen	dbr:Steve_Ballmer	
+dbo:birthPlace	dbr:Gujarat
+dbo:award	dbr:Bharat_Ratna
+dbr:Vallabhbhai_Patel	
+dbo:birthPlace	dbr:Turkey
+dbo:award	dbr:Turkey
+dbr:Sedad_Hakkı_Eldem	
+dbo:birthPlace	dbr:British_India
+dbo:award	dbr:Order_of_the_Star_of_India
+dbr:Jagadish_Chandra_Bose	dbr:Ashutosh_Mukherjee	dbr:Debendra_Mohan_Bose	
+dbo:birthPlace	dbr:Beijing
+dbo:award	dbr:Fulkerson_Prize
+dbr:Shang-Hua_Teng	
+dbo:birthPlace	dbr:Sagar,_Madhya_Pradesh
+dbo:award	dbr:Padma_Shri
+dbr:D._D._Bhawalkar	
+dbo:birthPlace	dbr:Bengal_Presidency
+dbo:award	dbr:Bharat_Ratna
+dbr:Rajendra_Prasad	
+dbo:birthPlace	dbr:British_India
+dbo:award	dbr:Knight_Grand_Cross_in_the_Order_of_the_Bath
+dbr:Roger_Keyes,_1st_Baron_Keyes	
+dbo:birthPlace	dbr:Thames_Ditton
+dbo:award	dbr:E._B._Wilson_Medal
+dbr:Christian_de_Duve	
+dbo:birthPlace	dbr:India
+dbo:award	dbr:Biological_Science
+dbr:Raghavendra_Gadagkar	
+dbo:birthPlace	dbr:Bhojpur_district,_Bihar
+dbo:award	dbr:Padma_Bhushan
+dbr:Acharya_Shivpujan_Sahay	
+dbo:birthPlace	dbr:Australia
+dbo:award	dbr:Pawsey_Medal
+dbr:Murray_Batchelor	dbr:Howard_M._Wiseman	
+dbo:birthPlace	dbr:Enniskillen
+dbo:award	dbr:Fellow_of_the_Royal_Historical_Society
+dbr:R._I._Moore	
+dbo:birthPlace	dbr:Spain
+dbo:award	dbr:El_Ministerio_del_Tiempo
+dbr:Aura_Garrido	
+dbo:birthPlace	dbr:Russian_Soviet_Federative_Socialist_Republic
+dbo:award	dbr:Stalin_Prize
+dbr:Andrei_Sakharov	
+dbo:birthPlace	dbr:Saint-Casimir,_Quebec
+dbo:award	dbr:Order_of_Canada
+dbr:Alain_Grandbois	
+dbo:birthPlace	dbr:Iraq
+dbo:award	dbr:Privy_Council_of_the_United_Kingdom
+dbr:Ara_Darzi,_Baron_Darzi_of_Denham	
+dbo:birthPlace	dbr:Odisha
+dbo:award	dbr:Kalinga_Prize
+dbr:Trilochan_Pradhan	dbr:Gokulananda_Mahapatra	
+dbo:birthPlace	dbr:Breslau
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Heinrich_Gerhard_Kuhn	dbr:Werner_Wolfgang_Rogosinski	
+dbo:birthPlace	dbr:Orange_City,_Iowa
+dbo:award	dbr:Wolf_Prize_in_Agriculture
+dbr:Wendell_L._Roelofs	
+dbo:birthPlace	dbr:Oak_Ridge,_Tennessee
+dbo:award	dbr:Gaylactic_Spectrum_Awards
+dbr:Sarah_Monette	
+dbo:birthPlace	dbr:Beverly,_Massachusetts
+dbo:award	dbr:Pulitzer_Prize_for_National_Reporting
+dbr:Thomas_E._Ricks_(journalist)	
+dbo:birthPlace	dbr:Allahabad
+dbo:award	dbr:Fulkerson_Prize
+dbr:Manindra_Agrawal	dbr:Nitin_Saxena	
+dbo:birthPlace	dbr:Yonkers
+dbo:award	dbr:Whiting_Awards
+dbr:Austin_Wright	
+dbo:birthPlace	dbr:Windsor,_Berkshire
+dbo:award	dbr:British_flat_racing_Champion_Jockey
+dbr:Tom_Cannon,_Sr.	
+dbo:birthPlace	dbr:Ein_Shams
+dbo:award	dbr:Denmark
+dbr:Pahor_Labib	
+dbo:birthPlace	dbr:Valladolid
+dbo:award	dbr:Fotogramas_de_Plata
+dbr:Lola_Herrera	
+dbo:birthPlace	dbr:Lézigné
+dbo:award	dbr:Jury_Prize_(Cannes_Film_Festival)
+dbr:Patrice_Chéreau	
+dbo:birthPlace	dbr:Iran
+dbo:award	dbr:IMO_Prize
+dbr:Mohammad_Hassan_Ganji	
+dbo:birthPlace	dbr:Portsmouth
+dbo:award	dbr:John_Moores_Painting_Prize
+dbr:Christopher_Le_Brun	
+dbo:birthPlace	dbr:Shrewsbury
+dbo:award	dbr:Knight_Commander_of_the_Order_of_the_Star_of_India
+dbr:Arthur_Purves_Phayre	
+dbo:birthPlace	dbr:Tardebigge
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:John_Vane	
+dbo:birthPlace	dbr:Słupsk
+dbo:award	dbr:National_Medal_of_Science
+dbr:Carl_R._de_Boor	
+dbo:birthPlace	dbr:Pensacola,_Florida
+dbo:award	dbr:Drexel_Institute
+dbr:Charles_H._Percy	
+dbo:birthPlace	dbr:Japan
+dbo:award	dbr:Ōe_Kenzaburō_Prize
+dbr:Toshiki_Okada	
+dbo:birthPlace	dbr:South_Korea
+dbo:award	dbr:Tato_Award
+dbr:Chang_Kim_Sung	
+dbo:birthPlace	dbr:Stroud
+dbo:award	dbr:Gemini_Award
+dbr:Sam_Dunn	
+dbo:birthPlace	dbr:New_York_(state)
+dbo:award	dbr:National_Book_Award_for_Nonfiction
+dbr:Ron_Chernow	
+dbo:birthPlace	dbr:Bussum
+dbo:award	dbr:Wateler_Peace_Prize
+dbr:Gerrit_Jan_van_Heuven_Goedhart	
+dbo:birthPlace	dbr:Halifax,_West_Yorkshire
+dbo:award	dbr:American_Mathematical_Society
+dbr:John_Alan_Robinson	
+dbo:birthPlace	dbr:Brussels
+dbo:award	dbr:Queen_Fabiola_of_Belgium
+dbr:Étienne_de_Harven	
+dbo:birthPlace	dbr:Colombia
+dbo:award	dbr:ACE_Award
+dbr:Natalia_Cruz	
+dbo:birthPlace	dbr:Boston
+dbo:award	dbr:Guggenheim_Fellowship
+dbr:Susan_Howe	
+dbo:birthPlace	dbr:Kasegaon
+dbo:award	dbr:Samajik_Krutadnyata_Puraskar
+dbr:Bharat_Patankar	
+dbo:birthPlace	dbr:Abadan
+dbo:award	dbr:The_Prisoner_(2013_film)
+dbr:Mahmoud_Shoolizadeh	
+dbo:birthPlace	dbr:Middlesex
+dbo:award	dbr:Commander_of_the_Order_of_the_British_Empire
+dbr:Patrick_Moore	
+dbo:birthPlace	dbr:Urbana,_Illinois
+dbo:award	dbr:R&D_100_Award
+dbr:Otto_J._M._Smith	
+dbo:birthPlace	dbr:Spain
+dbo:award	<http://www.lavanguardia.com/cultura/noticias/20091109/53821500546/el-arquitecto-ricardo-bofill-recibe-en-italia-el-premio-de-sica.html>
+dbr:Ricardo_Bofill	
+dbo:birthPlace	dbr:Changanassery
+dbo:award	dbr:Kerala_Bhasha_Institute
+dbr:V._J._James	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Helen_Foster_Barnett_Prize
+dbr:Cordy_Ryman	
+dbo:birthPlace	dbr:British_India
+dbo:award	dbr:Adams_Prize
+dbr:Abdus_Salam	dbr:Paul_Taunton_Matthews	
+dbo:birthPlace	dbr:Albany,_New_York
+dbo:award	dbr:Nobel_Memorial_Prize_in_Economic_Sciences
+dbr:Paul_Krugman	
+dbo:birthPlace	dbr:Monterrey
+dbo:award	dbr:Sultan_Qaboos_Prize_for_Environmental_Preservation
+dbr:Ernesto_Enkerlin	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Japan_Prize
+dbr:Frank_Press	
+dbo:birthPlace	dbr:England
+dbo:award	dbr:Telford_Medal
+dbr:Callcott_Reilly	
+dbo:birthPlace	dbr:Garhwal_division
+dbo:award	dbr:Lalit_Kala_Akademi
+dbr:Ranbir_Singh_Bisht	
+dbo:birthPlace	dbr:Amona,_Goa
+dbo:award	dbr:Sahitya_Akademi
+dbr:Jayanti_Naik	
+dbo:birthPlace	dbr:Russian_Empire
+dbo:award	dbr:Lorentz_Medal
+dbr:Anatole_Abragam	
+dbo:birthPlace	dbr:Massachusetts
+dbo:award	dbr:Lemelson-MIT_Prize
+dbr:Carolyn_R._Bertozzi	
+dbo:birthPlace	dbr:Kadapa_district
+dbo:award	dbr:Padma_Shri
+dbr:Avadhanam_Sita_Raman	
+dbo:birthPlace	dbr:Socialist_Federal_Republic_of_Yugoslavia
+dbo:award	dbr:2013–14_Montenegrin_Basketball_Cup
+dbr:Čedomir_Vitkovac	
+dbo:birthPlace	dbr:Socialist_Republic_of_Serbia
+dbo:award	dbr:Civil_Courage_Prize
+dbr:Nataša_Kandić	
+dbo:birthPlace	dbr:Cuba
+dbo:award	dbr:World_Food_Prize
+dbr:Pedro_A._Sanchez	
+dbo:birthPlace	dbr:Bandung
+dbo:award	dbr:Elizabeth_O'Neill_(official)
+dbr:Meutya_Hafid	
+dbo:birthPlace	dbr:Channapatna
+dbo:award	dbr:Padma_Shri
+dbr:Javare_Gowda	dbr:B._N._B._Rao	
+dbo:birthPlace	dbr:Frankfurt_am_Main
+dbo:award	dbr:Israel_Prize
+dbr:Robert_Aumann	
+dbo:birthPlace	dbr:Albany,_New_York
+dbo:award	dbr:Wolf_Prize_in_Chemistry
+dbr:Robert_S._Langer	
+dbo:birthPlace	dbr:New_York_City
+dbo:award	dbr:EMET_Prize
+dbr:Howard_Cedar	
+dbo:birthPlace	dbr:Tokyo
+dbo:award	dbr:Parlar_Foundation_Science_Award
+dbr:Masatoshi_Gündüz_Ikeda	
+dbo:birthPlace	dbr:Zagreb
+dbo:award	dbr:Gottfried_Wilhelm_Leibniz_Prize
+dbr:Ivan_Đikić	
+dbo:birthPlace	dbr:Kingston,_Jamaica
+dbo:award	dbr:Musgrave_Medal
+dbr:John_Figueroa	
+dbo:birthPlace	dbr:Calcutta
+dbo:award	dbr:Rai_Bahadur
+dbr:Badridas_Goenka	
+dbo:birthPlace	dbr:Atlanta,_Georgia
+dbo:award	dbr:National_Medal_of_Arts
+dbr:Frederick_Hart_(sculptor)	
+dbo:birthPlace	dbr:Sheepshead_Bay,_Brooklyn
+dbo:award	dbr:United_States_Champion_Thoroughbred_Trainer_by_earnings
+dbr:James_E._Fitzsimmons	
+dbo:birthPlace	dbr:Solvay,_New_York
+dbo:award	dbr:Perkin_Medal
+dbr:James_Franklin_Hyde	
+dbo:birthPlace	dbr:Johar_Valley
+dbo:award	dbr:Padma_Shri
+dbr:Lakshman_Singh_Jangpangi	
+dbo:birthPlace	dbr:Marion,_Indiana
+dbo:award	dbr:Jussi_Award
+dbr:James_Dean	
+dbo:birthPlace	dbr:Malinska-Dubašnica
+dbo:award	dbr:Herder_Prize
+dbr:Branko_Fučić	
+dbo:birthPlace	dbr:Worcestershire
+dbo:award	dbr:Lasker_Award
+dbr:John_Vane	
+dbo:birthPlace	dbr:Socialist_Federal_Republic_of_Yugoslavia
+dbo:award	dbr:Premier_A_Slovenian_Basketball_League
+dbr:Jan_Močnik	
+dbo:birthPlace	dbr:Ahmedabad
+dbo:award	dbr:Ramon_Magsaysay_Award
+dbr:Ela_Bhatt	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Comedy_Series
+dbr:Greg_Daniels	
+dbo:birthPlace	dbr:Los_Angeles
+dbo:award	dbr:Navy_and_Marine_Corps_Commendation_Medal
+dbr:Michael_J._Aguilar	
+dbo:birthPlace	dbr:Canada
+dbo:award	dbr:Paris_Film_Festival
+dbr:Michael_McGowan_(director)	
+dbo:birthPlace	dbr:Christchurch
+dbo:award	dbr:Hitwise
+dbr:Tama_Easton	
+dbo:birthPlace	dbr:Hamamatsu
+dbo:award	dbr:Order_of_Culture
+dbr:Hiroshi_Amano	
+dbo:birthPlace	dbr:Shixiang
+dbo:award	dbr:Order_of_Independence_and_Freedom
+dbr:Peng_Dehuai	
+dbo:birthPlace	dbr:Iran
+dbo:award	dbr:The_World_Academy_of_Arts,_Literature,_and_Media
+dbr:Azar_Nafisi	
+dbo:birthPlace	dbr:Bangalore
+dbo:award	dbr:Udaya_Film_Awards
+dbr:Rajesh_Krishnan	
+dbo:birthPlace	dbr:Chicago,_Illinois
+dbo:award	dbr:Thomas_Hunt_Morgan_Medal
+dbr:Robert_Metzenberg	
+dbo:birthPlace	dbr:San_Francisco
+dbo:award	dbr:A.M._Turing_Award
+dbr:Allen_Newell	
+dbo:birthPlace	dbr:Venezuela
+dbo:award	dbr:Prince_of_Asturias_Award
+dbr:Jacinto_Convit	
+dbo:birthPlace	dbr:Ottoman_Empire
+dbo:award	dbr:Order_of_Saints_Maurice_and_Lazarus
+dbr:Petar_Bojović	
+dbo:birthPlace	dbr:Russian_empire
+dbo:award	dbr:USSR_State_Prize
+dbr:Alexey_Grigorevich_Ivakhnenko	
+dbo:birthPlace	dbr:Pennsylvania
+dbo:award	dbr:Defense_Superior_Service_Medal
+dbr:James_Loy	dbr:John_Kline_(politician)	
+dbo:birthPlace	dbr:Lancashire
+dbo:award	dbr:Sylvester_Medal
+dbr:E._T._Whittaker	
+dbo:birthPlace	dbr:Bangalore
+dbo:award	dbr:Pulitzer_Prize_for_poetry
+dbr:Vijay_Seshadri	
+dbo:birthPlace	dbr:Vienna
+dbo:award	dbr:Crafoord_Prize
+dbr:Walter_Munk	
+dbo:birthPlace	dbr:Paris,_France
+dbo:award	dbr:IAHR
+dbr:Hubert_Chanson	
+dbo:birthPlace	dbr:Lone_Wolf,_Oklahoma
+dbo:award	dbr:American_Cinema_Editors
+dbr:Elmo_Williams	
+dbo:birthPlace	dbr:Lancashire
+dbo:award	dbr:Michael_Faraday_Prize
+dbr:Brian_Cox_(physicist)	
+dbo:birthPlace	dbr:Chernihiv_Oblast
+dbo:award	dbr:Honored_Artist_of_the_RSFSR
+dbr:Ivan_Savenko	
+dbo:birthPlace	dbr:Calcutta
+dbo:award	dbr:American_Association_for_the_Advancement_of_Science
+dbr:Swapan_Chattopadhyay	
+dbo:birthPlace	dbr:Newry
+dbo:award	dbr:Jameson_Dublin_International_Film_Festival
+dbr:Valene_Kane	
+dbo:birthPlace	dbr:Manchester
+dbo:award	dbr:Kavli_Prize
+dbr:Brenda_Milner	
+dbo:birthPlace	dbr:Omaha
+dbo:award	dbr:Legion_of_Merit
+dbr:Benjamin_F._Hake	
+dbo:birthPlace	dbr:Kiel
+dbo:award	dbr:Goethe_Prize
+dbr:Carl_Friedrich_von_Weizsäcker	dbr:Max_Planck	
+dbo:birthPlace	dbr:Kesići
+dbo:award	dbr:Order_of_the_Hero_of_Socialist_Labour
+dbr:Đuro_Pucar	
+dbo:birthPlace	dbr:London
+dbo:award	dbr:Economic_and_Social_Research_Council
+dbr:Pippa_Norris	
+dbo:birthPlace	dbr:Geneva
+dbo:award	dbr:Whitehead_Prize
+dbr:Martin_Hairer	
+dbo:birthPlace	dbr:France
+dbo:award	dbr:Frank_P._Brown_Medal
+dbr:Eugène_Freyssinet	
+dbo:birthPlace	dbr:Tehran
+dbo:award	dbr:Annie_Edson_Taylor
+dbr:Amir-Abbas_Fakhravar	
+dbo:birthPlace	dbr:Moscow
+dbo:award	dbr:National_Museum_of_Dance_and_Hall_of_Fame
+dbr:Léonide_Massine	
+dbo:birthPlace	dbr:Nagpur
+dbo:award	dbr:Indian_National_Science_Academy
+dbr:Ramanath_Cowsik	
+dbo:birthPlace	dbr:Guangzhou
+dbo:award	dbr:AIA_Gold_Medal
+dbr:I._M._Pei	
+dbo:birthPlace	dbr:Oakville,_Ontario
+dbo:award	dbr:Santa_Anita_Park
+dbr:Reggie_Cornell	
+dbo:birthPlace	dbr:Kiev_Governorate
+dbo:award	dbr:Shevchenko_Prize
+dbr:Andriy_Malyshko	
+dbo:birthPlace	dbr:Belovo,_Kemerovo_Oblast
+dbo:award	dbr:Nevanlinna_Prize
+dbr:Alexander_Razborov	
+dbo:birthPlace	dbr:Meiningen
+dbo:award	dbr:Department_of_the_Army_Decoration_for_Exceptional_Civilian_Service
+dbr:Arthur_Rudolph	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:George_Pólya_Prize
+dbr:Adam_Marcus_(mathematician)	
+dbo:birthPlace	dbr:Wolfenbüttel
+dbo:award	dbr:Harrie_Massey_Medal_and_Prize
+dbr:Hans_A._Bachor	
+dbo:birthPlace	dbr:Germany
+dbo:award	dbr:American_Diabetes_Association
+dbr:Matthias_Tschöp	
+dbo:birthPlace	dbr:Basel-Stadt
+dbo:award	dbr:Albert_Lasker_Medical_Research_Award
+dbr:Rolf_M._Zinkernagel	
+dbo:birthPlace	dbr:Germany
+dbo:award	dbr:J._Lawrence_Smith_Medal
+dbr:Klaus_Keil	
+dbo:birthPlace	dbr:Kurgan_Oblast
+dbo:award	dbr:Order_of_the_Red_Banner
+dbr:Alexander_Ivanovich_Cherepanov	
+dbo:birthPlace	dbr:Venice
+dbo:award	dbr:Golden_Lion
+dbr:Monica_Bonvicini	
+dbo:birthPlace	dbr:Tbilisi
+dbo:award	dbr:Fumio_Koizumi_Prize_for_ethnomusicology
+dbr:Joseph_Jordania	
+dbo:birthPlace	dbr:New_York,_New_York
+dbo:award	dbr:Keio_Medical_Science_Prize
+dbr:Roger_Y._Tsien	
+dbo:birthPlace	dbr:Kantō_region
+dbo:award	dbr:The_Ballad_of_Narayama_(1983_film)
+dbr:Ken_Ogata	
+dbo:birthPlace	dbr:Captaincy_General_of_the_Philippines
+dbo:award	dbr:Cross_of_Maria_Christina
+dbr:José_Olaguer_Feliú	
+dbo:birthPlace	dbr:Maharashtra
+dbo:award	dbr:Padma_Shri_Award
+dbr:Baburao_Govindrao_Shirke	
+dbo:birthPlace	dbr:Oxford
+dbo:award	dbr:Bicentenary_Medal_of_the_Linnean_Society
+dbr:Alec_Jeffreys	
+dbo:birthPlace	dbr:Mobridge,_South_Dakota
+dbo:award	dbr:Big_Sport_of_Turfdom_Award
+dbr:William_I._Mott	
+dbo:birthPlace	dbr:Argentina
+dbo:award	dbr:South_American_Club_Championship
+dbr:Paolo_Quinteros	
+dbo:birthPlace	dbr:Soviet_Union
+dbo:award	dbr:2002_NBA_Finals
+dbr:Slava_Medvedenko	
+dbo:birthPlace	dbr:Račišdorf
+dbo:award	dbr:Eva_Krížiková_awards
+dbr:Eva_Krížiková	
+dbo:birthPlace	dbr:Urbana,_Illinois
+dbo:award	dbr:Pulitzer_Prize_for_Criticism
+dbr:Roger_Ebert	
+dbo:birthPlace	dbr:Center,_Texas
+dbo:award	dbr:Bronze_Star_Medal
+dbr:Charles_A._Ray	
+dbo:birthPlace	dbr:Uruguay
+dbo:award	dbr:Hispanic_Business_Magazine
+dbr:Fernando_Espuelas	
+dbo:birthPlace	dbr:County_Dublin
+dbo:award	dbr:Royal_Academician
+dbr:Stanhope_Forbes	
+dbo:birthPlace	dbr:Bulgaria
+dbo:award	dbr:Coty_Award
+dbr:Luba_Marks	
+dbo:birthPlace	dbr:Vitebsk
+dbo:award	dbr:Nobel_Prize_in_Physics
+dbr:Zhores_Alferov	
+dbo:birthPlace	dbr:Province_of_East_Prussia
+dbo:award	dbr:Wolf_Prize
+dbr:Jürgen_Moser	
+dbo:birthPlace	dbr:Noyelles-sur-Selle
+dbo:award	dbr:Order_of_Malta
+dbr:Francisco_Luis_Héctor_de_Carondelet	
+dbo:birthPlace	dbr:Belgium
+dbo:award	dbr:Taalunie_Toneelschrijfprijs
+dbr:Kris_Cuppens	
+dbo:birthPlace	dbr:Camiling
+dbo:award	dbr:Purple_Heart
+dbr:Carlos_P._Romulo	
+dbo:birthPlace	dbr:Punjab
+dbo:award	dbr:Nigar_Awards
+dbr:Waheed_Murad	
+dbo:birthPlace	dbr:Melun
+dbo:award	dbr:César_Award_for_Best_Cinematography
+dbr:Bruno_Nuytten	
+dbo:birthPlace	dbr:Socialist_Federal_Republic_of_Yugoslavia
+dbo:award	dbr:Eurochallenge
+dbr:Jure_Balažič	
+dbo:birthPlace	dbr:Hastings,_Nebraska
+dbo:award	dbr:Turing_Award
+dbr:Ivan_Sutherland	
+dbo:birthPlace	dbr:Halesworth
+dbo:award	dbr:Order_of_Merit
+dbr:Joseph_Dalton_Hooker	
+dbo:birthPlace	dbr:Belgium
+dbo:award	dbr:Queen_Fabiola_of_Belgium
+dbr:Étienne_de_Harven	
+dbo:birthPlace	dbr:Queensland
+dbo:award	dbr:Order_of_Australia
+dbr:Michael_Thwaites	dbr:Tony_Fitzgerald	
+dbo:birthPlace	dbr:Nairobi
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Ketan_J._Patel	dbr:Richard_Dawkins	
+dbo:birthPlace	dbr:Kingdom_of_Cochin
+dbo:award	dbr:Padma_Bhushan
+dbr:K._J._Yesudas	
+dbo:birthPlace	dbr:Santurce,_San_Juan,_Puerto_Rico
+dbo:award	dbr:Western_Kentucky_University
+dbr:Luz_María_Umpierre	
+dbo:birthPlace	dbr:Havana
+dbo:award	dbr:American_Bar_Association
+dbr:René_Gómez_Manzano	
+dbo:birthPlace	dbr:Vienna
+dbo:award	dbr:Fellow_of_the_Royal_Society
+dbr:Hermann_Bondi	dbr:Konrad_Lorenz	dbr:Lise_Meitner	dbr:Ludwig_Boltzmann	dbr:Martin_Karplus	dbr:Max_Perutz	dbr:Wolfgang_Pauli	dbr:Hermann_Hauser	dbr:Karl_von_Frisch	dbr:Otto_Robert_Frisch	dbr:Georg_Gottlob	
+dbo:birthPlace	dbr:Connecticut
+dbo:award	dbr:Gairdner_Foundation_International_Award
+dbr:Craig_Mello	
+dbo:birthPlace	dbr:Suwa,_Nagano
+dbo:award	dbr:Japan_Academy_Prize_(academics)
+dbr:Sakuhei_Fujiwhara	
+dbo:birthPlace	dbr:Dominican_Republic
+dbo:award	dbr:Council_of_Fashion_Designers_of_America
+dbr:Oscar_de_la_Renta	
+dbo:birthPlace	dbr:Japan
+dbo:award	dbr:Order_of_the_Rising_Sun
+dbr:Leiji_Matsumoto	dbr:Kenichi_Fukui	dbr:Kwan-ichi_Terazawa	dbr:Jirō_Nitta	dbr:Shinsui_Itō	dbr:Masaichi_Niimi	dbr:Rensuke_Isogai	dbr:Hisakazu_Tanaka	dbr:Kihachirō_Kawamoto	dbr:Hukukane_Nikaido	dbr:Susumu_Hagiwara	dbr:Sengaku_Mayeda	
+dbo:birthPlace	dbr:Breda
+dbo:award	dbr:Order_of_Orange-Nassau
+dbr:Kees_Neggers	
+dbo:birthPlace	dbr:Wiltshire
+dbo:award	dbr:Order_of_the_Garter
+dbr:William_Paulet,_1st_Marquess_of_Winchester	
+dbo:birthPlace	dbr:Pennsylvania
+dbo:award	dbr:Vietnam_Service_Medal
+dbr:John_Kline_(politician)	
+dbo:birthPlace	dbr:Chikkamagaluru_District
+dbo:award	dbr:Padma_Vibhushan
+dbr:Kuvempu	
+dbo:birthPlace	dbr:Socialist_Federal_Republic_of_Yugoslavia
+dbo:award	dbr:First_Women's_Basketball_League_of_Serbia
+dbr:Bojana_Janković	
+dbo:birthPlace	dbr:Fort_Lauderdale,_Florida
+dbo:award	dbr:National_Thoroughbred_Racing_Association_Moment_of_the_Year
+dbr:Chris_Antley	
+dbo:birthPlace	dbr:Normal,_Illinois
+dbo:award	dbr:Bronze_Star_Medal
+dbr:Chris_Marvin	
+dbo:birthPlace	dbr:Taree,_New_South_Wales
+dbo:award	dbr:Australian_Mathematical_Society_Medal
+dbr:Murray_Batchelor	
+dbo:birthPlace	dbr:London
+dbo:award	dbr:Juris_Doctorate
+dbr:Roy_Keith_Black	
+dbo:birthPlace	dbr:Moseley
+dbo:award	dbr:1851_Research_Fellowship
+dbr:Arthur_Henry_Reginald_Buller	
+dbo:birthPlace	dbr:British_Raj
+dbo:award	dbr:Sahitya_Akademi_Award
+dbr:Balamani_Amma	dbr:Kamala_Surayya	dbr:O._V._Vijayan	
+dbo:birthPlace	dbr:Makarska
+dbo:award	dbr:Basketball_League_Belgium_Division_I
+dbr:Jure_Lalić	
+dbo:birthPlace	dbr:Eibar
+dbo:award	dbr:Euskadi_Research_award_in_Sciencie_and_Technology
+dbr:Enrique_Zuazua	
+dbo:birthPlace	dbr:Algeria
+dbo:award	dbr:NASA
+dbr:Noureddine_Melikechi	
+dbo:birthPlace	dbr:Basarabia
+dbo:award	dbr:The_Apartment
+dbr:I._A._L._Diamond	
+dbo:birthPlace	dbr:Chevvoor
+dbo:award	dbr:Padma_Shri
+dbr:E._D._Jemmis	
+dbo:birthPlace	dbr:Washington_D.C.
+dbo:award	dbr:American_Academy_of_Arts_and_Sciences
+dbr:Gretchen_Daily	
+dbo:birthPlace	dbr:Kanagawa_prefecture
+dbo:award	dbr:Order_of_the_Rising_Sun
+dbr:Takahiko_Yamanouchi	
+dbo:birthPlace	dbr:Rock_Island,_Illinois
+dbo:award	dbr:James_Madison
+dbr:Gabriel_Almond	
+dbo:birthPlace	dbr:Soviet_Union
+dbo:award	dbr:National_Jewish_Book_Award
+dbr:Maxim_D._Shrayer	
+dbo:birthPlace	dbr:Chidambaram
+dbo:award	dbr:NIXI
+dbr:Rajamanohar	
+dbo:birthPlace	dbr:Azamgarh_District
+dbo:award	dbr:Shanti_Swarup_Bhatnagar_Award
+dbr:Prem_Chand_Pandey	
+dbo:birthPlace	dbr:Montabaur
+dbo:award	dbr:Order_of_Merit_of_the_Federal_Republic_of_Germany
+dbr:Heinz_König	
+dbo:birthPlace	dbr:Greece
+dbo:award	dbr:International_Thessaloniki_Film_Festival
+dbr:Kostas_Voutsas	dbr:Alekos_Alexandrakis	
+dbo:birthPlace	dbr:Khyber_Pakhtunkhwa
+dbo:award	dbr:Hilal-e-Imtiaz
+dbr:Khalid_Shameem_Wynne	dbr:Mahmud_Ali_Durrani	
+dbo:birthPlace	dbr:Vancouver
+dbo:award	dbr:Eclipse_Award_for_Outstanding_Apprentice_Jockey
+dbr:Mickey_Walls	
+dbo:birthPlace	dbr:Damascus
+dbo:award	dbr:Index_on_Censorship
+dbr:Bassel_Khartabil	
+dbo:birthPlace	dbr:Los_Angeles,_California
+dbo:award	dbr:Television
+dbr:John_A._Kuri	
+dbo:birthPlace	dbr:Italy
+dbo:award	dbr:Benjamin_Franklin_Medal_(Franklin_Institute)
+dbr:Nicola_Cabibbo	
+dbo:birthPlace	dbr:Ohio
+dbo:award	dbr:Caldecott_Medal
+dbr:Karen_Ackerman	
+dbo:birthPlace	dbr:Barcelona
+dbo:award	dbr:Premi_Crítica_Serra_d'Or_de_Literatura_i_Assaig
+dbr:Eugeni_Xammar	
+dbo:birthPlace	dbr:Edmonton
+dbo:award	dbr:RTNDA_Canada
+dbr:Barb_Higgins	
+dbo:birthPlace	dbr:Maharashtra
+dbo:award	dbr:Nandi_Awards
+dbr:Telangana_Shakuntala	
+dbo:birthPlace	dbr:Heraklion
+dbo:award	<http://www.cimne.com/iacm/PrizeAwards/ArchiveIACM.pdf>
+dbr:Manolis_Papadrakakis	
+dbo:birthPlace	dbr:Maharashtra
+dbo:award	dbr:Arjuna_Award
+dbr:Eliza_Nelson	
+dbo:birthPlace	dbr:Fairfield,_Connecticut
+dbo:award	dbr:Brevet_(military)
+dbr:Charles_A.R._Dimon	
+dbo:birthPlace	dbr:Utah
+dbo:award	dbr:Bronze_Star_Medal
+dbr:Robert_M._Kimmitt	
+dbo:birthPlace	dbr:Chakwal
+dbo:award	dbr:Padma_Bhushan
+dbr:Sukh_Dev	
+dbo:birthPlace	dbr:Saint-Étienne
+dbo:award	dbr:Émile-Picard-Medaille
+dbr:Jacques_Dixmier	
+dbo:birthPlace	dbr:Victoria_County,_Ontario
+dbo:award	dbr:Order_of_Canada
+dbr:Elizabeth_Bagshaw	
+dbo:birthPlace	dbr:Ukrainian_People's_Republic
+dbo:award	dbr:Hero_of_Socialist_Labour
+dbr:Oles_Honchar	
+dbo:birthPlace	dbr:Polcenigo
+dbo:award	dbr:Order_of_Merit_of_the_Italian_Republic
+dbr:Attilio_Celant	
+dbo:birthPlace	dbr:Fargo,_North_Dakota
+dbo:award	dbr:Lucille_Lortel_Award
+dbr:Jan_Maxwell	
+dbo:birthPlace	dbr:Beaconsfield,_Quebec
+dbo:award	dbr:Queen_Elizabeth_II_Silver_Jubilee_Medal
+dbr:E._R._Ward_Neale	
+dbo:birthPlace	dbr:Istanbul
+dbo:award	<http://www.asme.org/Governance/Honors/SocietyAwards/YC_Fung_Young_Investigator.cfm>
+dbr:Mehmet_Toner	
+dbo:birthPlace	dbr:Rostov-on-Don
+dbo:award	dbr:IEEE_Computer_Pioneer_Award
+dbr:Victor_Glushkov	
+dbo:birthPlace	dbr:Zagreb
+dbo:award	dbr:Heinrich_Wieland_Prize
+dbr:Nenad_Ban	
+dbo:birthPlace	dbr:Celje
+dbo:award	dbr:LKF_Cup
+dbr:Goran_Jurak	
+dbo:birthPlace	dbr:Chelmsford
+dbo:award	dbr:Ian_Charleson_Award
+dbr:Jack_Lowden	
+dbo:birthPlace	dbr:Bourg-en-Bresse
+dbo:award	dbr:Mérite_agricole
+dbr:Jacques_Pépin	
+dbo:birthPlace	dbr:Lower_Normandy
+dbo:award	dbr:Légion_d'honneur
+dbr:Jean_Hubert	
+dbo:birthPlace	dbr:Kerala
+dbo:award	dbr:Bhatnagar_Award
+dbr:P._K._Iyengar	
+dbo:birthPlace	dbr:Cheshire
+dbo:award	dbr:British_Fashion_Designer_of_the_Year
+dbr:Vivienne_Westwood	
+dbo:birthPlace	dbr:Tintern,_Ontario
+dbo:award	dbr:Flavelle_Medal
+dbr:Archibald_Gowanlock_Huntsman	
+dbo:birthPlace	dbr:Gipuzkoa
+dbo:award	dbr:Erlangen-Nürnberg
+dbr:Enrique_Zuazua	
+dbo:birthPlace	dbr:Salem,_Oregon
+dbo:award	dbr:Air_Medal
+dbr:Allen_Weh	
+dbo:birthPlace	dbr:Clare,_South_Australia
+dbo:award	dbr:Order_of_the_British_Empire
+dbr:Natascha_McNamara	
+dbo:birthPlace	dbr:Hertfordshire
+dbo:award	dbr:University_of_Essex
+dbr:David_Triesman,_Baron_Triesman	
+dbo:birthPlace	dbr:Kologriv
+dbo:award	dbr:Lomonosov_Gold_Medal
+dbr:Olga_Ladyzhenskaya	
+dbo:birthPlace	dbr:Myanmar
+dbo:award	dbr:Best_Actress
+dbr:Wutt_Hmone_Shwe_Yi	
+dbo:birthPlace	dbr:Canada
+dbo:award	dbr:Society_of_Illustrators
+dbr:Barry_Zaid	
+dbo:birthPlace	dbr:Netherlands
+dbo:award	dbr:Faraday_Medal
+dbr:Kees_Schouhamer_Immink	
+dbo:birthPlace	dbr:Mongu
+dbo:award	dbr:CPJ_International_Press_Freedom_Award
+dbr:Fred_M'membe	
+dbo:birthPlace	dbr:Bruges
+dbo:award	dbr:IEEE_Control_Systems_Award
+dbr:Jan_Camiel_Willems	
+dbo:birthPlace	dbr:Poland
+dbo:award	dbr:Pour_le_Mérite
+dbr:Paul_von_Hindenburg	
+dbo:birthPlace	dbr:Punjab_(British_India)
+dbo:award	dbr:Armaan_(1966_film)
+dbr:Zeba	
+dbo:birthPlace	dbr:Ajgaon
+dbo:award	dbr:Teachers'_Day
+dbr:Ratan_Shankar_Mishra	
+dbo:birthPlace	dbr:Kent
+dbo:award	dbr:Order_of_the_Garter
+dbr:John_Pitt,_2nd_Earl_of_Chatham	
+dbo:birthPlace	dbr:Montrouge
+dbo:award	dbr:Jean_de_Florette
+dbr:Gérard_Brach	
+dbo:birthPlace	dbr:Sindh
+dbo:award	dbr:Roberto_Rossellini
+dbr:Shoaib_Mansoor	
+dbo:birthPlace	dbr:Honolulu,_Hawaii
+dbo:award	dbr:Edward_R._Murrow_Award_(Radio_Television_Digital_News_Association)
+dbr:Kimberly_Dozier	
+dbo:birthPlace	dbr:Portuguese_Macau
+dbo:award	dbr:Inside_Film_Awards
+dbr:Tony_Ayres	
+dbo:birthPlace	dbr:Woolwich
+dbo:award	dbr:Sylvester_Medal
+dbr:Frank_Adams	
+dbo:birthPlace	dbr:United_States_of_America
+dbo:award	dbr:American_Association_for_the_Advancement_of_Science
+dbr:John_Amsden_Starkweather	
+dbo:birthPlace	dbr:Scarsdale,_New_York
+dbo:award	dbr:Daytime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Drama_Series
+dbr:Susan_Lucci	
+dbo:birthPlace	dbr:Budapest
+dbo:award	dbr:Academy_of_the_Social_Sciences_in_Australia
+dbr:Joseph_Paul_Forgas	
+dbo:birthPlace	dbr:Warszawa
+dbo:award	dbr:Partisan_Cross
+dbr:Ryszard_Piotrowski	
+dbo:birthPlace	dbr:Lyallpur
+dbo:award	dbr:Shanti_Swarup_Bhatnagar_Prize
+dbr:Bal_Raj_Nijhawan	
+dbo:birthPlace	dbr:George_Washington_Birthplace_National_Monument
+dbo:award	dbr:Thanks_of_Congress
+dbr:George_Washington	
+dbo:birthPlace	dbr:Uruguay
+dbo:award	<http://www.hhmi.org/scientists/rafael-radi>
+dbr:Rafael_Radi	
+dbo:birthPlace	dbr:Maharashtra
+dbo:award	dbr:Indian_National_Science_Academy
+dbr:Jyeshtharaj_Joshi	
+dbo:birthPlace	dbr:Warwick,_Queensland
+dbo:award	dbr:Order_of_Australia
+dbr:John_Makepeace_Bennett	
+dbo:birthPlace	dbr:Edmonton
+dbo:award	dbr:Stephen_Leacock_Award
+dbr:W._P._Kinsella	
+dbo:birthPlace	dbr:New_York_City,_NY
+dbo:award	dbr:USPTO
+dbr:Leonard_Greene	
+dbo:birthPlace	dbr:Los_Angeles,_California
+dbo:award	dbr:Presidential_Medal_of_Freedom
+dbr:Harry_W._Shlaudeman	dbr:John_W._Gardner	
+dbo:birthPlace	dbr:Kingdom_of_Saxony
+dbo:award	dbr:Henry_Draper_Medal
+dbr:Hermann_Carl_Vogel	
+dbo:birthPlace	dbr:China
+dbo:award	dbr:Gödel_Prize
+dbr:Shang-Hua_Teng	
+dbo:birthPlace	dbr:Buffalo,_New_York
+dbo:award	dbr:Yale
+dbr:Katherine_Bement_Davis	
+dbo:birthPlace	dbr:Kokura
+dbo:award	dbr:Victory_Medal_(United_Kingdom)
+dbr:Masumi_Mitsui	
+dbo:birthPlace	dbr:Oklahoma
+dbo:award	dbr:Boltzmann_Medal
+dbr:H._Eugene_Stanley	
+dbo:birthPlace	dbr:Montabaur
+dbo:award	dbr:University_of_Mannheim
+dbr:Heinz_König	
+dbo:birthPlace	dbr:Maghera
+dbo:award	dbr:Regina_Medal
+dbr:Eve_Bunting	
+dbo:birthPlace	dbr:Thiverval-Grignon
+dbo:award	dbr:Exposition_Universelle_(1900)
+dbr:Albert_Bartholomé	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:G._K._Gilbert_Award
+dbr:Eugene_Merle_Shoemaker	dbr:Walter_Alvarez	
+dbo:birthPlace	dbr:Floral_Park,_New_York
+dbo:award	dbr:Golden_Laurel
+dbr:Alex_Cord	
+dbo:birthPlace	dbr:Passaic,_New_Jersey
+dbo:award	dbr:Distinguished_Service_Medal_(U.S._Army)
+dbr:Grace_Banker	
+dbo:birthPlace	dbr:Lochfield
+dbo:award	dbr:Fellow_of_the_Royal_College_of_Surgeons_of_England
+dbr:Alexander_Fleming	
+dbo:birthPlace	dbr:British_India
+dbo:award	dbr:Independence_Day_Award
+dbr:Firoza_Begum_(singer)	dbr:Quamrul_Hassan	dbr:A._Q._M._Badruddoza_Chowdhury	dbr:Muhammad_Ibrahim	dbr:Muhammad_Shahidullah	dbr:Abdul_Matin_(language_activist)	dbr:Jasimuddin	dbr:Nilima_Ibrahim	dbr:Brojen_Das	dbr:Safiuddin_Ahmed	dbr:Muhammad_Qudrat-i-Khuda	dbr:Mohammad_Kibria	dbr:Sikandar_Abu_Zafar	dbr:Hashem_Khan_(artist)	dbr:Muhammad_Mansuruddin	dbr:Shah_A_M_S_Kibria	dbr:Binod_Bihari_Chowdhury	
+dbo:birthPlace	dbr:County_Carlow
+dbo:award	dbr:Rumford_Medal
+dbr:John_Tyndall	
+dbo:birthPlace	dbr:Khedivate_of_Egypt
+dbo:award	dbr:Royal_Medal
+dbr:Dorothy_Hodgkin	
+dbo:birthPlace	dbr:Santo_Domingo
+dbo:award	dbr:Order_of_Merit_of_Duarte,_Sánchez_and_Mella
+dbr:Oscar_de_la_Renta	dbr:Zoila_Martínez	
+dbo:birthPlace	dbr:Seattle
+dbo:award	dbr:Order_of_the_Rising_Sun
+dbr:George_Tsutakawa	
+dbo:birthPlace	dbr:Kentucky
+dbo:award	dbr:World_Economic_Forum
+dbr:Nate_Morris	
+dbo:birthPlace	dbr:Rehovot,_Israel
+dbo:award	dbr:Morgan_Prize
+dbr:Jacob_Fox	
+dbo:birthPlace	dbr:India
+dbo:award	dbr:TED_conference
+dbr:Rajamanohar	
+dbo:birthPlace	dbr:Montclair,_New_Jersey
+dbo:award	dbr:American_Chemical_Society
+dbr:Ronald_T._Raines	
+dbo:birthPlace	dbr:Tokyo
+dbo:award	dbr:Earle_K._Plyler_Prize
+dbr:Takeshi_Oka	
+dbo:birthPlace	dbr:Uttar_Pradesh
+dbo:award	dbr:World_Food_Prize
+dbr:Sanjaya_Rajaram	
+dbo:birthPlace	dbr:San_Francisco
+dbo:award	dbr:Levi_L._Conant_Prize
+dbr:John_C._Baez	
+dbo:birthPlace	dbr:Sweden
+dbo:award	dbr:Nobel_Prize_in_Physics
+dbr:Gustaf_Dalén	dbr:Kai_Siegbahn	
+dbo:birthPlace	dbr:Bradford
+dbo:award	dbr:Royal_Medal
+dbr:Edward_Victor_Appleton	
+dbo:birthPlace	dbr:Kingdom_of_Galicia_and_Lodomeria
+dbo:award	dbr:Shevchenko_Prize
+dbr:Vasyl_Kasiyan	
+dbo:birthPlace	dbr:Frome
+dbo:award	dbr:Mullard_Award
+dbr:Charles_Oatley	
+dbo:birthPlace	dbr:Milan
+dbo:award	dbr:Viareggio_Prize
+dbr:Carlo_Emilio_Gadda	dbr:Alda_Merini	
+dbo:birthPlace	dbr:Nairn
+dbo:award	dbr:Comité_Interprofessionnel_du_vin_de_Champagne
+dbr:Margaret_Fulton	
+dbo:birthPlace	dbr:Kankipadu
+dbo:award	dbr:Padma_Shri
+dbr:Kota_Srinivasa_Rao	
+dbo:birthPlace	dbr:Alexandria
+dbo:award	dbr:Sawiris_Cultural_Award
+dbr:Reem_Bassiouney	
+dbo:birthPlace	dbr:Cagayan_de_Oro
+dbo:award	dbr:Gold_Cross_(Philippines)
+dbr:Jovito_Palparan	
+dbo:birthPlace	dbr:Sumatra
+dbo:award	dbr:Cultural_Medallion
+dbr:Goh_Lay_Kuan	
+dbo:birthPlace	dbr:Ethiopia
+dbo:award	dbr:World_Food_Prize
+dbr:Gebisa_Ejeta	
+dbo:birthPlace	dbr:Beaumaris
+dbo:award	dbr:IEEE_Richard_W._Hamming_Medal
+dbr:Neil_Sloane	
+dbo:birthPlace	dbr:Toronto
+dbo:award	dbr:SSHRC_Strategic_Knowledge_Cluster_Grant
+dbr:Bernard_Lightman	
+dbo:birthPlace	dbr:Soviet_Union
+dbo:award	dbr:2009_LKL_All-Star_Game
+dbr:Artūras_Jomantas	
+dbo:birthPlace	dbr:Stockport
+dbo:award	dbr:Royal_Medal
+dbr:Horace_Lamb	
+dbo:birthPlace	dbr:Quebec
+dbo:award	dbr:Rue-Deschambault_Literary_Award
+dbr:Laurent_Poliquin	
+dbo:birthPlace	dbr:Punjab,_India
+dbo:award	dbr:Ramon_Magsaysay_award
+dbr:Kiran_Bedi	
+dbo:birthPlace	dbr:Andhra_Pradesh
+dbo:award	dbr:Council_for_Scientific_and_Industrial_Research
+dbr:A._V._Rama_Rao	
+dbo:birthPlace	dbr:Elisabethpol_Governorate
+dbo:award	dbr:Order_of_the_Red_Star
+dbr:Gevork_Kotiantz	
+dbo:birthPlace	dbr:Gravesend
+dbo:award	dbr:Davy_Medal
+dbr:Derek_Barton	
+dbo:birthPlace	dbr:Santa_Monica,_California
+dbo:award	dbr:American_Psychological_Association
+dbr:Fredda_Blanchard-Fields	
+dbo:birthPlace	dbr:Nova_Scotia
+dbo:award	dbr:Nobel_Prize_in_Physics
+dbr:Willard_Boyle	
+dbo:birthPlace	dbr:Feni_District
+dbo:award	dbr:Independence_Day_Award
+dbr:Shahidullah_Kaiser	
+dbo:birthPlace	dbr:Greenwich,_Connecticut
+dbo:award	dbr:Ellis_Island_Medal_of_Honor
+dbr:Jim_Ferraro	
+dbo:birthPlace	dbr:West_Germany
+dbo:award	dbr:Ludwig_Erhard
+dbr:Wolfgang_Stützel	
+dbo:birthPlace	dbr:Manhattan
+dbo:award	dbr:Nobel_Prize_in_Physics
+dbr:Murray_Gell-Mann	
+dbo:birthPlace	dbr:Russia
+dbo:award	dbr:IEEE_Edison_Medal
+dbr:Leonid_A._Umansky	
+dbo:birthPlace	dbr:France
+dbo:award	dbr:Salon_(Paris)
+dbr:Gustave_Courbet	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Drama_Desk_Award
+dbr:Robert_Moore_(director)	dbr:William_Ball_(director)	dbr:Peter_Gennaro	dbr:Isabel_Keating	
+dbo:birthPlace	dbr:Suwałki
+dbo:award	dbr:Virtuti_Militari
+dbr:Adam_Koc	
+dbo:birthPlace	dbr:Venda
+dbo:award	dbr:Top_200_Young_South_Africans_to_take_to_Lunch
+dbr:Fulufhelo_Nelwamondo	
+dbo:birthPlace	dbr:Massachusetts
+dbo:award	dbr:Carl_Sagan_Award_for_Public_Understanding_of_Science
+dbr:John_Rennie_(editor)	
+dbo:birthPlace	dbr:People's_Republic_of_China
+dbo:award	dbr:Prince_Claus_Awards
+dbr:Ma_Ke_(fashion_designer)	
+dbo:birthPlace	dbr:Yamaguchi,_Yamaguchi
+dbo:award	dbr:Order_of_the_Bath
+dbr:Terauchi_Masatake	
+dbo:birthPlace	dbr:Milwaukee,_Wisconsin
+dbo:award	dbr:Mathematical_Programming_Society
+dbr:R._Tyrrell_Rockafellar	
+dbo:birthPlace	dbr:Iran
+dbo:award	dbr:Tehran
+dbr:Hamid_Hassani	
+dbo:birthPlace	dbr:Hinesville,_Georgia
+dbo:award	<http://hbaofsc.com/>
+dbr:Joseph_Bacon_Fraser,_Jr.	
+dbo:birthPlace	dbr:Jharkhand
+dbo:award	dbr:Sangeet_Natak_Akademi_Award
+dbr:Ram_Dayal_Munda	dbr:Kedar_Nath_Sahoo	dbr:Vasundhara_Komkali	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:J._G._Taylor_Spink_Award
+dbr:Roger_Angell	
+dbo:birthPlace	dbr:Morocco
+dbo:award	dbr:Juludan_Research_Prize
+dbr:Marcelle_Machluf	
+dbo:birthPlace	dbr:Winthrop,_Massachusetts
+dbo:award	dbr:Phi_Beta_Kappa
+dbr:Anthony_Cortese	
+dbo:birthPlace	dbr:New_Orleans,_Louisiana
+dbo:award	dbr:American_Association_for_the_Advancement_of_Science
+dbr:Milton_Dean_Slaughter	
+dbo:birthPlace	dbr:Yorkshire
+dbo:award	dbr:Eclipse_Special_Award
+dbr:Johnny_Longden	
+dbo:birthPlace	dbr:Upper_Bavaria
+dbo:award	dbr:Wilhelm_Exner_Medal
+dbr:Ludwig_Prandtl	
+dbo:birthPlace	dbr:Austria-Hungary
+dbo:award	dbr:Fellow_of_the_British_Academy
+dbr:Kurt_Gödel	
+dbo:birthPlace	dbr:Lucera
+dbo:award	dbr:Frosinone
+dbr:Emanuele_Cavalli	
+dbo:birthPlace	dbr:York,_Pennsylvania
+dbo:award	dbr:Harry_H._Goode_Memorial_Award
+dbr:George_Stibitz	
+dbo:birthPlace	dbr:Palanpur
+dbo:award	dbr:TR35
+dbr:Pranav_Mistry	
+dbo:birthPlace	dbr:Midlothian
+dbo:award	dbr:Howard_N._Potts_Medal
+dbr:Charles_Thomson_Rees_Wilson	
+dbo:birthPlace	dbr:Ulania
+dbo:award	dbr:Ekushey_Padak
+dbr:Abdul_Gaffar_Choudhury	
+dbo:birthPlace	dbr:South_Vietnam
+dbo:award	dbr:Emmy_Award
+dbr:Leyna_Nguyen	
+dbo:birthPlace	dbr:Tel_Aviv
+dbo:award	dbr:American_Academy_of_Arts_and_Sciences
+dbr:Zvi_Galil	dbr:Alexander_Lubotzky	
+dbo:birthPlace	dbr:Rochester,_New_York
+dbo:award	dbr:Army_Service_Ribbon
+dbr:Matthew_Zeller	
+dbo:birthPlace	dbr:Sindh
+dbo:award	dbr:Abdus_Salam_Award
+dbr:Pervez_Hoodbhoy	
+dbo:birthPlace	dbr:Thailand
+dbo:award	dbr:United_States_Aviator_Badge
+dbr:Tammy_Duckworth	
+dbo:birthPlace	dbr:Chicago
+dbo:award	dbr:James_Beard_Foundation_Award
+dbr:Carrie_Nahabedian	
+dbo:birthPlace	dbr:Soviet_Union
+dbo:award	dbr:Parsons_The_New_School_for_Design
+dbr:Natalia_Fedner	
+dbo:birthPlace	dbr:Boston
+dbo:award	dbr:California_State_University-Long_Beach
+dbr:Domenic_Cretara	
+dbo:birthPlace	dbr:Bushey
+dbo:award	dbr:British_Academy_Television_Awards
+dbr:Geoffrey_Perkins	
+dbo:birthPlace	dbr:Kochi
+dbo:award	dbr:Sahitya_Academy_Award
+dbr:Narayana_Purushothama_Mallaya	
+dbo:birthPlace	dbr:Kanazawa,_Ishikawa
+dbo:award	dbr:Asahi_Prize
+dbr:Shigekazu_Nagata	
+dbo:birthPlace	dbr:Staffordshire
+dbo:award	dbr:Evening_Standard_British_Film_Award
+dbr:Paddy_Considine	
+dbo:birthPlace	dbr:Suresnes
+dbo:award	dbr:Three_Colors:_Red
+dbr:Irène_Jacob	
+dbo:birthPlace	dbr:West_Pakistan
+dbo:award	dbr:Nishan-e-Imtiaz
+dbr:Khalid_Shameem_Wynne	dbr:Tariq_Majid	dbr:Kaleem_Saadat	
+dbo:birthPlace	dbr:Entiat,_Washington
+dbo:award	dbr:John_Scott_Award
+dbr:Charles_Glen_King	
+dbo:birthPlace	dbr:Faisalabad
+dbo:award	dbr:Sitara-e-Imtiaz
+dbr:Kaleem_Saadat	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Gairdner_Foundation_International_Award
+dbr:Arthur_Kornberg	dbr:Wayne_Hendrickson	dbr:Craig_Mello	dbr:Richard_Axel	dbr:Julius_Axelrod	
+dbo:birthPlace	dbr:Cleveland
+dbo:award	dbr:List_of_awards_and_nominations_received_by_Kid_Cudi
+dbr:Kid_Cudi	
+dbo:birthPlace	dbr:Manhattan
+dbo:award	dbr:Lannan_Foundation
+dbr:Joan_Retallack	
+dbo:birthPlace	dbr:Albuquerque,_New_Mexico
+dbo:award	dbr:Woodland,_California
+dbr:Malaquías_Montoya	
+dbo:birthPlace	dbr:Mobile,_Alabama
+dbo:award	dbr:Air_Medal
+dbr:Jeremiah_Denton	
+dbo:birthPlace	dbr:Germany
+dbo:award	dbr:Gruber_Prize_in_Genetics
+dbr:Rudolf_Jaenisch	
+dbo:birthPlace	dbr:Kingdom_of_Italy_(1861–1946)
+dbo:award	dbr:Skanderbeg's_Order
+dbr:Aleksandar_Stipčević	
+dbo:birthPlace	dbr:Padang,_Indonesia
+dbo:award	dbr:Ramon_Magsaysay_Award
+dbr:Mochtar_Lubis	
+dbo:birthPlace	dbr:Japan
+dbo:award	dbr:The_Eel_(Japanese_film)
+dbr:Shohei_Imamura	
+dbo:birthPlace	dbr:Austria-Hungary
+dbo:award	dbr:Order_of_Franz_Joseph
+dbr:Mehmed_Spaho	
+dbo:birthPlace	dbr:Murcia,_Spain
+dbo:award	dbr:Elliott_Cresson_Medal
+dbr:Juan_de_la_Cierva	
+dbo:birthPlace	dbr:Suriname
+dbo:award	dbr:P._C._Hooft_Award
+dbr:Astrid_Roemer	
+dbo:birthPlace	dbr:Northern_Ireland
+dbo:award	dbr:Cinéma_Tout_Ecran
+dbr:Mairead_McKinley	
+dbo:birthPlace	dbr:England
+dbo:award	dbr:Sindh_Medal
+dbr:Charles_James_Napier	
+dbo:birthPlace	dbr:Akhaltsikh
+dbo:award	dbr:Stalin_Prize
+dbr:Stepan_Malkhasyants	
+dbo:birthPlace	dbr:Sabzevar
+dbo:award	dbr:Jan_Michalski_Prize_for_Literature
+dbr:Mahmoud_Dowlatabadi	
+dbo:birthPlace	dbr:Adelaide
+dbo:award	dbr:The_Six_Wives_of_Henry_VIII_(BBC_TV_series)
+dbr:Keith_Michell	
+dbo:birthPlace	dbr:Safed
+dbo:award	dbr:2013–14_Israeli_Basketball_Super_League
+dbr:Yogev_Ohayon	
+dbo:birthPlace	dbr:Vietnam
+dbo:award	dbr:Hellman-Hammett_award
+dbr:Mother_Mushroom	
+dbo:birthPlace	dbr:Forfarshire
+dbo:award	dbr:Order_of_the_Star_of_India
+dbr:David_Robert_Lyall	
+dbo:birthPlace	dbr:Germany
+dbo:award	dbr:Gustav-Steinmann-Medaille
+dbr:Henno_Martin	
+dbo:birthPlace	dbr:Kingdom_of_Italy
+dbo:award	dbr:Targa_Giuseppe_Piazzi
+dbr:Margherita_Hack	
+dbo:birthPlace	dbr:Northern_Ireland
+dbo:award	dbr:Barlow_Memorial_Medal
+dbr:Henry_C._Gunning	
+dbo:birthPlace	dbr:Glasgow
+dbo:award	dbr:Flavelle_Medal
+dbr:Thomas_Cameron	
+dbo:birthPlace	dbr:Bristol,_Pennsylvania
+dbo:award	dbr:Chemical_Pioneers_Award
+dbr:William_Edward_Hanford	
+dbo:birthPlace	dbr:France
+dbo:award	dbr:Officer_of_the_Legion_of_Honour
+dbr:Serge_Youriévitch	
+dbo:birthPlace	dbr:St_Budeaux
+dbo:award	dbr:Laurence_Olivier_Award_for_Best_Actor
+dbr:Donald_Sinden	
+dbo:birthPlace	dbr:Kaunas
+dbo:award	dbr:Order_of_Canada
+dbr:Alain_Stanké	
+dbo:birthPlace	dbr:Santa_Barbara,_California
+dbo:award	dbr:Fortune_(magazine)
+dbr:Ben_Rattray	
+dbo:birthPlace	dbr:Hampton,_Virginia
+dbo:award	dbr:Purple_Heart
+dbr:Gordon_Helsel	
+dbo:birthPlace	dbr:Dubbo
+dbo:award	dbr:Victory_Medal_(United_Kingdom)
+dbr:Gus_Kelly_(politician)	
+dbo:birthPlace	dbr:Yorkville,_Oneida_County,_New_York
+dbo:award	dbr:Temple_Gold_Medal
+dbr:Julian_E._Levi	
+dbo:birthPlace	dbr:Mons
+dbo:award	dbr:Ordre_des_Palmes_Académiques
+dbr:Louis_Dewis	
+dbo:birthPlace	dbr:India
+dbo:award	dbr:Corporate_finance
+dbr:Aswath_Damodaran	
+dbo:birthPlace	dbr:Summit,_New_Jersey
+dbo:award	dbr:White_House_Fellows
+dbr:Katherine_Hagedorn	
+dbo:birthPlace	dbr:Austria-Hungary
+dbo:award	dbr:Nobel_Prize_in_Physics
+dbr:Erwin_Schrödinger	dbr:Eugene_Wigner	dbr:Wolfgang_Pauli	dbr:Victor_Francis_Hess	
+dbo:birthPlace	dbr:Union_of_India
+dbo:award	dbr:Oru_Minnaminunginte_Nurunguvettam
+dbr:Bharathan	
+dbo:birthPlace	dbr:Methuen,_Massachusetts
+dbo:award	dbr:ACS_Award_in_Pure_Chemistry
+dbr:Elias_James_Corey	
+dbo:birthPlace	dbr:Cluj
+dbo:award	dbr:Humboldt_Prize
+dbr:Erwin_Friedlander	
+dbo:birthPlace	dbr:Istanbul,_Turkey
+dbo:award	dbr:National_Academy_of_Engineering
+dbr:Tamer_Başar	
+dbo:birthPlace	dbr:Kumrovec
+dbo:award	dbr:Awards_and_decorations_of_Josip_Broz_Tito
+dbr:Josip_Broz_Tito	
+dbo:birthPlace	dbr:Scotland
+dbo:award	dbr:Penrose_Medal
+dbr:Andrew_Lawson	
+dbo:birthPlace	dbr:Cómbita
+dbo:award	dbr:City_of_Bogotá
+dbr:Pedro_Medina_Avendaño	
+dbo:birthPlace	dbr:Austria-Hungary
+dbo:award	dbr:Order_of_Isabella_the_Catholic
+dbr:Alexander_Kircher	
+dbo:birthPlace	dbr:Fontana_Liri
+dbo:award	dbr:David_di_Donatello_for_Best_Actor
+dbr:Marcello_Mastroianni	
+dbo:birthPlace	dbr:Punjab,_Pakistan
+dbo:award	dbr:Research_Award
+dbr:Liaqat_Ali_Khan_(mathematician)	
+dbo:birthPlace	dbr:Saint_Petersburg
+dbo:award	dbr:Medal_%22For_Valiant_Labour_in_the_Great_Patriotic_War_1941–1945%22
+dbr:Georgy_Mihailovich_Kondratiev	
+dbo:birthPlace	dbr:Israel
+dbo:award	<http://atar.mscc.huji.ac.il/~armenia/landau.html>
+dbr:Eshel_Ben-Jacob	
+dbo:birthPlace	dbr:Bucharest
+dbo:award	dbr:Canadian_Forces_Decoration
+dbr:John_de_Chastelain	
+dbo:birthPlace	dbr:St._Helena,_California
+dbo:award	dbr:Combat_Infantryman_Badge
+dbr:Mike_Thompson_(California_politician)	
+dbo:birthPlace	dbr:Barranquilla
+dbo:award	dbr:Benjamin_West_Clinedinst
+dbr:Knox_Martin	
+dbo:birthPlace	dbr:Missoula,_Montana
+dbo:award	dbr:Kistler_Prize
+dbr:Leroy_Hood	
+dbo:birthPlace	dbr:Argentina
+dbo:award	dbr:Mexico_City
+dbr:Juan_Carlos_Castagnino	
+dbo:birthPlace	dbr:Chicago,_Illinois
+dbo:award	dbr:Peter_Lisagor_Award
+dbr:Ray_Hanania	
+dbo:birthPlace	dbr:Poland
+dbo:award	dbr:Lemelson–MIT_Prize
+dbr:Sidney_Pestka	
+dbo:birthPlace	dbr:Sydney
+dbo:award	dbr:Venerable_Order_of_Saint_John
+dbr:Neil_Conn	
+dbo:birthPlace	dbr:Odessa
+dbo:award	dbr:Shaw_Prize
+dbr:Vladimir_Arnold	
+dbo:birthPlace	dbr:Socialist_Republic_of_Croatia
+dbo:award	dbr:Order_of_Merit_(Ukraine)
+dbr:Andrej_Plenković	
+dbo:birthPlace	dbr:Los_Angeles,_California
+dbo:award	dbr:Linus_Pauling_Legacy_Award
+dbr:John_D._Roberts	
+dbo:birthPlace	dbr:McAlester,_Oklahoma
+dbo:award	dbr:Bollingen_Prize
+dbr:John_Berryman	
+dbo:birthPlace	dbr:Horgoš
+dbo:award	dbr:NIN_Award
+dbr:Aleksandar_Tišma	
+dbo:birthPlace	dbr:Chelmsford
+dbo:award	dbr:EMS_Prize
+dbr:James_Maynard_(mathematician)	
+dbo:birthPlace	dbr:Castleford
+dbo:award	dbr:Order_of_Merit
+dbr:Henry_Moore	
+dbo:birthPlace	dbr:Chelmsford
+dbo:award	dbr:Whitehead_Prize
+dbr:James_Maynard_(mathematician)	
+dbo:birthPlace	dbr:Dunfermline,_Scotland
+dbo:award	dbr:Mayhew_Prize
+dbr:Geoffrey_C._Fox	
+dbo:birthPlace	dbr:Italy
+dbo:award	dbr:Dahl-Nygaard_Prize
+dbr:Luca_Cardelli	
+dbo:birthPlace	dbr:Canada
+dbo:award	dbr:Fairplex
+dbr:Reggie_Cornell	
+dbo:birthPlace	dbr:Gudiwada
+dbo:award	dbr:Padma_Shri
+dbr:Siramdasu_Venkata_Rama_Rao	
+dbo:birthPlace	dbr:Ryde
+dbo:award	dbr:Chancellor's_Gold_Medal
+dbr:Arthur_Cecil_Pigou	
+dbo:birthPlace	dbr:London,_England
+dbo:award	dbr:Royal_Academy
+dbr:Albert_Richardson	
+dbo:birthPlace	dbr:São_Carlos
+dbo:award	dbr:ICTP_Ramanujan_Prize
+dbr:Fernando_Codá_Marques	
+dbo:birthPlace	dbr:Barwani
+dbo:award	dbr:Padma_Vibhushan
+dbr:Anil_Kakodkar	
+dbo:birthPlace	dbr:Belgrade
+dbo:award	dbr:Thessaloniki_Film_Festival
+dbr:Vuk_Kostić	
+dbo:birthPlace	dbr:Wilkes-Barre,_Pennsylvania
+dbo:award	dbr:Thomas_Hunt_Morgan_Medal
+dbr:Edward_B._Lewis	
+dbo:birthPlace	dbr:Macclesfield
+dbo:award	dbr:Royal_Medal
+dbr:Arthur_Smith_Woodward	
+dbo:birthPlace	dbr:Velika_Žuljevica
+dbo:award	dbr:Golden_Arena_for_Best_Actress
+dbr:Božidarka_Frajt	
+dbo:birthPlace	dbr:Savur
+dbo:award	dbr:Scientific_and_Technological_Research_Council_of_Turkey
+dbr:Aziz_Sancar	
+dbo:birthPlace	dbr:Brooklyn
+dbo:award	dbr:Monmouth_Park_Racetrack
+dbr:Chuck_C._Lopez	
+dbo:birthPlace	dbr:Adelaide
+dbo:award	dbr:Royal_Medal
+dbr:William_Lawrence_Bragg	
+dbo:birthPlace	dbr:Boston
+dbo:award	dbr:ACM_Fellow
+dbr:Margaret_Martonosi	
+dbo:birthPlace	dbr:Farmville,_Virginia
+dbo:award	dbr:National_Medal_of_Technology_and_Innovation
+dbr:James_Edward_Maceo_West	
+dbo:birthPlace	dbr:Ontario
+dbo:award	dbr:Mildred_Weisenfeld
+dbr:Joan_Miller	
+dbo:birthPlace	dbr:United_Kingdom
+dbo:award	dbr:British_jump_racing_Champion_Trainer
+dbr:Ryan_Price_(trainer)	
+dbo:birthPlace	dbr:Madras_Presidency
+dbo:award	dbr:Kalaprapurna
+dbr:Vavilala_Gopalakrishnayya	
+dbo:birthPlace	dbr:Weiden_in_der_Oberpfalz
+dbo:award	dbr:Order_of_Merit_of_the_Federal_Republic_of_Germany
+dbr:Marga_Schiml	
+dbo:birthPlace	dbr:Salerno
+dbo:award	dbr:Viareggio_Prize
+dbr:Alfonso_Gatto	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:Mirror_Awards
+dbr:Anna_Holmes	
+dbo:birthPlace	dbr:Bronx,_New_York_City
+dbo:award	dbr:Honorary_Doctorate
+dbr:Irwin_Shaw	
+dbo:birthPlace	dbr:Amritsar
+dbo:award	dbr:List_of_awards_and_nominations_received_by_Akshay_Kumar
+dbr:Akshay_Kumar	
+dbo:birthPlace	dbr:United_States
+dbo:award	dbr:British_flat_racing_Champion_Owner
+dbr:Nelson_Bunker_Hunt	
+dbo:birthPlace	dbr:Russian_Empire
+dbo:award	dbr:Harvard_University
+dbr:Louise_Nevelson	
+dbo:birthPlace	dbr:Florida
+dbo:award	dbr:National_Prize_for_Literature_(Cuba)
+dbr:Cintio_Vitier	
+dbo:birthPlace	dbr:Moscow
+dbo:award	dbr:Gruber_Prize_in_Cosmology
+dbr:Alexei_Starobinsky	
+dbo:birthPlace	dbr:British_Indian_Empire
+dbo:award	dbr:Khwarizmi_International_Award
+dbr:Iqbal_Hussain_Qureshi	
+dbo:birthPlace	dbr:Tbilisi
+dbo:award	dbr:Order_of_Lenin
+dbr:Yuri_Neprintsev	
+dbo:birthPlace	dbr:Arlington,_Massachusetts
+dbo:award	dbr:Morgan_Prize
+dbr:Reid_W._Barton	
+dbo:birthPlace	dbr:Eure
+dbo:award	dbr:Croix_de_guerre_1939–1945_(France)
+dbr:Michel_Hollard	
+dbo:birthPlace	dbr:Chicago
+dbo:award	dbr:Gruber_Prize_in_Genetics
+dbr:H._Robert_Horvitz	
+dbo:birthPlace	dbr:Austria-Hungary
+dbo:award	dbr:Marcel_Benoist_Prize
+dbr:Vladimir_Prelog	
+dbo:birthPlace	dbr:Amreli
+dbo:award	dbr:Sangeet_Natak_Akademi_Award
+dbr:Dina_Pathak	
+dbo:birthPlace	dbr:Billings,_Montana
+dbo:award	dbr:Academy_Award
+dbr:Bud_Luckey	
+dbo:birthPlace	dbr:Crimea
+dbo:award	dbr:Olof_Palme_Prize
+dbr:Lyudmila_Alexeyeva	
+dbo:birthPlace	dbr:County_Armagh
+dbo:award	dbr:Gourmand_World_Cookbook_Awards
+dbr:James_McIntosh_(Food_Writer)	
+dbo:birthPlace	dbr:Germany
+dbo:award	dbr:Franklin_Medal
+dbr:Wolfgang_K._H._Panofsky	
+dbo:birthPlace	dbr:Highworth
+dbo:award	dbr:Lyell_Medal
+dbr:William_Joscelyn_Arkell	
+dbo:birthPlace	dbr:Connecticut
+dbo:award	dbr:Croix_de_Guerre
+dbr:Edmund_Hill	
+dbo:birthPlace	dbr:Andalucia
+dbo:award	dbr:Nobel_Prize_in_Literature
+dbr:Juan_Ramón_Jiménez	
+dbo:birthPlace	dbr:Washington,_D.C.
+dbo:award	dbr:Crafoord_Prize
+dbr:Robert_Trivers	
+dbo:birthPlace	dbr:Auckland
+dbo:award	dbr:Order_of_Ontario
+dbr:Tom_Kneebone	

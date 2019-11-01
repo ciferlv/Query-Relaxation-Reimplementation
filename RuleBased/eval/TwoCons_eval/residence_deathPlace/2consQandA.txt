@@ -1,0 +1,3000 @@
+dbr:Judith_Freidenberg	dbo:residence
+dbr:Richard_Eberhart	dbo:deathPlace
+dbr:United_States	
+dbr:Marin_Soljačić	dbo:residence
+dbr:Emil_M._Mrak	dbo:deathPlace
+dbr:United_States	
+dbr:Roderick_Strong	dbo:residence
+dbr:Issan_Dorsey	dbo:deathPlace
+dbr:United_States	
+dbr:Şevket_Sabancı	dbo:residence
+dbr:John_Birnie_Philip	dbo:deathPlace
+dbr:London	
+dbr:Adilson_E._Motter	dbo:residence
+dbr:Ali_Ghito	dbo:deathPlace
+dbr:United_States	
+dbr:Mohammed_Ali_Anwar_Reda	dbo:residence
+dbr:Melek_Tourhan	dbo:deathPlace
+dbr:Cairo	dbr:Egypt	
+dbr:Jack_Cox_(Texas)	dbo:residence
+dbr:Tom_E._Huff	dbo:deathPlace
+dbr:Texas	
+dbr:James_Hahn	dbo:residence
+dbr:Alex_Hunter	dbo:deathPlace
+dbr:United_States	
+dbr:A._Latham_Staples	dbo:residence
+dbr:Clare_Fischer	dbo:deathPlace
+dbr:California	
+dbr:Frederick_C._Williams	dbo:residence
+dbr:Donald_DeFreeze	dbo:deathPlace
+dbr:California	
+dbr:W._H._R._Rivers	dbo:residence
+dbr:Kate_Evelyn_Isitt	dbo:deathPlace
+dbr:London	
+dbr:Liam_Massaubi	dbo:residence
+dbr:Paul_Quarrington	dbo:deathPlace
+dbr:Toronto	
+dbr:Hannah-Beth_Jackson	dbo:residence
+dbr:Benny_Rubin	dbo:deathPlace
+dbr:California	
+dbr:Jim_Thomas_(tennis)	dbo:residence
+dbr:McLean_Stevenson	dbo:deathPlace
+dbr:United_States	
+dbr:Scott_Mills	dbo:residence
+dbr:Richard_Briers	dbo:deathPlace
+dbr:London	
+dbr:Navid_Khonsari	dbo:residence
+dbr:Isabel_Florence_Hapgood	dbo:deathPlace
+dbr:United_States	
+dbr:Sanjay_Bhatiya	dbo:residence
+dbr:P._Chuba_Chang	dbo:deathPlace
+dbr:India	
+dbr:Stéphane_Hessel	dbo:residence
+dbr:René_Texier	dbo:deathPlace
+dbr:Paris	
+dbr:Jessica_St._Clair	dbo:residence
+dbr:John_Holmes_(actor)	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Kumud_Bappal	dbo:residence
+dbr:Hara_Patnaik	dbo:deathPlace
+dbr:India	
+dbr:Stefan_Certic	dbo:residence
+dbr:Đorđe_Vujadinović	dbo:deathPlace
+dbr:Belgrade	
+dbr:L.D._%22Buddy%22_Napper	dbo:residence
+dbr:Terry_Reeves	dbo:deathPlace
+dbr:Louisiana	
+dbr:Parineeta_Borthakur	dbo:residence
+dbr:Leela_Roy_Ghosh	dbo:deathPlace
+dbr:India	dbr:Mumbai	
+dbr:Aija_Terauda	dbo:residence
+dbr:Rebecca_Del_Rio	dbo:deathPlace
+dbr:California	
+dbr:Wai_Hnin_Pwint_Thon	dbo:residence
+dbr:Dennis_Elwell_(astrologer)	dbo:deathPlace
+dbr:United_Kingdom	
+dbr:Ernest_Wooton	dbo:residence
+dbr:George_F._Zook	dbo:deathPlace
+dbr:United_States	
+dbr:Judith_Klinman	dbo:residence
+dbr:Benny_McLaughlin	dbo:deathPlace
+dbr:United_States	
+dbr:Hiran_Chatterjee	dbo:residence
+dbr:B._B._Nimbalkar	dbo:deathPlace
+dbr:India	
+dbr:Angela_Brady	dbo:residence
+dbr:Harry_Seeley	dbo:deathPlace
+dbr:London	
+dbr:Harold_Naughton_Jr.	dbo:residence
+dbr:Helen_Abbott_Michael	dbo:deathPlace
+dbr:Massachusetts	
+dbr:Van_Taylor	dbo:residence
+dbr:Rose_Lambert	dbo:deathPlace
+dbr:Texas	
+dbr:Poju_Zabludowicz	dbo:residence
+dbr:Alfred_Stevens_(sculptor)	dbo:deathPlace
+dbr:England	dbr:London	
+dbr:Peter_Moore_(chemist)	dbo:residence
+dbr:Billy_Glide	dbo:deathPlace
+dbr:United_States	
+dbr:William_J._Ripple	dbo:residence
+dbr:Berry_Berenson	dbo:deathPlace
+dbr:United_States	
+dbr:Lesley_Stahl	dbo:residence
+dbr:James_Watson_(New_York)	dbo:deathPlace
+dbr:New_York_City	
+dbr:Mike_Kyle	dbo:residence
+dbr:Theodore_Hesburgh	dbo:deathPlace
+dbr:United_States	
+dbr:Debatosh_Guha	dbo:residence
+dbr:Nabakrishna_Deb	dbo:deathPlace
+dbr:Kolkata	
+dbr:Balázs_Taróczy	dbo:residence
+dbr:Árpád_Göncz	dbo:deathPlace
+dbr:Budapest	
+dbr:James_Ward_(tennis)	dbo:residence
+dbr:Godfrey_Kneller	dbo:deathPlace
+dbr:London	
+dbr:Brandi_Burkhardt	dbo:residence
+dbr:Bob_Markley	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Ollie_Locke	dbo:residence
+dbr:William_Berrian_Vail	dbo:deathPlace
+dbr:England	
+dbr:Chris_Widener	dbo:residence
+dbr:Charles_Evans_Whittaker	dbo:deathPlace
+dbr:United_States	
+dbr:Moyse_Charas	dbo:residence
+dbr:André_Latarjet	dbo:deathPlace
+dbr:France	
+dbr:Steven_C._Miller	dbo:residence
+dbr:George_M._Cochran	dbo:deathPlace
+dbr:United_States	
+dbr:Bernard_Roizman	dbo:residence
+dbr:Buzz_Sawyer	dbo:deathPlace
+dbr:United_States	
+dbr:Jaymon_Crabb	dbo:residence
+dbr:Frederick_Mills_(engineer)	dbo:deathPlace
+dbr:Perth	dbr:Western_Australia	
+dbr:Alexey_Miller	dbo:residence
+dbr:Leonid_Ramzin	dbo:deathPlace
+dbr:Moscow	
+dbr:Zaena_Morisho	dbo:residence
+dbr:Sabu_Dastagir	dbo:deathPlace
+dbr:Los_Angeles	
+dbr:Valarie_Hodges	dbo:residence
+dbr:Alfred_D._Chandler_Jr.	dbo:deathPlace
+dbr:United_States	
+dbr:Mohammad_Alavi_(game_developer)	dbo:residence
+dbr:Al_Sherman	dbo:deathPlace
+dbr:California	
+dbr:Valeria_Zorzetto	dbo:residence
+dbr:Carlo_Pavesi	dbo:deathPlace
+dbr:Italy	
+dbr:Carl_Benito	dbo:residence
+dbr:Joseph_Clarke_(politician)	dbo:deathPlace
+dbr:Alberta	dbr:Edmonton	
+dbr:Charles_%22Bubba%22_Chaney	dbo:residence
+dbr:Leon_Ray_Livingston	dbo:deathPlace
+dbr:United_States	
+dbr:John_Stone_Stone	dbo:residence
+dbr:Hermann_August_Hagen	dbo:deathPlace
+dbr:United_States	
+dbr:Calvin_Quate	dbo:residence
+dbr:R._B._Kitaj	dbo:deathPlace
+dbr:United_States	
+dbr:Germán_Figueroa	dbo:residence
+dbr:Martin_Chittenden	dbo:deathPlace
+dbr:United_States	
+dbr:Henry_C._Schmidt	dbo:residence
+dbr:Ali_Akbar_Tabatabaei	dbo:deathPlace
+dbr:United_States	
+dbr:Anne_Roberts	dbo:residence
+dbr:John_Porter_(ice_hockey)	dbo:deathPlace
+dbr:Canada	
+dbr:Bernadette_Bourzai	dbo:residence
+dbr:Pierre_Massé	dbo:deathPlace
+dbr:France	
+dbr:Paul_Mattick_(rower)	dbo:residence
+dbr:Charles_Langdale	dbo:deathPlace
+dbr:England	
+dbr:Adam_Curry	dbo:residence
+dbr:Robert_Hunter_(author)	dbo:deathPlace
+dbr:United_States	
+dbr:John_Patterson_(Ohio_state_representative)	dbo:residence
+dbr:Johnny_Coulon	dbo:deathPlace
+dbr:United_States	
+dbr:Blanche_Long	dbo:residence
+dbr:Helen_Derr	dbo:deathPlace
+dbr:Louisiana	
+dbr:Edith_Clarke	dbo:residence
+dbr:Poldi_Dur	dbo:deathPlace
+dbr:United_States	
+dbr:Charles_Friedel	dbo:residence
+dbr:Bruno_Gröning	dbo:deathPlace
+dbr:France	
+dbr:Shlomo_Sawilowsky	dbo:residence
+dbr:Tambi_Larsen	dbo:deathPlace
+dbr:United_States	
+dbr:Sofya_Zhuk	dbo:residence
+dbr:Valeri_Kubasov	dbo:deathPlace
+dbr:Moscow	
+dbr:Fiorella_Mattheis	dbo:residence
+dbr:Beecher_Moore	dbo:deathPlace
+dbr:London	dbr:United_Kingdom	
+dbr:Joshua_J._Johnson	dbo:residence
+dbr:Johnny_Dio	dbo:deathPlace
+dbr:United_States	
+dbr:Elton_Gallegly	dbo:residence
+dbr:Johnny_Coulon	dbo:deathPlace
+dbr:United_States	
+dbr:Daniel_Lapaine	dbo:residence
+dbr:Harry_Mellor_(footballer,_born_1878)	dbo:deathPlace
+dbr:England	
+dbr:Layla_El	dbo:residence
+dbr:William_McClung	dbo:deathPlace
+dbr:United_States	
+dbr:Relson_Gracie	dbo:residence
+dbr:Benjamin_Franklin_Dillingham	dbo:deathPlace
+dbr:Hawaii	
+dbr:Michael_George_Dupee	dbo:residence
+dbr:Clay_Hammond	dbo:deathPlace
+dbr:United_States	
+dbr:Gail_Kim	dbo:residence
+dbr:Raymond_Carver	dbo:deathPlace
+dbr:United_States	
+dbr:Srujan_Lokesh	dbo:residence
+dbr:Sitaram_Singh	dbo:deathPlace
+dbr:India	
+dbr:Ibrahim_B._Syed	dbo:residence
+dbr:Little_Miss_Lake_Panasoffkee	dbo:deathPlace
+dbr:United_States	
+dbr:Michael_Ryderstedt	dbo:residence
+dbr:Lars_Tunbjörk	dbo:deathPlace
+dbr:Stockholm	
+dbr:Towhidi_Tabari	dbo:residence
+dbr:Marie_Bashkirtseff	dbo:deathPlace
+dbr:France	dbr:Paris	
+dbr:Isla_Fisher	dbo:residence
+dbr:George_Rowe_(actor)	dbo:deathPlace
+dbr:California	
+dbr:Raghida_Dergham	dbo:residence
+dbr:James_Goodwin_Hall	dbo:deathPlace
+dbr:New_York_City	
+dbr:Yasser_Al-Habib	dbo:residence
+dbr:Pete_Zorn	dbo:deathPlace
+dbr:London	dbr:United_Kingdom	
+dbr:Carmen_Carrera	dbo:residence
+dbr:Nat_G._Kiefer	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Laurence_S._Cutler	dbo:residence
+dbr:Cyrus_Vance	dbo:deathPlace
+dbr:New_York_City	
+dbr:Katalin_Bogyay	dbo:residence
+dbr:Ely_Jacques_Kahn	dbo:deathPlace
+dbr:New_York_City	
+dbr:Stuart_Bale	dbo:residence
+dbr:Nils_Taube	dbo:deathPlace
+dbr:England	
+dbr:Pehr_Victor_Edman	dbo:residence
+dbr:Helmut_Zahn	dbo:deathPlace
+dbr:Germany	
+dbr:Karen_Sharpe	dbo:residence
+dbr:Kathleen_Lockhart	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Eleanor_Louise_Ross	dbo:residence
+dbr:Maziar_Partow	dbo:deathPlace
+dbr:United_States	
+dbr:Rebecca_Judd	dbo:residence
+dbr:Bob_Moore_(politician)	dbo:deathPlace
+dbr:Australia	
+dbr:Chris_Melendez	dbo:residence
+dbr:Marshall_Field_IV	dbo:deathPlace
+dbr:United_States	
+dbr:Basil_Briggs	dbo:residence
+dbr:William_Back	dbo:deathPlace
+dbr:Australia	
+dbr:Riva_Bubber	dbo:residence
+dbr:Mulk_Raj_Anand	dbo:deathPlace
+dbr:India	
+dbr:Shuko_Akune	dbo:residence
+dbr:Ed_Whalen_(broadcaster)	dbo:deathPlace
+dbr:United_States	
+dbr:Martin_Odersky	dbo:residence
+dbr:Mileva_Marić	dbo:deathPlace
+dbr:Switzerland	
+dbr:Jacqui_Irwin	dbo:residence
+dbr:Lee_Reherman	dbo:deathPlace
+dbr:California	
+dbr:Minyong_Kim	dbo:residence
+dbr:Richard_B._Vail	dbo:deathPlace
+dbr:Illinois	
+dbr:Sharmell	dbo:residence
+dbr:Charles_Stark_Draper	dbo:deathPlace
+dbr:United_States	
+dbr:Helen_Bentwich	dbo:residence
+dbr:Adam_Aston	dbo:deathPlace
+dbr:London	
+dbr:Kim_Jones_(designer)	dbo:residence
+dbr:John_Bulwer	dbo:deathPlace
+dbr:London	
+dbr:Kate_Rooney	dbo:residence
+dbr:Denis_Carter,_Baron_Carter	dbo:deathPlace
+dbr:United_Kingdom	
+dbr:Robert_L._Pitman	dbo:residence
+dbr:Ben_T._Epps	dbo:deathPlace
+dbr:United_States	
+dbr:George_Sterman	dbo:residence
+dbr:Skip_Scarborough	dbo:deathPlace
+dbr:United_States	
+dbr:Kron_Gracie	dbo:residence
+dbr:Mitsu_Arakawa	dbo:deathPlace
+dbr:United_States	
+dbr:Edvin_Kanka_Cudic	dbo:residence
+dbr:Sulejman_Tihić	dbo:deathPlace
+dbr:Sarajevo	
+dbr:Polina_Leykina	dbo:residence
+dbr:Vladimir_Paley	dbo:deathPlace
+dbr:Russia	
+dbr:Daffney	dbo:residence
+dbr:William_L._Guy	dbo:deathPlace
+dbr:United_States	
+dbr:Nassim_Nicholas_Taleb	dbo:residence
+dbr:Henry_Hobson_Richardson	dbo:deathPlace
+dbr:United_States	
+dbr:Rinko_Ueda	dbo:residence
+dbr:Nakahama_Manjirō	dbo:deathPlace
+dbr:Japan	
+dbr:José_Reynaldo_Bencosme_de_Leon	dbo:residence
+dbr:Nino_Marchetti	dbo:deathPlace
+dbr:Italy	
+dbr:Alun_Anderson	dbo:residence
+dbr:Daniel_Massey_(actor)	dbo:deathPlace
+dbr:London	
+dbr:Erin_Cafaro	dbo:residence
+dbr:Arthur_Compton	dbo:deathPlace
+dbr:Berkeley,_California	
+dbr:Daniel_Franco	dbo:residence
+dbr:Johnny_Cunningham	dbo:deathPlace
+dbr:New_York_City	
+dbr:Milind_Tambe	dbo:residence
+dbr:Mariska_Karasz	dbo:deathPlace
+dbr:United_States	
+dbr:Brett_Steven	dbo:residence
+dbr:Francis_Eastwood_Campbell	dbo:deathPlace
+dbr:New_Zealand	
+dbr:Edward_Groesbeck_Voss	dbo:residence
+dbr:Dwight_Harken	dbo:deathPlace
+dbr:United_States	
+dbr:Alan_Aldridge	dbo:residence
+dbr:Hunt_Stromberg_Jr.	dbo:deathPlace
+dbr:Los_Angeles	
+dbr:Matvei_Petrovich_Bronstein	dbo:residence
+dbr:Inna_Gulaya	dbo:deathPlace
+dbr:Soviet_Union	
+dbr:Lloyd_Demetrius	dbo:residence
+dbr:Flora_Finch	dbo:deathPlace
+dbr:United_States	
+dbr:Lawrence_Morley	dbo:residence
+dbr:Eugenia_Berlin	dbo:deathPlace
+dbr:Canada	
+dbr:Banesh_Hoffmann	dbo:residence
+dbr:Norm_Calladine	dbo:deathPlace
+dbr:United_States	
+dbr:Minhyong_Kim	dbo:residence
+dbr:Winston_Dugan,_1st_Baron_Dugan_of_Victoria	dbo:deathPlace
+dbr:England	
+dbr:Manjinder_Virk	dbo:residence
+dbr:Arthur_McIntyre_(cricketer,_born_1889)	dbo:deathPlace
+dbr:England	
+dbr:Paul_Koretz	dbo:residence
+dbr:Harry_Behn	dbo:deathPlace
+dbr:United_States	
+dbr:Jorge_Gestoso	dbo:residence
+dbr:Frank_Haven_Hall	dbo:deathPlace
+dbr:United_States	
+dbr:Theresa_Rose_Bajt	dbo:residence
+dbr:Buzz_Sawyer	dbo:deathPlace
+dbr:United_States	
+dbr:Lynn_D._Stewart_(businessman)	dbo:residence
+dbr:Dempster_McIntosh	dbo:deathPlace
+dbr:Florida	
+dbr:Bisi_Alimi	dbo:residence
+dbr:Michael_Croft	dbo:deathPlace
+dbr:London	
+dbr:Domenico_Casalino	dbo:residence
+dbr:Princess_Cristina_of_Bourbon-Two_Sicilies	dbo:deathPlace
+dbr:Rome	
+dbr:Fareena_Alam	dbo:residence
+dbr:Irene_Handl	dbo:deathPlace
+dbr:London	
+dbr:Phil_Short	dbo:residence
+dbr:Judith_Evelyn	dbo:deathPlace
+dbr:United_States	
+dbr:Michael_T._Bowers	dbo:residence
+dbr:Channing_Pollock_(magician)	dbo:deathPlace
+dbr:United_States	
+dbr:Petra_Wilder-Smith	dbo:residence
+dbr:John_Forsyth_(Georgia)	dbo:deathPlace
+dbr:United_States	
+dbr:Suzanna_Mukherjee	dbo:residence
+dbr:Anuradha_Ghandy	dbo:deathPlace
+dbr:Mumbai	
+dbr:Jared_Purton	dbo:residence
+dbr:John_Norman_(Australian_politician)	dbo:deathPlace
+dbr:Australia	
+dbr:Maxine_(wrestler)	dbo:residence
+dbr:Stephen_Elliott_(actor)	dbo:deathPlace
+dbr:United_States	
+dbr:Uri_Harkham	dbo:residence
+dbr:James_Seay	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Hubert_Sagnières	dbo:residence
+dbr:Auguste_Angellier	dbo:deathPlace
+dbr:France	
+dbr:Hamid_Ghassemi-Shall	dbo:residence
+dbr:Alex_Shibicky	dbo:deathPlace
+dbr:Canada	
+dbr:Mary_Jo_Nye	dbo:residence
+dbr:Arkie_Shibley	dbo:deathPlace
+dbr:United_States	
+dbr:Chia-Chiao_Lin	dbo:residence
+dbr:Michael_O'Donoghue	dbo:deathPlace
+dbr:United_States	
+dbr:Krishan_Kumar	dbo:residence
+dbr:Evelle_J._Younger	dbo:deathPlace
+dbr:United_States	
+dbr:Katie_Crown	dbo:residence
+dbr:Carrie_Daumery	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:J._Clarence_Karcher	dbo:residence
+dbr:King_Coleman	dbo:deathPlace
+dbr:United_States	
+dbr:Roger_Blandford	dbo:residence
+dbr:Umaga_(wrestler)	dbo:deathPlace
+dbr:United_States	
+dbr:Oren_W._Haglund	dbo:residence
+dbr:Roger_Arnebergh	dbo:deathPlace
+dbr:California	
+dbr:Robert_Thurman	dbo:residence
+dbr:Gus_Levy	dbo:deathPlace
+dbr:New_York_City	
+dbr:Harvey_Doolittle_Colvin	dbo:residence
+dbr:John_Blake_Rice	dbo:deathPlace
+dbr:Illinois	
+dbr:Jeff_MacSwan	dbo:residence
+dbr:Al_Passman	dbo:deathPlace
+dbr:United_States	
+dbr:Keith_Michael	dbo:residence
+dbr:Albert_H._Woods	dbo:deathPlace
+dbr:New_York_City	
+dbr:Tony_Payton	dbo:residence
+dbr:Frank_Reagan	dbo:deathPlace
+dbr:Philadelphia,_Pennsylvania	
+dbr:David_Chaum	dbo:residence
+dbr:Norman_Petty	dbo:deathPlace
+dbr:United_States	
+dbr:Toby_Moskowitz	dbo:residence
+dbr:Dutee_Jerauld_Pearce	dbo:deathPlace
+dbr:United_States	
+dbr:Tony_Beig	dbo:residence
+dbr:Roy_Peel	dbo:deathPlace
+dbr:California	
+dbr:William_Dale_Phillips	dbo:residence
+dbr:Phyllis_Huffman	dbo:deathPlace
+dbr:United_States	
+dbr:Sebastian_Wenta	dbo:residence
+dbr:Olgierd_Darżynkiewicz	dbo:deathPlace
+dbr:Poland	
+dbr:Elaine_Quijano	dbo:residence
+dbr:Keith_Allen_(ice_hockey)	dbo:deathPlace
+dbr:United_States	
+dbr:Baron_Dickinson_Webster	dbo:residence
+dbr:William_Harris_(cricketer,_born_1864)	dbo:deathPlace
+dbr:England	
+dbr:Shoaib_Ibrahim	dbo:residence
+dbr:P._Govinda_Pillai	dbo:deathPlace
+dbr:India	
+dbr:Murcyleen_Peerzada	dbo:residence
+dbr:Kehar_Singh	dbo:deathPlace
+dbr:India	
+dbr:John_R._Smith_(politician,_born_1945)	dbo:residence
+dbr:Bob_Gracie	dbo:deathPlace
+dbr:United_States	
+dbr:James_J._Kuffner_Jr.	dbo:residence
+dbr:Susie_Sharp	dbo:deathPlace
+dbr:United_States	
+dbr:Nina_Micić	dbo:residence
+dbr:Dobrica_Ćosić	dbo:deathPlace
+dbr:Belgrade	dbr:Serbia	
+dbr:Aparna_Dixit	dbo:residence
+dbr:Harindranath_Chattopadhyay	dbo:deathPlace
+dbr:Mumbai	
+dbr:Carlos_Díaz_(actor)	dbo:residence
+dbr:Casimir_Gzowski	dbo:deathPlace
+dbr:Ontario	dbr:Toronto	
+dbr:Sándor_Noszály_(tennis)	dbo:residence
+dbr:Lajos_Kmetykó	dbo:deathPlace
+dbr:Budapest	
+dbr:Susan_Herbst	dbo:residence
+dbr:John_McBride_(labor_leader)	dbo:deathPlace
+dbr:United_States	
+dbr:Dan_Spivey	dbo:residence
+dbr:Bernard_de_Marigny	dbo:deathPlace
+dbr:United_States	
+dbr:John_D'Agostino_(financial_services)	dbo:residence
+dbr:Jean_de_Lalande	dbo:deathPlace
+dbr:United_States	
+dbr:Charles_H._Gartrell	dbo:residence
+dbr:Michelle_Triola_Marvin	dbo:deathPlace
+dbr:United_States	
+dbr:Bill_Reineke	dbo:residence
+dbr:Barry_Shipman	dbo:deathPlace
+dbr:United_States	
+dbr:Ted_Lieu	dbo:residence
+dbr:Scotty_Mattraw	dbo:deathPlace
+dbr:California	
+dbr:Shawn_Crawford	dbo:residence
+dbr:Bob_Finkel	dbo:deathPlace
+dbr:California	
+dbr:Camilla_Luddington	dbo:residence
+dbr:Hans_Wilhelm_(screenwriter)	dbo:deathPlace
+dbr:California	dbr:United_States	
+dbr:Shailesh_Lodha	dbo:residence
+dbr:K._A._Isaac	dbo:deathPlace
+dbr:India	
+dbr:Charan_Waghmare	dbo:residence
+dbr:Hasrat_Mohani	dbo:deathPlace
+dbr:India	
+dbr:Matt_Hardy	dbo:residence
+dbr:John_Burnside_(inventor)	dbo:deathPlace
+dbr:United_States	
+dbr:Kevin_Owens	dbo:residence
+dbr:Jakob_%22Jackie%22_Gerlich	dbo:deathPlace
+dbr:Florida	
+dbr:Austin_P._McKenzie	dbo:residence
+dbr:Melina_Mercouri	dbo:deathPlace
+dbr:New_York,_New_York	
+dbr:Kelly_Wearstler	dbo:residence
+dbr:Jack_Silver_(boxer)	dbo:deathPlace
+dbr:California	
+dbr:Sendhil_Mullainathan	dbo:residence
+dbr:Thompson_H._Murch	dbo:deathPlace
+dbr:United_States	
+dbr:Andrew_Hales	dbo:residence
+dbr:Jean_Heeremans	dbo:deathPlace
+dbr:Los_Angeles	
+dbr:Antonio_Carluccio	dbo:residence
+dbr:George_Greenfield_(cricketer)	dbo:deathPlace
+dbr:England	
+dbr:Brutus_Beefcake	dbo:residence
+dbr:Barrows_Dunham	dbo:deathPlace
+dbr:United_States	
+dbr:Julie_Berry	dbo:residence
+dbr:James_Geddes_(engineer)	dbo:deathPlace
+dbr:United_States	
+dbr:Austin_Allison	dbo:residence
+dbr:Fulton_Oursler	dbo:deathPlace
+dbr:United_States	
+dbr:Ruth_Simmons	dbo:residence
+dbr:Les_Aspin	dbo:deathPlace
+dbr:United_States	
+dbr:Pamela_Adlon	dbo:residence
+dbr:Leonard_Haber	dbo:deathPlace
+dbr:United_States	
+dbr:David_Soren_(animator)	dbo:residence
+dbr:Arthur_Tavares	dbo:deathPlace
+dbr:Los_Angeles	
+dbr:Mr._Wrestling_II	dbo:residence
+dbr:Geraldine_Ferraro	dbo:deathPlace
+dbr:United_States	
+dbr:Ed_Murray_(Washington_politician)	dbo:residence
+dbr:Walt_Whitman_Rostow	dbo:deathPlace
+dbr:United_States	
+dbr:Andrew_Brenner	dbo:residence
+dbr:Larry_Zarian	dbo:deathPlace
+dbr:United_States	
+dbr:Paul_C._Donnelly	dbo:residence
+dbr:Henry_Hathaway	dbo:deathPlace
+dbr:United_States	
+dbr:Jonathan_Lloyd_Walker	dbo:residence
+dbr:Réal_Chevrefils	dbo:deathPlace
+dbr:Canada	
+dbr:William_A._Ryan	dbo:residence
+dbr:James_Witherell	dbo:deathPlace
+dbr:Detroit,_Michigan	
+dbr:Nazia_Khanum	dbo:residence
+dbr:William_Hull_(artist)	dbo:deathPlace
+dbr:England	
+dbr:Nancy_Cooke_de_Herrera	dbo:residence
+dbr:Lois_Nettleton	dbo:deathPlace
+dbr:California	
+dbr:Anthony_Bannon	dbo:residence
+dbr:Annette_Richardson_Dinwoodey	dbo:deathPlace
+dbr:United_States	
+dbr:Edward_Hull_(watercolourist)	dbo:residence
+dbr:Charles_Carson_(actor)	dbo:deathPlace
+dbr:England	dbr:London	
+dbr:John_Prosky	dbo:residence
+dbr:Frank_Richardson_(director)	dbo:deathPlace
+dbr:United_States	
+dbr:Heinrich_Held	dbo:residence
+dbr:Maria_von_der_Osten-Sacken	dbo:deathPlace
+dbr:Bavaria	
+dbr:Marin_Soljačić	dbo:residence
+dbr:August_Rinaldi	dbo:deathPlace
+dbr:United_States	
+dbr:Arnold_G._Kluge	dbo:residence
+dbr:Peggy_Parratt	dbo:deathPlace
+dbr:United_States	
+dbr:Takeo_Kanade	dbo:residence
+dbr:Stepan_Sapah-Gulian	dbo:deathPlace
+dbr:United_States	
+dbr:Jacques_Vergès	dbo:residence
+dbr:Daniel_Weisweiller	dbo:deathPlace
+dbr:Paris	
+dbr:Charles_Mbire	dbo:residence
+dbr:Andrew_Kaggwa	dbo:deathPlace
+dbr:Uganda	
+dbr:Ben_Wheatley	dbo:residence
+dbr:Julia_Varley	dbo:deathPlace
+dbr:England	
+dbr:Ivan_Gazidis	dbo:residence
+dbr:Charles_Talbot,_1st_Duke_of_Shrewsbury	dbo:deathPlace
+dbr:United_Kingdom	
+dbr:Tony_Lupusella	dbo:residence
+dbr:William_Stevenson_(Canadian_writer)	dbo:deathPlace
+dbr:Toronto	
+dbr:Salomon_Mayer_von_Rothschild	dbo:residence
+dbr:Zinaida_Serebriakova	dbo:deathPlace
+dbr:Paris	
+dbr:Domenick_Mucci,_Jr.	dbo:residence
+dbr:Wes_Montgomery	dbo:deathPlace
+dbr:United_States	
+dbr:Bill_Bond_(tennis)	dbo:residence
+dbr:John_Loughlin_(bishop)	dbo:deathPlace
+dbr:United_States	
+dbr:Joe_Bowman_(marksman)	dbo:residence
+dbr:William_Neff_Patman	dbo:deathPlace
+dbr:Houston,_Texas	
+dbr:Liu_Gang	dbo:residence
+dbr:Isaiah_D._Clawson	dbo:deathPlace
+dbr:New_Jersey	
+dbr:Brian_Birdwell	dbo:residence
+dbr:Granville_Woods	dbo:deathPlace
+dbr:United_States	
+dbr:Catherine_Malandrino	dbo:residence
+dbr:Spalding_Gray	dbo:deathPlace
+dbr:New_York_City	
+dbr:Liz_Mathis	dbo:residence
+dbr:William_Sampson_(lawyer)	dbo:deathPlace
+dbr:United_States	
+dbr:Ken_Boshcoff	dbo:residence
+dbr:William_Wilson_Webb	dbo:deathPlace
+dbr:Ontario	
+dbr:Mary_Midgley	dbo:residence
+dbr:George_Hare_Philipson	dbo:deathPlace
+dbr:Newcastle_upon_Tyne	
+dbr:Sue_Manteris	dbo:residence
+dbr:Douglas_Seale	dbo:deathPlace
+dbr:United_States	
+dbr:Matthew_Lewis_(actor)	dbo:residence
+dbr:Edward_Craven_Walker	dbo:deathPlace
+dbr:London	
+dbr:Peter_Hore	dbo:residence
+dbr:Bart_Cummings	dbo:deathPlace
+dbr:New_South_Wales	
+dbr:Ernie_Anastos	dbo:residence
+dbr:Ida_Tarbell	dbo:deathPlace
+dbr:United_States	
+dbr:René_de_Chambrun	dbo:residence
+dbr:Pierre_Solomon_Ségalas_d'Etchépare	dbo:deathPlace
+dbr:Paris	
+dbr:Siddhant_Vats	dbo:residence
+dbr:Anthony_D._Smith	dbo:deathPlace
+dbr:London	
+dbr:Katarina_Waters	dbo:residence
+dbr:Horatio_Washington_Bruce	dbo:deathPlace
+dbr:Louisville,_Kentucky	
+dbr:Brandon_Victor_Dixon	dbo:residence
+dbr:Deborah_Tall	dbo:deathPlace
+dbr:United_States	
+dbr:T._Arthur_Cottam	dbo:residence
+dbr:Rodd_Redwing	dbo:deathPlace
+dbr:California	
+dbr:Hamza_Yusuf	dbo:residence
+dbr:Abram_Williams	dbo:deathPlace
+dbr:United_States	
+dbr:Maria_Tash	dbo:residence
+dbr:Ken_Krueger	dbo:deathPlace
+dbr:United_States	
+dbr:Lawrence_S._Bacow	dbo:residence
+dbr:Frank_H._Pope	dbo:deathPlace
+dbr:Brookline,_Massachusetts	
+dbr:Denis_Pelli	dbo:residence
+dbr:Bert_Lytell	dbo:deathPlace
+dbr:New_York_City	
+dbr:Theresa_Rose_Bajt	dbo:residence
+dbr:John_McHugh_(Ohio)	dbo:deathPlace
+dbr:United_States	
+dbr:Scott_Hicks	dbo:residence
+dbr:Paul_Dearing	dbo:deathPlace
+dbr:Australia	
+dbr:Sho-Chieh_Tsiang	dbo:residence
+dbr:Alfred_J._Eggers	dbo:deathPlace
+dbr:United_States	
+dbr:Nicole_Rogerson	dbo:residence
+dbr:Alexander_Skinner_(politician)	dbo:deathPlace
+dbr:Australia	
+dbr:Judy_Sheindlin	dbo:residence
+dbr:Mark_Sension	dbo:deathPlace
+dbr:Connecticut	
+dbr:William_Gould_Dow	dbo:residence
+dbr:Joan_Finney	dbo:deathPlace
+dbr:United_States	
+dbr:Tony_Wrighton	dbo:residence
+dbr:Hercules_Robinson,_1st_Baron_Rosmead	dbo:deathPlace
+dbr:London	
+dbr:John_Unger	dbo:residence
+dbr:Ellen_Tarry	dbo:deathPlace
+dbr:United_States	
+dbr:Joseph_DiCarlo	dbo:residence
+dbr:Jonathan_Stone	dbo:deathPlace
+dbr:Revere,_Massachusetts	
+dbr:Carl_W._Helstrom	dbo:residence
+dbr:Michael_DiBiase	dbo:deathPlace
+dbr:United_States	
+dbr:Kathleen_M._Jimino	dbo:residence
+dbr:Peggy_Schuyler	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Joe_Bowman_(marksman)	dbo:residence
+dbr:Donnie_Davis_(American_football_end)	dbo:deathPlace
+dbr:Houston,_Texas	
+dbr:Gautam_Radhakrishna_Desiraju	dbo:residence
+dbr:Manoj_Punj	dbo:deathPlace
+dbr:India	
+dbr:August_Köhler	dbo:residence
+dbr:Karl_August,_Grand_Duke_of_Saxe-Weimar-Eisenach	dbo:deathPlace
+dbr:Germany	
+dbr:Magdalena_Roze	dbo:residence
+dbr:Mark_Porter_(racing_driver)	dbo:deathPlace
+dbr:Australia	dbr:Sydney	
+dbr:Alberto_Bressan	dbo:residence
+dbr:John_Fichter	dbo:deathPlace
+dbr:Pennsylvania	
+dbr:Marc_Jacobs	dbo:residence
+dbr:Michi_Weglyn	dbo:deathPlace
+dbr:New_York_(state)	dbr:New_York_City	
+dbr:Sam_Houser	dbo:residence
+dbr:Red_Berry_(wrestler)	dbo:deathPlace
+dbr:United_States	
+dbr:Arthur_T._Benjamin	dbo:residence
+dbr:John_M._Hart	dbo:deathPlace
+dbr:United_States	
+dbr:Eliahu_I._Jury	dbo:residence
+dbr:Willis_Van_Devanter	dbo:deathPlace
+dbr:United_States	
+dbr:Yuri_Koroviansky	dbo:residence
+dbr:Bernard_of_Vienne	dbo:deathPlace
+dbr:France	
+dbr:Aanchal_Khurana	dbo:residence
+dbr:Adoor_Pankajam	dbo:deathPlace
+dbr:India	
+dbr:Julius_Edgar_Lilienfeld	dbo:residence
+dbr:Timi_Yuro	dbo:deathPlace
+dbr:United_States	
+dbr:Jacques-Alain_Miller	dbo:residence
+dbr:Edmund_Chojecki	dbo:deathPlace
+dbr:Paris	
+dbr:Laszlo_B._Kish	dbo:residence
+dbr:Noble_J._Johnson	dbo:deathPlace
+dbr:United_States	
+dbr:Maurice_Couette	dbo:residence
+dbr:Gunnar_Andersson_(footballer)	dbo:deathPlace
+dbr:France	
+dbr:Ana_Sol_Gutierrez	dbo:residence
+dbr:Elaine_Stritch	dbo:deathPlace
+dbr:United_States	
+dbr:Dan_Saban	dbo:residence
+dbr:John_D._Driggs	dbo:deathPlace
+dbr:Phoenix,_Arizona	
+dbr:Piotr_Indyk	dbo:residence
+dbr:Aleksander_Augustynowicz	dbo:deathPlace
+dbr:Poland	
+dbr:Pierre_Varignon	dbo:residence
+dbr:Pierre_O'Connell	dbo:deathPlace
+dbr:Paris	
+dbr:Gary_J._Van_Berkel	dbo:residence
+dbr:Carman_A._Newcomb	dbo:deathPlace
+dbr:United_States	
+dbr:Yoav_Benjamini	dbo:residence
+dbr:Michael_Fekete	dbo:deathPlace
+dbr:Israel	
+dbr:Sanjeev_Arora	dbo:residence
+dbr:Frank_Bizzoni	dbo:deathPlace
+dbr:United_States	
+dbr:Vashi_Domínguez	dbo:residence
+dbr:Jackie_Little	dbo:deathPlace
+dbr:England	
+dbr:Nora_Berra	dbo:residence
+dbr:Jérôme_Lejeune	dbo:deathPlace
+dbr:France	
+dbr:Augustus_Siebe	dbo:residence
+dbr:Norman_Andrews	dbo:deathPlace
+dbr:England	
+dbr:Navid_Khonsari	dbo:residence
+dbr:Jack_MacKenzie	dbo:deathPlace
+dbr:United_States	
+dbr:Patu_Keswani	dbo:residence
+dbr:Govindarajula_Subba_Rao	dbo:deathPlace
+dbr:India	
+dbr:Patty_López	dbo:residence
+dbr:Mae_Clarke	dbo:deathPlace
+dbr:California	
+dbr:Jessica_Rakoczy	dbo:residence
+dbr:Khuzaima_Qutbuddin	dbo:deathPlace
+dbr:United_States	
+dbr:Ramesh_Pisharody	dbo:residence
+dbr:Kurissery_Gopala_Pillai	dbo:deathPlace
+dbr:Kerala	
+dbr:Yu-Chi_Ho	dbo:residence
+dbr:Mike_Cosgrove_(footballer)	dbo:deathPlace
+dbr:United_States	
+dbr:Thomas_Toft	dbo:residence
+dbr:Ernest_Thesiger	dbo:deathPlace
+dbr:England	
+dbr:Fred_Rosen_(businessman)	dbo:residence
+dbr:Herman_J._Mankiewicz	dbo:deathPlace
+dbr:California	
+dbr:Nance_Dicciani	dbo:residence
+dbr:Rosa_Sonneschein	dbo:deathPlace
+dbr:United_States	
+dbr:Kamal_Habibollahi	dbo:residence
+dbr:Vytautas_Budriūnas	dbo:deathPlace
+dbr:United_States	
+dbr:Karina_Shah	dbo:residence
+dbr:Narmada_Kar	dbo:deathPlace
+dbr:India	
+dbr:Joe_Maloy	dbo:residence
+dbr:Raymond_Telles	dbo:deathPlace
+dbr:California	
+dbr:John_Sharp_(Texas_politician)	dbo:residence
+dbr:Mariette_Rheiner_Garner	dbo:deathPlace
+dbr:Texas	
+dbr:Riva-Melissa_Tez	dbo:residence
+dbr:Steve_Bridges	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Shlomo_Zilberstein	dbo:residence
+dbr:Frank_Nash	dbo:deathPlace
+dbr:United_States	
+dbr:Siggy_Flicker	dbo:residence
+dbr:David_Roitman	dbo:deathPlace
+dbr:United_States	
+dbr:Nat_Wei,_Baron_Wei	dbo:residence
+dbr:Abdukadir_Osman	dbo:deathPlace
+dbr:London	
+dbr:Humayun_Chaudhry	dbo:residence
+dbr:Harry_Ratican	dbo:deathPlace
+dbr:United_States	
+dbr:Archie_Bland	dbo:residence
+dbr:Norman_Lee	dbo:deathPlace
+dbr:London	
+dbr:Ivo_Widlak	dbo:residence
+dbr:James_Carroll_Napier	dbo:deathPlace
+dbr:United_States	
+dbr:Peter_Swerling	dbo:residence
+dbr:Frances_Gearhart	dbo:deathPlace
+dbr:United_States	
+dbr:Daniel_Hall_(politician)	dbo:residence
+dbr:Kevin_Peter_Hall	dbo:deathPlace
+dbr:United_States	
+dbr:Arsham_Parsi	dbo:residence
+dbr:Claude_Cyr	dbo:deathPlace
+dbr:Canada	
+dbr:Candace_Hill	dbo:residence
+dbr:George_Moorhouse	dbo:deathPlace
+dbr:United_States	
+dbr:Daniel_A._Arnold	dbo:residence
+dbr:Bob_Montgomery_(boxer)	dbo:deathPlace
+dbr:United_States	
+dbr:A.T._Charlie_Johnson	dbo:residence
+dbr:Michael_Morris_(screenwriter)	dbo:deathPlace
+dbr:United_States	
+dbr:Gregory_Tucker	dbo:residence
+dbr:Hans_von_Ohain	dbo:deathPlace
+dbr:United_States	
+dbr:Jason_Wu	dbo:residence
+dbr:Spencer_Odom	dbo:deathPlace
+dbr:New_York_City	
+dbr:Steve_Huffman_(politician)	dbo:residence
+dbr:George_Steinbrenner	dbo:deathPlace
+dbr:United_States	
+dbr:David_Palmer_(squash_player)	dbo:residence
+dbr:Myer_Feldman	dbo:deathPlace
+dbr:United_States	
+dbr:Dutch_Heinrichs	dbo:residence
+dbr:Gerald_Lestz	dbo:deathPlace
+dbr:United_States	
+dbr:Natalie_Appleton	dbo:residence
+dbr:Vernon_Morris	dbo:deathPlace
+dbr:England	
+dbr:Mike_Lynch_(sportscaster)	dbo:residence
+dbr:John_Rogers_(Harvard)	dbo:deathPlace
+dbr:Massachusetts	
+dbr:Chris_Brown_(California_politician)	dbo:residence
+dbr:Richard_Webb_(actor)	dbo:deathPlace
+dbr:California	
+dbr:Danny!	dbo:residence
+dbr:Hamilton_Luske	dbo:deathPlace
+dbr:United_States	
+dbr:Matthew_Peterson	dbo:residence
+dbr:Ralph_Morgan	dbo:deathPlace
+dbr:United_States	
+dbr:Frank_Olivo	dbo:residence
+dbr:Rosemary_Glyde	dbo:deathPlace
+dbr:United_States	
+dbr:Ben_Shaoul	dbo:residence
+dbr:George_Griswold_Frelinghuysen	dbo:deathPlace
+dbr:New_York_City	
+dbr:Kalyanmoy_Deb	dbo:residence
+dbr:Anne_Braden	dbo:deathPlace
+dbr:United_States_of_America	
+dbr:Candice_Held	dbo:residence
+dbr:Walter_Kohn	dbo:deathPlace
+dbr:California	
+dbr:LaVerne_Butler	dbo:residence
+dbr:Tom_Terrell_(baseball)	dbo:deathPlace
+dbr:Louisville,_Kentucky	
+dbr:Andy_Morahan	dbo:residence
+dbr:Xavier_Petulengro	dbo:deathPlace
+dbr:England	
+dbr:Sergey_Makhlay	dbo:residence
+dbr:Harry_Holman	dbo:deathPlace
+dbr:United_States	
+dbr:Erik_Wells	dbo:residence
+dbr:Vivion_Brewer	dbo:deathPlace
+dbr:United_States	
+dbr:James_J._Greco	dbo:residence
+dbr:Sam_Boyd	dbo:deathPlace
+dbr:United_States	
+dbr:John_McNally_IV	dbo:residence
+dbr:Anthony_Fokker	dbo:deathPlace
+dbr:United_States	
+dbr:Prashant_Ranade	dbo:residence
+dbr:Adi_Havewala	dbo:deathPlace
+dbr:Mumbai	
+dbr:Tonyelle_Cook-Artis	dbo:residence
+dbr:Sue_Randall	dbo:deathPlace
+dbr:Philadelphia	
+dbr:Fabrício_Camões	dbo:residence
+dbr:Adelle_Davis	dbo:deathPlace
+dbr:United_States	
+dbr:Marc-André_Gadoury	dbo:residence
+dbr:Sam_Etcheverry	dbo:deathPlace
+dbr:Montreal	
+dbr:Tony_Bennett	dbo:residence
+dbr:Keith_Haring	dbo:deathPlace
+dbr:New_York_(state)	dbr:New_York_City	
+dbr:Davina_McCall	dbo:residence
+dbr:Oliver_Rackham	dbo:deathPlace
+dbr:England	
+dbr:Luis_Villa	dbo:residence
+dbr:Simeon_Gannett_Reed	dbo:deathPlace
+dbr:California	
+dbr:Stefan_Kozlov	dbo:residence
+dbr:Cliff_McBride	dbo:deathPlace
+dbr:Florida	dbr:United_States	
+dbr:Jake_McGoldrick	dbo:residence
+dbr:Charles_Laughton	dbo:deathPlace
+dbr:California	
+dbr:Richard_Axel	dbo:residence
+dbr:Nelson_Bunker_Hunt	dbo:deathPlace
+dbr:United_States	
+dbr:Yana_Buchina	dbo:residence
+dbr:Ivan_Mashkov	dbo:deathPlace
+dbr:Moscow	
+dbr:Austin_Petersen	dbo:residence
+dbr:Samuel_Isham	dbo:deathPlace
+dbr:United_States	
+dbr:Harry_August_Jansen	dbo:residence
+dbr:Angela_Greene	dbo:deathPlace
+dbr:United_States	
+dbr:Margaret_MacVicar	dbo:residence
+dbr:Breckinridge_Long	dbo:deathPlace
+dbr:United_States	
+dbr:Bulbul_Hussain	dbo:residence
+dbr:George_Henry_Powell	dbo:deathPlace
+dbr:England	
+dbr:Lewis_A._Fidler	dbo:residence
+dbr:Juliette_Noel_Toussaint	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Emilio_Benfele_Álvarez	dbo:residence
+dbr:Erich_Emminger	dbo:deathPlace
+dbr:Munich	
+dbr:David_E._Kaplan	dbo:residence
+dbr:Louis_W._Tordella	dbo:deathPlace
+dbr:United_States	
+dbr:John_B._Whitehead	dbo:residence
+dbr:Henry_Hathaway	dbo:deathPlace
+dbr:United_States	
+dbr:Bruce_L._Woodbury	dbo:residence
+dbr:Gertrude_Morgan	dbo:deathPlace
+dbr:United_States	
+dbr:Martina_Gledacheva	dbo:residence
+dbr:Naim_Kryeziu	dbo:deathPlace
+dbr:Rome	
+dbr:Iain_Cheeseman	dbo:residence
+dbr:Bill_Kunkel_(gaming)	dbo:deathPlace
+dbr:United_States	
+dbr:Bruce_Herschensohn	dbo:residence
+dbr:Clifford_P._Case	dbo:deathPlace
+dbr:Washington,_D.C.	
+dbr:Poonam_Mahajan	dbo:residence
+dbr:Satyadev_Dubey	dbo:deathPlace
+dbr:Mumbai	
+dbr:Satish_Jain	dbo:residence
+dbr:Vinayak_Rao_Koratkar	dbo:deathPlace
+dbr:India	
+dbr:Mark_Weprin	dbo:residence
+dbr:Frank_Paul_Sylos	dbo:deathPlace
+dbr:United_States	
+dbr:Bonnie_Burton	dbo:residence
+dbr:Howard_Morris	dbo:deathPlace
+dbr:California	
+dbr:Mohamed_Ali_al-Nasiri	dbo:residence
+dbr:Guy_Dawber	dbo:deathPlace
+dbr:London	
+dbr:Bill_Brough	dbo:residence
+dbr:John_Cossar	dbo:deathPlace
+dbr:California	
+dbr:Catalin_Voss	dbo:residence
+dbr:John_Hugh_Crimmins	dbo:deathPlace
+dbr:United_States	
+dbr:Jérôme_Haehnel	dbo:residence
+dbr:Isabella_of_Hainault	dbo:deathPlace
+dbr:Paris	
+dbr:Rebel_(wrestler)	dbo:residence
+dbr:Jimmy_Gallagher	dbo:deathPlace
+dbr:United_States	
+dbr:David_H._Rosen	dbo:residence
+dbr:Mike_Cosgrove_(footballer)	dbo:deathPlace
+dbr:United_States	
+dbr:Carla_Hernández	dbo:residence
+dbr:Miguel_Nazar_Haro	dbo:deathPlace
+dbr:Mexico	
+dbr:Deepen_Shah	dbo:residence
+dbr:James_S._Cothran	dbo:deathPlace
+dbr:New_York,_New_York	
+dbr:Duília_de_Mello	dbo:residence
+dbr:Artie_Auerbach	dbo:deathPlace
+dbr:United_States	
+dbr:Nickolai_Stoilov	dbo:residence
+dbr:Samuel_H._Piles	dbo:deathPlace
+dbr:Los_Angeles	
+dbr:Kevin_Bacon_(politician)	dbo:residence
+dbr:Louis_O._Kelso	dbo:deathPlace
+dbr:United_States	
+dbr:Gordon_L._Kane	dbo:residence
+dbr:Ernie_Lancaster	dbo:deathPlace
+dbr:United_States	
+dbr:Ernst_Mach	dbo:residence
+dbr:Rudolf,_6th_Prince_Kinsky_of_Wchinitz_and_Tettau	dbo:deathPlace
+dbr:Austrian_Empire	
+dbr:Eddy_Ottoz	dbo:residence
+dbr:Michelina_of_Pesaro	dbo:deathPlace
+dbr:Italy	
+dbr:Henry_Gee	dbo:residence
+dbr:D._A._Clarke-Smith	dbo:deathPlace
+dbr:England	dbr:United_Kingdom	
+dbr:Mike_Ragan	dbo:residence
+dbr:Peter_Charles_Remondino	dbo:deathPlace
+dbr:California	
+dbr:Hélder_Queiroz	dbo:residence
+dbr:Wilton_Cezar_Xavier	dbo:deathPlace
+dbr:Brazil	
+dbr:Joyce_DeWitt	dbo:residence
+dbr:Albert_Schneider	dbo:deathPlace
+dbr:United_States	
+dbr:Helly_Luv	dbo:residence
+dbr:Cy_Young_(animator)	dbo:deathPlace
+dbr:United_States	
+dbr:Bashar_Ahmad_Nuseibeh	dbo:residence
+dbr:Arthur_Penduck	dbo:deathPlace
+dbr:England	
+dbr:Denis_Feeney	dbo:residence
+dbr:Alfred_L._Werker	dbo:deathPlace
+dbr:United_States	
+dbr:Hugo_O._Engelmann	dbo:residence
+dbr:Eliza_McCardle_Johnson	dbo:deathPlace
+dbr:United_States	
+dbr:Sylvie_Bermann	dbo:residence
+dbr:Henry_Bathurst,_3rd_Earl_Bathurst	dbo:deathPlace
+dbr:London	
+dbr:Peter_Hore	dbo:residence
+dbr:Bill_Duffy_(sportsman)	dbo:deathPlace
+dbr:Australia	
+dbr:Wayne_Maddison	dbo:residence
+dbr:Francis_X._Bushman	dbo:deathPlace
+dbr:United_States	
+dbr:Peter_Kent	dbo:residence
+dbr:George_LeClair	dbo:deathPlace
+dbr:Canada	
+dbr:Richard_Riordan	dbo:residence
+dbr:Louis_Malle	dbo:deathPlace
+dbr:California	
+dbr:Michael_Craig_(Louisiana_judge)	dbo:residence
+dbr:James_Monroe_Smith	dbo:deathPlace
+dbr:Louisiana	
+dbr:Ramón_Chao	dbo:residence
+dbr:Armand-François_Jouslin_de_La_Salle	dbo:deathPlace
+dbr:Paris	
+dbr:Gerhard_Besier	dbo:residence
+dbr:Anna_Rosina_de_Gasc	dbo:deathPlace
+dbr:Dresden	
+dbr:Sukhbir_Singh_Kapoor	dbo:residence
+dbr:Alexander_Fleming	dbo:deathPlace
+dbr:London	
+dbr:Mari_Kaneko	dbo:residence
+dbr:Hakushū_Kitahara	dbo:deathPlace
+dbr:Japan	
+dbr:Oxana_Corso	dbo:residence
+dbr:Christopher_Hewetson	dbo:deathPlace
+dbr:Rome	
+dbr:Jose_Solorio	dbo:residence
+dbr:William_L._Manly	dbo:deathPlace
+dbr:California	
+dbr:Emilia_Clarke	dbo:residence
+dbr:Alexander_Bassano	dbo:deathPlace
+dbr:London	
+dbr:Chad_Gable	dbo:residence
+dbr:William_E._Fears	dbo:deathPlace
+dbr:United_States	
+dbr:Saif_Uddin_Ahmad	dbo:residence
+dbr:John_Harcombe	dbo:deathPlace
+dbr:England	
+dbr:Henry_Kravis	dbo:residence
+dbr:Mirra_Komarovsky	dbo:deathPlace
+dbr:New_York_City	
+dbr:Andrew_Housser	dbo:residence
+dbr:Ellen_Hayes	dbo:deathPlace
+dbr:United_States	
+dbr:Melvin_J._Glimcher	dbo:residence
+dbr:Parker_Cleaveland	dbo:deathPlace
+dbr:United_States	
+dbr:David_A._Wagner	dbo:residence
+dbr:Aron_Kuppermann	dbo:deathPlace
+dbr:California	
+dbr:Gordon_Kidd_Teal	dbo:residence
+dbr:Mariette_Rheiner_Garner	dbo:deathPlace
+dbr:United_States	
+dbr:Shikha_Uberoi	dbo:residence
+dbr:George_Gallup,_Jr.	dbo:deathPlace
+dbr:Princeton,_New_Jersey	
+dbr:Robert_Scott_(businessman)	dbo:residence
+dbr:Rube_Goldberg	dbo:deathPlace
+dbr:New_York_City	
+dbr:Leon_Edwards	dbo:residence
+dbr:Reg_Flewin	dbo:deathPlace
+dbr:England	
+dbr:Ken_Holland	dbo:residence
+dbr:John_Hessin_Clarke	dbo:deathPlace
+dbr:United_States	
+dbr:Donna_Nelson	dbo:residence
+dbr:John_McLane	dbo:deathPlace
+dbr:United_States	
+dbr:Wendi_Deng_Murdoch	dbo:residence
+dbr:William_Merritt_Chase	dbo:deathPlace
+dbr:New_York_City	
+dbr:John_Elkington_(business_author)	dbo:residence
+dbr:Richard_Bateman_(cricketer)	dbo:deathPlace
+dbr:England	
+dbr:Kimberly_Wright_Cassidy	dbo:residence
+dbr:Damian_Silvera	dbo:deathPlace
+dbr:United_States	
+dbr:Zaria_Mimano	dbo:residence
+dbr:Sigmund_Sommer	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Ignacio_Hirigoyen	dbo:residence
+dbr:William_Whitaker_Reed	dbo:deathPlace
+dbr:Texas	
+dbr:Andrew_Pozzi	dbo:residence
+dbr:Brian_Ernest_Maitland_Prophet	dbo:deathPlace
+dbr:England	
+dbr:Andrew_Lawton	dbo:residence
+dbr:Shelton_Hemphill	dbo:deathPlace
+dbr:New_York_City	
+dbr:Robert_Metzenberg	dbo:residence
+dbr:John_W._Williams_(Virginia)	dbo:deathPlace
+dbr:United_States	
+dbr:Henry_Perea	dbo:residence
+dbr:Nancy_Dow	dbo:deathPlace
+dbr:California	
+dbr:Nelida_Nassar	dbo:residence
+dbr:Edward_D._Goldberg	dbo:deathPlace
+dbr:United_States	
+dbr:Steve_Russell_(computer_scientist)	dbo:residence
+dbr:Bobby_Bland	dbo:deathPlace
+dbr:United_States	
+dbr:Mario_Godiva	dbo:residence
+dbr:Joan_Blaine	dbo:deathPlace
+dbr:New_York_City	
+dbr:Chi_Muoi_Lo	dbo:residence
+dbr:Caroline_McWilliams	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:Wolfgang_Bauer_(physicist)	dbo:residence
+dbr:Richard_Eberhart	dbo:deathPlace
+dbr:United_States	
+dbr:Henri_Courtine	dbo:residence
+dbr:Marguerite_Porete	dbo:deathPlace
+dbr:France	
+dbr:Arnold_G._Kluge	dbo:residence
+dbr:Harry_Stockwell	dbo:deathPlace
+dbr:United_States	
+dbr:Gustaf_Adolf_Neumann	dbo:residence
+dbr:W._H._Auden	dbo:deathPlace
+dbr:Austria	
+dbr:John_Mackey_(businessman)	dbo:residence
+dbr:Gerald_Anthony	dbo:deathPlace
+dbr:United_States	
+dbr:Allan_Arthur_Willman	dbo:residence
+dbr:Clement_Bengough	dbo:deathPlace
+dbr:Laramie,_Wyoming	
+dbr:Harry_B._Whittington	dbo:residence
+dbr:Charles_Lloyd-Pack	dbo:deathPlace
+dbr:England	
+dbr:Joey_Ryan_(wrestler)	dbo:residence
+dbr:Napoleon_A._Jones_Jr.	dbo:deathPlace
+dbr:California	
+dbr:Tanja_Savić	dbo:residence
+dbr:Mile_Kos	dbo:deathPlace
+dbr:Belgrade	dbr:Serbia	
+dbr:Ibrahim_B._Syed	dbo:residence
+dbr:Raymond_Dean	dbo:deathPlace
+dbr:United_States	
+dbr:Dana_Rohrabacher	dbo:residence
+dbr:Scotty_Beckett	dbo:deathPlace
+dbr:California	
+dbr:Benito_F._Reyes	dbo:residence
+dbr:George_Michael_(sportscaster)	dbo:deathPlace
+dbr:United_States	
+dbr:Eugenio_Beltrami	dbo:residence
+dbr:Saint_Margaret_of_Fontana	dbo:deathPlace
+dbr:Italy	
+dbr:Charles_Tiebout	dbo:residence
+dbr:Frank_Peters_(ice_hockey)	dbo:deathPlace
+dbr:United_States	
+dbr:Robert_A._Loftus	dbo:residence
+dbr:Barbara_Handman	dbo:deathPlace
+dbr:United_States	
+dbr:Hiram_Leavitt	dbo:residence
+dbr:Michel_Michelet	dbo:deathPlace
+dbr:California	
+dbr:Elsa_Reichmanis	dbo:residence
+dbr:Pete_van_Wieren	dbo:deathPlace
+dbr:United_States	
+dbr:Mando_Alvarado	dbo:residence
+dbr:Myrtle_McAteer	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Hannah_Starling	dbo:residence
+dbr:Alan_Wheatley	dbo:deathPlace
+dbr:England	
+dbr:S._Shankar	dbo:residence
+dbr:Viji	dbo:deathPlace
+dbr:Chennai	
+dbr:Sir_John_Jackson,_1st_Baronet	dbo:residence
+dbr:Bernard_Joy	dbo:deathPlace
+dbr:London	
+dbr:Deepankar_De	dbo:residence
+dbr:Karredula_Kamala_Kumari	dbo:deathPlace
+dbr:India	
+dbr:Leopold_Infeld	dbo:residence
+dbr:Joseph_Reid_(politician)	dbo:deathPlace
+dbr:Canada	
+dbr:Austin_Coleman	dbo:residence
+dbr:Paul_Howard_(baseball)	dbo:deathPlace
+dbr:Miami,_Florida	
+dbr:Gregory_Tarver	dbo:residence
+dbr:Colin_Pittendrigh	dbo:deathPlace
+dbr:United_States	
+dbr:Darren_E._Burrows	dbo:residence
+dbr:Philip_J._Dwyer	dbo:deathPlace
+dbr:United_States	
+dbr:Liz_Lange	dbo:residence
+dbr:Alexander_Boarman	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Septi_Mende	dbo:residence
+dbr:Soeroso	dbo:deathPlace
+dbr:Indonesia	
+dbr:Andrés_Herrera	dbo:residence
+dbr:Eduardo_Restrepo_Sáenz	dbo:deathPlace
+dbr:Bogotá	dbr:Colombia	
+dbr:Paolo_Boffetta	dbo:residence
+dbr:Walter_Livingston	dbo:deathPlace
+dbr:New_York_City	
+dbr:Yife_Tien	dbo:residence
+dbr:Clara_Beranger	dbo:deathPlace
+dbr:California	
+dbr:Joe_Salisbury	dbo:residence
+dbr:Gordon_E._Cole	dbo:deathPlace
+dbr:London	
+dbr:Susan_Littenberg	dbo:residence
+dbr:R._G._Buckingham	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Ruzena_Bajcsy	dbo:residence
+dbr:Nick_Dandolos	dbo:deathPlace
+dbr:United_States	
+dbr:Joelle_Carter	dbo:residence
+dbr:Angelica_Schuyler_Church	dbo:deathPlace
+dbr:New_York_(state)	dbr:New_York_City	
+dbr:Clyde_Levi	dbo:residence
+dbr:Boyce_F._Martin_Jr.	dbo:deathPlace
+dbr:United_States	
+dbr:Jason_Jung	dbo:residence
+dbr:Bob_Peak	dbo:deathPlace
+dbr:United_States	
+dbr:Bonnie_Maxon	dbo:residence
+dbr:Moses_T._Stevens	dbo:deathPlace
+dbr:United_States	
+dbr:Kristin_Silbereisen	dbo:residence
+dbr:Alexander_Golling	dbo:deathPlace
+dbr:Germany	
+dbr:Rob_McColley	dbo:residence
+dbr:Marion_Dougherty	dbo:deathPlace
+dbr:United_States	
+dbr:Justin_Smith_(radio)	dbo:residence
+dbr:Edward_Brooker	dbo:deathPlace
+dbr:Australia	
+dbr:Andrew_Pozzi	dbo:residence
+dbr:Henry_Hailey	dbo:deathPlace
+dbr:England	
+dbr:Norman_B._Ream	dbo:residence
+dbr:Lorenzo_Brentano	dbo:deathPlace
+dbr:Chicago	
+dbr:Quicksilver_(wrestler)	dbo:residence
+dbr:Betty_Farrington	dbo:deathPlace
+dbr:California	
+dbr:Glenn_De_Baeremaeker	dbo:residence
+dbr:John_George_Howard	dbo:deathPlace
+dbr:Ontario	dbr:Toronto	
+dbr:William_Marion_Jardine	dbo:residence
+dbr:LaVaughn_Robinson	dbo:deathPlace
+dbr:United_States	
+dbr:Paul_Roma	dbo:residence
+dbr:Charles_Trick_Currelly	dbo:deathPlace
+dbr:United_States	
+dbr:Jean_Bassett_Johnson	dbo:residence
+dbr:Alicia_Rhett	dbo:deathPlace
+dbr:United_States	
+dbr:Denise_Driehaus	dbo:residence
+dbr:Beverly_Hope_Atkinson	dbo:deathPlace
+dbr:United_States	
+dbr:Patricia_Bates	dbo:residence
+dbr:Danny_Kaye	dbo:deathPlace
+dbr:California	
+dbr:Jyoti_Pandya	dbo:residence
+dbr:Master_Sridhar	dbo:deathPlace
+dbr:India	
+dbr:Hannah_Starling	dbo:residence
+dbr:Ernest_Greswell	dbo:deathPlace
+dbr:England	
+dbr:Lee_Toland_Krieger	dbo:residence
+dbr:George_Oppen	dbo:deathPlace
+dbr:California	
+dbr:Cecil_Thomas_(politician)	dbo:residence
+dbr:James_Montgomery_Flagg	dbo:deathPlace
+dbr:United_States	
+dbr:Anna_Quindlen	dbo:residence
+dbr:Waleed_al-Shehri	dbo:deathPlace
+dbr:Manhattan	dbr:New_York_(state)	
+dbr:Marc_Iliffe	dbo:residence
+dbr:Derek_Rayner,_Baron_Rayner	dbo:deathPlace
+dbr:England	
+dbr:Jacques_Nasser	dbo:residence
+dbr:Alexander_Schneider	dbo:deathPlace
+dbr:United_States	
+dbr:Benjamin_Franklin_Williams	dbo:residence
+dbr:Volma_Overton	dbo:deathPlace
+dbr:Texas	
+dbr:Jesse_Taylor	dbo:residence
+dbr:James_Crutchfield	dbo:deathPlace
+dbr:United_States	
+dbr:Brentley_Frazer	dbo:residence
+dbr:Benjamin_Harris_Babbidge	dbo:deathPlace
+dbr:Australia	
+dbr:Aurieyall_Scott	dbo:residence
+dbr:Henry_Stanbery	dbo:deathPlace
+dbr:United_States	
+dbr:Anthony_Di_Pietro	dbo:residence
+dbr:Olegas_Truchanas	dbo:deathPlace
+dbr:Australia	
+dbr:Purnima_Mahato	dbo:residence
+dbr:Mani_Madhava_Chakyar	dbo:deathPlace
+dbr:India	
+dbr:Barbara_Bestor	dbo:residence
+dbr:Barney_Phillips	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Jane_C._Wright	dbo:residence
+dbr:Emma_Eames	dbo:deathPlace
+dbr:United_States	
+dbr:Sisira_Jayasuriya	dbo:residence
+dbr:Jay_Youngblood	dbo:deathPlace
+dbr:Melbourne	
+dbr:John_R._Yates	dbo:residence
+dbr:Theodore_Wirth	dbo:deathPlace
+dbr:United_States	
+dbr:Mariko_Yamada	dbo:residence
+dbr:Ross_Hunter	dbo:deathPlace
+dbr:California	
+dbr:Joseph_Bouie_Jr.	dbo:residence
+dbr:John_Minor_Wisdom	dbo:deathPlace
+dbr:Louisiana	
+dbr:Germaine_Greer	dbo:residence
+dbr:Hugh_Wagstaff	dbo:deathPlace
+dbr:Essex	
+dbr:Rui_de_Figueiredo	dbo:residence
+dbr:Morris_Kessler	dbo:deathPlace
+dbr:United_States	
+dbr:Patrick_Bokanowski	dbo:residence
+dbr:René_Boylesve	dbo:deathPlace
+dbr:France	dbr:Paris	
+dbr:Edgar_Schein	dbo:residence
+dbr:Jean_Nidetch	dbo:deathPlace
+dbr:United_States	
+dbr:James_Boyce_(Louisiana_politician)	dbo:residence
+dbr:Étienne_de_Boré	dbo:deathPlace
+dbr:Louisiana	
+dbr:Antonio_Bassolino	dbo:residence
+dbr:Jehangir_H._Kothari	dbo:deathPlace
+dbr:Italy	
+dbr:Simon_Rösner	dbo:residence
+dbr:Wolfgang_Preiss	dbo:deathPlace
+dbr:Germany	
+dbr:Eddie_Briggs	dbo:residence
+dbr:William_R._Lyman	dbo:deathPlace
+dbr:United_States	
+dbr:Tan_Parker	dbo:residence
+dbr:James_Redford	dbo:deathPlace
+dbr:United_States	
+dbr:Thomas_Harris_MacDonald	dbo:residence
+dbr:Georgie_Auld	dbo:deathPlace
+dbr:United_States	
+dbr:Bill_Seitz	dbo:residence
+dbr:Minnie_Dessau_Louis	dbo:deathPlace
+dbr:United_States	
+dbr:Joaquin_Murrieta	dbo:residence
+dbr:Edward_Fielding	dbo:deathPlace
+dbr:California	
+dbr:Dušan_Zelenbaba	dbo:residence
+dbr:Ellis_Pringle	dbo:deathPlace
+dbr:Canada	
+dbr:Natalia_Fedner	dbo:residence
+dbr:Allen_Ludden	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Armand_Brinkhaus	dbo:residence
+dbr:Benjamin_Huntington	dbo:deathPlace
+dbr:United_States	
+dbr:May_Berenbaum	dbo:residence
+dbr:W._W._Law	dbo:deathPlace
+dbr:United_States	
+dbr:Jerry_Seelen	dbo:residence
+dbr:Hayward_Mack	dbo:deathPlace
+dbr:Los_Angeles	
+dbr:Diana_Falzone	dbo:residence
+dbr:William_H._Dobelle	dbo:deathPlace
+dbr:New_York_City	
+dbr:James_DeJulio	dbo:residence
+dbr:Rufus_P._Spalding	dbo:deathPlace
+dbr:United_States	
+dbr:H._Eugene_Stanley	dbo:residence
+dbr:Lawrence_Brainerd	dbo:deathPlace
+dbr:United_States	
+dbr:Juergen_M._Geissinger	dbo:residence
+dbr:Tala_Birell	dbo:deathPlace
+dbr:Germany	
+dbr:Jim_Argue	dbo:residence
+dbr:John_N._Heiskell	dbo:deathPlace
+dbr:Little_Rock,_Arkansas	
+dbr:Ayumi_Komura	dbo:residence
+dbr:Kagaku_Murakami	dbo:deathPlace
+dbr:Japan	
+dbr:Chris_Cope	dbo:residence
+dbr:Roone_Arledge	dbo:deathPlace
+dbr:United_States	
+dbr:Gerrit_van_der_Meer	dbo:residence
+dbr:Joe_Franklin	dbo:deathPlace
+dbr:United_States	
+dbr:Kevin_Kuros	dbo:residence
+dbr:L._M._Shaw	dbo:deathPlace
+dbr:United_States	
+dbr:Sameer_Gehlaut	dbo:residence
+dbr:Sikandar_Alam	dbo:deathPlace
+dbr:India	
+dbr:Alisyn_Camerota	dbo:residence
+dbr:Tony_Goldman	dbo:deathPlace
+dbr:New_York_City	
+dbr:Wu_Di_(tennis)	dbo:residence
+dbr:Jiang_Kanghu	dbo:deathPlace
+dbr:Shanghai	
+dbr:Sandor_Stern	dbo:residence
+dbr:Arnold_Kent	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:Sam_Riegel	dbo:residence
+dbr:Jennie_Kidd_Trout	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Katie_Bender_(filmmaker)	dbo:residence
+dbr:Roy_Heffernan	dbo:deathPlace
+dbr:Australia	
+dbr:Abel_Trujillo	dbo:residence
+dbr:Dieter_Grau	dbo:deathPlace
+dbr:United_States	
+dbr:Jasper_Morrison	dbo:residence
+dbr:Charles_Kennedy_(cricketer)	dbo:deathPlace
+dbr:England	
+dbr:Jacques_Nasser	dbo:residence
+dbr:Thomas_Mitchell_(explorer)	dbo:deathPlace
+dbr:Australia	
+dbr:David_Sims_(photographer)	dbo:residence
+dbr:Herbert_Lom	dbo:deathPlace
+dbr:England	
+dbr:Joe_Mace	dbo:residence
+dbr:Bob_Cristofani	dbo:deathPlace
+dbr:England	
+dbr:Barbara_Wold	dbo:residence
+dbr:Ingram_Olkin	dbo:deathPlace
+dbr:United_States	
+dbr:Hee_Oh	dbo:residence
+dbr:Death_of_Elisa_Lam	dbo:deathPlace
+dbr:United_States	
+dbr:Arun_Sagar	dbo:residence
+dbr:Geeta_Bali	dbo:deathPlace
+dbr:India	
+dbr:Jean-Yves_Mollier	dbo:residence
+dbr:Madeleine_Sophie_Barat	dbo:deathPlace
+dbr:France	
+dbr:Ken_Holland	dbo:residence
+dbr:Jeffry_Hall_Brock	dbo:deathPlace
+dbr:United_States	
+dbr:Stefano_Zacchiroli	dbo:residence
+dbr:Gabriel_de_Rochechouart_de_Mortemart	dbo:deathPlace
+dbr:France	dbr:Paris	
+dbr:Matthew_Mancinelli	dbo:residence
+dbr:Ruby_Dandridge	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Sam_Arora	dbo:residence
+dbr:Ching_Johnson	dbo:deathPlace
+dbr:Silver_Spring,_Maryland	
+dbr:V._J._Kurien	dbo:residence
+dbr:Smita_Patil	dbo:deathPlace
+dbr:India	
+dbr:Melissa_Maughn	dbo:residence
+dbr:Fay_Jackson	dbo:deathPlace
+dbr:Canada	
+dbr:Phil_Zuckerman	dbo:residence
+dbr:Lou_Jankowski	dbo:deathPlace
+dbr:United_States	
+dbr:Gok_Wan	dbo:residence
+dbr:Edmund_Royds_(Queensland_politician)	dbo:deathPlace
+dbr:England	
+dbr:Avi_Muchnick	dbo:residence
+dbr:Théodore_Guérin	dbo:deathPlace
+dbr:United_States	
+dbr:Corey_Palumbo	dbo:residence
+dbr:David_L._Lawrence	dbo:deathPlace
+dbr:United_States	
+dbr:Michael_Müller_(politician)	dbo:residence
+dbr:Wolfgang_Heinz_(actor)	dbo:deathPlace
+dbr:Berlin	
+dbr:W._Mark_Saltzman	dbo:residence
+dbr:Charles_Sumner_Hamlin	dbo:deathPlace
+dbr:United_States	
+dbr:Chas_Skelly	dbo:residence
+dbr:Denis_Forest	dbo:deathPlace
+dbr:United_States	
+dbr:Stephen_Urban	dbo:residence
+dbr:Ray_Hatton	dbo:deathPlace
+dbr:United_States	
+dbr:Brian_Grazer	dbo:residence
+dbr:Mary_Wells	dbo:deathPlace
+dbr:California	
+dbr:Germán_Sánchez_(diver)	dbo:residence
+dbr:Zdravko_Rajkov	dbo:deathPlace
+dbr:Mexico	
+dbr:Ed_Ziemba	dbo:residence
+dbr:William_Warren_Baldwin	dbo:deathPlace
+dbr:Toronto	
+dbr:Sheila_Malcolmson	dbo:residence
+dbr:Evelyn_Spice_Cherry	dbo:deathPlace
+dbr:British_Columbia	
+dbr:Stephen_Gyllenhaal	dbo:residence
+dbr:Ferris_Jacobs,_Jr.	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Zoie_Palmer	dbo:residence
+dbr:George_Albertus_Cox	dbo:deathPlace
+dbr:Ontario	dbr:Toronto	
+dbr:Adam_Hardy	dbo:residence
+dbr:Arthur_Young_(actor)	dbo:deathPlace
+dbr:United_Kingdom	
+dbr:George_Karreman	dbo:residence
+dbr:Charlotte_Canda	dbo:deathPlace
+dbr:United_States	
+dbr:Sally_Clausen	dbo:residence
+dbr:Morgan_W._Walker_Sr.	dbo:deathPlace
+dbr:Louisiana	
+dbr:Gottlieb_Kirchhoff	dbo:residence
+dbr:Stanislav_Markelov	dbo:deathPlace
+dbr:Russia	
+dbr:Ed_Husain	dbo:residence
+dbr:Doyle_Bramhall	dbo:deathPlace
+dbr:United_States	
+dbr:Hugh_Everett_III	dbo:residence
+dbr:Bob_Brown_(wrestler)	dbo:deathPlace
+dbr:United_States	
+dbr:David_Bobzien	dbo:residence
+dbr:Anita_Bush	dbo:deathPlace
+dbr:United_States	
+dbr:Jonathan_Roberts_(dancer)	dbo:residence
+dbr:Ian_Maclaren_(actor)	dbo:deathPlace
+dbr:California	
+dbr:Brewster_Kahle	dbo:residence
+dbr:Kurt_Kreuger	dbo:deathPlace
+dbr:California	
+dbr:Karly_Shorr	dbo:residence
+dbr:George_Eldredge	dbo:deathPlace
+dbr:California	
+dbr:Tipu_Aziz	dbo:residence
+dbr:Walter_Beadsmoore	dbo:deathPlace
+dbr:England	
+dbr:Duncan_G._Steel	dbo:residence
+dbr:Ned_Burton	dbo:deathPlace
+dbr:United_States	
+dbr:Martin_Muhr	dbo:residence
+dbr:Ernst_Uebel	dbo:deathPlace
+dbr:Germany	
+dbr:Yu-Chi_Ho	dbo:residence
+dbr:Chris_McCarthy	dbo:deathPlace
+dbr:United_States	
+dbr:Marius_Romme	dbo:residence
+dbr:Dora_van_der_Meiden-Coolsma	dbo:deathPlace
+dbr:Netherlands	
+dbr:Philo_Carpenter	dbo:residence
+dbr:Caro_Dawes	dbo:deathPlace
+dbr:Illinois	
+dbr:Sidney_Coleman	dbo:residence
+dbr:Bill_Levins	dbo:deathPlace
+dbr:United_States	
+dbr:Jean-Paul_Morrell	dbo:residence
+dbr:Carlos_Spaht	dbo:deathPlace
+dbr:Louisiana	
+dbr:Brian_Spooner	dbo:residence
+dbr:George_Bryan_Porter	dbo:deathPlace
+dbr:United_States	
+dbr:Mike_Jefferies	dbo:residence
+dbr:Frank_Merrill_(actor)	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:Rafael_Rebello	dbo:residence
+dbr:Vince_McCarthy	dbo:deathPlace
+dbr:United_States	
+dbr:Alexander_Amini	dbo:residence
+dbr:David_Lee_Child	dbo:deathPlace
+dbr:Massachusetts	
+dbr:Aurèle_Gervais	dbo:residence
+dbr:William_James_Hill	dbo:deathPlace
+dbr:Ontario	
+dbr:Scotty_2_Hotty	dbo:residence
+dbr:Yale_Gracey	dbo:deathPlace
+dbr:United_States	
+dbr:Lee_Toland_Krieger	dbo:residence
+dbr:Kevin_James_(pornographic_actor)	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:Guor_Marial	dbo:residence
+dbr:Adriaan_van_Maanen	dbo:deathPlace
+dbr:United_States	
+dbr:Josef_Norris	dbo:residence
+dbr:Richard_Rosson	dbo:deathPlace
+dbr:California	
+dbr:Ashley_Weinhold	dbo:residence
+dbr:Lucien_C._Gause	dbo:deathPlace
+dbr:United_States	
+dbr:David_Hadley	dbo:residence
+dbr:Phyllis_Barry	dbo:deathPlace
+dbr:California	
+dbr:Ralph_Bown	dbo:residence
+dbr:Albert_Schneider	dbo:deathPlace
+dbr:United_States	
+dbr:Steve_Andriole	dbo:residence
+dbr:Daniel_S._Lamont	dbo:deathPlace
+dbr:United_States	
+dbr:Kristin_Tate	dbo:residence
+dbr:Mark_Freeman	dbo:deathPlace
+dbr:New_York_City	
+dbr:Peter_O'Donnell_(Texas)	dbo:residence
+dbr:Radcliffe_Killam	dbo:deathPlace
+dbr:Texas	
+dbr:Martin_Pedersen_(tennis)	dbo:residence
+dbr:Count_Viggo_of_Rosenborg	dbo:deathPlace
+dbr:Denmark	
+dbr:Solomon_Akhtar	dbo:residence
+dbr:Edward_Beddington-Behrens	dbo:deathPlace
+dbr:London	
+dbr:Sofia_Boutella	dbo:residence
+dbr:Tim_Ryan_(actor)	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:TJ_Ramini	dbo:residence
+dbr:Peter_Collinson_(film_director)	dbo:deathPlace
+dbr:Los_Angeles	dbr:United_States	
+dbr:Ivory_(wrestler)	dbo:residence
+dbr:Peter_Gowland	dbo:deathPlace
+dbr:United_States	
+dbr:Devendra_Prasad_Gupta	dbo:residence
+dbr:Joseph_Emin	dbo:deathPlace
+dbr:India	
+dbr:Hélène_Langevin-Joliot	dbo:residence
+dbr:Érik_Izraelewicz	dbo:deathPlace
+dbr:France	
+dbr:Tim_Hetherington	dbo:residence
+dbr:Josef_Peukert	dbo:deathPlace
+dbr:United_States	
+dbr:Hearcel_Craig	dbo:residence
+dbr:Adolfo_Lizarraga	dbo:deathPlace
+dbr:United_States	
+dbr:Rashid_Sunyaev	dbo:residence
+dbr:Ernst_Christian_Friedrich_Schering	dbo:deathPlace
+dbr:Germany	
+dbr:Mercurio_Martinez	dbo:residence
+dbr:Johnny_Harra	dbo:deathPlace
+dbr:Texas	
+dbr:Alain_Viel	dbo:residence
+dbr:Armida_(actress)	dbo:deathPlace
+dbr:United_States	
+dbr:Filip_Peliwo	dbo:residence
+dbr:Edmund_James_Flynn	dbo:deathPlace
+dbr:Quebec	
+dbr:Allen_Falkner	dbo:residence
+dbr:Jeremiah_Smith_(lawyer)	dbo:deathPlace
+dbr:United_States	
+dbr:Danny_La_Rue	dbo:residence
+dbr:John_Davies_(businessman)	dbo:deathPlace
+dbr:United_Kingdom	
+dbr:Dan_Foster_(politician)	dbo:residence
+dbr:John_Cameron_Swayze	dbo:deathPlace
+dbr:United_States	
+dbr:Wolfgang_Bremer	dbo:residence
+dbr:Erik_Ode	dbo:deathPlace
+dbr:Germany	
+dbr:Anjan_Kumar_Yadav	dbo:residence
+dbr:Alpana_Banerjee	dbo:deathPlace
+dbr:India	
+dbr:Ivan_Putski	dbo:residence
+dbr:Joseph_Sobran	dbo:deathPlace
+dbr:United_States	
+dbr:W._M._Salisbury	dbo:residence
+dbr:William_C._Redfield	dbo:deathPlace
+dbr:United_States	
+dbr:Nina_Breeder	dbo:residence
+dbr:J._Kenneth_Robinson	dbo:deathPlace
+dbr:United_States	
+dbr:Michael_Skupin	dbo:residence
+dbr:Neel_Reid	dbo:deathPlace
+dbr:United_States	
+dbr:Aubrey_de_Grey	dbo:residence
+dbr:James_Wheeler	dbo:deathPlace
+dbr:England	
+dbr:Carmen_Chu	dbo:residence
+dbr:John_Drew_Barrymore	dbo:deathPlace
+dbr:California	
+dbr:Malia_Cohen	dbo:residence
+dbr:Rodger_Jacobs	dbo:deathPlace
+dbr:California	
+dbr:Ivo_Widlak	dbo:residence
+dbr:Littleton_Waller_Tazewell	dbo:deathPlace
+dbr:United_States	
+dbr:Ivy_Queen	dbo:residence
+dbr:Ardolph_L._Kline	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Salman_Yusuff_Khan	dbo:residence
+dbr:Rabi_Ghosh	dbo:deathPlace
+dbr:India	
+dbr:Shinsuke_Nakamura	dbo:residence
+dbr:Justin_Levens	dbo:deathPlace
+dbr:United_States	
+dbr:Ronnie_Jones_(politician)	dbo:residence
+dbr:Lisa_Robin_Kelly	dbo:deathPlace
+dbr:United_States	
+dbr:Jacqueline_Hernández	dbo:residence
+dbr:Cave_Johnson	dbo:deathPlace
+dbr:United_States	
+dbr:Sanaa_Seif	dbo:residence
+dbr:Ibn_al-Haytham	dbo:deathPlace
+dbr:Cairo	
+dbr:Pablo_Kleinman	dbo:residence
+dbr:Eugenio_Lopez_Jr.	dbo:deathPlace
+dbr:California	
+dbr:Tom_Ford_(squash_player)	dbo:residence
+dbr:Roy_Heath	dbo:deathPlace
+dbr:England	
+dbr:Alatenghua	dbo:residence
+dbr:Maria_Assunta_Pallotta	dbo:deathPlace
+dbr:China	
+dbr:James_Fujimoto	dbo:residence
+dbr:Eddie_Parker_(actor)	dbo:deathPlace
+dbr:United_States	
+dbr:Bill_Bond_(tennis)	dbo:residence
+dbr:Heman_Allen_(of_Colchester)	dbo:deathPlace
+dbr:United_States	
+dbr:Tyler_Reks	dbo:residence
+dbr:George_Latham_Fletcher	dbo:deathPlace
+dbr:United_States	
+dbr:Dentarius_Locke	dbo:residence
+dbr:Clifton_Williams	dbo:deathPlace
+dbr:Tallahassee,_Florida	
+dbr:Mark_d'Inverno	dbo:residence
+dbr:Constance_Cummings	dbo:deathPlace
+dbr:England	
+dbr:Gerardo_Sandoval	dbo:residence
+dbr:Danny_Arnold	dbo:deathPlace
+dbr:California	
+dbr:Road_Dogg	dbo:residence
+dbr:Andy_Branigan	dbo:deathPlace
+dbr:United_States	
+dbr:David_McFarlane_(attorney)	dbo:residence
+dbr:Lionel_Wilson_(politician)	dbo:deathPlace
+dbr:California	
+dbr:Nicolas_M._Chaillan	dbo:residence
+dbr:David_L._Bazelon	dbo:deathPlace
+dbr:Washington,_DC	
+dbr:Peter_Johansson_(figure_skater)	dbo:residence
+dbr:John_G._Trump	dbo:deathPlace
+dbr:Boston,_Massachusetts	
+dbr:Joanne_Nosuchinsky	dbo:residence
+dbr:John_G._McCullough	dbo:deathPlace
+dbr:New_York_City	
+dbr:Rana_Asif_Saeed	dbo:residence
+dbr:Seemab_Akbarabadi	dbo:deathPlace
+dbr:Pakistan	
+dbr:Anthony_Johnson_(fighter)	dbo:residence
+dbr:Louis_Prima	dbo:deathPlace
+dbr:United_States	
+dbr:Johann_Gottlieb	dbo:residence
+dbr:Lajos_Tisza	dbo:deathPlace
+dbr:Austria-Hungary	
+dbr:Jane_MacLaren_Walsh	dbo:residence
+dbr:Sandje_Ivanchukov	dbo:deathPlace
+dbr:United_States	
+dbr:Samuel_Hales	dbo:residence
+dbr:Bob_Steele_(broadcaster)	dbo:deathPlace
+dbr:Hartford,_Connecticut	
+dbr:John_David_Maloney	dbo:residence
+dbr:Sumaya_Dalmar	dbo:deathPlace
+dbr:Ontario	
+dbr:Bryant_Hammett	dbo:residence
+dbr:Charlotte_Hennessey	dbo:deathPlace
+dbr:United_States	
+dbr:Edgar_Bronfman_Sr.	dbo:residence
+dbr:William_C._Redfield	dbo:deathPlace
+dbr:New_York_City	
+dbr:Allen_Edward_Everitt	dbo:residence
+dbr:Jim_Parks_(cricketer,_born_1903)	dbo:deathPlace
+dbr:England	
+dbr:Sandra_Fluke	dbo:residence
+dbr:James_Warren_York	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Johnny_Valiant	dbo:residence
+dbr:Jacob_T._Schwartz	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:James_McIntosh_(Food_Writer)	dbo:residence
+dbr:Robert_Stephens	dbo:deathPlace
+dbr:London	
+dbr:Herman_Tjeenk_Willink	dbo:residence
+dbr:Willem_Driebergen	dbo:deathPlace
+dbr:Netherlands	
+dbr:Thomas_Stonor,_7th_Baron_Camoys	dbo:residence
+dbr:Hilton_Crowther	dbo:deathPlace
+dbr:England	
+dbr:Jason_Kenney	dbo:residence
+dbr:Edgerton_W._Day	dbo:deathPlace
+dbr:Alberta	
+dbr:Tim_Healy_(actor)	dbo:residence
+dbr:Wilkie_Bard	dbo:deathPlace
+dbr:England	
+dbr:Peter_Woo	dbo:residence
+dbr:Anthony_Lawrence_(journalist)	dbo:deathPlace
+dbr:Hong_Kong	
+dbr:Shirin_Ebadi	dbo:residence
+dbr:Bob_Hill_(footballer)	dbo:deathPlace
+dbr:England	
+dbr:Frank_Warren_(promoter)	dbo:residence
+dbr:David_Cluett	dbo:deathPlace
+dbr:England	
+dbr:Nikki_DuBose	dbo:residence
+dbr:Lillian_Worth	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Aiden_English	dbo:residence
+dbr:Henry_Bell_Gilkeson	dbo:deathPlace
+dbr:United_States	
+dbr:Kevin_Casas_Zamora	dbo:residence
+dbr:Steve_Newman_(soccer)	dbo:deathPlace
+dbr:United_States	
+dbr:Reckless_Youth	dbo:residence
+dbr:William_K._Sebastian	dbo:deathPlace
+dbr:Memphis,_Tennessee	
+dbr:Johan_Paulsson	dbo:residence
+dbr:Gypsy_Abbott	dbo:deathPlace
+dbr:United_States	
+dbr:Dani_Rylan	dbo:residence
+dbr:R._Holman_Willis	dbo:deathPlace
+dbr:United_States	
+dbr:Darrel_Guilbeau	dbo:residence
+dbr:Duke_Henderson	dbo:deathPlace
+dbr:California	
+dbr:Anuj_Thakur	dbo:residence
+dbr:Sahu_Mewalal	dbo:deathPlace
+dbr:India	
+dbr:Jay_Rasulo	dbo:residence
+dbr:Frederick_Coffin	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Martha_MacIsaac	dbo:residence
+dbr:Redd_Foxx	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:David_D._Withers	dbo:residence
+dbr:Ivan_Mosjoukine	dbo:deathPlace
+dbr:France	dbr:Paris	
+dbr:Leandro_Vieira	dbo:residence
+dbr:Arthur_Goldberg	dbo:deathPlace
+dbr:United_States	
+dbr:Igor_Mel'čuk	dbo:residence
+dbr:Pietro_Leoni	dbo:deathPlace
+dbr:Montreal	
+dbr:Keyvan_Rafiee	dbo:residence
+dbr:Geoffrey_Bowers	dbo:deathPlace
+dbr:United_States	
+dbr:Allie_(wrestler)	dbo:residence
+dbr:Sami_Hadawi	dbo:deathPlace
+dbr:Canada	dbr:Toronto	
+dbr:Peter_Ruckman	dbo:residence
+dbr:Fernando_Díaz_Domínguez	dbo:deathPlace
+dbr:Florida	
+dbr:Matt_Goss	dbo:residence
+dbr:Gordon_Connell_(actor)	dbo:deathPlace
+dbr:United_States	
+dbr:Hugh_Jackson_Morgan	dbo:residence
+dbr:Raymond_Marchand	dbo:deathPlace
+dbr:United_States	
+dbr:Cummings_C._Chesney	dbo:residence
+dbr:Chris_Benoit	dbo:deathPlace
+dbr:United_States	
+dbr:Linda_Elriani	dbo:residence
+dbr:Stan_Aldous	dbo:deathPlace
+dbr:England	
+dbr:Tony_Amendola	dbo:residence
+dbr:Emile_Zuckerkandl	dbo:deathPlace
+dbr:California	
+dbr:Gerrit_van_der_Meer	dbo:residence
+dbr:G._V._Loganathan	dbo:deathPlace
+dbr:United_States	
+dbr:Omkar_Shetty	dbo:residence
+dbr:Syed_Ahmed_(politician)	dbo:deathPlace
+dbr:Mumbai	
+dbr:Steve_Berra	dbo:residence
+dbr:Lou_Perryman	dbo:deathPlace
+dbr:United_States	
+dbr:Claude_Dubar	dbo:residence
+dbr:Alexis_Lichine	dbo:deathPlace
+dbr:France	
+dbr:Youlia_Fedossova	dbo:residence
+dbr:Martial_Gueroult	dbo:deathPlace
+dbr:Paris	
+dbr:Sarah_Michelle_Gellar	dbo:residence
+dbr:Steve_Brodie_(actor)	dbo:deathPlace
+dbr:California	
+dbr:Marc_A._Kastner	dbo:residence
+dbr:Jay_Livingston	dbo:deathPlace
+dbr:United_States	
+dbr:Michiel_Huisman	dbo:residence
+dbr:William_Tilghman	dbo:deathPlace
+dbr:United_States	
+dbr:Jean_Lapierre	dbo:residence
+dbr:Eustache_Prud'homme	dbo:deathPlace
+dbr:Montreal	
+dbr:Rod_Burstall	dbo:residence
+dbr:Gholam-Hossein_Sa'edi	dbo:deathPlace
+dbr:France	
+dbr:Foxy_Brown_(rapper)	dbo:residence
+dbr:Floyd_Patterson	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Baron_von_Raschke	dbo:residence
+dbr:McGeorge_Bundy	dbo:deathPlace
+dbr:United_States	
+dbr:Patty_Hill	dbo:residence
+dbr:Bob_Simon	dbo:deathPlace
+dbr:New_York_City	
+dbr:Henryk_de_Kwiatkowski	dbo:residence
+dbr:Joan_Rivers	dbo:deathPlace
+dbr:Manhattan	dbr:New_York_(state)	
+dbr:Griffith_C._Evans	dbo:residence
+dbr:Ilona_Massey	dbo:deathPlace
+dbr:United_States	
+dbr:Thorkild_Jacobsen	dbo:residence
+dbr:George_Dern	dbo:deathPlace
+dbr:United_States	
+dbr:Mark_d'Inverno	dbo:residence
+dbr:Vezey_Raffety	dbo:deathPlace
+dbr:England	
+dbr:Aashish_Kaul	dbo:residence
+dbr:A._Y._S._Parisutha_Nadar	dbo:deathPlace
+dbr:India	
+dbr:Phil_Short	dbo:residence
+dbr:Ryan_Shay	dbo:deathPlace
+dbr:United_States	
+dbr:Greg_Harris_(Illinois_politician)	dbo:residence
+dbr:Billie_Hughes	dbo:deathPlace
+dbr:United_States	
+dbr:Dennis_Zine	dbo:residence
+dbr:Marco_Antonio_Firebaugh	dbo:deathPlace
+dbr:California	
+dbr:Caleche_Manos	dbo:residence
+dbr:Thomas_Coulter_(ice_hockey)	dbo:deathPlace
+dbr:United_States	
+dbr:Rajen_Ruparell	dbo:residence
+dbr:John_S._Robertson	dbo:deathPlace
+dbr:United_States	
+dbr:Damodar_Mall	dbo:residence
+dbr:V._S._Ramadevi	dbo:deathPlace
+dbr:India	
+dbr:Satish_Jain	dbo:residence
+dbr:Bulbul_Chowdhury	dbo:deathPlace
+dbr:India	
+dbr:Christopher_Guest	dbo:residence
+dbr:Fay_Helm	dbo:deathPlace
+dbr:Santa_Monica,_California	
+dbr:Kenneth_R._Mladenka	dbo:residence
+dbr:Milt_Herth	dbo:deathPlace
+dbr:United_States	
+dbr:Ben_Gulak	dbo:residence
+dbr:William_Barton_Rogers	dbo:deathPlace
+dbr:Boston,_Massachusetts	
+dbr:Walid_Harfouch	dbo:residence
+dbr:Nathalie_Kovanko	dbo:deathPlace
+dbr:Kiev	
+dbr:Michael_Daingerfield	dbo:residence
+dbr:Walter_C._Lawson	dbo:deathPlace
+dbr:Canada	
+dbr:Lynn_Hershman_Leeson	dbo:residence
+dbr:Kim_Hamilton	dbo:deathPlace
+dbr:California	
+dbr:Gray_Davis	dbo:residence
+dbr:Dean_Paul_Martin	dbo:deathPlace
+dbr:California	
+dbr:Kálmán_Tihanyi	dbo:residence
+dbr:Lajos_Dunai	dbo:deathPlace
+dbr:Hungary	
+dbr:Nicolaas_Bloembergen	dbo:residence
+dbr:James_P._Mitchell	dbo:deathPlace
+dbr:United_States	
+dbr:Susan_Emma_Mills	dbo:residence
+dbr:John_Rogers_(Bible_editor_and_martyr)	dbo:deathPlace
+dbr:London	
+dbr:Alexandra_Buch	dbo:residence
+dbr:Julius_Bredt	dbo:deathPlace
+dbr:Germany	
+dbr:Rafael_Rebello	dbo:residence
+dbr:Bill_Pickett	dbo:deathPlace
+dbr:United_States	
+dbr:Tristan_Sturrock	dbo:residence
+dbr:Harry_Goodall	dbo:deathPlace
+dbr:England	
+dbr:Roger_Hedgecock	dbo:residence
+dbr:Vera-Ellen	dbo:deathPlace
+dbr:California	
+dbr:Maryse_Ouellet	dbo:residence
+dbr:Charles_Gifkins	dbo:deathPlace
+dbr:United_States	
+dbr:Sara_Benincasa	dbo:residence
+dbr:Frankie_Thomas	dbo:deathPlace
+dbr:Los_Angeles	
+dbr:Floyd_Zaiger	dbo:residence
+dbr:Jimmy_Van_Heusen	dbo:deathPlace
+dbr:United_States	
+dbr:Randy_L._Bott	dbo:residence
+dbr:Mike_Palm_(American_football)	dbo:deathPlace
+dbr:United_States	
+dbr:Carla_Esparza	dbo:residence
+dbr:Luke_Smalley	dbo:deathPlace
+dbr:United_States	
+dbr:Patsy_Palmer	dbo:residence
+dbr:Ormer_Locklear	dbo:deathPlace
+dbr:California	
+dbr:Massy_Tadjedin	dbo:residence
+dbr:Jimmie_Noone	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Sam_Wyly	dbo:residence
+dbr:Ben_Lessy	dbo:deathPlace
+dbr:United_States	
+dbr:Cynthia_Addai-Robinson	dbo:residence
+dbr:Joe_Pullum	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:Doug_Williams_(wrestler)	dbo:residence
+dbr:Walter_E._Addison	dbo:deathPlace
+dbr:United_States	
+dbr:Sue_Wright	dbo:residence
+dbr:Willie_Morris_(diplomat)	dbo:deathPlace
+dbr:England	
+dbr:As'ad_AbuKhalil	dbo:residence
+dbr:Alfred_Stratford	dbo:deathPlace
+dbr:United_States	
+dbr:Sandra_Webster	dbo:residence
+dbr:Æbbe_the_Younger	dbo:deathPlace
+dbr:Scotland	
+dbr:Sandy_Parker	dbo:residence
+dbr:John_Mason_(planter)	dbo:deathPlace
+dbr:United_States	
+dbr:Gordon_P._Eaton	dbo:residence
+dbr:Olga_Gyarmati	dbo:deathPlace
+dbr:United_States	
+dbr:Rajendra_Desai	dbo:residence
+dbr:Waman_Dattatreya_Patwardhan	dbo:deathPlace
+dbr:India	
+dbr:Glen_Taylor	dbo:residence
+dbr:Ralph_Blane	dbo:deathPlace
+dbr:United_States	
+dbr:Roohi_Zuberi	dbo:residence
+dbr:V._K._N.	dbo:deathPlace
+dbr:India	
+dbr:Sam_Quinones	dbo:residence
+dbr:Matthew_Boulton_(actor)	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:John_Doyle_(critic)	dbo:residence
+dbr:Samuel_Platt	dbo:deathPlace
+dbr:Toronto	
+dbr:Charles_Dupin	dbo:residence
+dbr:Antonin_Berval	dbo:deathPlace
+dbr:France	
+dbr:Jesse_Lee_Peterson	dbo:residence
+dbr:Arthur_Jeffrey_Dempster	dbo:deathPlace
+dbr:United_States	
+dbr:Manjinder_Virk	dbo:residence
+dbr:George_Weldrick	dbo:deathPlace
+dbr:England	
+dbr:Alisa_Kleybanova	dbo:residence
+dbr:Gavriil_Kachalin	dbo:deathPlace
+dbr:Moscow	
+dbr:Alexa_Najera	dbo:residence
+dbr:Clarissa_Selwynne	dbo:deathPlace
+dbr:Los_Angeles,_California	dbr:United_States	
+dbr:Bob_Cashell	dbo:residence
+dbr:James_Tobin	dbo:deathPlace
+dbr:United_States	
+dbr:Wayne_Smith_(Texas_politician)	dbo:residence
+dbr:Mukwooru	dbo:deathPlace
+dbr:Texas	
+dbr:Tom_Preston-Werner	dbo:residence
+dbr:Mel_Ferber	dbo:deathPlace
+dbr:California	
+dbr:Martin_Hyland	dbo:residence
+dbr:George_Beet_senior	dbo:deathPlace
+dbr:England	
+dbr:Doris_Duke	dbo:residence
+dbr:George_Barnes_(cinematographer)	dbo:deathPlace
+dbr:California	
+dbr:Jerome_Hellman	dbo:residence
+dbr:Ann_Brody	dbo:deathPlace
+dbr:New_York_City	
+dbr:Vladimir_Matyushenko	dbo:residence
+dbr:Bruce_Hubbard	dbo:deathPlace
+dbr:United_States	
+dbr:Norman_Foster_Ramsey_Jr.	dbo:residence
+dbr:Robert_Rayford	dbo:deathPlace
+dbr:United_States	
+dbr:Anne_Gonzales	dbo:residence
+dbr:Harold_MacGrath	dbo:deathPlace
+dbr:United_States	
+dbr:Jimmy_McKenna	dbo:residence
+dbr:Henry_Ivatt	dbo:deathPlace
+dbr:England	
+dbr:Jean-Paul_Denanot	dbo:residence
+dbr:Léon_Printemps	dbo:deathPlace
+dbr:France	
+dbr:Andreas_Vgenopoulos_(businessman)	dbo:residence
+dbr:Alexandros_Rizos_Rangavis	dbo:deathPlace
+dbr:Athens	
+dbr:Darsheel_Safary	dbo:residence
+dbr:Faredoon_Driver	dbo:deathPlace
+dbr:India	
+dbr:Frank_Kassela	dbo:residence
+dbr:Medford_Bryan_Evans	dbo:deathPlace
+dbr:United_States	
+dbr:Nani_A._Coloretti	dbo:residence
+dbr:Hans_Suess	dbo:deathPlace
+dbr:United_States	
+dbr:Robert_Jay_Lifton	dbo:residence
+dbr:Vince_McCarthy	dbo:deathPlace
+dbr:United_States	
+dbr:Thorkild_Jacobsen	dbo:residence
+dbr:Benjamin_Robbins_Curtis	dbo:deathPlace
+dbr:United_States	
+dbr:Aryan_Pandit	dbo:residence
+dbr:Fearless_Nadia	dbo:deathPlace
+dbr:Mumbai	
+dbr:Jerrold_Nadler	dbo:residence
+dbr:Martha_Greenhouse	dbo:deathPlace
+dbr:Manhattan	
+dbr:Marissa_Mazzola-McMahon	dbo:residence
+dbr:John_Cooke_(entrepreneur)	dbo:deathPlace
+dbr:United_States	
+dbr:Angus_Deaton	dbo:residence
+dbr:William_P._Rogers	dbo:deathPlace
+dbr:United_States	
+dbr:Kyriacos_Demetriou	dbo:residence
+dbr:Joseph_Stella	dbo:deathPlace
+dbr:New_York_City	
+dbr:Vinny_Troia	dbo:residence
+dbr:David_Warfield	dbo:deathPlace
+dbr:United_States	
+dbr:Rishika_Sunkara	dbo:residence
+dbr:Munavvar_Lakhnavi	dbo:deathPlace
+dbr:India	
+dbr:Caroline_Sascha_Cogez	dbo:residence
+dbr:Charles_Hale_Hoyt	dbo:deathPlace
+dbr:United_States	
+dbr:Louise_Linton	dbo:residence
+dbr:Frank_Ford_(farmer)	dbo:deathPlace
+dbr:California	
+dbr:Samuel_Conway	dbo:residence
+dbr:Martin_L._Clardy	dbo:deathPlace
+dbr:United_States	
+dbr:Greta_Pope	dbo:residence
+dbr:Bullet_Joe_Simpson	dbo:deathPlace
+dbr:United_States	
+dbr:Aubrey_de_Grey	dbo:residence
+dbr:David_Bauer_(actor)	dbo:deathPlace
+dbr:England	
+dbr:Biz_Stone	dbo:residence
+dbr:Moose_Goheen	dbo:deathPlace
+dbr:United_States	
+dbr:Derek_Cabrera	dbo:residence
+dbr:Ephraim_H._Foster	dbo:deathPlace
+dbr:United_States	
+dbr:Anna_Földényi	dbo:residence
+dbr:Jose_A._Martin	dbo:deathPlace
+dbr:United_States	
+dbr:Hua_Eleanor_Yu	dbo:residence
+dbr:Derwin_Abrahams	dbo:deathPlace
+dbr:United_States	
+dbr:Richard_H._Geoghegan	dbo:residence
+dbr:Etienne_Girardot	dbo:deathPlace
+dbr:United_States	
+dbr:Laurie_Zaks	dbo:residence
+dbr:A._W._Sheldon	dbo:deathPlace
+dbr:California	
+dbr:Bilaal_Rajan	dbo:residence
+dbr:John_Lucas_(cricketer)	dbo:deathPlace
+dbr:Canada	
+dbr:Shelina_Begum	dbo:residence
+dbr:George_Gates_(footballer)	dbo:deathPlace
+dbr:England	
+dbr:Dale_Smith_(poet)	dbo:residence
+dbr:Roy_Burmister	dbo:deathPlace
+dbr:Canada	
+dbr:Brett_Hales	dbo:residence
+dbr:Byron_Kennedy	dbo:deathPlace
+dbr:Australia	
+dbr:Nadine_Schiff	dbo:residence
+dbr:Don_Simpson	dbo:deathPlace
+dbr:Bel_Air,_Los_Angeles	
+dbr:Rob_Mariano	dbo:residence
+dbr:W._Craig_Broadwater	dbo:deathPlace
+dbr:United_States	
+dbr:Matthias_Koehl	dbo:residence
+dbr:Hilary_A._Herbert	dbo:deathPlace
+dbr:United_States	
+dbr:Fulvio_Melia	dbo:residence
+dbr:Christopher_Chenery	dbo:deathPlace
+dbr:United_States	
+dbr:Joy_Giovanni	dbo:residence
+dbr:Karin_Higa	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:Janet_Krueger	dbo:residence
+dbr:Alfred_Tredway_White	dbo:deathPlace
+dbr:United_States	
+dbr:Marc_Feldmann	dbo:residence
+dbr:Tom_Revill	dbo:deathPlace
+dbr:England	
+dbr:Brent_White	dbo:residence
+dbr:Lee_Shih-chiao	dbo:deathPlace
+dbr:United_States	
+dbr:Thomas_Pagès	dbo:residence
+dbr:Sadek_Boukhalfa	dbo:deathPlace
+dbr:France	
+dbr:Gordon_P._Eaton	dbo:residence
+dbr:Péter_Schell	dbo:deathPlace
+dbr:United_States	
+dbr:Lakshmipati	dbo:residence
+dbr:M._V._Devan	dbo:deathPlace
+dbr:India	
+dbr:Pete_Maina	dbo:residence
+dbr:Thomas_H._Watts	dbo:deathPlace
+dbr:United_States	
+dbr:Jack_O'Connell_(actor)	dbo:residence
+dbr:George_Hay,_1st_Earl_of_Kinnoull	dbo:deathPlace
+dbr:London	
+dbr:Sir_John_Ellerman,_1st_Baronet	dbo:residence
+dbr:J._J._Bell-Irving	dbo:deathPlace
+dbr:London	
+dbr:Rich_Bradley	dbo:residence
+dbr:Lou_Gertenrich	dbo:deathPlace
+dbr:Chicago,_Illinois	
+dbr:Andrew_Housser	dbo:residence
+dbr:Connee_Boswell	dbo:deathPlace
+dbr:United_States	
+dbr:Ginette_Spanier	dbo:residence
+dbr:Germain-François_Poullain_de_Saint-Foix	dbo:deathPlace
+dbr:Paris	
+dbr:Josh_Kroenke	dbo:residence
+dbr:Irving_Penn	dbo:deathPlace
+dbr:New_York_City	
+dbr:Ed_Philip	dbo:residence
+dbr:Disappearance_of_Brandon_Crisp	dbo:deathPlace
+dbr:Ontario	
+dbr:Beno_Axionov	dbo:residence
+dbr:Conrad_Willgerodt	dbo:deathPlace
+dbr:Germany	
+dbr:Jack_Yost	dbo:residence
+dbr:Robert_E._Hannegan	dbo:deathPlace
+dbr:United_States	
+dbr:James_Donato	dbo:residence
+dbr:Jock_Ferguson	dbo:deathPlace
+dbr:United_States	
+dbr:Gerald_B._Cleaver	dbo:residence
+dbr:Richard_Biggs	dbo:deathPlace
+dbr:United_States	
+dbr:Sheila_Jasanoff	dbo:residence
+dbr:Vivian_Fine	dbo:deathPlace
+dbr:United_States	
+dbr:Vicente_Wolf	dbo:residence
+dbr:Patrick_O'Neal_(actor)	dbo:deathPlace
+dbr:Manhattan	
+dbr:Robert_Thurman	dbo:residence
+dbr:Raymond_Carver	dbo:deathPlace
+dbr:United_States	
+dbr:Ronald_G._Wanek	dbo:residence
+dbr:Francis_Jehl	dbo:deathPlace
+dbr:St._Petersburg,_Florida	
+dbr:Jean-Yves_Mollier	dbo:residence
+dbr:Thomas_Raddall_(sport_shooter)	dbo:deathPlace
+dbr:France	
+dbr:Bob_DeWeese	dbo:residence
+dbr:King_Swope	dbo:deathPlace
+dbr:Kentucky	
+dbr:Dom_Cardillo	dbo:residence
+dbr:Peter_Zezel	dbo:deathPlace
+dbr:Ontario	
+dbr:Henry_Head	dbo:residence
+dbr:Otto_Heller	dbo:deathPlace
+dbr:London	
+dbr:Richard_Cohen_(fencer)	dbo:residence
+dbr:Garnet_Bailey	dbo:deathPlace
+dbr:New_York_City	
+dbr:Josh_Flagg	dbo:residence
+dbr:Frank_Van_der_Veer	dbo:deathPlace
+dbr:California	
+dbr:Ikramul_Hoque	dbo:residence
+dbr:Nigel_Harrison_(cricketer)	dbo:deathPlace
+dbr:England	
+dbr:Noriko_Yui	dbo:residence
+dbr:Gordon_Henry_(ice_hockey)	dbo:deathPlace
+dbr:Canada	
+dbr:Emma_Georgina_Rothschild	dbo:residence
+dbr:Paula_Hawkins	dbo:deathPlace
+dbr:United_States	
+dbr:Saoirse_Ronan	dbo:residence
+dbr:Red_Wing_(actress)	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Poh_Ling_Yeow	dbo:residence
+dbr:Diedrich_Henne	dbo:deathPlace
+dbr:Australia	
+dbr:Diwan_Rahul_Nanda	dbo:residence
+dbr:Nova_Pilbeam	dbo:deathPlace
+dbr:London	
+dbr:Raimundo_Arrais_do_Rosário	dbo:residence
+dbr:Liu_Changchun	dbo:deathPlace
+dbr:China	
+dbr:Trenna_Keating	dbo:residence
+dbr:Irene_Uchida	dbo:deathPlace
+dbr:Toronto	
+dbr:George_Karreman	dbo:residence
+dbr:Caroline_van_Dommelen	dbo:deathPlace
+dbr:Netherlands	
+dbr:Mike_Davis_(politician)	dbo:residence
+dbr:Gordon_Bau	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:Blake_Aldridge	dbo:residence
+dbr:Aileen_Marson	dbo:deathPlace
+dbr:London	
+dbr:Simi_Linton	dbo:residence
+dbr:E._H._Moore	dbo:deathPlace
+dbr:United_States	
+dbr:Paul_Greengrass	dbo:residence
+dbr:Jill_Bennett_(British_actress)	dbo:deathPlace
+dbr:England	
+dbr:Bernard_Cottret	dbo:residence
+dbr:Pierre_Bettencourt	dbo:deathPlace
+dbr:France	
+dbr:Mahinda_Amaraweera	dbo:residence
+dbr:K._N._Choksy	dbo:deathPlace
+dbr:Colombo	
+dbr:Harrison_Gray_Dyar_Jr.	dbo:residence
+dbr:Fitzhugh_Lee	dbo:deathPlace
+dbr:Washington,_D.C.	
+dbr:Ann_Mulvale	dbo:residence
+dbr:Hubert_Davidson	dbo:deathPlace
+dbr:Canada	
+dbr:Aldin_Šetkić	dbo:residence
+dbr:André_Kempinaire	dbo:deathPlace
+dbr:Belgium	
+dbr:PZ_Myers	dbo:residence
+dbr:Mel_Bay	dbo:deathPlace
+dbr:United_States	
+dbr:Paul_Maxwell	dbo:residence
+dbr:Gottfried_von_Bismarck	dbo:deathPlace
+dbr:United_Kingdom	
+dbr:Bill_Lee_(yacht_designer)	dbo:residence
+dbr:Emory_Parnell	dbo:deathPlace
+dbr:California	
+dbr:Peter_Som	dbo:residence
+dbr:Rufus_T._Bush	dbo:deathPlace
+dbr:New_York_City	
+dbr:Michael_R._Hayden	dbo:residence
+dbr:Dick_Aldridge	dbo:deathPlace
+dbr:Canada	
+dbr:Cris_Crotz	dbo:residence
+dbr:Joseph_Barss_(ice_hockey)	dbo:deathPlace
+dbr:United_States	
+dbr:Marc_Mezvinsky	dbo:residence
+dbr:Thomas_Henry_Poole	dbo:deathPlace
+dbr:New_York_City	
+dbr:Omneya_Abdel_Kawy	dbo:residence
+dbr:Pahor_Labib	dbo:deathPlace
+dbr:Cairo	
+dbr:Clare_Bronfman	dbo:residence
+dbr:W._Averell_Harriman	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Louis_Blaylock	dbo:residence
+dbr:Henry_D._%22Homer%22_Haynes	dbo:deathPlace
+dbr:United_States	
+dbr:Johan_Kriek	dbo:residence
+dbr:Tiny_Grimes	dbo:deathPlace
+dbr:United_States	
+dbr:Yuri_Savenko	dbo:residence
+dbr:Otto_Wille_Kuusinen	dbo:deathPlace
+dbr:Moscow	
+dbr:Ratan_Kumar_Sinha	dbo:residence
+dbr:Tarachand_Sahu	dbo:deathPlace
+dbr:Mumbai	
+dbr:Bert_Hatten	dbo:residence
+dbr:Rod_Masterson	dbo:deathPlace
+dbr:Louisiana	
+dbr:Chris_Botherway	dbo:residence
+dbr:Cosmo_Crawley	dbo:deathPlace
+dbr:England	
+dbr:Bobby_Roode	dbo:residence
+dbr:Franc_Abulnar	dbo:deathPlace
+dbr:Canada	
+dbr:Fritz_Zwicky	dbo:residence
+dbr:Alex_Caie	dbo:deathPlace
+dbr:United_States	
+dbr:Arthur_E._Bryson	dbo:residence
+dbr:A._Veluppillai	dbo:deathPlace
+dbr:United_States	
+dbr:Jason_Hale_(politician)	dbo:residence
+dbr:Angelo_Montemurro	dbo:deathPlace
+dbr:Alberta	
+dbr:Giovanni_Lapentti	dbo:residence
+dbr:Richard_Olney	dbo:deathPlace
+dbr:United_States	
+dbr:Anastasia_Frolova	dbo:residence
+dbr:Victor_Karpov	dbo:deathPlace
+dbr:Moscow	dbr:Russia	
+dbr:Clifford_Stein	dbo:residence
+dbr:Nathan_Feinsinger	dbo:deathPlace
+dbr:United_States	
+dbr:Parker_Self	dbo:residence
+dbr:Joseph_W._Sarno	dbo:deathPlace
+dbr:United_States	
+dbr:Ali_Hajimiri	dbo:residence
+dbr:Cliff_Norton	dbo:deathPlace
+dbr:United_States	
+dbr:Abby_Sunderland	dbo:residence
+dbr:Edward_L._Masry	dbo:deathPlace
+dbr:Thousand_Oaks,_California	
+dbr:Helder_Antunes	dbo:residence
+dbr:Albert_W._Hawkes	dbo:deathPlace
+dbr:California	
+dbr:Polly_Samson	dbo:residence
+dbr:Mick_Aston	dbo:deathPlace
+dbr:England	
+dbr:Robert_Bernardo	dbo:residence
+dbr:Gary_Usher	dbo:deathPlace
+dbr:California	
+dbr:E._R._Minchew	dbo:residence
+dbr:George_Despot	dbo:deathPlace
+dbr:Louisiana	
+dbr:Dolph_Ziggler	dbo:residence
+dbr:Jane_Novak	dbo:deathPlace
+dbr:United_States	
+dbr:Robert_Tchenguiz	dbo:residence
+dbr:Richard_Vernon	dbo:deathPlace
+dbr:London	
+dbr:Michael_Yaki	dbo:residence
+dbr:Charles_Ray_(actor)	dbo:deathPlace
+dbr:California	
+dbr:Martha_Crawford_Heitzmann	dbo:residence
+dbr:Tony_Robert-Fleury	dbo:deathPlace
+dbr:Paris	
+dbr:Lakshmi_Pratury	dbo:residence
+dbr:George_A._Williams_(actor)	dbo:deathPlace
+dbr:California	
+dbr:Jacqueline_Hernández	dbo:residence
+dbr:Joe_B._Finley	dbo:deathPlace
+dbr:United_States	
+dbr:Cheri_DiNovo	dbo:residence
+dbr:John_Herbert_(playwright)	dbo:deathPlace
+dbr:Ontario	dbr:Toronto	
+dbr:Vicky_Entwistle	dbo:residence
+dbr:Alfred_de_Rothschild	dbo:deathPlace
+dbr:England	
+dbr:Montie_Ritchie	dbo:residence
+dbr:Jerome_X._O'Donovan	dbo:deathPlace
+dbr:United_States	
+dbr:Elsa_Reichmanis	dbo:residence
+dbr:Harry_Fox	dbo:deathPlace
+dbr:United_States	
+dbr:AnnMaria_De_Mars	dbo:residence
+dbr:Leon_Shamroy	dbo:deathPlace
+dbr:California	
+dbr:Fábio_Santos	dbo:residence
+dbr:Pike_Johnson	dbo:deathPlace
+dbr:United_States	
+dbr:Cleber_Luciano	dbo:residence
+dbr:Claudine_West	dbo:deathPlace
+dbr:United_States	
+dbr:Lesley_Stewart	dbo:residence
+dbr:Stanley_Pearce	dbo:deathPlace
+dbr:England	
+dbr:Deborah_Hudson	dbo:residence
+dbr:Charles_Winter_(Philadelphia_cricketer)	dbo:deathPlace
+dbr:Wilmington,_Delaware	
+dbr:Darryl_S._Inaba	dbo:residence
+dbr:Westmoreland_Davis	dbo:deathPlace
+dbr:United_States	
+dbr:Stephanie_Howse	dbo:residence
+dbr:Ed_Zmich	dbo:deathPlace
+dbr:Cleveland,_Ohio	
+dbr:Carole_Bayer_Sager	dbo:residence
+dbr:Harriet_Mann_Miller	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Yoshikazu_Tanaka	dbo:residence
+dbr:Yayori_Matsui	dbo:deathPlace
+dbr:Tokyo	
+dbr:Ingrid_Gamarra_Martins	dbo:residence
+dbr:Princess_Cecylia_Lubomirska	dbo:deathPlace
+dbr:Brazil	
+dbr:Bruce_Lincoln	dbo:residence
+dbr:L._Patrick_Gray	dbo:deathPlace
+dbr:United_States	
+dbr:Theodore_von_Kármán_bibliography	dbo:residence
+dbr:John_A._McDougald	dbo:deathPlace
+dbr:United_States	
+dbr:Brandon_Creighton	dbo:residence
+dbr:Robert_Gammage	dbo:deathPlace
+dbr:Texas	
+dbr:Michael_Zerner	dbo:residence
+dbr:Bruno_Gerzeli	dbo:deathPlace
+dbr:United_States	
+dbr:Eric_Linder	dbo:residence
+dbr:Gore_Vidal	dbo:deathPlace
+dbr:California	
+dbr:Jade_Wang	dbo:residence
+dbr:Bill_Pickering_(rocket_scientist)	dbo:deathPlace
+dbr:California	
+dbr:Tony_Barrell_(journalist)	dbo:residence
+dbr:Mary_Grey,_Countess_Grey	dbo:deathPlace
+dbr:London	
+dbr:Peter_Howitt	dbo:residence
+dbr:Donald_Rix	dbo:deathPlace
+dbr:British_Columbia	dbr:Vancouver	
+dbr:Duncan_MacDougall_(doctor)	dbo:residence
+dbr:Robert_J._Flaherty	dbo:deathPlace
+dbr:United_States	
+dbr:Ajmal_Masroor	dbo:residence
+dbr:Herbert_Allsopp	dbo:deathPlace
+dbr:England	
+dbr:The_Iron_Sheik	dbo:residence
+dbr:Wilfred_Feinberg	dbo:deathPlace
+dbr:United_States	
+dbr:Mostafa_Azizi	dbo:residence
+dbr:James_Stitt	dbo:deathPlace
+dbr:Toronto	
+dbr:Charles_Thom	dbo:residence
+dbr:Gertrude_Astor	dbo:deathPlace
+dbr:United_States	
+dbr:Everett_L._Fullam	dbo:residence
+dbr:George_L._Fox_(clown)	dbo:deathPlace
+dbr:United_States	
+dbr:Walter_M._Bortz_III	dbo:residence
+dbr:Albert_Watson_(South_Carolina)	dbo:deathPlace
+dbr:South_Carolina	
+dbr:G._P._%22Bud%22_Peterson	dbo:residence
+dbr:August_Heckscher	dbo:deathPlace
+dbr:United_States	
+dbr:William_Pinhorne	dbo:residence
+dbr:Shulamith_Firestone	dbo:deathPlace
+dbr:New_York_City	
+dbr:Carlos_Bertulani	dbo:residence
+dbr:Samuel_Lightfoot_Flournoy	dbo:deathPlace
+dbr:United_States	
+dbr:Prakash_Apte	dbo:residence
+dbr:V._Madhusudhan_Rao	dbo:deathPlace
+dbr:India	
+dbr:Anshul_Pandey	dbo:residence
+dbr:Kalyan_Sundaram	dbo:deathPlace
+dbr:India	
+dbr:Ravi_Paturi	dbo:residence
+dbr:Abhi_Bhattacharya	dbo:deathPlace
+dbr:India	
+dbr:Patricia_Bates	dbo:residence
+dbr:Albert_Conti	dbo:deathPlace
+dbr:California	
+dbr:Nikki_Thomas_(activist)	dbo:residence
+dbr:John_Robert_Boyle	dbo:deathPlace
+dbr:Ontario	
+dbr:Sammy_Albon	dbo:residence
+dbr:Bernard_Bresslaw	dbo:deathPlace
+dbr:England	dbr:London	
+dbr:Oleg_Lupanov	dbo:residence
+dbr:Samuil_Marshak	dbo:deathPlace
+dbr:Soviet_Union	
+dbr:Todd_Novak	dbo:residence
+dbr:Arthur_%22Big_Boy%22_Spires	dbo:deathPlace
+dbr:United_States	
+dbr:Joe_Baca_Jr.	dbo:residence
+dbr:Bob_Montgomery_(boxer)	dbo:deathPlace
+dbr:United_States	
+dbr:James_Urbaniak	dbo:residence
+dbr:George_Godfrey_(boxer_born_1897)	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Shing-Tung_Yau	dbo:residence
+dbr:Terry_Sawchuk	dbo:deathPlace
+dbr:United_States	
+dbr:Adriaan_Wesselink	dbo:residence
+dbr:Michael_McCarty	dbo:deathPlace
+dbr:United_States	
+dbr:Antonio_Carluccio	dbo:residence
+dbr:Francis_Loraine_Petre	dbo:deathPlace
+dbr:England	dbr:London	
+dbr:Kalaiyarasan	dbo:residence
+dbr:Mariam_Vattalil	dbo:deathPlace
+dbr:India	
+dbr:Lev_Rebet	dbo:residence
+dbr:Evi_Eva	dbo:deathPlace
+dbr:West_Germany	
+dbr:Ashok_Das	dbo:residence
+dbr:Albert_Tocco	dbo:deathPlace
+dbr:United_States	
+dbr:Zomahoun_Idossou_Rufin	dbo:residence
+dbr:Tomoyoshi_Murayama	dbo:deathPlace
+dbr:Tokyo	
+dbr:Barbara_Cegavske	dbo:residence
+dbr:C._O'Conor_Goolrick	dbo:deathPlace
+dbr:United_States	
+dbr:Frank_Bournois	dbo:residence
+dbr:Marcelle_Monthil	dbo:deathPlace
+dbr:Paris	
+dbr:Robert_L._Prestel	dbo:residence
+dbr:Joey_Maggs	dbo:deathPlace
+dbr:Maryland	
+dbr:Ogden_Mills	dbo:residence
+dbr:Victor_Séjour	dbo:deathPlace
+dbr:Paris	
+dbr:William_Gould_Dow	dbo:residence
+dbr:Aaron_A._Sargent	dbo:deathPlace
+dbr:United_States	
+dbr:Jim_Wood_(California_politician)	dbo:residence
+dbr:Winifred_Westover	dbo:deathPlace
+dbr:California	
+dbr:Anthony_Rendon_(politician)	dbo:residence
+dbr:Virginia_Grey	dbo:deathPlace
+dbr:California	
+dbr:Amardeep_Jha	dbo:residence
+dbr:Santosh_Ganguli	dbo:deathPlace
+dbr:India	
+dbr:Adetokunbo_Lucas	dbo:residence
+dbr:Ruth_Gordon	dbo:deathPlace
+dbr:Massachusetts	
+dbr:Claudia_Hiersche	dbo:residence
+dbr:Alexander_Moszkowski	dbo:deathPlace
+dbr:Berlin	
+dbr:Carl_Hart	dbo:residence
+dbr:Choh_Hao_Li	dbo:deathPlace
+dbr:United_States	
+dbr:Janet_Krueger	dbo:residence
+dbr:Henry_Baldwin_Harrison	dbo:deathPlace
+dbr:United_States	
+dbr:Ehab_Al_Shihabi	dbo:residence
+dbr:Mimi_Weddell	dbo:deathPlace
+dbr:New_York_City	
+dbr:Ed_Ziemba	dbo:residence
+dbr:George_Goulding	dbo:deathPlace
+dbr:Toronto	
+dbr:Zhang_Tingyan	dbo:residence
+dbr:Zhang_Chunqiao	dbo:deathPlace
+dbr:Beijing	
+dbr:Tracy_Smothers	dbo:residence
+dbr:Herb_Sies	dbo:deathPlace
+dbr:United_States	
+dbr:Laura_Duffy	dbo:residence
+dbr:Bonnie_Harris	dbo:deathPlace
+dbr:United_States	
+dbr:Charles-Ange_Laisant	dbo:residence
+dbr:Godefroy_de_La_Tour_d'Auvergne	dbo:deathPlace
+dbr:France	
+dbr:Samuel_Conway	dbo:residence
+dbr:Noel_Toy	dbo:deathPlace
+dbr:United_States	
+dbr:Ileana_Salvador	dbo:residence
+dbr:Ulrika_Pasch	dbo:deathPlace
+dbr:Stockholm	
+dbr:Meer_Ali	dbo:residence
+dbr:Vinayak_Rao_Koratkar	dbo:deathPlace
+dbr:India	
+dbr:Janine_Boyd	dbo:residence
+dbr:Michael_Ratchford	dbo:deathPlace
+dbr:United_States	
+dbr:Albert_W._Hull	dbo:residence
+dbr:John_Burnside_(inventor)	dbo:deathPlace
+dbr:United_States	
+dbr:Walter_Mischel	dbo:residence
+dbr:Dennis_Cleveland_Stewart	dbo:deathPlace
+dbr:United_States	
+dbr:Ashton_Hayward	dbo:residence
+dbr:Ali_Akbar_Tabatabaei	dbo:deathPlace
+dbr:United_States	
+dbr:Reemma_Sen	dbo:residence
+dbr:Vijay_Hazare	dbo:deathPlace
+dbr:India	
+dbr:Atique_Choudhury	dbo:residence
+dbr:Judy_Gunn	dbo:deathPlace
+dbr:England	dbr:London	
+dbr:Dilan_Jayawardane	dbo:residence
+dbr:Reubin_Askew	dbo:deathPlace
+dbr:United_States	
+dbr:Bilal_M._Ayyub	dbo:residence
+dbr:John_T._Buckbee	dbo:deathPlace
+dbr:United_States	
+dbr:Astier_Nicolas	dbo:residence
+dbr:Frederick_Kerr	dbo:deathPlace
+dbr:England	
+dbr:Michele_Ruiz	dbo:residence
+dbr:J._E._Freeman	dbo:deathPlace
+dbr:California	
+dbr:Moorad_Choudhry	dbo:residence
+dbr:Frank_Thornton_(cricketer)	dbo:deathPlace
+dbr:England	
+dbr:William_Dale_Phillips	dbo:residence
+dbr:Nicolas_Rashevsky	dbo:deathPlace
+dbr:United_States	
+dbr:Esther_K._Chae	dbo:residence
+dbr:Olive_Borden	dbo:deathPlace
+dbr:California	
+dbr:Peter_W._Mullin	dbo:residence
+dbr:Lauro_Bordin	dbo:deathPlace
+dbr:Italy	
+dbr:Guy_Wildenstein	dbo:residence
+dbr:Denzil_Best	dbo:deathPlace
+dbr:New_York_City	
+dbr:Brian_Shaw_(strongman)	dbo:residence
+dbr:Benjamin_Robbins_Curtis	dbo:deathPlace
+dbr:United_States	
+dbr:Richard_Brake	dbo:residence
+dbr:Lou_Rawls	dbo:deathPlace
+dbr:Los_Angeles	
+dbr:Bubba_Ray_Dudley	dbo:residence
+dbr:Torrey_Mosvold	dbo:deathPlace
+dbr:Florida	
+dbr:Edward_J._Wickson	dbo:residence
+dbr:Denver_S._Dickerson	dbo:deathPlace
+dbr:United_States	
+dbr:Martin_Rodbell	dbo:residence
+dbr:György_Piller	dbo:deathPlace
+dbr:United_States	
+dbr:Chad_Gable	dbo:residence
+dbr:Connie_Clausen	dbo:deathPlace
+dbr:United_States	
+dbr:James_R._Biard	dbo:residence
+dbr:Marcella_Rabwin	dbo:deathPlace
+dbr:United_States	
+dbr:Denise_Sheer	dbo:residence
+dbr:Tony_Benn	dbo:deathPlace
+dbr:London	
+dbr:Brendon_Villegas	dbo:residence
+dbr:John_Mason_(planter)	dbo:deathPlace
+dbr:United_States	
+dbr:Jane_Lynch	dbo:residence
+dbr:Albert_Maltz	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Harold_Alden_Wheeler	dbo:residence
+dbr:Kyriacos_Demetriou	dbo:deathPlace
+dbr:United_States	
+dbr:Hamilton_Castner	dbo:residence
+dbr:Samuel_Benton_Callahan	dbo:deathPlace
+dbr:United_States	
+dbr:Shawn_Hatosy	dbo:residence
+dbr:James_Shigeta	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Martin_Bouygues	dbo:residence
+dbr:Jacques_Garelli	dbo:deathPlace
+dbr:Paris	
+dbr:Bert_Greeves	dbo:residence
+dbr:Henry_Sugden	dbo:deathPlace
+dbr:England	
+dbr:John_Cochran_(Survivor_contestant)	dbo:residence
+dbr:Fred_Rose_(songwriter)	dbo:deathPlace
+dbr:United_States	
+dbr:William_Magee_(physician)	dbo:residence
+dbr:Emil_G._Hirsch	dbo:deathPlace
+dbr:United_States	
+dbr:Georges_Goven	dbo:residence
+dbr:Charles_Bossut	dbo:deathPlace
+dbr:Paris	
+dbr:Jade_(wrestler)	dbo:residence
+dbr:Jimmy_Reed	dbo:deathPlace
+dbr:United_States	
+dbr:William_von_Eggers_Doering	dbo:residence
+dbr:Carman_A._Newcomb	dbo:deathPlace
+dbr:United_States	
+dbr:Antonio_Rodotà	dbo:residence
+dbr:Mario_Tontodonati	dbo:deathPlace
+dbr:Italy	
+dbr:Marc_Iliffe	dbo:residence
+dbr:Sydney_Paget	dbo:deathPlace
+dbr:England	
+dbr:Jason_Ratcliff	dbo:residence
+dbr:John_Warburton_(actor)	dbo:deathPlace
+dbr:United_States	
+dbr:Irina_Zhuk	dbo:residence
+dbr:Mikhail_Volpin	dbo:deathPlace
+dbr:Moscow	
+dbr:Shevyn_Roberts	dbo:residence
+dbr:Cyd_Charisse	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:Martha_MacIsaac	dbo:residence
+dbr:Charles_Cooper_(actor)	dbo:deathPlace
+dbr:California	
+dbr:Katie_O'Brien	dbo:residence
+dbr:Doug_Wright_(cricketer)	dbo:deathPlace
+dbr:England	
+dbr:Ron_Lurie	dbo:residence
+dbr:Abraham_Jacobi	dbo:deathPlace
+dbr:United_States	
+dbr:Kristen_Lange	dbo:residence
+dbr:Mildred_Lillie	dbo:deathPlace
+dbr:United_States	
+dbr:Huimin_Zhao	dbo:residence
+dbr:John_Bunny	dbo:deathPlace
+dbr:United_States	
+dbr:Colette_Giudicelli	dbo:residence
+dbr:Volin	dbo:deathPlace
+dbr:France	
+dbr:Thomas_E._Hogan	dbo:residence
+dbr:Dennis_Michael_Collins	dbo:deathPlace
+dbr:United_States	
+dbr:Richard_Thornton_Wilson_Jr.	dbo:residence
+dbr:Samuel_Sachs	dbo:deathPlace
+dbr:New_York_City	
+dbr:Kevin_Garn	dbo:residence
+dbr:Cholly_Atkins	dbo:deathPlace
+dbr:United_States	
+dbr:Christopher_Simpson_(actor)	dbo:residence
+dbr:Charles_Carson_(actor)	dbo:deathPlace
+dbr:England	dbr:London	
+dbr:Alessandro_Morbidelli_(astronomer)	dbo:residence
+dbr:John_Cassian	dbo:deathPlace
+dbr:France	
+dbr:Richard_Wilson_(physicist)	dbo:residence
+dbr:Olga_San_Juan	dbo:deathPlace
+dbr:United_States	
+dbr:Peter_Griess	dbo:residence
+dbr:Arthur_Sellick	dbo:deathPlace
+dbr:England	
+dbr:Donna_J._Boley	dbo:residence
+dbr:Theo_Marcuse	dbo:deathPlace
+dbr:United_States	
+dbr:Lena_Headey	dbo:residence
+dbr:Joseph_W._Farnham	dbo:deathPlace
+dbr:California	dbr:Los_Angeles	
+dbr:Jack_Garland_(Canadian_politician)	dbo:residence
+dbr:Robert_Parke_Cameron	dbo:deathPlace
+dbr:Ontario	
+dbr:Robert_Kayen	dbo:residence
+dbr:Edgar_W._Hiestand	dbo:deathPlace
+dbr:California	
+dbr:Bill_Biggart	dbo:residence
+dbr:Werner_Klemperer	dbo:deathPlace
+dbr:New_York_City	
+dbr:Adil_Asadov	dbo:residence
+dbr:Agshin_Alizadeh	dbo:deathPlace
+dbr:Azerbaijan	dbr:Baku	
+dbr:A._V._Balakrishnan	dbo:residence
+dbr:Gus_Johnson_(jazz_musician)	dbo:deathPlace
+dbr:United_States	
+dbr:Mark_Relyea	dbo:residence
+dbr:Joseph_Cotten	dbo:deathPlace
+dbr:Los_Angeles	
+dbr:Richard_Simmons	dbo:residence
+dbr:Wellington_Koo	dbo:deathPlace
+dbr:United_States	
+dbr:Edward_Aninaru	dbo:residence
+dbr:Virginia_Cherrill	dbo:deathPlace
+dbr:California	
+dbr:Joseph_J._Talavage	dbo:residence
+dbr:Peter_Milano	dbo:deathPlace
+dbr:United_States	
+dbr:Hossein_Fatemi_(psychiatrist)	dbo:residence
+dbr:John_Cossette	dbo:deathPlace
+dbr:United_States	
+dbr:Mark_Fishman	dbo:residence
+dbr:Robert_Hunter_(author)	dbo:deathPlace
+dbr:United_States	
+dbr:Frederick_Neuhouser	dbo:residence
+dbr:Jim_Londos	dbo:deathPlace
+dbr:United_States	
+dbr:Parichay_Sharma	dbo:residence
+dbr:Jyoti_Basu	dbo:deathPlace
+dbr:India	
+dbr:Menachem_Mendel_Monsohn	dbo:residence
+dbr:Allyn_King	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Ronald_Richards_(lawyer)	dbo:residence
+dbr:Poldi_Dur	dbo:deathPlace
+dbr:Beverly_Hills,_California	
+dbr:Malia_Cohen	dbo:residence
+dbr:Aaron_Director	dbo:deathPlace
+dbr:California	
+dbr:Ryan_Tran	dbo:residence
+dbr:Frank_Brazill	dbo:deathPlace
+dbr:Oakland,_California	
+dbr:Andrew_Rivkin	dbo:residence
+dbr:Ethel_Smith_(athlete)	dbo:deathPlace
+dbr:Canada	dbr:Ontario	dbr:Toronto	
+dbr:Edith_Katherine_Cash	dbo:residence
+dbr:Ralph_McAllister	dbo:deathPlace
+dbr:United_States	
+dbr:Chaz_Bono	dbo:residence
+dbr:Ralph_Hoffmann	dbo:deathPlace
+dbr:California	
+dbr:Eric_Morris_(actor)	dbo:residence
+dbr:Frankie_Lee	dbo:deathPlace
+dbr:Los_Angeles,_California	
+dbr:Justin_Hall	dbo:residence
+dbr:Fred_Kelsey	dbo:deathPlace
+dbr:California	
+dbr:Raul_Krauthausen	dbo:residence
+dbr:Herbert_Erhardt	dbo:deathPlace
+dbr:Germany	
+dbr:Walter_H._Kansteiner,_III	dbo:residence
+dbr:Max_Borges,_Jr.	dbo:deathPlace
+dbr:Virginia	
+dbr:Daniel_Radcliffe	dbo:residence
+dbr:John_Francis_Dodge	dbo:deathPlace
+dbr:New_York_(state)	
+dbr:Archie_Bland	dbo:residence
+dbr:Harold_Williams_(linguist)	dbo:deathPlace
+dbr:London	
+dbr:Banesh_Hoffmann	dbo:residence
+dbr:Charles_Hillman_Brough	dbo:deathPlace
+dbr:United_States	
+dbr:Peter_Moore_(chemist)	dbo:residence
+dbr:William_Cushing	dbo:deathPlace
+dbr:United_States	
+dbr:Balka_Suman	dbo:residence
+dbr:Sadashiv_Amrapurkar	dbo:deathPlace
+dbr:India	
+dbr:Arash_Markazi	dbo:residence
+dbr:Paulding_Farnham	dbo:deathPlace
+dbr:United_States	
+dbr:Paul_Calandra	dbo:residence
+dbr:Gina_Wilkinson	dbo:deathPlace
+dbr:Ontario	
+dbr:Menhaj_Huda	dbo:residence
+dbr:Millicent_Fawcett	dbo:deathPlace
+dbr:London	
+dbr:Abbas_Edalat	dbo:residence
+dbr:A._G._Stephen	dbo:deathPlace
+dbr:London	dbr:United_Kingdom	
+dbr:Masatsugu_Suzuki	dbo:residence
+dbr:Jim_Leonard_(photographer)	dbo:deathPlace
+dbr:United_States	
+dbr:James_D._Meindl	dbo:residence
+dbr:Helen_Boosalis	dbo:deathPlace
+dbr:United_States	
+dbr:Carstairs_Douglas	dbo:residence
+dbr:Willie_Fernie_(footballer)	dbo:deathPlace
+dbr:Scotland

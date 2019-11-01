@@ -1,0 +1,19 @@
+
+21.
+select * where {
+        ?p dbo:starring ?o.
+        ?p dbo:location dbr:Province_of_New_York.}
+
+Rule (6)
+dbo:starring rdfs:range dbo:Actor
+Rule (5)
+dbo:starring rdfs:domain dbo:Work
+
+Reformed Query
+select * where {
+        ?o rdf:type dbo:Actor.
+		?p dbo:location dbr:Province_of_New_York.}
+
+select * where {
+        ?p rdf:type dbo:Work.
+        ?o rdf:type dbo:Actor.}

@@ -1,0 +1,3000 @@
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Solar_energy
+dbr:Econet_Wireless	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Medical_software
+dbr:Axxess_Technology_Solutions	
+dbo:regionServed	dbr:Province_of_Taranto
+dbo:product	dbr:Rail_transport
+dbr:Ferrovie_del_Sud_Est	
+dbo:regionServed	dbr:Sri_Lanka
+dbo:product	dbr:Retail
+dbr:Cargills_(Ceylon)_PLC	
+dbo:regionServed	dbr:U.S.A
+dbo:product	dbr:Clothing
+dbr:Raja_Fashions	
+dbo:regionServed	dbr:Slovakia
+dbo:product	dbr:Commercial_Banking
+dbr:ZUNO_Bank_AG	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Real_estate
+dbr:Hamilton_Bradshaw	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Dietary_supplement
+dbr:Protandim	
+dbo:regionServed	dbr:Ryfylke
+dbo:product	dbr:District_heating
+dbr:Lyse_Energi	
+dbo:regionServed	dbr:Mexico
+dbo:product	dbr:Signage
+dbr:Fastsigns	
+dbo:regionServed	dbr:Israel
+dbo:product	dbr:Coffee
+dbr:Landwer_coffee	dbr:Dunkin'_Donuts_Israel	
+dbo:regionServed	dbr:Burundi
+dbo:product	dbr:Retailer
+dbr:VimpelCom_Ltd.	dbr:Wind_Telecom	
+dbo:regionServed	dbr:Nepal
+dbo:product	dbr:Wealth_management
+dbr:Everest_Bank_Limited	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Hydrocarbon_exploration
+dbr:Murco_Petroleum	
+dbo:regionServed	dbr:Jamshedpur
+dbo:product	dbr:Hotels
+dbr:Ashiana_Housing	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Copper
+dbr:Freeport-McMoRan	
+dbo:regionServed	dbr:UAE
+dbo:product	dbr:Credit_Cards
+dbr:Bank_of_Bahrain_and_Kuwait	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Wine_accessory
+dbr:Vacu_Vin	
+dbo:regionServed	dbr:Middle_East
+dbo:product	dbr:Smoothies
+dbr:Coffee_Republic	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Steak
+dbr:Red_Lobster	
+dbo:regionServed	dbr:Canary_Islands
+dbo:product	dbr:Retail_banking
+dbr:Banca_March	
+dbo:regionServed	dbr:Pennsylvania
+dbo:product	dbr:Cuisine_of_the_United_States
+dbr:Charlie_Brown's_Fresh_Grill	
+dbo:regionServed	dbr:Florida
+dbo:product	dbr:Sandwich
+dbr:Wahlburgers__Wahlburgers__1	
+dbo:regionServed	dbr:Puerto_Rico
+dbo:product	dbr:Loungewear
+dbr:Bare_Necessities_(company)	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Cartoon_Network
+dbr:Turner_Broadcasting_System_Europe	
+dbo:regionServed	dbr:Las_Vegas
+dbo:product	dbr:Product_(business)
+dbr:Wahlburgers__Wahlburgers__1	
+dbo:regionServed	dbr:Myanmar
+dbo:product	dbr:Italian-American_cuisine
+dbr:The_Pizza_Company	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Cosmetics
+dbr:Primark	
+dbo:regionServed	dbr:Texas_Hill_Country
+dbo:product	dbr:Retail_banking
+dbr:Moody_National_Bank	
+dbo:regionServed	dbr:Kentucky
+dbo:product	dbr:Life_insurance
+dbr:Shelter_Insurance	
+dbo:regionServed	dbr:Maryland
+dbo:product	dbr:Frozen_foods
+dbr:Harris_Teeter	
+dbo:regionServed	dbr:East_Africa
+dbo:product	dbr:Brokerage
+dbr:Dyer_&_Blair_Investment_Bank	
+dbo:regionServed	dbr:Colombia
+dbo:product	dbr:Beer
+dbr:Bavaria_Brewery_(Colombia)	
+dbo:regionServed	dbr:Nashville,_Tennessee
+dbo:product	dbr:Ice_Cream
+dbr:Jeni's_Splendid_Ice_Creams	
+dbo:regionServed	dbr:Jhapa
+dbo:product	dbr:Dairy
+dbr:NMC_Jhapa	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Containerization
+dbr:Danaos_Corporation	
+dbo:regionServed	dbr:Oman
+dbo:product	dbr:Fashion_accessories
+dbr:Padini	
+dbo:regionServed	dbr:West_Virginia
+dbo:product	dbr:Electricity_distribution
+dbr:American_Electric_Power	
+dbo:regionServed	dbr:Belgium
+dbo:product	dbr:E-book
+dbr:Kobo_Inc.	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Pharmacy
+dbr:AmerisourceBergen	
+dbo:regionServed	dbr:Northern_Ireland
+dbo:product	dbr:Rail_transport
+dbr:British_Rail	
+dbo:regionServed	dbr:Americas
+dbo:product	dbr:Sleuth_Kit
+dbr:Basis_Technology_Corp.	
+dbo:regionServed	dbr:Kuwait
+dbo:product	dbr:Donuts
+dbr:Go_Nuts_Donuts	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Getter_Robo
+dbr:Dynamic_Planning	
+dbo:regionServed	dbr:Travis_County,_Texas
+dbo:product	dbr:Online_banking
+dbr:United_Heritage_Credit_Union	
+dbo:regionServed	dbr:British_Columbia
+dbo:product	dbr:Digital_subscriber_line
+dbr:Vmedia	
+dbo:regionServed	dbr:Bulgaria
+dbo:product	dbr:Laptop
+dbr:Pravetz_computers	
+dbo:regionServed	dbr:Scandinavia
+dbo:product	dbr:Web_hosting
+dbr:InCreo_Interactive_Creations_AS	
+dbo:regionServed	dbr:Western_Canada
+dbo:product	dbr:Daily_newspaper
+dbr:Alta_Newspaper_Group	dbr:Glacier_Media	
+dbo:regionServed	dbr:Central_New_York
+dbo:product	dbr:Savings_account
+dbr:AmeriCU_Credit_Union	
+dbo:regionServed	dbr:Cameron_County,_Texas
+dbo:product	dbr:Mobile_banking
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Aransas_County,_Texas
+dbo:product	dbr:Investment
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Pacific_Islands
+dbo:product	dbr:Payment_system
+dbr:KlickEx	
+dbo:regionServed	dbr:Victoria_Harbour
+dbo:product	dbr:Home_video
+dbr:Ocean_Shores_Video	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:product	dbr:Truck
+dbr:Manufacturing_Commercial_Vehicles	
+dbo:regionServed	dbr:Russia
+dbo:product	dbr:Home_improvement
+dbr:Leroy_Merlin	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Money_transfer
+dbr:Grupo_Elektra	
+dbo:regionServed	dbr:Mexico
+dbo:product	dbr:Mountain_Dew
+dbr:The_Pepsi_Bottling_Group	
+dbo:regionServed	dbr:Abu_Dhabi_(emirate)
+dbo:product	dbr:Mobile_phone
+dbr:Du_(company)	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Sporting_structures
+dbr:Stageco	
+dbo:regionServed	dbr:Turkey
+dbo:product	dbr:Retail_banking
+dbr:Bank_of_Georgia	
+dbo:regionServed	dbr:Turkey
+dbo:product	dbr:Corporate_Finance
+dbr:Halikarnas_Financial_Services_and_Advisory	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Retail
+dbr:Oxford_Properties	
+dbo:regionServed	dbr:Jim_Wells_County,_Texas
+dbo:product	dbr:Investment
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Fashion_accessory
+dbr:Vanity_(clothing)	dbr:Gydja_Collection	dbr:White_House_Black_Market	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Office
+dbr:Oxford_Properties	
+dbo:regionServed	dbr:Namibia
+dbo:product	dbr:Retail_banking
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Tennessee
+dbo:product	dbr:Carolina_BBQ
+dbr:Cook_Out_(restaurant)	
+dbo:regionServed	dbr:Northern_Ireland
+dbo:product	dbr:Service_sector
+dbr:British_Rail	
+dbo:regionServed	dbr:Ascension_Island
+dbo:product	dbr:Bank
+dbr:Bank_of_St._Helena	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Entertainment
+dbr:Takeover_Entertainment	
+dbo:regionServed	dbr:Western_Pennsylvania
+dbo:product	dbr:Retail_Banking
+dbr:FirstMerit_Corporation	
+dbo:regionServed	dbr:Asia_Pacific
+dbo:product	dbr:Wealth_Management
+dbr:Taylor_Brunswick_Group	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Rifles
+dbr:Parker_Hale	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Firewall_(computing)
+dbr:Stonesoft_Corporation	
+dbo:regionServed	dbr:Seattle,_Washington
+dbo:product	dbr:Credit_card
+dbr:Seattle_Metropolitan_Credit_Union	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Gear_oil
+dbr:Royal_Purple_(lubricant_manufacturer)	
+dbo:regionServed	dbr:Portugal
+dbo:product	dbr:Pharmacy
+dbr:Companhia_Portuguesa_de_Hipermercados	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Calcination
+dbr:Heyl_&_Patterson_Inc.	
+dbo:regionServed	dbr:Kansai_region
+dbo:product	dbr:ICOCA
+dbr:West_Japan_Railway_Company	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Need_for_Speed
+dbr:Ghost_Games	
+dbo:regionServed	dbr:Central_America
+dbo:product	dbr:Sport_equipment
+dbr:Finta	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Textiles
+dbr:Khaadi	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Ferry_Transfers
+dbr:Cruise_Whitsundays	
+dbo:regionServed	dbr:Tanzania
+dbo:product	dbr:Investment_banking
+dbr:Barclays_Africa_Group	dbr:FBME_Bank	
+dbo:regionServed	dbr:Jharkhand
+dbo:product	dbr:Retail_banking
+dbr:Vananchal_Gramin_Bank	
+dbo:regionServed	dbr:Middlesex
+dbo:product	dbr:Rifles
+dbr:Holland_&_Holland	
+dbo:regionServed	dbr:Malaysia
+dbo:product	dbr:Direct_broadcast_satellite
+dbr:Astro_(television)	
+dbo:regionServed	dbr:Indonesia
+dbo:product	dbr:Coconut
+dbr:Ayam_Brand	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Grader
+dbr:Art's_Way	
+dbo:regionServed	dbr:Latin_America
+dbo:product	dbr:Online_banking
+dbr:Productora_de_Software	
+dbo:regionServed	dbr:Spain
+dbo:product	dbr:Grosvenor_Casinos
+dbr:The_Rank_Group	
+dbo:regionServed	dbr:Latin_America
+dbo:product	dbr:Private_equity
+dbr:Banco_Santander	dbr:Espírito_Santo_Financial_Group	
+dbo:regionServed	dbr:Chile
+dbo:product	dbr:Palm_oil
+dbr:Manuelita	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:product	dbr:Steak
+dbr:Red_Lobster	dbr:LongHorn_Steakhouse	
+dbo:regionServed	dbr:Panama
+dbo:product	dbr:Banking
+dbr:Grupo_Aval_Acciones_y_Valores	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:T-Shirt
+dbr:Music_Zone	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Barbecue
+dbr:God-Grilla	
+dbo:regionServed	dbr:Nevada
+dbo:product	dbr:Title_Loan
+dbr:TMX_Finance	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Electric_power_transmission
+dbr:Power_Grid_Corporation_of_India	
+dbo:regionServed	dbr:Philippines
+dbo:product	dbr:Public_Transport
+dbr:Vallacar_Transit_Corporation	
+dbo:regionServed	dbr:Hillsborough_County,_Florida
+dbo:product	dbr:Loan
+dbr:Sarasota_Coastal_Credit_Union	
+dbo:regionServed	dbr:Indian_River_County,_Florida
+dbo:product	dbr:Investments
+dbr:Space_Coast_Credit_Union	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Electronic_Toll_Collection
+dbr:Teras_Teknologi	dbr:Hopetech	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Pornographic_films
+dbr:Elegant_Angel	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Search_engine_(computing)
+dbr:Endeca	
+dbo:regionServed	dbr:Turkey
+dbo:product	dbr:Commercial_banking
+dbr:DenizBank	dbr:Albaraka_Türk	dbr:Fibabanka	dbr:A&T_Bank	dbr:Adabank	dbr:Anadolubank	dbr:Birleşik_Fon_Bankası	dbr:ICBC_Turkey	dbr:Turkish_Bank	
+dbo:regionServed	dbr:Hong_Kong
+dbo:product	dbr:Clothing
+dbr:Jack_Wills	dbr:Raja_Fashions	
+dbo:regionServed	dbr:El_Salvador
+dbo:product	dbr:Sports_equipment
+dbr:Pirma	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Tablet_computer
+dbr:Kobo_Inc.	
+dbo:regionServed	dbr:Hydropower
+dbo:product	dbr:Turbines
+dbr:VS_Hydro	
+dbo:regionServed	dbr:District_of_Columbia
+dbo:product	dbr:Seafood
+dbr:Harris_Teeter	
+dbo:regionServed	dbr:North_Holland
+dbo:product	dbr:Telephony
+dbr:UPC_Nederland	
+dbo:regionServed	dbr:Pontian,_Johor
+dbo:product	dbr:Bus_service
+dbr:Causeway_Link	
+dbo:regionServed	dbr:Walt_Disney_Company
+dbo:product	dbr:Checking_account
+dbr:Partners_Federal_Credit_Union	
+dbo:regionServed	dbr:New_York_(state)
+dbo:product	dbr:Financial_Services
+dbr:TrustCo_Bank	
+dbo:regionServed	dbr:Dubai
+dbo:product	dbr:Prêt-à-Porter
+dbr:Nickie_Nina	
+dbo:regionServed	dbr:Atlanta_metropolitan_area
+dbo:product	dbr:African-American
+dbr:Real_Times	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Frozen_yogurt
+dbr:Yogurtland	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:product	dbr:Commercial_bank
+dbr:Komercijalna_banka	
+dbo:regionServed	dbr:Utah
+dbo:product	dbr:Burrito
+dbr:Chronic_Tacos	
+dbo:regionServed	dbr:Singapore
+dbo:product	dbr:Investment_management
+dbr:Banco_Santander	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Fluidized_bed
+dbr:Heyl_&_Patterson_Inc.	
+dbo:regionServed	dbr:Province_of_Lecce
+dbo:product	dbr:Bus
+dbr:Ferrovie_del_Sud_Est	
+dbo:regionServed	dbr:Oklahoma
+dbo:product	dbr:Desserts
+dbr:K-Bob's_Steakhouse	
+dbo:regionServed	dbr:Nigeria
+dbo:product	dbr:CAD
+dbr:Quantapoint	
+dbo:regionServed	dbr:Jordan
+dbo:product	dbr:Shale_oil
+dbr:Eesti_Energia	
+dbo:regionServed	dbr:Southern_Africa
+dbo:product	dbr:Life_insurance
+dbr:Bidvest_Insurance	
+dbo:regionServed	dbr:Manitoba
+dbo:product	dbr:Grocery
+dbr:London_Drugs	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Mobile_network
+dbr:Tata_DoCoMo	
+dbo:regionServed	dbr:Brisbane
+dbo:product	dbr:Jewellery
+dbr:Paspaley	dbr:Angus_&_Coote	dbr:Wallace_Bishop_(company)	dbr:Hardy_Brothers	dbr:Prouds	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Commercial_property
+dbr:Lodha_Group	
+dbo:regionServed	dbr:Massachusetts
+dbo:product	dbr:Dessert
+dbr:Wahlburgers__Wahlburgers__1	
+dbo:regionServed	dbr:Indonesia
+dbo:product	dbr:Access_Control
+dbr:Teras_Teknologi	dbr:Hopetech	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Toaster
+dbr:Medion	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Fresh_Mex
+dbr:Taco_del_Mar	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Performance
+dbr:Ford_Motor_Company_of_Canada	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Shoes
+dbr:Padini	
+dbo:regionServed	dbr:Pinal_County,_AZ
+dbo:product	dbr:Mortgages
+dbr:Arizona_Federal_Credit_Union	
+dbo:regionServed	dbr:Serbia
+dbo:product	dbr:Yeast
+dbr:Apatin_Brewery	dbr:Carlsberg_Srbija	
+dbo:regionServed	dbr:Abruzzo
+dbo:product	dbr:Passenger_train
+dbr:Ferrovia_Adriatico_Sangritana	
+dbo:regionServed	dbr:Russia
+dbo:product	dbr:Private_banking
+dbr:FBME_Bank	dbr:Eurasian_Bank	
+dbo:regionServed	dbr:Vietnam
+dbo:product	dbr:Major_appliances
+dbr:Nguyenkim_Shopping_Center	
+dbo:regionServed	dbr:Macao
+dbo:product	dbr:Poutine
+dbr:New_York_Fries	
+dbo:regionServed	dbr:Cyprus
+dbo:product	dbr:Retail_banking
+dbr:Bank_of_Cyprus	dbr:Cyprus_Development_Bank	dbr:FBME_Bank	dbr:Hellenic_Bank	
+dbo:regionServed	dbr:Philippines
+dbo:product	dbr:Mutual_fund
+dbr:Philippine_American_Life_and_General_Insurance_Company	
+dbo:regionServed	dbr:France
+dbo:product	dbr:Investment_management
+dbr:CBH_Bank	
+dbo:regionServed	dbr:Azerbaijan
+dbo:product	dbr:Private_banking
+dbr:TBC_Bank	
+dbo:regionServed	dbr:Singapore
+dbo:product	dbr:Private_banking
+dbr:Banco_Santander	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Digital_television
+dbr:América_Móvil	
+dbo:regionServed	dbr:Iceland
+dbo:product	dbr:Mortgage_loan
+dbr:Íslandsbanki	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Food
+dbr:David_Jones_Limited	dbr:Aldi	
+dbo:regionServed	dbr:Oman
+dbo:product	dbr:Necklaces
+dbr:Padini	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Lumber
+dbr:The_Home_Depot	
+dbo:regionServed	dbr:Aransas_County,_Texas
+dbo:product	dbr:Savings_account
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:VHS
+dbr:Movie_Gallery	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:product	dbr:Cable_television
+dbr:BHB_CABLE_TV	dbr:ELTA-KABEL	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Home_improvement
+dbr:Lowe's	
+dbo:regionServed	dbr:Northeastern_United_States
+dbo:product	dbr:Ice_cream_cake
+dbr:Hershey_Creamery_Company	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Antibodies
+dbr:EnCor_Biotechnology	
+dbo:regionServed	dbr:Prince_George's_County,_Maryland
+dbo:product	dbr:Online_banking
+dbr:Prince_George's_Community_Federal_Credit_Union	
+dbo:regionServed	dbr:Tanzania
+dbo:product	dbr:Internet_service_provider
+dbr:Airtel_Tanzania	dbr:Viettel_Tanzania	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:product	dbr:Transmission_(telecommunications)
+dbr:TV3_Group	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:product	dbr:Investment
+dbr:Scottish_Friendly	
+dbo:regionServed	dbr:Illinois
+dbo:product	dbr:Philippine_products
+dbr:Seafood_City	
+dbo:regionServed	dbr:Brazil
+dbo:product	dbr:Pasta
+dbr:Red_Lobster	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:ISP_Network
+dbr:Data_Infosys	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Magazines
+dbr:Current_Publishing_(UK)	dbr:XBIZ	
+dbo:regionServed	dbr:Zimbabwe
+dbo:product	dbr:Wi-Fi
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Home_Appliances
+dbr:Arise_India	
+dbo:regionServed	dbr:Adelaide
+dbo:product	dbr:Public_transport
+dbr:Australian_Transit_Enterprises	
+dbo:regionServed	dbr:UK
+dbo:product	dbr:Festival_stages
+dbr:Stageco	
+dbo:regionServed	dbr:Indonesia
+dbo:product	dbr:Food
+dbr:Unilever_Indonesia	dbr:M._A._Kharafi_&_Sons	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Sardine
+dbr:Ayam_Brand	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Flooring
+dbr:The_Home_Depot	
+dbo:regionServed	dbr:Algeria
+dbo:product	dbr:Rail_transport
+dbr:National_Company_for_Rail_Transport	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Leather_Jacket
+dbr:Raja_Fashions	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Cosmetics
+dbr:Maroma	
+dbo:regionServed	dbr:Australia_(continent)
+dbo:product	dbr:Torrefaction
+dbr:Heyl_&_Patterson_Inc.	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Retail
+dbr:Australia_Post	
+dbo:regionServed	dbr:Switzerland
+dbo:product	dbr:Cosmetics
+dbr:Castro_(clothing)	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Television
+dbr:Shinca_Entertainment	dbr:Sharp_Corporation	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Toyota_UR_engine
+dbr:Toyota_Motor_Manufacturing_Alabama	dbr:Toyota_Motor_Engineering_&_Manufacturing_North_America	
+dbo:regionServed	dbr:South_Korea
+dbo:product	dbr:Wireless_broadband
+dbr:LG_Uplus	
+dbo:regionServed	dbr:Belize
+dbo:product	dbr:Concrete
+dbr:M._A._Kharafi_&_Sons	
+dbo:regionServed	dbr:Brazil
+dbo:product	dbr:Renters'_insurance
+dbr:Protect_Your_Bubble	
+dbo:regionServed	dbr:North_Korea
+dbo:product	dbr:List_of_Coca-Cola_brands
+dbr:The_Coca-Cola_Company	
+dbo:regionServed	dbr:Caldwell_County,_Texas
+dbo:product	dbr:Mobile_Banking
+dbr:United_Heritage_Credit_Union	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Renewable_Energy
+dbr:Deng_(company)	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Video_On_Demand
+dbr:Madman_Entertainment	
+dbo:regionServed	dbr:United_Nations
+dbo:product	dbr:Online_banking
+dbr:United_Nations_Federal_Credit_Union	
+dbo:regionServed	dbr:Las_Vegas
+dbo:product	dbr:Dessert
+dbr:Wahlburgers__Wahlburgers__1	
+dbo:regionServed	dbr:Germany
+dbo:product	dbr:E-reader
+dbr:Kobo_Inc.	
+dbo:regionServed	dbr:Indiana
+dbo:product	dbr:Cincinnati_chili
+dbr:Gold_Star_Chili	dbr:Skyline_Chili	
+dbo:regionServed	dbr:KSA
+dbo:product	dbr:HRSG
+dbr:Descon	
+dbo:regionServed	dbr:Azerbaijan
+dbo:product	dbr:Retail_banking
+dbr:TBC_Bank	
+dbo:regionServed	dbr:Panama
+dbo:product	dbr:Salads
+dbr:Smashburger	
+dbo:regionServed	dbr:British_Columbia
+dbo:product	dbr:Daily_newspaper
+dbr:Continental_Newspapers	
+dbo:regionServed	dbr:Egypt
+dbo:product	dbr:Ticket_(admission)
+dbr:Virgin_Megastores	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:Hamburger
+dbr:McDonald's_New_Zealand	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Cutie_Honey
+dbr:Dynamic_Planning	
+dbo:regionServed	dbr:Jamshedpur
+dbo:product	dbr:Retail
+dbr:Ashiana_Housing	
+dbo:regionServed	dbr:Kyrgyzstan
+dbo:product	dbr:IPTV
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Artist_Management
+dbr:2-Tone_Entertainment	
+dbo:regionServed	dbr:Brazil
+dbo:product	dbr:High_speed_networks
+dbr:NII_Holdings	
+dbo:regionServed	dbr:Manitoba
+dbo:product	dbr:Cable_Internet
+dbr:Vmedia	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Correspondent_banking
+dbr:Byblos_Bank	
+dbo:regionServed	dbr:Svalbard
+dbo:product	dbr:Coal
+dbr:Arktikugol	
+dbo:regionServed	dbr:Brevard_County,_Florida
+dbo:product	dbr:Investments
+dbr:Space_Coast_Credit_Union	
+dbo:regionServed	dbr:North_Carolina
+dbo:product	dbr:Carolina_BBQ
+dbr:Cook_Out_(restaurant)	
+dbo:regionServed	dbr:Brisbane
+dbo:product	dbr:Decorative_arts
+dbr:Wallace_Bishop_(company)	dbr:Hardy_Brothers	
+dbo:regionServed	dbr:Asia
+dbo:product	dbr:Calcination
+dbr:Heyl_&_Patterson_Inc.	
+dbo:regionServed	dbr:Thailand
+dbo:product	dbr:Hypermarket
+dbr:Big_C	dbr:Tesco_Lotus	
+dbo:regionServed	dbr:Djibouti
+dbo:product	dbr:Automobile
+dbr:Cooper_Motor_Corporation	
+dbo:regionServed	dbr:Europe,_the_Middle_East_and_Africa
+dbo:product	dbr:Flex_expert_system
+dbr:Logic_Programming_Associates	
+dbo:regionServed	dbr:Agder
+dbo:product	dbr:District_heating
+dbr:Agder_Energi	
+dbo:regionServed	dbr:British_Columbia
+dbo:product	dbr:Burrito
+dbr:Chronic_Tacos	
+dbo:regionServed	dbr:Arkansas
+dbo:product	dbr:Insurance
+dbr:The_Norfolk_&_Dedham_Group	
+dbo:regionServed	dbr:Singapore
+dbo:product	dbr:Necklace
+dbr:Eclarity	
+dbo:regionServed	dbr:El_Salvador
+dbo:product	dbr:Banking
+dbr:Grupo_Aval_Acciones_y_Valores	dbr:Bancolombia	
+dbo:regionServed	dbr:Indiana
+dbo:product	dbr:Vehicle_insurance
+dbr:Shelter_Insurance	dbr:Fred_Loya_Insurance	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Electric_power
+dbr:VEBA	
+dbo:regionServed	dbr:British_Columbia
+dbo:product	dbr:Baking
+dbr:Woods_Coffee	
+dbo:regionServed	dbr:France
+dbo:product	dbr:Product_Information_Management
+dbr:MaPS_S.A.	
+dbo:regionServed	dbr:Pasco_County,_Florida
+dbo:product	dbr:Loan
+dbr:Sarasota_Coastal_Credit_Union	
+dbo:regionServed	dbr:Italy
+dbo:product	dbr:Internet
+dbr:RCS_&_RDS	
+dbo:regionServed	dbr:Ufa
+dbo:product	dbr:High-octane_gasoline
+dbr:Bashneft-Ufaneftekhim	dbr:Ufimsky_refinery_plant	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Investment_management
+dbr:FutureAdvisor	
+dbo:regionServed	dbr:Latin_America
+dbo:product	dbr:Investment_banking
+dbr:Banco_Santander	dbr:Espírito_Santo_Financial_Group	
+dbo:regionServed	dbr:Blood_Centers_of_the_Pacific
+dbo:product	dbr:Blood
+dbr:United_Blood_Services	
+dbo:regionServed	dbr:UAE
+dbo:product	dbr:Hot_pot
+dbr:Little_Sheep_Group	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Health_Care
+dbr:Adcock_Ingram	
+dbo:regionServed	dbr:South_Carolina
+dbo:product	dbr:Electricity_distribution
+dbr:Duke_Energy	
+dbo:regionServed	dbr:Azad_Kashmir
+dbo:product	dbr:Landline
+dbr:Special_Communications_Organization	
+dbo:regionServed	dbr:Sydney
+dbo:product	dbr:Watch
+dbr:Wallace_Bishop_(company)	dbr:Hardy_Brothers	
+dbo:regionServed	dbr:Dubai
+dbo:product	dbr:Shipping
+dbr:Fakhro_Group	
+dbo:regionServed	dbr:Latin_America
+dbo:product	dbr:Fashion_accessory
+dbr:Bata_Shoes	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Wi-Fi
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Mexico
+dbo:product	dbr:Computers
+dbr:Grupo_Elektra	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Pet_food
+dbr:Big_Heart_Pet_Brands	
+dbo:regionServed	dbr:Georgia_(country)
+dbo:product	dbr:Corporate_Loans
+dbr:PASHA_Bank_Georgia	
+dbo:regionServed	dbr:Dominican_Republic
+dbo:product	dbr:Petrochemicals
+dbr:Terpel	
+dbo:regionServed	dbr:Tunisia
+dbo:product	dbr:GE_Power_&_Water
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:Far_East
+dbo:product	dbr:Acrylate_polymer
+dbr:Arkem	
+dbo:regionServed	dbr:Guangzhou
+dbo:product	dbr:Corrective_lens
+dbr:Optical_88	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Fast_casual_restaurant
+dbr:Panera_Bread	
+dbo:regionServed	dbr:Masai,_Johor
+dbo:product	dbr:Bus_service
+dbr:Causeway_Link	
+dbo:regionServed	dbr:Kuala_Lumpur
+dbo:product	dbr:Credit_Cards
+dbr:Bank_Negara_Indonesia	
+dbo:regionServed	dbr:Belarus
+dbo:product	dbr:Book
+dbr:Reanimedia	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Book
+dbr:Friesens	
+dbo:regionServed	dbr:Department_of_Homeland_Security
+dbo:product	dbr:Mortgages
+dbr:Treasury_Department_Federal_Credit_Union	
+dbo:regionServed	dbr:Espírito_Santo
+dbo:product	dbr:Power_generation
+dbr:Eletrobras_Furnas	
+dbo:regionServed	dbr:Florida
+dbo:product	dbr:Delicatessen
+dbr:Publix	dbr:Southeastern_Grocers	dbr:Harris_Teeter	
+dbo:regionServed	dbr:Estonia
+dbo:product	dbr:Finance_and_insurance
+dbr:Snoras	
+dbo:regionServed	dbr:Americas
+dbo:product	dbr:Curry
+dbr:Ottogi	
+dbo:regionServed	dbr:Israel
+dbo:product	dbr:Steak
+dbr:El_Gaucho	
+dbo:regionServed	dbr:China
+dbo:product	dbr:Web_application_firewall
+dbr:Penta_Security	
+dbo:regionServed	dbr:Oregon
+dbo:product	dbr:Financial_Services
+dbr:Beneficial_State_Bank	dbr:West_Coast_Bancorp	
+dbo:regionServed	dbr:South_Africa
+dbo:product	dbr:Investment_banking
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:New_England
+dbo:product	dbr:Autographs
+dbr:That's_Entertainment_(comic_shop)	
+dbo:regionServed	dbr:South_India
+dbo:product	dbr:Pay_television
+dbr:Zing_Digital	
+dbo:regionServed	dbr:Dunedin
+dbo:product	dbr:Car_sharing
+dbr:YourDrive	
+dbo:regionServed	dbr:Singapore
+dbo:product	dbr:Single_sign-on
+dbr:Penta_Security	
+dbo:regionServed	dbr:Gelang_Patah
+dbo:product	dbr:Bus_service
+dbr:Causeway_Link	
+dbo:regionServed	dbr:North_Dakota
+dbo:product	dbr:Plain_old_telephone_service
+dbr:Qwest_Corporation	
+dbo:regionServed	dbr:Serbia
+dbo:product	dbr:Fashion_accessory
+dbr:Legend_World_Wide	
+dbo:regionServed	dbr:Florida
+dbo:product	dbr:Electronic_toll_collection
+dbr:SunPass	
+dbo:regionServed	dbr:Indiana
+dbo:product	dbr:Electric_power_generation
+dbr:American_Electric_Power	
+dbo:regionServed	dbr:Thailand
+dbo:product	dbr:Condominium
+dbr:Raimon_Land	
+dbo:regionServed	dbr:New_Mexico
+dbo:product	dbr:Vegetable
+dbr:K-Bob's_Steakhouse	
+dbo:regionServed	dbr:Michigan
+dbo:product	dbr:Mattress
+dbr:Mattress_World_of_Michigan	
+dbo:regionServed	dbr:West_Bengal
+dbo:product	dbr:Retail_banking
+dbr:Bangiya_Gramin_Vikash_Bank	dbr:Paschim_Banga_Gramin_Bank	
+dbo:regionServed	dbr:New_Mexico
+dbo:product	dbr:Subs
+dbr:Dion's	
+dbo:regionServed	dbr:Venezuela
+dbo:product	dbr:Rebars
+dbr:Sidetur	
+dbo:regionServed	dbr:New_Jersey
+dbo:product	dbr:Credit_card
+dbr:TrustCo_Bank	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Property_management
+dbr:AG_Real_Estate	
+dbo:regionServed	dbr:Strathclyde
+dbo:product	dbr:Bus
+dbr:Strathclyde_Partnership_for_Transport	
+dbo:regionServed	dbr:Balkan_Peninsula
+dbo:product	dbr:Information_technology
+dbr:OTE	
+dbo:regionServed	dbr:Caraga
+dbo:product	dbr:Public_Transport
+dbr:Vallacar_Transit_Corporation	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Digital_television
+dbr:Airtel_India	dbr:Bharti_Airtel	
+dbo:regionServed	dbr:Asia
+dbo:product	dbr:Insurance
+dbr:Espírito_Santo_Financial_Group	dbr:National_Australia_Bank	
+dbo:regionServed	dbr:Great_Britain
+dbo:product	dbr:Automotive_parts
+dbr:Chase_Motor_Truck_Company	
+dbo:regionServed	dbr:Central_African_Republic
+dbo:product	dbr:Domain_name_registrar
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:Midland,_Texas
+dbo:product	dbr:Private_banking
+dbr:Western_National_Bank	
+dbo:regionServed	dbr:Bangladesh
+dbo:product	dbr:Fuse_(explosives)
+dbr:Bangladesh_Ordnance_Factories	
+dbo:regionServed	dbr:Serbia
+dbo:product	dbr:Sport_Klub
+dbr:The_United_Group	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:product	dbr:Fashion_accessory
+dbr:Splash_(Fashion)	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Touch_(manga)
+dbr:Gallop_(studio)	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Watch
+dbr:Vaibhav_Global	
+dbo:regionServed	dbr:Ireland
+dbo:product	dbr:Poultry
+dbr:2_Sisters_Food_Group	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Wastewater_treatment_plant
+dbr:M._A._Kharafi_&_Sons	
+dbo:regionServed	dbr:Maghreb
+dbo:product	dbr:Sport_utility_vehicle
+dbr:Industries_Mécaniques_Maghrébines	
+dbo:regionServed	dbr:UK
+dbo:product	dbr:Hardwood
+dbr:Arnold_Laver	
+dbo:regionServed	dbr:Phoenix,_Arizona
+dbo:product	dbr:Banking
+dbr:MidFirst_Bank	
+dbo:regionServed	dbr:Salt_Lake_City,_Utah
+dbo:product	dbr:Cable_television
+dbr:Google_Fiber	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Pillow
+dbr:Relax_The_Back	
+dbo:regionServed	dbr:Uganda
+dbo:product	dbr:Fuel
+dbr:MOGAS_Group	
+dbo:regionServed	dbr:Indiana
+dbo:product	dbr:Natural_gas
+dbr:Duke_Energy	
+dbo:regionServed	dbr:Indonesia
+dbo:product	dbr:Fashion_accessories
+dbr:Padini	
+dbo:regionServed	dbr:Turkey
+dbo:product	dbr:Trade_Finance
+dbr:Bank_of_Georgia	dbr:PASHA_Bank_Georgia	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Bread
+dbr:Angel_Bakeries	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:DVD
+dbr:Quickflix	dbr:Madman_Entertainment	dbr:Magna_Home_Entertainment	dbr:Siren_Visual	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Drug_store
+dbr:Walgreens	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Frozen_yogurt
+dbr:Marble_Slab_Creamery	dbr:Goji's	
+dbo:regionServed	dbr:Vodafone_Australia
+dbo:product	dbr:MusicStation
+dbr:Omnifone	
+dbo:regionServed	dbr:Eastern_United_States
+dbo:product	dbr:Sorbet
+dbr:Hershey_Creamery_Company	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Pastry
+dbr:Angel_Bakeries	
+dbo:regionServed	dbr:Emilia-Romagna
+dbo:product	dbr:Rail_transport
+dbr:Ferrovie_Emilia_Romagna	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Power-Generation_&_Distribution,_Mining
+dbr:CESC_Limited	
+dbo:regionServed	dbr:Tennessee
+dbo:product	dbr:Money_orders
+dbr:Publix	
+dbo:regionServed	dbr:Qatar
+dbo:product	dbr:Book
+dbr:Virgin_Megastores	dbr:Fnac	
+dbo:regionServed	dbr:Michigan
+dbo:product	dbr:Pizza
+dbr:Cottage_Inn_Pizza	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Prepayment_for_service
+dbr:LegalShield	
+dbo:regionServed	dbr:Jordan
+dbo:product	dbr:Italian-American_cuisine
+dbr:The_Pizza_Company	
+dbo:regionServed	dbr:Ireland
+dbo:product	dbr:Solution
+dbr:Valeo_Foods	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Squab_(food)
+dbr:D'Artagnan_(Food_Company)	
+dbo:regionServed	dbr:Seoul
+dbo:product	dbr:Shinbundang_Line
+dbr:NeoTrans_Co._Ltd.	
+dbo:regionServed	dbr:Michigan
+dbo:product	dbr:Cocktail
+dbr:Wahlburgers__Wahlburgers__1	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Baby_food
+dbr:Alpina_Productos_Alimenticios	
+dbo:regionServed	dbr:China
+dbo:product	dbr:Adult_diaper
+dbr:Hengan_International	
+dbo:regionServed	dbr:Egypt
+dbo:product	dbr:Retailer
+dbr:Wind_Telecom	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:TBS_(U.S._TV_channel)
+dbr:Turner_Broadcasting_System_Europe	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Financial_technology
+dbr:Nasdaq,_Inc.	
+dbo:regionServed	dbr:Malaysia
+dbo:product	dbr:Smartcard_Solution
+dbr:Hopetech	
+dbo:regionServed	dbr:North_Korea
+dbo:product	dbr:Handbag
+dbr:Padini	
+dbo:regionServed	dbr:Tennessee
+dbo:product	dbr:Umbrella_insurance
+dbr:Shelter_Insurance	
+dbo:regionServed	dbr:South_West_England
+dbo:product	dbr:Beer
+dbr:Ushers_of_Trowbridge	
+dbo:regionServed	dbr:Kansas
+dbo:product	dbr:Spaghetti_Red
+dbr:Fred_and_Red's	
+dbo:regionServed	dbr:East_Asia
+dbo:product	dbr:Education
+dbr:Econet_Wireless	
+dbo:regionServed	dbr:Utah
+dbo:product	dbr:Financial_services
+dbr:State_Bank_of_Southern_Utah	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Apparel
+dbr:Finta	
+dbo:regionServed	dbr:United_Arab_Emirates
+dbo:product	dbr:Sports_Accessories
+dbr:CA_Sports	
+dbo:regionServed	dbr:Eurasia
+dbo:product	dbr:Tugboat
+dbr:Baltic_Workboats	
+dbo:regionServed	dbr:Norway
+dbo:product	dbr:Jewelery
+dbr:Gydja_Collection	
+dbo:regionServed	dbr:Eritrea
+dbo:product	dbr:Buses
+dbr:Cooper_Motor_Corporation	
+dbo:regionServed	dbr:Montgomery_County,_Pennsylvania
+dbo:product	dbr:Loan
+dbr:TruMark_Financial_Credit_Union	
+dbo:regionServed	dbr:Virginia
+dbo:product	dbr:Private_label
+dbr:Ingles	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Toyota_ZR_engine
+dbr:Toyota_Motor_Engineering_&_Manufacturing_North_America	
+dbo:regionServed	dbr:Province_of_Bari
+dbo:product	dbr:Bus
+dbr:Ferrovie_del_Sud_Est	
+dbo:regionServed	dbr:Alabama
+dbo:product	dbr:Dairy_products
+dbr:Southeastern_Grocers	
+dbo:regionServed	dbr:Jharkhand
+dbo:product	dbr:Mortgage_loan
+dbr:Vananchal_Gramin_Bank	
+dbo:regionServed	dbr:North_Korea
+dbo:product	dbr:Sunglasses
+dbr:Padini	
+dbo:regionServed	dbr:Samoa_Breweries
+dbo:product	dbr:Coca-Cola_Zero
+dbr:Coca-Cola_Amatil	
+dbo:regionServed	dbr:Pennsylvania
+dbo:product	dbr:Investment_management
+dbr:Tompkins_Financial_Corporation	
+dbo:regionServed	dbr:U.S._Virgin_Islands
+dbo:product	dbr:Wireless_broadband
+dbr:AT&T_Mobility	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Newspaper
+dbr:My_Own_Media	
+dbo:regionServed	dbr:Germany
+dbo:product	dbr:Sparta_M_Series
+dbr:Sparta_B.V.	
+dbo:regionServed	dbr:Miami_Dade_County,_Florida
+dbo:product	dbr:Mortgages
+dbr:Tropical_Financial_Credit_Union	
+dbo:regionServed	dbr:Massachusetts
+dbo:product	dbr:Electric_power_distribution
+dbr:Eversource_Energy	
+dbo:regionServed	dbr:Earth
+dbo:product	dbr:Dress
+dbr:Printex	
+dbo:regionServed	dbr:Malaysia
+dbo:product	dbr:Tuna
+dbr:Ayam_Brand	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Cement
+dbr:Hope_Construction_Materials	
+dbo:regionServed	dbr:Colombia
+dbo:product	dbr:Financial_services
+dbr:Grupo_Aval_Acciones_y_Valores	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:product	dbr:Home_shopping
+dbr:Tesco_Ireland	
+dbo:regionServed	dbr:Americas
+dbo:product	dbr:Virtual_office
+dbr:AstraQom	
+dbo:regionServed	dbr:Costa_Rica
+dbo:product	dbr:Fruit_juice
+dbr:Bavaria_Brewery_(Colombia)	
+dbo:regionServed	dbr:Vietnam
+dbo:product	dbr:Asset_management
+dbr:Saigon_Asset_Management	
+dbo:regionServed	dbr:New_Hampshire
+dbo:product	dbr:Electric_power_generation
+dbr:Eversource_Energy	
+dbo:regionServed	dbr:France
+dbo:product	dbr:Apothecary
+dbr:Mediq	
+dbo:regionServed	dbr:México
+dbo:product	dbr:Milkshake
+dbr:Elevation_Burger	
+dbo:regionServed	dbr:Lebanon
+dbo:product	dbr:T-Shirt
+dbr:Virgin_Megastores	
+dbo:regionServed	dbr:India
+dbo:product	dbr:News_program
+dbr:Infotainment_Television	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Internet_access
+dbr:Sify	dbr:Data_Infosys	
+dbo:regionServed	dbr:Bahrain
+dbo:product	dbr:Credit_Cards
+dbr:Bank_of_Bahrain_and_Kuwait	dbr:National_Bank_of_Bahrain	
+dbo:regionServed	dbr:Israel
+dbo:product	dbr:Financial_services
+dbr:Bank_Leumi	dbr:TBC_Bank	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Wireless_system
+dbr:Line_6_(company)	
+dbo:regionServed	dbr:Moscow
+dbo:product	dbr:Fashion_accessory
+dbr:Holland_&_Holland	
+dbo:regionServed	dbr:Turkey
+dbo:product	dbr:Mortgage_loans
+dbr:HSBC_Bank_(Turkey)	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Transaction_Consulting
+dbr:Stout_Risius_Ross	dbr:American_Appraisal	
+dbo:regionServed	dbr:Bee_County,_Texas
+dbo:product	dbr:Online_banking
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Iowa
+dbo:product	dbr:Plain_old_telephone_service
+dbr:Qwest_Corporation	
+dbo:regionServed	dbr:Sri_Lanka
+dbo:product	dbr:Direct_broadcast_satellite
+dbr:Dialog_TV	
+dbo:regionServed	dbr:North_Carolina
+dbo:product	dbr:Telephone
+dbr:Verizon_South	dbr:Centel	dbr:Frontier_Communications_of_the_Carolinas	
+dbo:regionServed	dbr:China
+dbo:product	dbr:Curry_rice
+dbr:Ichibanya	
+dbo:regionServed	dbr:Kuwait
+dbo:product	dbr:Fashion_accessory
+dbr:Splash_(Fashion)	
+dbo:regionServed	dbr:Cyprus
+dbo:product	dbr:Credit_card
+dbr:Bank_of_Cyprus	dbr:FBME_Bank	dbr:Hellenic_Bank	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:Apparel
+dbr:James_Pascoe_Group	
+dbo:regionServed	dbr:Norway
+dbo:product	dbr:Bus
+dbr:Østerdal_Billag	dbr:Fosen_Trafikklag	dbr:Hurtigruten_AS	dbr:NTS_ASA	dbr:TrønderBilene	dbr:Gauldal_Billag	dbr:Hemne_og_Orkladal_Billag	dbr:Klæburuten	dbr:Team_Trafikk	dbr:Telemark_Kollektivtrafikk	dbr:Trondheim_Bilruter	
+dbo:regionServed	dbr:London,_Ontario
+dbo:product	dbr:Comics
+dbr:Heroes_Comics	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Enterprise_resource_planning
+dbr:Syspro	
+dbo:regionServed	dbr:Washington_County,_Utah
+dbo:product	dbr:Investment
+dbr:Goldenwest_Credit_Union	
+dbo:regionServed	dbr:Portugal
+dbo:product	dbr:Fruit
+dbr:Ayam_Brand	
+dbo:regionServed	dbr:Aruba
+dbo:product	dbr:Convenience_stores
+dbr:Albert_Heijn	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:product	dbr:Enhanced_Data_Rates_for_GSM_Evolution
+dbr:Mobile_Telephony_of_Serbia	
+dbo:regionServed	dbr:Palm_Beach_County,_Florida
+dbo:product	dbr:Mortgages
+dbr:Tropical_Financial_Credit_Union	dbr:Space_Coast_Credit_Union	
+dbo:regionServed	dbr:Computer_security
+dbo:product	dbr:NProtect_GameGuard_Personal_2007
+dbr:INCA_Internet	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Dairy_products
+dbr:Britannia_Industries	
+dbo:regionServed	dbr:Florida
+dbo:product	dbr:Telephone
+dbr:Centel	
+dbo:regionServed	dbr:Singapore
+dbo:product	dbr:Network_service_provider
+dbr:Modica_Group	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:Groceries
+dbr:Pams_(company)	
+dbo:regionServed	dbr:International
+dbo:product	dbr:Preshafruit
+dbr:Preshafood	
+dbo:regionServed	dbr:Phoenix,_Arizona
+dbo:product	dbr:Mortgage_loan
+dbr:MidFirst_Bank	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Luxury_goods
+dbr:Daniel_(department_store)	
+dbo:regionServed	dbr:Venezuela
+dbo:product	dbr:Angle
+dbr:Sidetur	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Deposits
+dbr:Grupo_Elektra	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Running
+dbr:Wiggle_Ltd	
+dbo:regionServed	dbr:Las_Vegas
+dbo:product	dbr:Cocktail
+dbr:Wahlburgers__Wahlburgers__1	
+dbo:regionServed	dbr:US_Treasury_Department
+dbo:product	dbr:Mortgages
+dbr:Treasury_Department_Federal_Credit_Union	
+dbo:regionServed	dbr:Latin_America
+dbo:product	dbr:Footwear
+dbr:Bata_Shoes	dbr:Joma	
+dbo:regionServed	dbr:Zimbabwe
+dbo:product	dbr:Retailer
+dbr:VimpelCom_Ltd.	dbr:Wind_Telecom	
+dbo:regionServed	dbr:Thailand
+dbo:product	dbr:Landing_craft
+dbr:Bangkok_Dock_Company	
+dbo:regionServed	dbr:New_Hampshire
+dbo:product	dbr:Investment_banking
+dbr:Northway_Bank	
+dbo:regionServed	dbr:Portugal
+dbo:product	dbr:Television_channel
+dbr:Dreamia	dbr:Fox_Networks_Group_Portugal	
+dbo:regionServed	dbr:Bangladesh
+dbo:product	dbr:Bread
+dbr:Cooper's_(bakery)	
+dbo:regionServed	dbr:Missouri
+dbo:product	dbr:Home_insurance
+dbr:Shelter_Insurance	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Boutique_Hotel
+dbr:The_Park_Hotels	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Maintenance,_repair,_and_operations
+dbr:Productora_de_Software	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Enterprise_Architect_(software)
+dbr:Sparx_Systems	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:CAD
+dbr:Quantapoint	
+dbo:regionServed	dbr:International
+dbo:product	dbr:Environmental_Control_System
+dbr:Hydraulics_International	
+dbo:regionServed	dbr:Southeastern_United_States
+dbo:product	dbr:Broadcast_television
+dbr:Citadel_Communications	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Trade_Credit_Insurance
+dbr:Atradius	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Automobile
+dbr:St._Louis_Car_Company	dbr:GM_Financial	dbr:Great_Southern_Automobile_Company	dbr:Waltham_Manufacturing_Company	dbr:Pope_Manufacturing_Company	
+dbo:regionServed	dbr:Idaho
+dbo:product	dbr:Telephone
+dbr:Frontier_Communications_Northwest	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:GE_Power_&_Water
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Calcination
+dbr:Heyl_&_Patterson_Inc.	
+dbo:regionServed	dbr:Bashkortostan
+dbo:product	dbr:High-octane_gasoline
+dbr:Bashneft-Ufaneftekhim	dbr:Ufimsky_refinery_plant	
+dbo:regionServed	dbr:Alabama
+dbo:product	dbr:Mortgage
+dbr:BB&T	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Clothing
+dbr:Traplord	dbr:Bata_Shoes	dbr:Stüssy	dbr:Penfield_Outdoor_Apparel	dbr:Champion_(sportswear)	dbr:Primark	dbr:Rupert_and_Buckley	
+dbo:regionServed	dbr:Maghreb
+dbo:product	dbr:Automobile
+dbr:Industries_Mécaniques_Maghrébines	
+dbo:regionServed	dbr:Asia-Pacific
+dbo:product	dbr:Solr
+dbr:Lucidworks	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Analytics
+dbr:Fantain	
+dbo:regionServed	dbr:Sri_Lanka
+dbo:product	dbr:IPTV
+dbr:PEO_TV	
+dbo:regionServed	dbr:Algeria
+dbo:product	dbr:Service_sector
+dbr:National_Company_for_Rail_Transport	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:HLN_(TV_channel)
+dbr:Turner_Broadcasting_System_Europe	
+dbo:regionServed	dbr:Tampa_Bay_area
+dbo:product	dbr:Savings_account
+dbr:GTE_Financial	
+dbo:regionServed	dbr:Uzbekistan
+dbo:product	dbr:Wi-Fi
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:San_Diego,_California
+dbo:product	dbr:Online_banking
+dbr:San_Diego_County_Credit_Union	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Seeds
+dbr:KWS_Saat	
+dbo:regionServed	dbr:Austria
+dbo:product	dbr:E-book
+dbr:Kobo_Inc.	
+dbo:regionServed	dbr:South_Carolina
+dbo:product	dbr:Dairy_products
+dbr:Southeastern_Grocers	dbr:BI-LO_(United_States)	
+dbo:regionServed	dbr:Victoria_(Australia)
+dbo:product	dbr:Oz_Lotto
+dbr:Tatts_Lottery	
+dbo:regionServed	dbr:New_York_City
+dbo:product	dbr:Investment_Banking
+dbr:Bank_Negara_Indonesia	
+dbo:regionServed	dbr:Illinois
+dbo:product	dbr:Retail_Banking
+dbr:Associated_Banc-Corp	dbr:First_Midwest_Bank	dbr:First_Midwest_Bancorp	
+dbo:regionServed	dbr:Nigeria
+dbo:product	dbr:Cogeneration
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Boing_(Spain)
+dbr:Turner_Broadcasting_System_Europe	
+dbo:regionServed	dbr:Hungary
+dbo:product	dbr:Mortgages
+dbr:Bank_of_Georgia	
+dbo:regionServed	dbr:Vietnam
+dbo:product	dbr:Retail_banking
+dbr:Mega_International_Commercial_Bank	
+dbo:regionServed	dbr:Orlando
+dbo:product	dbr:Dessert
+dbr:Wahlburgers__Wahlburgers__1	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Kaya_toast
+dbr:Ya_Kun_Kaya_Toast	
+dbo:regionServed	dbr:Brazil
+dbo:product	dbr:Sports_equipment
+dbr:Pirma	
+dbo:regionServed	dbr:South_Africa
+dbo:product	dbr:Tablet_computer
+dbr:Kobo_Inc.	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Custom_stages
+dbr:Stageco	
+dbo:regionServed	dbr:Bahrain
+dbo:product	dbr:Electricity
+dbr:Malakoff_(power_company)	
+dbo:regionServed	dbr:Asia
+dbo:product	dbr:Movie_production
+dbr:HBO_(Asia)__HBO_Asia_Pte_Ltd.__1	
+dbo:regionServed	dbr:Osceola_County,_Florida
+dbo:product	dbr:Loans
+dbr:Space_Coast_Credit_Union	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:Oil
+dbr:Z_Energy	
+dbo:regionServed	dbr:Phoenix,_Arizona
+dbo:product	dbr:Consumer_banking
+dbr:MidFirst_Bank	
+dbo:regionServed	dbr:Kazakhstan
+dbo:product	dbr:Explosives
+dbr:Kazakhstan_Engineering	
+dbo:regionServed	dbr:Far_East
+dbo:product	dbr:Ketones
+dbr:Arkem	
+dbo:regionServed	dbr:Victoria,_Australia
+dbo:product	dbr:Health_promotion
+dbr:Victorian_Health_Promotion_Foundation	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Apparel
+dbr:Bench_(British_clothing_brand)	dbr:Scottevest	dbr:Ark_Collective	
+dbo:regionServed	dbr:Alabama
+dbo:product	dbr:Burrito
+dbr:Chronic_Tacos	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Health
+dbr:American_Income_Life_Insurance_Company	dbr:Globe_Life_and_Accident_Insurance_Company	dbr:United_American_Insurance_Company	dbr:United_Investors_Life_Insurance_Company	
+dbo:regionServed	dbr:Tripura
+dbo:product	dbr:Private_banking
+dbr:Tripura_Gramin_Bank	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Arcade_game
+dbr:Chuck_E._Cheese's	
+dbo:regionServed	dbr:Norway
+dbo:product	dbr:Sports_equipment
+dbr:XXL_Sport_&_Villmark	
+dbo:regionServed	dbr:France
+dbo:product	dbr:Video_on_demand
+dbr:Wuaki.tv	
+dbo:regionServed	dbr:District_of_Columbia
+dbo:product	dbr:Investment_bank
+dbr:First_Citizens_BancShares	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:VoIP
+dbr:Dreamtilt	
+dbo:regionServed	dbr:Southern_United_States
+dbo:product	dbr:Salads
+dbr:Back_Yard_Burgers	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Asset_management
+dbr:Swiss_Life	dbr:AG_Real_Estate	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Automobiles
+dbr:SEAT	dbr:Chase_Motor_Truck_Company	
+dbo:regionServed	dbr:Oklahoma
+dbo:product	dbr:Electric_power_transmission
+dbr:American_Electric_Power	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Milkshake
+dbr:Smashburger	
+dbo:regionServed	dbr:Thailand
+dbo:product	dbr:Investments
+dbr:Carrian_Group	
+dbo:regionServed	dbr:Middlesex
+dbo:product	dbr:Fashion_accessory
+dbr:Holland_&_Holland	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Retail_banking
+dbr:First_Republic_Bank	
+dbo:regionServed	dbr:Jæren
+dbo:product	dbr:Broadband
+dbr:Lyse_Energi	
+dbo:regionServed	dbr:Indonesia
+dbo:product	dbr:Web_application_firewall
+dbr:Penta_Security	
+dbo:regionServed	dbr:Syria
+dbo:product	dbr:Handbag
+dbr:Padini	
+dbo:regionServed	dbr:Maricopa_County,_AZ
+dbo:product	dbr:Savings_account
+dbr:Arizona_Federal_Credit_Union	
+dbo:regionServed	dbr:San_Patricio_County,_Texas
+dbo:product	dbr:Checking_account
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Pakistan
+dbo:product	dbr:Desserts
+dbr:Barista_Lavazza	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Furnace
+dbr:Rheem	
+dbo:regionServed	dbr:China
+dbo:product	dbr:Dairy_products
+dbr:Sanyuan_Group	
+dbo:regionServed	dbr:San_Marino
+dbo:product	dbr:Direct-broadcast_satellite
+dbr:Sky_Italia	
+dbo:regionServed	dbr:Malaysia
+dbo:product	dbr:Smoothies
+dbr:Café_Coffee_Day	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Consumer_banking
+dbr:Bank_of_Queensland	
+dbo:regionServed	dbr:Washington_(U.S._state)
+dbo:product	dbr:Retail_banking
+dbr:West_Coast_Bancorp	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Smoothies
+dbr:Coffee_Republic	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:product	dbr:Private_Equity
+dbr:Guosen_Securities	
+dbo:regionServed	dbr:India
+dbo:product	dbr:E-commerce
+dbr:Sify	dbr:Data_Infosys	dbr:MyPustak	dbr:MadBid	
+dbo:regionServed	dbr:Montenegro
+dbo:product	dbr:Investment_bank
+dbr:Komercijalna_banka	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Another_Century's_Episode
+dbr:Banpresto	
+dbo:regionServed	dbr:Moldova,_Republic_of
+dbo:product	dbr:Investment_management
+dbr:MobiasBanca	
+dbo:regionServed	dbr:Bahrain
+dbo:product	dbr:Wireless_broadband
+dbr:VIVA_Bahrain	
+dbo:regionServed	dbr:Croatia
+dbo:product	dbr:Grand_televizija
+dbr:The_United_Group	
+dbo:regionServed	dbr:Brasília
+dbo:product	dbr:Power_generation
+dbr:Eletrobras_Furnas	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Films
+dbr:Section23_Films	
+dbo:regionServed	dbr:Helgeland
+dbo:product	dbr:Hydroelectricity
+dbr:HelgelandsKraft	
+dbo:regionServed	dbr:Illinois
+dbo:product	dbr:Electricity
+dbr:Integrys_Energy_Group	dbr:Wabash_Valley_Power_Association	
+dbo:regionServed	dbr:South_Africa
+dbo:product	dbr:Credit_card
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Oriental_Mindoro
+dbo:product	dbr:Coach_(vehicle)
+dbr:Vallacar_Transit_Corporation	
+dbo:regionServed	dbr:Manama
+dbo:product	dbr:Agency_(law)
+dbr:Fakhro_Group	
+dbo:regionServed	dbr:South_Africa
+dbo:product	dbr:PA_&_video_supports
+dbr:Stageco	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Olive_oil
+dbr:Gustobene	
+dbo:regionServed	dbr:Norway
+dbo:product	dbr:Trademark
+dbr:Norwegian_Industrial_Property_Office	
+dbo:regionServed	dbr:Malaysia
+dbo:product	dbr:Blu-ray
+dbr:Video_Ezy	
+dbo:regionServed	dbr:Alabama
+dbo:product	dbr:Title_Loan
+dbr:TMX_Finance	
+dbo:regionServed	dbr:Reykjavík
+dbo:product	dbr:Hot_dogs
+dbr:Bæjarins_Beztu_Pylsur	
+dbo:regionServed	dbr:World
+dbo:product	dbr:DVD
+dbr:Parachute_Publishing	
+dbo:regionServed	dbr:Cameron_County,_Texas
+dbo:product	dbr:Online_banking
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:UK
+dbo:product	dbr:Electronics
+dbr:Findel_plc	
+dbo:regionServed	dbr:Bengaluru
+dbo:product	dbr:Cottage_cheese
+dbr:Milk_Mantra	
+dbo:regionServed	dbr:Sierra_Leone
+dbo:product	dbr:Corporate_banking
+dbr:Guaranty_Trust_Bank	
+dbo:regionServed	dbr:Utah
+dbo:product	dbr:Mortgage_loan
+dbr:State_Bank_of_Southern_Utah	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Microsystem
+dbr:Olivetti	
+dbo:regionServed	dbr:United_States_of_America
+dbo:product	dbr:Corporate_network
+dbr:Sify	
+dbo:regionServed	dbr:Paraguay
+dbo:product	dbr:Fast_food
+dbr:Giraffas	
+dbo:regionServed	dbr:Wisconsin
+dbo:product	dbr:Mortgage_loan
+dbr:FirstMerit_Corporation	
+dbo:regionServed	dbr:New_Jersey
+dbo:product	dbr:Transactional_account
+dbr:TrustCo_Bank	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Inductive_charging
+dbr:Plugless_Power	
+dbo:regionServed	dbr:Singapore
+dbo:product	dbr:MEGA_Suite
+dbr:MEGA_International_Srl.	
+dbo:regionServed	dbr:Minnesota
+dbo:product	dbr:Wealth_Management
+dbr:Associated_Banc-Corp	
+dbo:regionServed	dbr:Detroit
+dbo:product	dbr:Dessert
+dbr:Wahlburgers__Wahlburgers__1	
+dbo:regionServed	dbr:Brazil
+dbo:product	dbr:Hummus
+dbr:Strauss_(company)	
+dbo:regionServed	dbr:Brazil
+dbo:product	dbr:Gardening
+dbr:Leroy_Merlin	
+dbo:regionServed	dbr:Orange_County,_California
+dbo:product	dbr:Mobile_banking
+dbr:San_Diego_County_Credit_Union	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Goose
+dbr:D'Artagnan_(Food_Company)	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:French_fries
+dbr:Five_Guys	dbr:Smashburger	
+dbo:regionServed	dbr:Mexico
+dbo:product	dbr:Clothing
+dbr:Aéropostale_(clothing)	
+dbo:regionServed	dbr:Scandinavia
+dbo:product	dbr:Service-oriented_architecture
+dbr:Kantega	
+dbo:regionServed	dbr:Panama
+dbo:product	dbr:Telecommunications
+dbr:Grupo_Aval_Acciones_y_Valores	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Mizone
+dbr:Frucor	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Loyalty_Program
+dbr:Voilà_Hotel_Rewards	
+dbo:regionServed	dbr:Mexico
+dbo:product	dbr:Synthetic_motor_oil
+dbr:Royal_Purple_(lubricant_manufacturer)	
+dbo:regionServed	dbr:Montenegro
+dbo:product	dbr:Powdered_milk
+dbr:Mlekara_Subotica	
+dbo:regionServed	dbr:Weber_County,_Utah
+dbo:product	dbr:Investment
+dbr:Goldenwest_Credit_Union	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:product	dbr:DVD
+dbr:Virgin_Megastores	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Home_improvement
+dbr:Lowe's	
+dbo:regionServed	dbr:Boston
+dbo:product	dbr:Hot_dog
+dbr:Wahlburgers__Wahlburgers__1	
+dbo:regionServed	dbr:Alberta
+dbo:product	dbr:Voice_over_IP
+dbr:Vmedia	
+dbo:regionServed	dbr:Aransas_County,_Texas
+dbo:product	dbr:Mortgages
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Israel
+dbo:product	dbr:Growth_capital
+dbr:Mangrove_Capital_Partners	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Mackerel
+dbr:Ayam_Brand	
+dbo:regionServed	dbr:South_Africa
+dbo:product	dbr:Festival_stages
+dbr:Stageco	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Live_Nation
+dbr:Live_Nation_UK	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Yeast
+dbr:Red_Star_Yeast	
+dbo:regionServed	dbr:Middle_East
+dbo:product	dbr:Rapeseed
+dbr:KWS_Saat	
+dbo:regionServed	dbr:Zimbabwe
+dbo:product	dbr:Automobile
+dbr:Cooper_Motor_Corporation	
+dbo:regionServed	dbr:International
+dbo:product	dbr:Podcasting
+dbr:All_Things_Comedy	
+dbo:regionServed	dbr:North_Island
+dbo:product	dbr:Taco
+dbr:Mad_Mex_Fresh_Mexican_Grill	
+dbo:regionServed	dbr:Oklahoma_City
+dbo:product	dbr:Credit_card
+dbr:MidFirst_Bank	
+dbo:regionServed	dbr:Norway
+dbo:product	dbr:Butter
+dbr:Synnøve_Finden	
+dbo:regionServed	dbr:Maryland
+dbo:product	dbr:Investment_bank
+dbr:First_Citizens_BancShares	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Soft_drink
+dbr:Shasta_(soft_drink)	dbr:Orion_Breweries	
+dbo:regionServed	dbr:Serbia
+dbo:product	dbr:Landline
+dbr:Telekom_Srbija	
+dbo:regionServed	dbr:Indiana
+dbo:product	dbr:Investment_banking
+dbr:BB&T	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Mobile_Phone
+dbr:IBall_(company)	
+dbo:regionServed	dbr:Cyprus
+dbo:product	dbr:Telephone
+dbr:PrimeTel_PLC	dbr:CYTA	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Wealth_management
+dbr:Bank_of_Beirut	
+dbo:regionServed	dbr:Ohio
+dbo:product	dbr:Grocery_store
+dbr:Marc's	
+dbo:regionServed	dbr:Maryland
+dbo:product	dbr:Commercial_bank
+dbr:First_Citizens_BancShares	
+dbo:regionServed	dbr:Romania
+dbo:product	dbr:Need_for_Speed
+dbr:Ghost_Games	
+dbo:regionServed	dbr:Greater_Mexico_City
+dbo:product	dbr:Cable_television
+dbr:Izzi_Telecom	
+dbo:regionServed	dbr:Nebraska
+dbo:product	dbr:Inland_marine_insurance
+dbr:Shelter_Insurance	
+dbo:regionServed	dbr:Montenegro
+dbo:product	dbr:IPTV
+dbr:Telekom_Srbija	
+dbo:regionServed	dbr:Thailand
+dbo:product	dbr:Breakdown_cover
+dbr:Insurance_Australia_Group	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:product	dbr:Water
+dbr:Malakoff_(power_company)	
+dbo:regionServed	dbr:Oceania
+dbo:product	dbr:Reinsurance
+dbr:Atradius	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Pop_Tops
+dbr:Schweppes_Australia	
+dbo:regionServed	dbr:English_Midlands
+dbo:product	dbr:Car_Dealership
+dbr:Midlands_Co-operative_Society	
+dbo:regionServed	dbr:Balkan_Peninsula
+dbo:product	dbr:Mobile_phone
+dbr:OTE	
+dbo:regionServed	dbr:United_States_of_America
+dbo:product	dbr:Broadcast_television
+dbr:USA_Broadcasting	dbr:TVX_Broadcast_Group	dbr:Sunbeam_Television	dbr:Marshall_Broadcasting	dbr:Citadel_Communications	dbr:Pulitzer,_Inc.	
+dbo:regionServed	dbr:Greece
+dbo:product	dbr:Dole_Food_Company
+dbr:The_Pepsi_Bottling_Group	
+dbo:regionServed	dbr:El_Salvador
+dbo:product	dbr:Chicken_sandwich
+dbr:Smashburger	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:product	dbr:French_fries
+dbr:Five_Guys	dbr:Herfy	dbr:Smashburger	dbr:Elevation_Burger	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Retail_banking
+dbr:ING_Direct_Australia	dbr:National_Australia_Bank	dbr:Teachers_Mutual_Bank	dbr:Community_First_Credit_Union	dbr:Bank_of_Beirut	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:Fodder
+dbr:Inghams_Enterprises	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Computer_network
+dbr:Birch_Communications	
+dbo:regionServed	dbr:Netherlands
+dbo:product	dbr:Bedroom_furniture
+dbr:Beter_Bed	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Salads
+dbr:Smashburger	
+dbo:regionServed	dbr:Mexico
+dbo:product	dbr:Display_advertising
+dbr:Fastsigns	
+dbo:regionServed	dbr:Greece
+dbo:product	dbr:Home_improvement
+dbr:Leroy_Merlin	
+dbo:regionServed	dbr:Guam
+dbo:product	dbr:Frozen_yogurt
+dbr:Marble_Slab_Creamery	dbr:Yogurtland	
+dbo:regionServed	dbr:Italy
+dbo:product	dbr:Gardening
+dbr:Leroy_Merlin	
+dbo:regionServed	dbr:Puducherry
+dbo:product	dbr:Consumer_durables
+dbr:Vasanth_&_Co	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Ammonium_Sulphate
+dbr:Fertilisers_and_Chemicals_Travancore	
+dbo:regionServed	dbr:Middle_East
+dbo:product	dbr:Commercial_bank
+dbr:Bank_of_Beirut	
+dbo:regionServed	dbr:Southeast_Europe
+dbo:product	dbr:Natural_Gas
+dbr:Hellenic_Petroleum	
+dbo:regionServed	dbr:Slovenia
+dbo:product	dbr:Sport_Klub
+dbr:The_United_Group	
+dbo:regionServed	dbr:Azerbaijan
+dbo:product	dbr:Commercial_bank
+dbr:TBC_Bank	
+dbo:regionServed	dbr:Kosovo
+dbo:product	dbr:Insurance
+dbr:SIGAL_(insurance_company)	
+dbo:regionServed	dbr:Utah_County,_Utah
+dbo:product	dbr:Loan
+dbr:USU_Credit_Union	dbr:Goldenwest_Credit_Union	dbr:America_First_Credit_Union	
+dbo:regionServed	dbr:Paris
+dbo:product	dbr:Broadcasting
+dbr:Lord_family	
+dbo:regionServed	dbr:British_Columbia
+dbo:product	dbr:Electricity_distribution
+dbr:BC_Hydro	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Panavia_Tornado
+dbr:Panavia_Aircraft_GmbH	
+dbo:regionServed	dbr:Kazakhstan
+dbo:product	dbr:Book
+dbr:Reanimedia	
+dbo:regionServed	dbr:Commonwealth_of_Independent_States
+dbo:product	dbr:Chevrolet_Niva
+dbr:GM-AvtoVAZ	
+dbo:regionServed	dbr:Connecticut
+dbo:product	dbr:Electric_power_distribution
+dbr:Eversource_Energy	
+dbo:regionServed	dbr:Norway
+dbo:product	dbr:Brelett
+dbr:Fjordland	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Earring
+dbr:Vaibhav_Global	
+dbo:regionServed	dbr:Abu_Dhabi_(emirate)
+dbo:product	dbr:Landline
+dbr:Du_(company)	
+dbo:regionServed	dbr:Nicaragua
+dbo:product	dbr:Banking
+dbr:Grupo_Aval_Acciones_y_Valores	
+dbo:regionServed	dbr:Washington_County,_Utah
+dbo:product	dbr:Checking_account
+dbr:USU_Credit_Union	dbr:Goldenwest_Credit_Union	
+dbo:regionServed	dbr:Myanmar
+dbo:product	dbr:Necklaces
+dbr:Padini	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Custom_stages
+dbr:Stageco	
+dbo:regionServed	dbr:Palm_Beach_County,_Florida
+dbo:product	dbr:Loans
+dbr:Space_Coast_Credit_Union	
+dbo:regionServed	dbr:Ohio
+dbo:product	dbr:Electric_power_transmission
+dbr:Duke_Energy	dbr:American_Electric_Power	
+dbo:regionServed	dbr:Ecuador
+dbo:product	dbr:Burger_King
+dbr:Carrols_Restaurant_Group	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Record_label
+dbr:Bertelsmann	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Alpen_(food)
+dbr:Weetabix_Limited	
+dbo:regionServed	dbr:Alabama
+dbo:product	dbr:Grocery
+dbr:Publix	
+dbo:regionServed	dbr:Northeastern_United_States_(U.S._Census_Bureau)
+dbo:product	dbr:Broadcast_television
+dbr:Citadel_Communications	
+dbo:regionServed	dbr:Costa_Rica
+dbo:product	dbr:Financial_services
+dbr:Grupo_Aval_Acciones_y_Valores	
+dbo:regionServed	dbr:Egypt
+dbo:product	dbr:Pastries
+dbr:Café_Coffee_Day	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:E-commerce
+dbr:Econet_Wireless	
+dbo:regionServed	dbr:World
+dbo:product	dbr:CPLD
+dbr:Xilinx	
+dbo:regionServed	dbr:Hidalgo_County,_Texas
+dbo:product	dbr:Checking_account
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Brazil
+dbo:product	dbr:Chicken_(food)
+dbr:Red_Lobster	
+dbo:regionServed	dbr:Singapore
+dbo:product	dbr:Clothing
+dbr:Aéropostale_(clothing)	dbr:Padini	dbr:Fox_(clothing)	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Ashok_Leyland
+dbr:Maxposure_Media_Group	
+dbo:regionServed	dbr:Maldives
+dbo:product	dbr:Steel
+dbr:M._A._Kharafi_&_Sons	
+dbo:regionServed	dbr:China
+dbo:product	dbr:Tellurium
+dbr:Jiangxi_Copper	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:TV_Tamazight_4
+dbr:Public_Establishment_of_Television	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:IPTV
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Fiberglass
+dbr:PPG_Industries	
+dbo:regionServed	dbr:Americas
+dbo:product	dbr:Patrol_Boats
+dbr:Indústria_Naval_do_Ceará	
+dbo:regionServed	dbr:Turkey
+dbo:product	dbr:Private_Banking
+dbr:Bank_of_Georgia	
+dbo:regionServed	dbr:Delaware
+dbo:product	dbr:Seafood
+dbr:Harris_Teeter	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Tuna
+dbr:Ayam_Brand	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Footwear
+dbr:Bata_Shoes	dbr:Joma	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Hamburgers
+dbr:Five_Guys	
+dbo:regionServed	dbr:Ukraine
+dbo:product	dbr:Yandex.Translate
+dbr:Yandex	
+dbo:regionServed	dbr:Philippines
+dbo:product	dbr:Clothing
+dbr:Aéropostale_(clothing)	dbr:Padini	
+dbo:regionServed	dbr:New_England
+dbo:product	dbr:Insurance
+dbr:The_Norfolk_&_Dedham_Group	
+dbo:regionServed	dbr:Sri_Lanka
+dbo:product	dbr:Shopping_centre
+dbr:Central_Group	
+dbo:regionServed	dbr:Italy
+dbo:product	dbr:Telephone
+dbr:RCS_&_RDS	
+dbo:regionServed	dbr:Qatar
+dbo:product	dbr:Music
+dbr:Virgin_Megastores	dbr:Fnac	
+dbo:regionServed	dbr:Balkan_Peninsula
+dbo:product	dbr:OTE_TV
+dbr:OTE	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Sunglasses
+dbr:Padini	
+dbo:regionServed	dbr:Luxembourg
+dbo:product	dbr:Digital_Asset_Management
+dbr:MaPS_S.A.	
+dbo:regionServed	dbr:Mauritius
+dbo:product	dbr:Credit_card
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Michigan
+dbo:product	dbr:Salad
+dbr:Wahlburgers__Wahlburgers__1	
+dbo:regionServed	dbr:Kazakhstan
+dbo:product	dbr:Computer
+dbr:M._A._Kharafi_&_Sons	
+dbo:regionServed	dbr:Brooklyn
+dbo:product	dbr:Supermarket
+dbr:Gristedes	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:Household_goods
+dbr:James_Pascoe_Group	
+dbo:regionServed	dbr:Commonwealth_of_Independent_States
+dbo:product	dbr:List_of_NVS_Telematic_Systems_products
+dbr:NVS_Telematic_Systems	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Chicken_sandwich
+dbr:Smashburger	
+dbo:regionServed	dbr:Seminole_County,_Florida
+dbo:product	dbr:Credit_cards
+dbr:Space_Coast_Credit_Union	
+dbo:regionServed	dbr:Odisha
+dbo:product	dbr:Retail_banking
+dbr:Odisha_Gramya_Bank	dbr:Utkal_Grameen_Bank	
+dbo:regionServed	dbr:El_Salvador
+dbo:product	dbr:French_fries
+dbr:Smashburger	
+dbo:regionServed	dbr:Massachusetts
+dbo:product	dbr:Electric_power_generation
+dbr:Eversource_Energy	dbr:NSTAR_(company)	
+dbo:regionServed	dbr:France
+dbo:product	dbr:Bedroom_furniture
+dbr:Beter_Bed	
+dbo:regionServed	dbr:Oman
+dbo:product	dbr:Poutine
+dbr:New_York_Fries	
+dbo:regionServed	dbr:Queensland
+dbo:product	dbr:Chicken_(food)
+dbr:Chooks_Fresh_&_Tasty	
+dbo:regionServed	dbr:Riverside_County,_California
+dbo:product	dbr:Checking_account
+dbr:Pacific_Marine_Credit_Union	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:Blu-ray_Disc
+dbr:Quickflix	dbr:Laser_Corporation	dbr:Madman_Entertainment	dbr:Magna_Home_Entertainment	dbr:Siren_Visual	
+dbo:regionServed	dbr:Taiwan
+dbo:product	dbr:Doughnut
+dbr:Mister_Donut	
+dbo:regionServed	dbr:Hong_Kong
+dbo:product	dbr:E-commerce
+dbr:EZTABLE	
+dbo:regionServed	dbr:Ecuador
+dbo:product	dbr:Fruit_juice
+dbr:Bavaria_Brewery_(Colombia)	
+dbo:regionServed	dbr:Asia
+dbo:product	dbr:Investment_banking
+dbr:Espírito_Santo_Financial_Group	
+dbo:regionServed	dbr:California
+dbo:product	dbr:Retail_banking
+dbr:First_Republic_Bank	dbr:PacWest_Bancorp	
+dbo:regionServed	dbr:North_Island
+dbo:product	dbr:Tex-Mex_cuisine
+dbr:Mad_Mex_Fresh_Mexican_Grill	
+dbo:regionServed	dbr:Pakistan
+dbo:product	dbr:Broadband_Internet
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:New_Jersey
+dbo:product	dbr:Dark_Fiber
+dbr:Lexent_Metro_Connect	
+dbo:regionServed	dbr:San_Francisco
+dbo:product	dbr:Beer
+dbr:Mikkeller	
+dbo:regionServed	dbr:South_Africa
+dbo:product	dbr:E-reader
+dbr:Kobo_Inc.	
+dbo:regionServed	dbr:Florida
+dbo:product	dbr:Produce
+dbr:Publix	dbr:Southeastern_Grocers	dbr:Harris_Teeter	
+dbo:regionServed	dbr:United_Nations
+dbo:product	dbr:Insurance
+dbr:United_Nations_Federal_Credit_Union	
+dbo:regionServed	dbr:Yorkshire
+dbo:product	dbr:Drinking_water
+dbr:Yorkshire_Water	
+dbo:regionServed	dbr:Wood_County,_Texas
+dbo:product	dbr:Loan
+dbr:United_Heritage_Credit_Union	
+dbo:regionServed	dbr:Monaco
+dbo:product	dbr:CD
+dbr:Fnac	
+dbo:regionServed	dbr:British_Columbia
+dbo:product	dbr:Burritos
+dbr:Luvo_Inc.	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Private_banking
+dbr:Kerala_Gramin_Bank	dbr:Buldana_Urban_Cooperative_Credit_Society	dbr:Pallavan_Grama_Bank	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Manure_spreader
+dbr:Art's_Way	
+dbo:regionServed	dbr:Central_America
+dbo:product	dbr:Home_appliance
+dbr:Grupo_Elektra	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Civilization_III
+dbr:Infogrames	
+dbo:regionServed	dbr:Automotive
+dbo:product	dbr:Semiconductor
+dbr:Elmos_Semiconductor	
+dbo:regionServed	dbr:Norway
+dbo:product	dbr:Eldhus
+dbr:Nortura	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Passenger_car_(rail)
+dbr:St._Louis_Car_Company	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:product	dbr:Coke_(fuel)
+dbr:Hidili_Industry_International_Development_Limited	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Dog_food
+dbr:Artemis_(pet_food)	dbr:Essential_Foods	
+dbo:regionServed	dbr:Texas
+dbo:product	dbr:Vehicle_insurance
+dbr:Fred_Loya_Insurance	
+dbo:regionServed	dbr:Pacific
+dbo:product	dbr:Firearm
+dbr:Colt_Canada	
+dbo:regionServed	dbr:Middle_East
+dbo:product	dbr:Infrastructure
+dbr:Mara_Group	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Truck
+dbr:Rush_Enterprises	
+dbo:regionServed	dbr:Bay_Area
+dbo:product	dbr:Grocery_store
+dbr:Mollie_Stone's_Markets	
+dbo:regionServed	dbr:Commonwealth_of_Independent_States
+dbo:product	dbr:Xan_(vodka)
+dbr:Vinagro	
+dbo:regionServed	dbr:Belgium
+dbo:product	dbr:Business_Process_Management
+dbr:MaPS_S.A.	
+dbo:regionServed	dbr:Morgan_County,_Utah
+dbo:product	dbr:Savings_Account
+dbr:Goldenwest_Credit_Union	
+dbo:regionServed	dbr:Ryfylke
+dbo:product	dbr:District_cooling
+dbr:Lyse_Energi	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Clothing
+dbr:Jack_Wills	dbr:High_and_Mighty_(clothing)	dbr:Primark	dbr:CA_Sports	dbr:MK_One	dbr:Raja_Fashions	dbr:Rupert_and_Buckley	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Technology
+dbr:IDRO_Group	
+dbo:regionServed	dbr:Anchorage,_Alaska
+dbo:product	dbr:Checking_accounts
+dbr:Credit_Union_1_(Alaska)	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Production_(economics)
+dbr:AF_Holding	
+dbo:regionServed	dbr:Bhiwadi
+dbo:product	dbr:Hotels
+dbr:Ashiana_Housing	
+dbo:regionServed	dbr:Syria
+dbo:product	dbr:Credit_card
+dbr:Commercial_Bank_of_Syria	
+dbo:regionServed	dbr:Tyco_Electronics
+dbo:product	dbr:Loan
+dbr:Tyco_Federal_Credit_Union	
+dbo:regionServed	dbr:Belgium
+dbo:product	dbr:Mecca_Bingo
+dbr:The_Rank_Group	
+dbo:regionServed	dbr:Oklahoma_City
+dbo:product	dbr:Corporate_banking
+dbr:MidFirst_Bank	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Ontario_Lottery_and_Gaming_Corporation
+dbr:Gateway_Newstands	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:MEGA_Suite
+dbr:MEGA_International_Srl.	
+dbo:regionServed	dbr:Southeastern_United_States
+dbo:product	dbr:Cable_telephony
+dbr:Mediacom	
+dbo:regionServed	dbr:Mumbai
+dbo:product	dbr:Milkshake
+dbr:Burgs_(fast-food_chain)	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:product	dbr:Maize
+dbr:Global_Bio-Chem	
+dbo:regionServed	dbr:Andhra_Pradesh
+dbo:product	dbr:Commodity_market
+dbr:Transmission_Corporation_of_Andhra_Pradesh	
+dbo:regionServed	dbr:Ohio
+dbo:product	dbr:Pharmacy
+dbr:Lane_Drug	
+dbo:regionServed	dbr:Germany
+dbo:product	dbr:Investment_banking
+dbr:Merck_Finck_&_Co.	
+dbo:regionServed	dbr:Myanmar
+dbo:product	dbr:Smartphones
+dbr:Wellcom	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Terrine_(food)
+dbr:Three_Little_Pigs_(company)	
+dbo:regionServed	dbr:Saskatchewan
+dbo:product	dbr:Cable_Internet
+dbr:Vmedia	
+dbo:regionServed	dbr:Iceland
+dbo:product	dbr:Investment_banking
+dbr:Straumur_Investment_Bank	
+dbo:regionServed	dbr:Texas
+dbo:product	dbr:Electricity_distribution
+dbr:American_Electric_Power	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Chicken_(food)
+dbr:Red_Lobster	
+dbo:regionServed	dbr:District_of_Columbia
+dbo:product	dbr:Produce
+dbr:Harris_Teeter	
+dbo:regionServed	dbr:Charlotte_County,_Florida
+dbo:product	dbr:Credit_cards
+dbr:Sarasota_Coastal_Credit_Union	
+dbo:regionServed	dbr:Continental_USA
+dbo:product	dbr:Computer_hardware
+dbr:Shoplet	
+dbo:regionServed	dbr:Austria
+dbo:product	dbr:E-reader
+dbr:Kobo_Inc.	
+dbo:regionServed	dbr:Serbia
+dbo:product	dbr:Cheese
+dbr:Mlekara_Subotica	dbr:Imlek_a.d.	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Canal_Algérie
+dbr:Public_Establishment_of_Television	
+dbo:regionServed	dbr:Hillsborough_County,_Florida
+dbo:product	dbr:Credit_cards
+dbr:Sarasota_Coastal_Credit_Union	
+dbo:regionServed	dbr:Finland
+dbo:product	dbr:Bio_gas
+dbr:Gasum	
+dbo:regionServed	dbr:Antique
+dbo:product	dbr:Bread
+dbr:Bread_&_Butter_Bakeshop	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:E-book
+dbr:Kobo_Inc.	
+dbo:regionServed	dbr:California
+dbo:product	dbr:Vietnamese_cuisine
+dbr:Lee's_Sandwiches	
+dbo:regionServed	dbr:Arctic
+dbo:product	dbr:Ferry
+dbr:Hurtigruten_AS	
+dbo:regionServed	dbr:Odisha
+dbo:product	dbr:Rupay_Debit_card
+dbr:Odisha_Gramya_Bank	
+dbo:regionServed	dbr:Maharashtra
+dbo:product	dbr:Water_resource_management
+dbr:Maharashtra_Water_Resources_Regulatory_Authority	
+dbo:regionServed	dbr:Ohio
+dbo:product	dbr:Vehicle_insurance
+dbr:Fred_Loya_Insurance	
+dbo:regionServed	dbr:Zambia
+dbo:product	dbr:Commercial_vehicle
+dbr:Cooper_Motor_Corporation	
+dbo:regionServed	dbr:Tennessee
+dbo:product	dbr:Meat
+dbr:Publix	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Fashion_accessory
+dbr:Bata_Shoes	dbr:Katya_Katya_Shehurina	dbr:Tori_Richard	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:Dairy
+dbr:Lion_Dairy_&_Drinks	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Snackfood
+dbr:The_Smith's_Snackfood_Company	
+dbo:regionServed	dbr:Indonesia
+dbo:product	dbr:Sunglasses
+dbr:Padini	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Plate_glass
+dbr:PPG_Industries	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Commercial_bank
+dbr:First_Republic_Bank	
+dbo:regionServed	dbr:Midland_County,_Michigan
+dbo:product	dbr:Administration_(business)
+dbr:Greater_Midland_Community_Centers	
+dbo:regionServed	dbr:Ohio
+dbo:product	dbr:Candy
+dbr:Graeter's	
+dbo:regionServed	dbr:Italy
+dbo:product	dbr:Private_bank
+dbr:Intesa_Sanpaolo	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Snackfood
+dbr:The_Smith's_Snackfood_Company	
+dbo:regionServed	dbr:Taiwan
+dbo:product	dbr:Robotic_Surgery
+dbr:Unison_Healthcare_Group	
+dbo:regionServed	dbr:Middle_East
+dbo:product	dbr:Acrylate_polymer
+dbr:Arkem	
+dbo:regionServed	dbr:India
+dbo:product	<http://www.kinige.com/>
+dbr:Kinige	
+dbo:regionServed	dbr:Princeton,_New_Jersey
+dbo:product	dbr:Beer
+dbr:Triumph_Brewing	
+dbo:regionServed	dbr:Moldova,_Republic_of
+dbo:product	dbr:Commercial_bank
+dbr:MobiasBanca	
+dbo:regionServed	dbr:Puerto_rico
+dbo:product	dbr:Fashion_accessory
+dbr:Tori_Richard	
+dbo:regionServed	dbr:Israel
+dbo:product	dbr:Direct_broadcast_satellite
+dbr:Yes_(Israel)	
+dbo:regionServed	dbr:West_Bengal
+dbo:product	dbr:Financial_services
+dbr:Bangiya_Gramin_Vikash_Bank	dbr:Paschim_Banga_Gramin_Bank	
+dbo:regionServed	dbr:Sweden
+dbo:product	dbr:Vegetable
+dbr:Ayam_Brand	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:product	dbr:Watch
+dbr:Vaibhav_Global	
+dbo:regionServed	dbr:Réunion
+dbo:product	dbr:Pickup_truck
+dbr:Cooper_Motor_Corporation	
+dbo:regionServed	dbr:Mississippi
+dbo:product	dbr:Liability_insurance
+dbr:Shelter_Insurance	
+dbo:regionServed	dbr:Northern_Africa
+dbo:product	dbr:Transportation
+dbr:Motor_Oil_Hellas	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Pasta
+dbr:Red_Lobster	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Garden
+dbr:Aubuchon_Hardware	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Electricity_generation
+dbr:Repower_(Swiss_company)	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:product	dbr:Molybdenum
+dbr:China_Molybdenum	
+dbo:regionServed	dbr:Palakkad_District
+dbo:product	dbr:Rosewood
+dbr:Cochin_State_Forest_Tramway	
+dbo:regionServed	dbr:Finland
+dbo:product	dbr:Warranty
+dbr:SquareTrade	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Life_insurance
+dbr:American_Income_Life_Insurance_Company	dbr:United_American_Insurance_Company	dbr:United_Investors_Life_Insurance_Company	
+dbo:regionServed	dbr:Eastern_Europe
+dbo:product	dbr:Hummus
+dbr:Strauss_(company)	
+dbo:regionServed	dbr:Central_America
+dbo:product	dbr:Consumer_electronics
+dbr:Grupo_Elektra	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Private_Equity
+dbr:HDFC_Bank	dbr:Bank_of_Bahrain_and_Kuwait	
+dbo:regionServed	dbr:Kazakhstan
+dbo:product	dbr:Yandex.Translate
+dbr:Yandex	
+dbo:regionServed	dbr:International
+dbo:product	dbr:Genealogical_DNA_test
+dbr:Family_Tree_DNA	
+dbo:regionServed	dbr:Sarasota_County,_Florida
+dbo:product	dbr:Mortgages
+dbr:Tropical_Financial_Credit_Union	dbr:Sarasota_Coastal_Credit_Union	
+dbo:regionServed	dbr:Serbia
+dbo:product	dbr:Mobile_phone
+dbr:Telekom_Srbija	
+dbo:regionServed	dbr:South_Africa
+dbo:product	dbr:Clothing
+dbr:CA_Sports	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Truckload_shipping
+dbr:Schneider_National	
+dbo:regionServed	dbr:Middle_East
+dbo:product	dbr:Toonami
+dbr:Turner_Broadcasting_System_Europe	
+dbo:regionServed	dbr:Victoria_Harbour
+dbo:product	dbr:Film
+dbr:Win's_Entertainment	
+dbo:regionServed	dbr:Indiana
+dbo:product	dbr:Life_insurance
+dbr:Shelter_Insurance	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Telecoms
+dbr:Intracom	
+dbo:regionServed	dbr:Middle_East
+dbo:product	dbr:TruTV_(UK_and_Ireland)
+dbr:Turner_Broadcasting_System_Europe	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Investment_Banking
+dbr:HDFC_Bank	dbr:Bank_of_Bahrain_and_Kuwait	
+dbo:regionServed	dbr:Indianapolis_metropolitan_area
+dbo:product	dbr:Weekly_newspaper
+dbr:Home_News_Enterprises	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Commercial_bank
+dbr:Attijariwafa_Bank	dbr:Espírito_Santo_Financial_Group	dbr:Byblos_Bank	dbr:Bank_of_Beirut	
+dbo:regionServed	dbr:Kleberg_County,_Texas
+dbo:product	dbr:Investment
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Russia
+dbo:product	dbr:Fertilizers
+dbr:Bioenergy_(corporation)	
+dbo:regionServed	dbr:Channel_Islands
+dbo:product	dbr:Digital_television
+dbr:Bharti_Airtel	
+dbo:regionServed	dbr:Helgeland
+dbo:product	dbr:District_heating
+dbr:HelgelandsKraft	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Bread
+dbr:Tip_Top_Bakeries	dbr:Bakers_Delight	
+dbo:regionServed	dbr:SE_Europe
+dbo:product	dbr:Energy
+dbr:Motor_Oil_Hellas	
+dbo:regionServed	dbr:Tunisia
+dbo:product	dbr:Service_sector
+dbr:National_Company_for_Rail_Transport	
+dbo:regionServed	dbr:Mexico
+dbo:product	dbr:Skin_care
+dbr:Protandim	
+dbo:regionServed	dbr:Cache_County,_Utah
+dbo:product	dbr:Insurance
+dbr:Goldenwest_Credit_Union	
+dbo:regionServed	dbr:Estonia
+dbo:product	dbr:Apothecary
+dbr:Mediq	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Jewelery
+dbr:Gydja_Collection	
+dbo:regionServed	dbr:Provo,_Utah
+dbo:product	dbr:Broadband_Internet
+dbr:Google_Fiber	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Truck
+dbr:Manufacturing_Commercial_Vehicles	dbr:China_Motor_Corporation	
+dbo:regionServed	dbr:West_Coast_of_the_United_States
+dbo:product	dbr:Motor_Oil
+dbr:Associated_Oil_Company	
+dbo:regionServed	dbr:Iowa
+dbo:product	dbr:Electricity_distribution
+dbr:MidAmerican_Energy_Company	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Massage_chair
+dbr:Relax_The_Back	
+dbo:regionServed	dbr:Wisconsin
+dbo:product	dbr:U-Verse
+dbr:Wisconsin_Bell	
+dbo:regionServed	dbr:El_Salvador
+dbo:product	dbr:Athletic_shoe
+dbr:Pirma	
+dbo:regionServed	dbr:Ireland
+dbo:product	dbr:Clothing
+dbr:Grattan_plc	
+dbo:regionServed	dbr:Southeast_Europe
+dbo:product	dbr:Cash_and_carry_(wholesale)
+dbr:Mercator_(retail)	
+dbo:regionServed	dbr:Denver,_Colorado
+dbo:product	dbr:Finance_and_insurance
+dbr:MidFirst_Bank	
+dbo:regionServed	dbr:Botswana
+dbo:product	dbr:Investment_management
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Namibia
+dbo:product	dbr:Retailer
+dbr:Wind_Telecom	
+dbo:regionServed	dbr:New_York_metro
+dbo:product	dbr:Alcoholic_beverage
+dbr:Star_Industries	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Arcade_game
+dbr:Chuck_E._Cheese's	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Infrastructure
+dbr:Mara_Group	
+dbo:regionServed	dbr:Romania
+dbo:product	dbr:Internet
+dbr:RCS_&_RDS	
+dbo:regionServed	dbr:Kazakhstan
+dbo:product	dbr:Mobile_telephony
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:China
+dbo:product	dbr:Mackerel
+dbr:Ayam_Brand	
+dbo:regionServed	dbr:South_Carolina
+dbo:product	dbr:Commercial_bank
+dbr:First_Citizens_BancShares	
+dbo:regionServed	dbr:Northern_Africa
+dbo:product	dbr:Oil_refinery
+dbr:Motor_Oil_Hellas	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Ecommerce
+dbr:Grupo_Elektra	
+dbo:regionServed	dbr:Maryland
+dbo:product	dbr:Video_lottery_terminals
+dbr:Maryland_Lottery	
+dbo:regionServed	dbr:Portugal
+dbo:product	dbr:Mobile_phone
+dbr:UZO	dbr:Vodafone_Portugal	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Electrical_power
+dbr:Vattenfall_United_Kingdom	
+dbo:regionServed	dbr:South_Africa
+dbo:product	dbr:Loans
+dbr:Capitec_Bank	
+dbo:regionServed	dbr:Asia
+dbo:product	dbr:Football_team
+dbr:AFC_Ajax_N.V.	
+dbo:regionServed	dbr:Croatia
+dbo:product	dbr:Clothing
+dbr:Fox_(clothing)	
+dbo:regionServed	dbr:Queensland
+dbo:product	dbr:Intermodal_freight_transport
+dbr:Aurizon	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Algerian_Television
+dbr:Public_Establishment_of_Television	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Broadband
+dbr:Terria_(consortium)	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Newspaper
+dbr:Gateway_Newstands	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:French_fries
+dbr:Five_Guys	dbr:Smashburger	
+dbo:regionServed	dbr:Hillsborough_County,_Florida
+dbo:product	dbr:Savings_account
+dbr:Sarasota_Coastal_Credit_Union	
+dbo:regionServed	dbr:South_Coast_(Massachusetts)
+dbo:product	dbr:Private_equity
+dbr:Mechanics_Cooperative_Bank	
+dbo:regionServed	dbr:World
+dbo:product	dbr:GEOCAD
+dbr:NedGraphics	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Construction_aggregates
+dbr:Titan_Cement	
+dbo:regionServed	dbr:Middle_East
+dbo:product	dbr:Potatoes
+dbr:KWS_Saat	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:TRAK
+dbr:Sparx_Systems	
+dbo:regionServed	dbr:Northern_Virginia
+dbo:product	dbr:Financial_Services
+dbr:Sandy_Spring_Bank	
+dbo:regionServed	dbr:Blood_Centers_of_the_Pacific
+dbo:product	dbr:Blood_products
+dbr:United_Blood_Services	
+dbo:regionServed	dbr:Lithuania
+dbo:product	dbr:Credit_cards
+dbr:Snoras	
+dbo:regionServed	dbr:South_Coast_(Massachusetts)
+dbo:product	dbr:Weekly_newspaper
+dbr:Hathaway_Publishing	
+dbo:regionServed	dbr:Vietnam
+dbo:product	dbr:Sunglasses
+dbr:Padini	
+dbo:regionServed	dbr:Germany
+dbo:product	dbr:Hotel
+dbr:Central_Group	
+dbo:regionServed	dbr:Americas
+dbo:product	dbr:Instant_noodle
+dbr:Ottogi	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Pulse_generator
+dbr:Stanford_Research_Systems	
+dbo:regionServed	dbr:Long_Island
+dbo:product	dbr:Credit_card
+dbr:Bethpage_Federal_Credit_Union	
+dbo:regionServed	dbr:Zambia
+dbo:product	dbr:Marketing
+dbr:Zambia_Sugar	
+dbo:regionServed	dbr:Taiwan
+dbo:product	dbr:CT_scan
+dbr:Unison_Healthcare_Group	
+dbo:regionServed	dbr:San_Patricio_County,_Texas
+dbo:product	dbr:Loan
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Tennessee
+dbo:product	dbr:Mortgage
+dbr:BB&T	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Car_insurance
+dbr:Bharti_AXA_General_Insurance	
+dbo:regionServed	dbr:Georgia_(U.S._state)
+dbo:product	dbr:Carolina_BBQ
+dbr:Cook_Out_(restaurant)	
+dbo:regionServed	dbr:State_of_Palestine
+dbo:product	dbr:Short_message_service
+dbr:Jawwal_Telecom	dbr:Jawwal	dbr:Paltel	
+dbo:regionServed	dbr:Utah
+dbo:product	dbr:Auto_lender
+dbr:State_Bank_of_Southern_Utah	
+dbo:regionServed	dbr:Columbus,_Ohio
+dbo:product	dbr:Ice_Cream
+dbr:Graeter's	dbr:Jeni's_Splendid_Ice_Creams	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:TV_production
+dbr:CBS_Corporation	
+dbo:regionServed	dbr:Montenegro
+dbo:product	dbr:Internet_access
+dbr:Telekom_Srbija	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Fractionation
+dbr:Polymer_Char	
+dbo:regionServed	dbr:World
+dbo:product	dbr:HijackThis
+dbr:Trend_Micro	
+dbo:regionServed	dbr:Asia
+dbo:product	dbr:Sports_equipment
+dbr:Warrior_Sports	dbr:Topper_(sports)	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:product	dbr:Kufta
+dbr:Herfy	
+dbo:regionServed	dbr:Saskatchewan
+dbo:product	dbr:Pharmaceuticals
+dbr:London_Drugs	
+dbo:regionServed	dbr:United_Arab_Emirates
+dbo:product	dbr:Soft_drinks
+dbr:Five_Guys	dbr:Elevation_Burger	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Cookie
+dbr:Angel_Bakeries	
+dbo:regionServed	dbr:East_Asia
+dbo:product	dbr:Hospitality
+dbr:Econet_Wireless	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Canned_food
+dbr:Del_Monte_Foods	
+dbo:regionServed	dbr:Georgia_(U.S._state)
+dbo:product	dbr:Insurance
+dbr:BB&T	
+dbo:regionServed	dbr:Iceland
+dbo:product	dbr:Private_equity
+dbr:Íslandsbanki	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Mobile_Internet
+dbr:Mangrove_Capital_Partners	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Rotary_car_dumper
+dbr:Heyl_&_Patterson_Inc.	
+dbo:regionServed	dbr:Puerto_Rico
+dbo:product	dbr:Sports_equipment
+dbr:Champs_Sports	
+dbo:regionServed	dbr:Puducherry
+dbo:product	dbr:Bus_transport
+dbr:Tamil_Nadu_State_Transport_Corporation	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Organic_food
+dbr:Suminter_India_Organics	
+dbo:regionServed	dbr:Tyco_Electronics
+dbo:product	dbr:Credit_card
+dbr:Tyco_Federal_Credit_Union	
+dbo:regionServed	dbr:Croatia
+dbo:product	dbr:Internet_access
+dbr:Telekom_Srbija	
+dbo:regionServed	dbr:Norway
+dbo:product	dbr:Security_(finance)
+dbr:Eika_Gruppen	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Market_research
+dbr:XBIZ	
+dbo:regionServed	dbr:Maryland
+dbo:product	dbr:Fantasy_5
+dbr:Maryland_Lottery	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Toonami
+dbr:Turner_Broadcasting_System_Europe	
+dbo:regionServed	dbr:Greece
+dbo:product	dbr:Tea
+dbr:Mikel_Coffee_Company	
+dbo:regionServed	dbr:Trøndelag
+dbo:product	dbr:Ferry
+dbr:NTS_ASA	
+dbo:regionServed	dbr:Macau
+dbo:product	dbr:Corrective_lens
+dbr:Optical_88	
+dbo:regionServed	dbr:Philippines
+dbo:product	dbr:Diesel_engine
+dbr:Del_Monte_Motors	
+dbo:regionServed	dbr:Sydney
+dbo:product	dbr:Decorative_arts
+dbr:Wallace_Bishop_(company)	dbr:Hardy_Brothers	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Broadband_Internet_access
+dbr:América_Móvil	
+dbo:regionServed	dbr:Southern_Africa
+dbo:product	dbr:Health_Care
+dbr:Adcock_Ingram	
+dbo:regionServed	dbr:Iowa
+dbo:product	dbr:Video_game_accessory
+dbr:Gamers_(US_retailer)	
+dbo:regionServed	dbr:Peninsula_Malaysia
+dbo:product	dbr:Electric_power_transmission
+dbr:Tenaga_Nasional	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Algerian_Television
+dbr:Public_Establishment_of_Television	
+dbo:regionServed	dbr:Tema
+dbo:product	dbr:Internet_café
+dbr:BusyInternet	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Private_Banking
+dbr:Suncorp_Bank	
+dbo:regionServed	dbr:Indiana
+dbo:product	dbr:Trust_company
+dbr:First_Midwest_Bank	dbr:First_Midwest_Bancorp	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Asset_management
+dbr:STANLIB	dbr:Attijariwafa_Bank	
+dbo:regionServed	dbr:Des_Voeux_Road
+dbo:product	dbr:Home_video
+dbr:Ocean_Shores_Video	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:E-commerce
+dbr:MadBid	
+dbo:regionServed	dbr:Japan
+dbo:product	dbr:Mushishi
+dbr:Marvelous_Entertainment	
+dbo:regionServed	dbr:Osceola_County,_Florida
+dbo:product	dbr:Credit_cards
+dbr:Space_Coast_Credit_Union	
+dbo:regionServed	dbr:Spain
+dbo:product	dbr:Game
+dbr:Fnac	
+dbo:regionServed	dbr:Odisha
+dbo:product	dbr:Buttermilk
+dbr:Milk_Mantra	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Chemical_substance
+dbr:Murco_Petroleum	
+dbo:regionServed	dbr:Trondheim
+dbo:product	dbr:Bus
+dbr:Team_Trafikk	dbr:Trondheim_Bilruter	dbr:Trondheim_Trafikkselskap	
+dbo:regionServed	dbr:Mainland_China
+dbo:product	dbr:Communications_satellite
+dbr:Sino_Satellite_Communications_Company	
+dbo:regionServed	dbr:Republic_of_Macedonia
+dbo:product	dbr:Mobile_phone
+dbr:Makedonski_Telekom	
+dbo:regionServed	dbr:Israel
+dbo:product	dbr:Asset_management
+dbr:Bank_Leumi	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Mint_sauce
+dbr:Lounsbury_Foods	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Gratis
+dbr:MyPustak	
+dbo:regionServed	dbr:North_Carolina
+dbo:product	dbr:Dairy
+dbr:Publix	dbr:Maola	dbr:Harris_Teeter	
+dbo:regionServed	dbr:Cincinnati/Northern_Kentucky_metropolitan_area
+dbo:product	dbr:Pizza
+dbr:LaRosa's_Pizzeria	
+dbo:regionServed	dbr:Colorado
+dbo:product	dbr:Chicken
+dbr:K-Bob's_Steakhouse	
+dbo:regionServed	dbr:Southeast_Texas
+dbo:product	dbr:Trust_company
+dbr:Moody_National_Bank	
+dbo:regionServed	dbr:Philippines
+dbo:product	dbr:Access_Control
+dbr:Teras_Teknologi	dbr:Hopetech	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Real_estate_investing
+dbr:ICICI_Prudential_Mutual_Fund	
+dbo:regionServed	dbr:Riverside,_California
+dbo:product	dbr:Mobile_banking
+dbr:San_Diego_County_Credit_Union	
+dbo:regionServed	dbr:Bhutan
+dbo:product	dbr:Broadband
+dbr:Bhutan_Telecom	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Bagel
+dbr:Panera_Bread	
+dbo:regionServed	dbr:Michigan
+dbo:product	dbr:Credit_Card
+dbr:FirstMerit_Corporation	
+dbo:regionServed	dbr:Colombia
+dbo:product	dbr:VoIP
+dbr:Telefónica_Telecom	
+dbo:regionServed	dbr:UAE
+dbo:product	dbr:Laptop
+dbr:Xolo_(company)	
+dbo:regionServed	dbr:World
+dbo:product	dbr:Mergers_&_Acquisitions
+dbr:Stout_Risius_Ross	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Rotary_car_dumper
+dbr:Heyl_&_Patterson_Inc.	
+dbo:regionServed	dbr:China
+dbo:product	dbr:Soft_drinks
+dbr:Tingyi_(Cayman_Islands)_Holding_Corporation	
+dbo:regionServed	dbr:Middle_East
+dbo:product	dbr:Hosted_PBX
+dbr:AstraQom	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:Electronics
+dbr:Jaycar	
+dbo:regionServed	dbr:Central_and_Eastern_Europe
+dbo:product	dbr:Private_equity
+dbr:OTP_Bank	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Cakes
+dbr:Max's_of_Manila	
+dbo:regionServed	dbr:Aklan
+dbo:product	dbr:Fast_Food
+dbr:Bread_&_Butter_Bakeshop	
+dbo:regionServed	dbr:Greater_Monrovia_District
+dbo:product	dbr:Fixed_wireless
+dbr:Liberia_Telecommunications_Corporation	
+dbo:regionServed	dbr:Canary_Islands
+dbo:product	dbr:Investment_banking
+dbr:Banca_March	
+dbo:regionServed	dbr:San_Diego_County,_California
+dbo:product	dbr:Car_loan
+dbr:Pacific_Marine_Credit_Union	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Milkshakes
+dbr:Five_Guys	
+dbo:regionServed	dbr:Asia
+dbo:product	dbr:Collection_agency
+dbr:Atradius	
+dbo:regionServed	dbr:Malaysia
+dbo:product	dbr:Breakdown_cover
+dbr:Insurance_Australia_Group	
+dbo:regionServed	dbr:Chester_County,_Pennsylvania
+dbo:product	dbr:Credit_card
+dbr:TruMark_Financial_Credit_Union	
+dbo:regionServed	dbr:Sweden
+dbo:product	dbr:Cheese
+dbr:Milko_(Swedish_cooperative)	
+dbo:regionServed	dbr:Antarctica
+dbo:product	dbr:Cruise_ship
+dbr:Hurtigruten_AS	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:Television_channel
+dbr:Viacom_International_Media_Networks_Europe	
+dbo:regionServed	dbr:Romania
+dbo:product	dbr:Cable_television
+dbr:UPC_Broadband	
+dbo:regionServed	dbr:Vietnam
+dbo:product	dbr:Hypermarket
+dbr:Big_C	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Education
+dbr:Econet_Wireless	
+dbo:regionServed	dbr:Africa
+dbo:product	dbr:EMV_Personalization
+dbr:TPS_Pakistan	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Display_advertising
+dbr:Fastsigns	
+dbo:regionServed	dbr:Districts_of_Pakistan
+dbo:product	dbr:Home_appliances
+dbr:Siemens_Pakistan	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Sludge
+dbr:Thames_Water	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:product	dbr:Chemical
+dbr:Yizheng_Chemical_Fibre	
+dbo:regionServed	dbr:Jamshedpur
+dbo:product	dbr:Assisted_living
+dbr:Ashiana_Housing	
+dbo:regionServed	dbr:Indiana
+dbo:product	dbr:Savings_account
+dbr:Credit_Union_1_(Illinois)	
+dbo:regionServed	dbr:Eritrea
+dbo:product	dbr:Tractor
+dbr:Cooper_Motor_Corporation	
+dbo:regionServed	dbr:North_America
+dbo:product	dbr:Transit_bus
+dbr:Wayne_Corporation	
+dbo:regionServed	dbr:French_Polynesia
+dbo:product	dbr:Cruising_(maritime)
+dbr:Paul_Gauguin_Cruises	
+dbo:regionServed	dbr:Washington_(state)
+dbo:product	dbr:Honolulu_Star-Advertiser
+dbr:Black_Press	
+dbo:regionServed	dbr:Kentucky
+dbo:product	dbr:Electricity_generation
+dbr:Duke_Energy	
+dbo:regionServed	dbr:Bangladesh
+dbo:product	dbr:GE_Power_&_Water
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:Azerbaijan
+dbo:product	dbr:Wealth_management
+dbr:TBC_Bank	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Dog_food
+dbr:Artemis_(pet_food)	dbr:Essential_Foods	
+dbo:regionServed	dbr:Asia-Pacific
+dbo:product	dbr:Refrigerator
+dbr:Medion	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:EMV
+dbr:Creditcall	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Necklaces
+dbr:Padini	
+dbo:regionServed	dbr:Virginia
+dbo:product	dbr:Pharmacy
+dbr:Publix	dbr:Harris_Teeter	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Book
+dbr:MyPustak	
+dbo:regionServed	dbr:British_India
+dbo:product	dbr:Film
+dbr:Bombay_Talkies	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Digital_subscriber_line
+dbr:The_Phone_Co-op	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:product	dbr:Fast_food
+dbr:Supermac's	
+dbo:regionServed	dbr:United_Kingdom
+dbo:product	dbr:Plus_size_clothes
+dbr:AmpleBosom	
+dbo:regionServed	dbr:Germany
+dbo:product	dbr:Sparta_S_Series
+dbr:Sparta_B.V.	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:Health
+dbr:American_Income_Life_Insurance_Company	
+dbo:regionServed	dbr:South_Carolina
+dbo:product	dbr:Title_Loan
+dbr:TMX_Finance	
+dbo:regionServed	dbr:Mexico
+dbo:product	dbr:Financial_services
+dbr:Grupo_Elektra	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Insurance
+dbr:National_Australia_Bank	dbr:Teachers_Mutual_Bank	
+dbo:regionServed	dbr:Nebraska
+dbo:product	dbr:Umbrella_insurance
+dbr:Shelter_Insurance	
+dbo:regionServed	dbr:Zimbabwe
+dbo:product	dbr:Domain_name_registrar
+dbr:VimpelCom_Ltd.	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Hyundai_Santa_Fe
+dbr:Hyundai_Motor_Manufacturing_Alabama	
+dbo:regionServed	dbr:Mesquite,_Nevada
+dbo:product	dbr:Credit_card
+dbr:America_First_Credit_Union	
+dbo:regionServed	dbr:Hawaii
+dbo:product	dbr:Lubricants
+dbr:Associated_Oil_Company	
+dbo:regionServed	dbr:South-east_Asia
+dbo:product	dbr:Soya_milk
+dbr:Mr_Bean_(company)	
+dbo:regionServed	dbr:Nebraska
+dbo:product	dbr:Video_game_accessory
+dbr:Gamers_(US_retailer)	
+dbo:regionServed	dbr:The_Netherlands
+dbo:product	dbr:Investment_banking
+dbr:Anadolubank	
+dbo:regionServed	dbr:St._Johns_County,_Florida
+dbo:product	dbr:Palliative_Care
+dbr:Community_Hospice_of_Northeast_Florida	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:product	dbr:N1_(television)
+dbr:The_United_Group	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Coconut
+dbr:Ayam_Brand	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Microinsurance
+dbr:Grama_Vidiyal	
+dbo:regionServed	dbr:China
+dbo:product	dbr:Sulfuric_acid
+dbr:Jiangxi_Copper	
+dbo:regionServed	dbr:Dominican_Republic
+dbo:product	dbr:Internet_Connectivity
+dbr:Modica_Group	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:DVD
+dbr:Beckett_Media	
+dbo:regionServed	dbr:Florida
+dbo:product	dbr:Dairy
+dbr:Publix	dbr:Harris_Teeter	
+dbo:regionServed	dbr:Netherlands
+dbo:product	dbr:Biscuits
+dbr:2_Sisters_Food_Group	
+dbo:regionServed	dbr:International
+dbo:product	dbr:Interactive_media
+dbr:IAC_(company)	
+dbo:regionServed	dbr:Kentucky
+dbo:product	dbr:Natural_gas
+dbr:Duke_Energy	
+dbo:regionServed	dbr:India
+dbo:product	dbr:Cadmium
+dbr:Hindustan_Zinc	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Mountain_Dew
+dbr:The_Pepsi_Bottling_Group	
+dbo:regionServed	dbr:Europe
+dbo:product	dbr:Broadcasting
+dbr:Sky_plc	
+dbo:regionServed	dbr:Greece
+dbo:product	dbr:Pastry
+dbr:Flocafé	
+dbo:regionServed	dbr:Australia
+dbo:product	dbr:Employment_agencies
+dbr:Adecco_General_Staffing,_Australia	
+dbo:regionServed	dbr:Republic_of_China
+dbo:product	dbr:Snack_foods
+dbr:Want_Want	
+dbo:regionServed	dbr:Canada
+dbo:product	dbr:Snacks
+dbr:Gateway_Newstands	dbr:Sun-Rype	
+dbo:regionServed	dbr:Williamson_County,_Texas
+dbo:product	dbr:Savings_account
+dbr:United_Heritage_Credit_Union	
+dbo:regionServed	dbr:Mayotte
+dbo:product	dbr:Automobile
+dbr:Cooper_Motor_Corporation	
+dbo:regionServed	dbr:Russia
+dbo:product	dbr:Insurance
+dbr:If_P&C_Insurance	dbr:Cyprus_Popular_Bank	
+dbo:regionServed	dbr:Azerbaijan
+dbo:product	dbr:Financial_Services
+dbr:Unibank_(Azerbaijan)	dbr:DekaBank_(Azerbaijan)	dbr:AccessBank_Azerbaijan	dbr:Azerigasbank	dbr:Bank_Respublika	dbr:AtaBank	
+dbo:regionServed	dbr:Zambia
+dbo:product	dbr:Commercial_bank
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:Louisiana
+dbo:product	dbr:General_line_of_merchandise
+dbr:Southeastern_Grocers	
+dbo:regionServed	dbr:Portugal
+dbo:product	dbr:Optical
+dbr:Companhia_Portuguesa_de_Hipermercados	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Milk
+dbr:Alpina_Productos_Alimenticios	dbr:Organic_Valley	
+dbo:regionServed	dbr:Florida
+dbo:product	dbr:Employee_benefit
+dbr:TrustCo_Bank	
+dbo:regionServed	dbr:Volusia_County,_Florida
+dbo:product	dbr:Investments
+dbr:Space_Coast_Credit_Union	
+dbo:regionServed	dbr:MiddleEast
+dbo:product	dbr:Digital_Imaging_Medical_equipment
+dbr:Medical_Plus	
+dbo:regionServed	dbr:Portugal
+dbo:product	dbr:E-book
+dbr:Kobo_Inc.	
+dbo:regionServed	dbr:Uganda
+dbo:product	dbr:Credit_card
+dbr:Barclays_Africa_Group	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Investments
+dbr:Carrian_Group	
+dbo:regionServed	dbr:Nepal
+dbo:product	dbr:Debit_Card
+dbr:Nepal_SBI_Bank	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Cushioning
+dbr:Paper_Mart	
+dbo:regionServed	dbr:South_America
+dbo:product	dbr:Formwork
+dbr:EFCO	
+dbo:regionServed	dbr:Alberta
+dbo:product	dbr:Weekly_newspaper
+dbr:Great_West_Newspapers	
+dbo:regionServed	dbr:United_States
+dbo:product	dbr:Telecommunications
+dbr:Grupo_Aval_Acciones_y_Valores	dbr:Glentel	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:product	dbr:Magazine
+dbr:Color_Press_Group	
+dbo:regionServed	dbr:Nueces_County,_Texas
+dbo:product	dbr:Savings_account
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:New_Zealand
+dbo:product	dbr:DVD_player
+dbr:Laser_Corporation	
+dbo:regionServed	dbr:Tennessee
+dbo:product	dbr:Electricity_distribution
+dbr:Duke_Energy	dbr:American_Electric_Power	
+dbo:regionServed	dbr:Manitoba
+dbo:product	dbr:Pharmaceuticals
+dbr:London_Drugs	

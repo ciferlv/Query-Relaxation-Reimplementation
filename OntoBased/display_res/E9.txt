@@ -1,0 +1,17 @@
+
+9.
+SELECT * WHERE {
+        dbr:Jeep_Wrangler dbo:origin ?p.}
+		
+Rule (6)
+dbo:origin rdfs:range dbo:PopulatedPlace
+
+Reformed Query:
+SELECT * WHERE {
+        ?s rdf:type dbo:PopulatedPlace.}
+Rule (2)
+dbo:origin rdfs:subPropertyOf dulo:hasCommonBoundary
+
+Reformed Query:
+SELECT * WHERE {
+        ?s rdf:type dbo:PopulatedPlace.}		

@@ -1,0 +1,3000 @@
+dbo:regionServed	dbr:Frankfurt
+dbo:location	dbr:Frankfurt
+dbr:FraLine	
+dbo:regionServed	dbr:Mansfield
+dbo:location	dbr:Mansfield
+dbr:Stagecoach_in_Mansfield	
+dbo:regionServed	dbr:Arab_states
+dbo:location	dbr:Egypt
+dbr:Cook_Door	
+dbo:regionServed	dbr:Cornwall
+dbo:location	dbr:UK
+dbr:SWERN	
+dbo:regionServed	dbr:El_Paso
+dbo:location	dbr:Texas
+dbr:Security_Service_Federal_Credit_Union	
+dbo:regionServed	dbr:Idaho
+dbo:location	dbr:Portland,_Oregon
+dbr:Fred_Meyer	dbr:PacifiCorp	
+dbo:regionServed	dbr:China
+dbo:location	dbr:Osaka
+dbr:Mister_Donut	
+dbo:regionServed	dbr:Kulai
+dbo:location	dbr:Johor_Bahru
+dbr:Causeway_Link	
+dbo:regionServed	dbr:Asia-Pacific
+dbo:location	dbr:Essen
+dbr:Medion	
+dbo:regionServed	dbr:United_States_of_America
+dbo:location	dbr:New_York_City
+dbr:Metromedia	dbr:Academy_of_Comic_Book_Arts	dbr:Young_Judaea	
+dbo:regionServed	dbr:Channel_Islands
+dbo:location	dbr:Nelson_Mandela_Road
+dbr:Bharti_Airtel	
+dbo:regionServed	dbr:Central_America
+dbo:location	dbr:San_Salvador
+dbr:Unicomer_Group	
+dbo:regionServed	dbr:Pune
+dbo:location	dbr:Bengaluru
+dbr:JustRide	
+dbo:regionServed	dbr:Equatorial_Guinea
+dbo:location	dbr:London
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Oman
+dbo:location	dbr:New_York_City
+dbr:Aéropostale_(clothing)	
+dbo:regionServed	dbr:Brazil
+dbo:location	dbr:Haryana
+dbr:Zomato	
+dbo:regionServed	dbr:Brunei
+dbo:location	dbr:Thailand
+dbr:SEAMEO_SPAFA	
+dbo:regionServed	dbr:Montenegro
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	dbr:Trans-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Worthing
+dbo:location	dbr:England
+dbr:Adur_and_Worthing_Councils	
+dbo:regionServed	dbr:Serbia
+dbo:location	dbr:Sofia
+dbr:Litex_Motors	
+dbo:regionServed	dbr:International
+dbo:location	dbr:Mayfair
+dbr:Tamares_Group	dbr:Tamares_Real_Estate_Investments	
+dbo:regionServed	dbr:Israel
+dbo:location	dbr:Israel
+dbr:Modu	dbr:Strauss_(company)	dbr:Israel_Railway_Museum	dbr:Israel_Philharmonic_Orchestra_Foundation	dbr:Angel_Bakeries	dbr:Berman's_Bakery	dbr:Israel_Electric_Corporation	dbr:Yad_Sarah	dbr:Israel_Amateur_Radio_Club	dbr:Shpilman_Institute_of_Photography	dbr:Yad_Eliezer	dbr:My_Israel	dbr:Landwer_coffee	
+dbo:regionServed	dbr:Okinawa_Prefecture
+dbo:location	dbr:Naha
+dbr:Ryukyu_Broadcasting_Corporation	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:location	dbr:Syria
+dbr:Bank_of_Syria_and_Overseas	dbr:Banque_Bemo_Saudi_Fransi	
+dbo:regionServed	dbr:Texas
+dbo:location	dbr:New_Jersey_Route_138
+dbr:Student_Transportation_Inc.	
+dbo:regionServed	dbr:Lebanon
+dbo:location	dbr:Lebanon
+dbr:Radio_Amateurs_of_Lebanon	dbr:Alrifai	dbr:Speleo_club_du_liban	dbr:Société_Bancaire_du_Liban	dbr:Banque_Pharaon_&_Chiha	
+dbo:regionServed	dbr:Ras_al-Khaimah
+dbo:location	dbr:United_Arab_Emirates
+dbr:Du_(company)	
+dbo:regionServed	dbr:Sri_Lanka
+dbo:location	dbr:Nottingham
+dbr:Archiam_Centre	
+dbo:regionServed	dbr:Trinidad_and_Tobago
+dbo:location	dbr:Piarco_International_Airport
+dbr:Airports_Authority_of_Trinidad_and_Tobago	
+dbo:regionServed	dbr:Kerala
+dbo:location	dbr:Perunad
+dbr:33kV_Substation,_Perunad	
+dbo:regionServed	dbr:Dover
+dbo:location	dbr:Calais
+dbr:SeaFrance	
+dbo:regionServed	dbr:Vizag
+dbo:location	dbr:New_Delhi
+dbr:MylesCar	
+dbo:regionServed	dbr:Vietnamese_people
+dbo:location	dbr:Paris
+dbr:Lang_Van	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Nord-Pas-de-Calais
+dbr:Toyota_Motor_Manufacturing_France	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:location	dbr:Dublin
+dbr:Irish_Institute_of_Legal_Executives	dbr:Smart_Telecom	dbr:Saorview	dbr:A_Wear	dbr:Enable_Ireland	dbr:Superquinn	dbr:NTL_Ireland	dbr:Topaz_Energy	dbr:The_People's_College	
+dbo:regionServed	dbr:Washington_(U.S._state)
+dbo:location	dbr:Pomona,_California
+dbr:Seafood_City	
+dbo:regionServed	dbr:Florida
+dbo:location	dbr:Wall_Township,_New_Jersey
+dbr:Student_Transportation_Inc.	
+dbo:regionServed	dbr:Asia
+dbo:location	dbr:Pointe-Claire
+dbr:Bouclair	
+dbo:regionServed	dbr:Tampa
+dbo:location	dbr:Boston
+dbr:Drizly	
+dbo:regionServed	dbr:Caribbean
+dbo:location	dbr:Brazil
+dbr:Finta	
+dbo:regionServed	dbr:China
+dbo:location	dbr:Burnett_Plaza
+dbr:GM_Financial	
+dbo:regionServed	dbr:Eastern_United_States
+dbo:location	dbr:Trenton,_New_Jersey
+dbr:Hall_Institute_of_Public_Policy_–_New_Jersey	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Minnesota
+dbr:Buffalo_Wild_Wings	
+dbo:regionServed	dbr:Austria
+dbo:location	dbr:Stockholm
+dbr:Viacom_International_Media_Networks_Northern_Europe	
+dbo:regionServed	dbr:Italy
+dbo:location	dbr:United_States
+dbr:Vevo	dbr:Pollo_Campero	dbr:Penske_Automotive_Group	
+dbo:regionServed	dbr:Australia
+dbo:location	dbr:Tsim_Sha_Tsui
+dbr:Raja_Fashions	
+dbo:regionServed	dbr:Victoria,_Australia
+dbo:location	dbr:Melbourne
+dbr:Public_Transport_Victoria	
+dbo:regionServed	dbr:Worksop
+dbo:location	dbr:Worksop
+dbr:Stagecoach_in_Bassetlaw	
+dbo:regionServed	dbr:Denmark
+dbo:location	dbr:Greenland
+dbr:Brugsen	
+dbo:regionServed	dbr:Philippines
+dbo:location	dbr:Manila
+dbr:Go_Nuts_Donuts	dbr:Mighty_Corporation	
+dbo:regionServed	dbr:South_Korea
+dbo:location	dbr:Jung-gu,_Seoul
+dbr:Shinsegae	dbr:Korean_e-Sports_Association	
+dbo:regionServed	dbr:Ukraine
+dbo:location	dbr:London
+dbr:Discovery_Networks_CEEMEA	dbr:Topman	
+dbo:regionServed	dbr:Russia
+dbo:location	dbr:Voronezh
+dbr:Reanimedia	
+dbo:regionServed	dbr:Serbia
+dbo:location	dbr:Bulgaria
+dbr:Litex_Motors	
+dbo:regionServed	dbr:Houston
+dbo:location	dbr:San_Francisco
+dbr:Instacart	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Piccadilly
+dbr:British_Academy_of_Film_and_Television_Arts	
+dbo:regionServed	dbr:Denmark
+dbo:location	dbr:Hellerup
+dbr:Sampension	
+dbo:regionServed	dbr:Long_Island
+dbo:location	dbr:Bethpage,_New_York
+dbr:Bethpage_Federal_Credit_Union	
+dbo:regionServed	dbr:Zagreb
+dbo:location	dbr:Croatia
+dbr:Zagreb_Holding	
+dbo:regionServed	dbr:New_York_(state)
+dbo:location	dbr:Prince_Edward_Island
+dbr:Bay_Ferries_Great_Lakes	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Fordingbridge
+dbr:Game_&_Wildlife_Conservation_Trust	
+dbo:regionServed	dbr:Brazil
+dbo:location	dbr:Porto_Alegre
+dbr:Editora_Globo	
+dbo:regionServed	dbr:South_America
+dbo:location	dbr:Spain
+dbr:Edesa	
+dbo:regionServed	dbr:Republic_of_Macedonia
+dbo:location	dbr:Bulgaria
+dbr:Litex_Motors	
+dbo:regionServed	dbr:Middle_East
+dbo:location	dbr:Atlanta
+dbr:Rheem	
+dbo:regionServed	dbr:Kuwait
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Philippines
+dbo:location	dbr:Mandaluyong_City
+dbr:Philippine_Red_Cross	
+dbo:regionServed	dbr:Adriatic_Sea
+dbo:location	dbr:Chania
+dbr:ANEK_Lines	
+dbo:regionServed	dbr:Hawkesbury_River
+dbo:location	dbr:Neutral_Bay
+dbr:Captain_Cook_Cruises,_Australia	
+dbo:regionServed	dbr:Venezuela
+dbo:location	dbr:Colombia
+dbr:Alpina_Productos_Alimenticios	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Northern_Ireland
+dbo:location	dbr:Scotland
+dbr:Dobbies_Garden_Centres	
+dbo:regionServed	dbr:Sri_Lanka
+dbo:location	dbr:Pune
+dbr:Mahindra_Truck_and_Bus_Division	
+dbo:regionServed	dbr:Southern_California
+dbo:location	dbr:United_States
+dbr:SchoolsFirst_Federal_Credit_Union	
+dbo:regionServed	dbr:Nevada
+dbo:location	dbr:Illinois
+dbr:Credit_Union_1_(Illinois)	
+dbo:regionServed	dbr:Turkey
+dbo:location	dbr:Karakoy
+dbr:Telsiz_ve_Radyo_Amatörleri_Cemiyeti	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:location	dbr:Riyadh,_Saudi_Arabia
+dbr:Arab_National_Bank	
+dbo:regionServed	dbr:New_Zealand
+dbo:location	dbr:NSW
+dbr:Laser_Corporation	
+dbo:regionServed	dbr:Rodrigues
+dbo:location	dbr:Port_Louis
+dbr:Mauritius_Shipping_Corporation	
+dbo:regionServed	dbr:Thailand
+dbo:location	dbr:Singapore
+dbr:Ayam_Brand	dbr:Courts_Singapore	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Glendale,_California
+dbr:ABCmouse.com_Early_Learning_Academy	
+dbo:regionServed	dbr:South_East_Asia
+dbo:location	dbr:Kuala_Lumpur
+dbr:Astro_Malaysia_Holdings	
+dbo:regionServed	dbr:Zhuhai
+dbo:location	dbr:Kowloon_Walled_City
+dbr:Ngan_Lung_Restaurant	
+dbo:regionServed	dbr:Chicago_metropolitan_area
+dbo:location	dbr:Chicago
+dbr:Wrapports	
+dbo:regionServed	dbr:Himalayan
+dbo:location	dbr:Pahalgam
+dbr:Himalayan_Welfare_Organization,_Pahalgam	
+dbo:regionServed	dbr:UAE
+dbo:location	dbr:UAE
+dbr:Emirates_Foundation	
+dbo:regionServed	dbr:Burundi
+dbo:location	dbr:London
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Pennsylvania
+dbo:location	dbr:Charlotte,_North_Carolina
+dbr:Grandbridge_Real_Estate_Capital	
+dbo:regionServed	dbr:Baltic_Sea
+dbo:location	dbr:Tallinn
+dbr:Estline	
+dbo:regionServed	dbr:Estonia
+dbo:location	dbr:Tartu
+dbr:A._Le_Coq	dbr:Estonian_Association_of_Gerontology_and_Geriatrics	dbr:Estonian_Society_of_Human_Genetics	
+dbo:regionServed	dbr:Fiji
+dbo:location	dbr:Colombo
+dbr:Aitken_Spence	
+dbo:regionServed	dbr:Slovenia
+dbo:location	dbr:Ljubljana
+dbr:Court_of_Audit_of_Slovenia	dbr:Mercator_(retail)	dbr:Association_of_Radio_Amateurs_of_Slovenia	
+dbo:regionServed	dbr:Austria
+dbo:location	dbr:Hamburg
+dbr:Hermes_Group	
+dbo:regionServed	dbr:Riverside_County,_California
+dbo:location	dbr:United_States
+dbr:Orange_County's_Credit_Union	dbr:Pacific_Marine_Credit_Union	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Beijing,_China
+dbr:Ocean_Butterflies_International	
+dbo:regionServed	dbr:Lancashire
+dbo:location	dbr:Chetham's_Library
+dbr:Chetham_Society	
+dbo:regionServed	dbr:Israel
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	dbr:Patio_Hotels	
+dbo:regionServed	dbr:Sicily
+dbo:location	dbr:Naples
+dbr:SNAV	
+dbo:regionServed	dbr:Lesotho
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Barnsley
+dbr:National_Market_Traders_Federation	
+dbo:regionServed	dbr:Cameroon
+dbo:location	dbr:Metropolitan_Borough_of_Knowsley
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Washington,_D.C.
+dbr:AudioNow	
+dbo:regionServed	dbr:Norway
+dbo:location	dbr:Brussels
+dbr:Broadnet_Holdings_BV	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Franklin,_Tennessee
+dbr:Nutro_Products	
+dbo:regionServed	dbr:North_West_England
+dbo:location	dbr:Warrington
+dbr:United_Utilities	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Gatwick
+dbr:Civil_Aviation_Authority_(United_Kingdom)	
+dbo:regionServed	dbr:UK
+dbo:location	dbr:Artsadmin
+dbr:DV8_Physical_Theatre	
+dbo:regionServed	dbr:Eastern_Norway
+dbo:location	dbr:Norway
+dbr:Sparebanken_Øst	
+dbo:regionServed	dbr:Molokai
+dbo:location	dbr:Hawaii
+dbr:Hawaii_Technology_Academy	
+dbo:regionServed	dbr:Mediterranean_Sea
+dbo:location	dbr:Balearic_Islands
+dbr:Iscomar	
+dbo:regionServed	dbr:UAE
+dbo:location	dbr:Carrollton,_Texas
+dbr:Fastsigns	
+dbo:regionServed	dbr:Cheshire
+dbo:location	dbr:Portico_Library
+dbr:Lancashire_and_Cheshire_Antiquarian_Society	
+dbo:regionServed	dbr:Long_Island
+dbo:location	dbr:New_York_(state)
+dbr:Bethpage_Federal_Credit_Union	
+dbo:regionServed	dbr:Dominican_Republic
+dbo:location	dbr:New_York_City
+dbr:Aéropostale_(clothing)	
+dbo:regionServed	dbr:Southeast_Europe
+dbo:location	dbr:Zagreb
+dbr:TOZ_Penkala	
+dbo:regionServed	dbr:Cyclades
+dbo:location	dbr:Piraeus
+dbr:Seajets	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Creswick
+dbr:Sparx_Systems	
+dbo:regionServed	dbr:Pennsylvania
+dbo:location	dbr:Meadville,_Pennsylvania
+dbr:Meadville_Medical_Center_Foundation	
+dbo:regionServed	dbr:Senegal
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Sri_Lanka
+dbo:location	dbr:Sri_Lanka
+dbr:People's_Bank_(Sri_Lanka)	dbr:Aitken_Spence	dbr:PEO_TV	dbr:Bank_of_Ceylon	dbr:Commercial_Bank_of_Ceylon	dbr:Hatton_National_Bank	dbr:National_Savings_Bank_(Sri_Lanka)	dbr:Sampath_Bank	dbr:Radio_Society_of_Sri_Lanka	dbr:Dialog_TV	dbr:Nations_Trust_Bank	dbr:Cargills_(Ceylon)_PLC	dbr:Seylan_Bank	dbr:ESOFT_Computer_Studies	dbr:Pan_Asia_Bank	dbr:Cargills_Bank	dbr:John_Keells_Computer_Services	dbr:DFCC_Bank	dbr:DSI_Samson_Group	dbr:Amana_Bank_(Sri_Lanka)	
+dbo:regionServed	dbr:North_Africa
+dbo:location	dbr:Dubai
+dbr:Icflix	
+dbo:regionServed	dbr:Lower_48_states
+dbo:location	dbr:Dade_City,_Florida
+dbr:ABCO_Transportation	
+dbo:regionServed	dbr:China
+dbo:location	dbr:Guangxi
+dbr:Baojun	
+dbo:regionServed	dbr:California
+dbo:location	dbr:El_Paso,_Texas
+dbr:Fred_Loya_Insurance	
+dbo:regionServed	dbr:Dubai
+dbo:location	dbr:Lebanon
+dbr:Alrifai	
+dbo:regionServed	dbr:Middle_East_and_North_Africa
+dbo:location	dbr:United_Arab_Emirates
+dbr:OSN	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Michigan
+dbr:Rolled_Alloys	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:United_Kingdom
+dbr:FirstGroup	dbr:Virgin_Unite	dbr:Stagecoach_Group	dbr:Topman	
+dbo:regionServed	dbr:Wyoming
+dbo:location	dbr:Wyoming
+dbr:Wyoming_High_School_Activities_Association	
+dbo:regionServed	dbr:Falkland_Islands
+dbo:location	dbr:Salisbury
+dbr:Rockhopper_Exploration	
+dbo:regionServed	dbr:China
+dbo:location	dbr:Causeway_Bay
+dbr:Sogo_Hong_Kong	
+dbo:regionServed	dbr:Indiana
+dbo:location	dbr:Michigan
+dbr:United_Federal_Credit_Union	
+dbo:regionServed	dbr:Estonia
+dbo:location	dbr:Estonia
+dbr:Eesti_Raudtee	dbr:Hansa_Shipping	dbr:Estonian_Shipping_Company	dbr:A._Le_Coq	dbr:Eesti_Raadioamatööride_Ühing	dbr:Estonian_Association_of_Gerontology_and_Geriatrics	dbr:Estonian_Society_of_Human_Genetics	
+dbo:regionServed	dbr:France
+dbo:location	dbr:Belgium
+dbr:Broadnet_Holdings_BV	
+dbo:regionServed	dbr:United_States_of_America
+dbo:location	dbr:Chattanooga,_Tennessee
+dbr:Luken_Communications	
+dbo:regionServed	dbr:Eastside_(King_County,_Washington)
+dbo:location	dbr:Washington_(state)
+dbr:Studio_East	
+dbo:regionServed	dbr:Qatar
+dbo:location	dbr:Doha
+dbr:Qatar_Amateur_Radio_Society	
+dbo:regionServed	dbr:Spain
+dbo:location	dbr:Palma_de_Mallorca
+dbr:Banca_March	
+dbo:regionServed	dbr:Spain
+dbo:location	dbr:Comunidad_de_Madrid
+dbr:Maritime_Safety_and_Rescue_Society	
+dbo:regionServed	dbr:Tunisia
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Berlin
+dbr:Flixbus	dbr:European_Council_on_Foreign_Relations	
+dbo:regionServed	dbr:Nuevo_Leon
+dbo:location	dbr:San_Antonio
+dbr:H-E-B	
+dbo:regionServed	dbr:France
+dbo:location	dbr:Dover
+dbr:European_Ferries	dbr:P&O_Stena_Line	dbr:SpeedFerries	
+dbo:regionServed	dbr:Washington,_D.C.
+dbo:location	dbr:Winston-Salem,_North_Carolina
+dbr:BB&T	
+dbo:regionServed	dbr:Malaysia
+dbo:location	dbr:Kuala_Lumpur,_Malaysia
+dbr:Astro_(television)	
+dbo:regionServed	dbr:UK
+dbo:location	dbr:Yorkshire
+dbr:The_Yorkshire_Mafia	
+dbo:regionServed	dbr:Cyprus
+dbo:location	dbr:Beirut
+dbr:Alrifai	
+dbo:regionServed	dbr:Bosnia_and_Herzegovina
+dbo:location	dbr:Bosnia_and_Herzegovina
+dbr:Asocijacija_Radioamatera_Bosne_i_Hercegovine	
+dbo:regionServed	dbr:Egypt
+dbo:location	dbr:New_Territories
+dbr:Bossini	
+dbo:regionServed	dbr:Klang_Valley
+dbo:location	dbr:Kuala_Lumpur
+dbr:Nadicorp	
+dbo:regionServed	dbr:Northern_Europe
+dbo:location	dbr:Norway
+dbr:Reitan_Group	
+dbo:regionServed	dbr:Rail_transport_in_Germany
+dbo:location	dbr:Luxembourg
+dbr:Société_Nationale_des_Chemins_de_Fer_Luxembourgeois	
+dbo:regionServed	dbr:Earth
+dbo:location	dbr:Slovakia
+dbr:HighChem	
+dbo:regionServed	dbr:Middle_East
+dbo:location	dbr:Athens
+dbr:Berios	
+dbo:regionServed	dbr:Arkansas
+dbo:location	dbr:Columbus,_Ohio
+dbr:American_Electric_Power	
+dbo:regionServed	dbr:Leinster
+dbo:location	dbr:Republic_of_Ireland
+dbr:Leinster_Football_Association	
+dbo:regionServed	dbr:Indiana
+dbo:location	dbr:Rantoul,_Illinois
+dbr:Credit_Union_1_(Illinois)	
+dbo:regionServed	dbr:East_Coast_of_the_United_States
+dbo:location	dbr:New_York_(state)
+dbr:Slomin's	
+dbo:regionServed	dbr:Commerce
+dbo:location	dbr:Reston,_Virginia
+dbr:Oceus_Networks	
+dbo:regionServed	dbr:North_Carolina
+dbo:location	dbr:Michigan
+dbr:United_Federal_Credit_Union	
+dbo:regionServed	dbr:Austria
+dbo:location	dbr:Caracas
+dbr:Chocolates_El_Rey	
+dbo:regionServed	dbr:Latvia
+dbo:location	dbr:Utrecht
+dbr:Mediq	
+dbo:regionServed	dbr:Kleberg_County,_Texas
+dbo:location	dbr:Texas
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Jim_Wells_County,_Texas
+dbo:location	dbr:Texas
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Clayton_County,_Georgia
+dbo:location	dbr:Atlanta,_Georgia
+dbr:Delta_Community_Credit_Union	
+dbo:regionServed	dbr:Buckinghamshire
+dbo:location	dbr:Littlemore
+dbr:Berkshire,_Buckinghamshire_and_Oxfordshire_Wildlife_Trust	
+dbo:regionServed	dbr:Telemark
+dbo:location	dbr:Kristiansand
+dbr:Sparebanken_Sør	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Bloomfield_Hills,_Michigan
+dbr:Penske_Automotive_Group	
+dbo:regionServed	dbr:Cyprus
+dbo:location	dbr:Poland
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Wales
+dbo:location	dbr:England
+dbr:Budgens	dbr:Guardian_Media_Group	dbr:Youth_Hostels_Association_(England_&_Wales)	
+dbo:regionServed	dbr:Malta
+dbo:location	dbr:Bern,_Switzerland
+dbr:Inter-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:China
+dbo:location	dbr:Liuzhou
+dbr:Baojun	
+dbo:regionServed	dbr:Latin_America
+dbo:location	dbr:Caracas
+dbr:HBO_Latin_America_Group	
+dbo:regionServed	dbr:Zimbabwe
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Massachusetts
+dbr:Drizly	
+dbo:regionServed	dbr:Indonesia
+dbo:location	dbr:Osaka
+dbr:Mister_Donut	
+dbo:regionServed	dbr:Zagreb
+dbo:location	dbr:Zagreb
+dbr:Zagreb_Holding	
+dbo:regionServed	dbr:Akershus
+dbo:location	dbr:Aurskog
+dbr:Aurskog_Sparebank	
+dbo:regionServed	dbr:Milwaukee_metropolitan_area
+dbo:location	dbr:Wisconsin
+dbr:Kopp's_Frozen_Custard	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Connecticut
+dbr:American_Cruise_Lines	
+dbo:regionServed	dbr:Singapore
+dbo:location	dbr:Melbourne
+dbr:Turkey_Travel_Centre	
+dbo:regionServed	dbr:Hordaland
+dbo:location	dbr:Stavanger
+dbr:Western_Norway_Regional_Health_Authority	
+dbo:regionServed	dbr:Lebanon
+dbo:location	dbr:Gurgaon
+dbr:Zomato	
+dbo:regionServed	dbr:Sweden
+dbo:location	dbr:Denmark
+dbr:Discovery_Communications_Nordic	dbr:Tryg	
+dbo:regionServed	dbr:Trøndelag
+dbo:location	dbr:Levanger
+dbr:TrønderBilene	
+dbo:regionServed	dbr:Japan
+dbo:location	dbr:Aflac_Building
+dbr:Aflac	
+dbo:regionServed	dbr:Vietnamese_diaspora
+dbo:location	dbr:San_Jose,_CA
+dbr:Lang_Van	
+dbo:regionServed	dbr:Indonesia
+dbo:location	dbr:Subang_Interchange
+dbr:Teras_Teknologi	
+dbo:regionServed	dbr:Iligan
+dbo:location	dbr:Philippines
+dbr:Gothong_Lines	
+dbo:regionServed	dbr:Western_Pennsylvania
+dbo:location	dbr:Pennsylvania
+dbr:First_Commonwealth_Bank	dbr:University_of_Pittsburgh_Medical_Center	
+dbo:regionServed	dbr:Cyprus
+dbo:location	dbr:Gibraltar
+dbr:Sovereign_Group	
+dbo:regionServed	dbr:Motorways_of_Pakistan
+dbo:location	dbr:Telecom_Tower_Islamabad
+dbr:Ufone	
+dbo:regionServed	dbr:Asia
+dbo:location	dbr:Netherlands
+dbr:Unified_Streaming	
+dbo:regionServed	dbr:Illinois
+dbo:location	dbr:Chicago
+dbr:Illinois_Bell	
+dbo:regionServed	dbr:North_America
+dbo:location	dbr:Florida
+dbr:NextEra_Energy_Partners	dbr:International_Foundation_for_Protection_Officers	
+dbo:regionServed	dbr:Seychelles
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Seattle,_Washington
+dbo:location	dbr:United_States
+dbr:Seattle_Metropolitan_Credit_Union	
+dbo:regionServed	dbr:Northamptonshire
+dbo:location	dbr:East_Midlands
+dbr:EMMAN	
+dbo:regionServed	dbr:Central_America
+dbo:location	dbr:Pompano_Beach
+dbr:Associated_Grocers_of_Florida	
+dbo:regionServed	dbr:Faroe_Islands
+dbo:location	dbr:Klaksvík
+dbr:Föroya_Bjór	
+dbo:regionServed	dbr:Sutton-in-Ashfield
+dbo:location	dbr:Mansfield
+dbr:Stagecoach_in_Mansfield	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Caracas
+dbr:Chocolates_El_Rey	
+dbo:regionServed	dbr:Honduras
+dbo:location	dbr:Dallas
+dbr:Pollo_Campero	
+dbo:regionServed	dbr:New_Zealand
+dbo:location	dbr:India
+dbr:Zomato	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:location	dbr:Clapham
+dbr:Chartered_Institute_of_Internal_Auditors	
+dbo:regionServed	dbr:Dunedin
+dbo:location	dbr:New_Zealand
+dbr:YourDrive	
+dbo:regionServed	dbr:Bahrain
+dbo:location	dbr:London
+dbr:Discovery_Networks_CEEMEA	dbr:Dorothy_Perkins	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Kerala
+dbr:Tourist_Resorts_(Kerala)	dbr:33kV_Substation,_Perunad	dbr:Kerala_Jami'yathu_ahlusunna_al_salafiyya	dbr:Kerala_Gramin_Bank	dbr:Kerala_Nadvathul_Mujahideen	dbr:Kerala_State_Electricity_Board	dbr:Kerala_Tourism_Development_Corporation	dbr:Muthoot_Pappachan_Group	dbr:Kalyan_Jewellers	
+dbo:regionServed	dbr:South_East_Asia
+dbo:location	dbr:United_States
+dbr:Quantapoint	
+dbo:regionServed	dbr:Angola
+dbo:location	dbr:Lisboa
+dbr:Leya	
+dbo:regionServed	dbr:Maharashtra
+dbo:location	dbr:Navi_Mumbai
+dbr:Konkan_Railway_Corporation	
+dbo:regionServed	dbr:Slovakia
+dbo:location	dbr:Slovakia
+dbr:Československá_obchodní_banka	dbr:Slovenský_Zväz_Rádioamatérov	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Tiruchirapalli
+dbr:Grama_Vidiyal	
+dbo:regionServed	dbr:Balearic_Islands
+dbo:location	dbr:Madrid
+dbr:Trasmediterránea	
+dbo:regionServed	dbr:United_States_of_America
+dbo:location	dbr:India
+dbr:Dinclix_GroundWorks	
+dbo:regionServed	dbr:Wales
+dbo:location	dbr:UK
+dbr:Cadwalader's_Ice_Cream	
+dbo:regionServed	dbr:Arkansas
+dbo:location	dbr:Memphis,_TN
+dbr:Malco_Theatres	
+dbo:regionServed	dbr:Toronto
+dbo:location	dbr:Toronto
+dbr:Mill_Street_Brewery	dbr:Dragon_Lady_Comics	dbr:Toronto_Hydro	dbr:Toronto_Transit_Commission_bus_system	dbr:Advocacy_for_Respect_for_Cyclists	dbr:Toronto_Coalition_for_Active_Transportation	dbr:Videoflicks	dbr:Daily_Bread_Food_Bank	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Essex
+dbr:Warsop_Stebbing	
+dbo:regionServed	dbr:Bangladesh
+dbo:location	dbr:UK
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:Lesotho
+dbo:location	dbr:Pretoria,_South_Africa
+dbr:Southern_Africa-Indian_Ocean_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Hong_Kong
+dbo:location	dbr:Houston,_Texas
+dbr:Bubba_Gump_Shrimp_Company	
+dbo:regionServed	dbr:Nevada
+dbo:location	dbr:Ontario,_California
+dbr:Prime_Healthcare_Services	
+dbo:regionServed	dbr:California
+dbo:location	dbr:San_Francisco,_California
+dbr:First_Republic_Bank	dbr:Pacific_Bell	
+dbo:regionServed	dbr:Mozambique
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Iceland
+dbo:location	dbr:Klaksvík
+dbr:Föroya_Bjór	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Argentina
+dbr:Chakana_wines	
+dbo:regionServed	dbr:South_America
+dbo:location	dbr:Argentina
+dbr:Nostromo_Defensa	dbr:AeroDreams	dbr:South_American_Explorers	
+dbo:regionServed	dbr:Oceania
+dbo:location	dbr:Pointe-Claire
+dbr:Bouclair	
+dbo:regionServed	dbr:Virginia
+dbo:location	dbr:Cherry_Hill,_New_Jersey
+dbr:TD_Bank,_N.A.	
+dbo:regionServed	dbr:People's_Republic_of_China
+dbo:location	dbr:Beijing
+dbr:SOHO_China	dbr:Chinese_Radio_Sports_Association	
+dbo:regionServed	dbr:China
+dbo:location	dbr:United_States
+dbr:GM_Financial	dbr:Bimbo_Bakeries_USA	
+dbo:regionServed	dbr:Bergen
+dbo:location	dbr:Bergen
+dbr:Student_Welfare_Organisation_in_Bergen	
+dbo:regionServed	dbr:Qatar
+dbo:location	dbr:Hong_Kong
+dbr:Raja_Fashions	
+dbo:regionServed	dbr:Baltic_states
+dbo:location	dbr:Berlin
+dbr:Viacom_International_Media_Networks_Northern_Europe	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Hallbergmoos
+dbr:Panavia_Aircraft_GmbH	
+dbo:regionServed	dbr:India,_Middle_East,_China,_Philippines
+dbo:location	dbr:India
+dbr:Aspiring_Minds	
+dbo:regionServed	dbr:Dubai
+dbo:location	dbr:Kerala
+dbr:Kalyan_Silks	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Indore
+dbr:Dinclix_GroundWorks	
+dbo:regionServed	dbr:Southeast_Asia
+dbo:location	dbr:Victoria,_Australia
+dbr:Divers_Alert_Network	
+dbo:regionServed	dbr:Norway
+dbo:location	dbr:Bodø
+dbr:Nordlandsbanken	
+dbo:regionServed	dbr:Greece
+dbo:location	dbr:Greece
+dbr:Youth_Parliament_(Greece)	dbr:Hellas_Online	dbr:Marinopoulos_Market	dbr:Otenet	dbr:Hellenic_Australian_Business_Council	dbr:Radio_Amateur_Association_of_Greece	
+dbo:regionServed	dbr:Indian_Ocean
+dbo:location	dbr:Iran
+dbr:IRISL_Group	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Waco,_Texas
+dbr:American_Income_Life_Insurance_Company	
+dbo:regionServed	dbr:Greater_Manchester
+dbo:location	dbr:Portico_Library
+dbr:Lancashire_and_Cheshire_Antiquarian_Society	
+dbo:regionServed	dbr:Republic_of_Macedonia
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	dbr:Trans-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Republic_of_India
+dbo:location	dbr:Thrissur
+dbr:Catholic_Syrian_Bank	
+dbo:regionServed	dbr:Adriatic_Sea
+dbo:location	dbr:Rijeka
+dbr:Jadrolinija	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:1221_Avenue_of_the_Americas
+dbr:Sirius_XM_Holdings	
+dbo:regionServed	dbr:Permas_Jaya
+dbo:location	dbr:Malaysia
+dbr:Causeway_Link	
+dbo:regionServed	dbr:Northeastern_Pennsylvania
+dbo:location	dbr:United_States
+dbr:Impressions_Media	
+dbo:regionServed	dbr:Sweden
+dbo:location	dbr:Stockholm,_Sweden
+dbr:Praktikertjänst	
+dbo:regionServed	dbr:Vietnam
+dbo:location	dbr:Vietnam
+dbr:Orient_Commercial_Joint_Stock_Bank	dbr:Nguyenkim_Shopping_Center	
+dbo:regionServed	dbr:Masovia
+dbo:location	dbr:Warsaw
+dbr:Koleje_Mazowieckie	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:West_Midlands_(county)
+dbr:ScriptSwitch_Limited	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:location	dbr:Solihull
+dbr:LaSer_UK	
+dbo:regionServed	dbr:Armenia
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Tristan_da_Cunha
+dbo:location	dbr:Pretoria,_South_Africa
+dbr:Southern_Africa-Indian_Ocean_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:South_Korea
+dbo:location	dbr:Osaka
+dbr:Mister_Donut	
+dbo:regionServed	dbr:Mozambique
+dbo:location	dbr:Liverpool
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:Utah
+dbo:location	dbr:Boulder,_Colorado
+dbr:Sunflower_Farmers_Market	
+dbo:regionServed	dbr:Ottawa
+dbo:location	dbr:Scarborough,_Toronto
+dbr:Mill_Street_Brewery	
+dbo:regionServed	dbr:Dublin
+dbo:location	dbr:Dublin_6
+dbr:Fitzwilliam_Lawn_Tennis_Club	
+dbo:regionServed	dbr:Middle_East
+dbo:location	dbr:Tseung_Kwan_O
+dbr:Bossini	
+dbo:regionServed	dbr:Australia
+dbo:location	dbr:Martorell
+dbr:SEAT	
+dbo:regionServed	dbr:Iowa
+dbo:location	dbr:Colorado
+dbr:Qwest_Corporation	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:San_Diego,_California
+dbr:FutureWave_Software	
+dbo:regionServed	dbr:Illinois
+dbo:location	dbr:Miamisburg,_Ohio
+dbr:Ohio_Community_Media	
+dbo:regionServed	dbr:Pittsburgh
+dbo:location	dbr:Pittsburgh
+dbr:Pittsburgh_History_and_Landmarks_Foundation	
+dbo:regionServed	dbr:France
+dbo:location	dbr:Tours
+dbr:Réseau_des_Émetteurs_Français	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Houston
+dbr:FlightAware	
+dbo:regionServed	dbr:Minneapolis
+dbo:location	dbr:San_Francisco
+dbr:Instacart	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Småland
+dbr:Johansfors_Glasbruk	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Oakland,_California
+dbr:Pandora_Radio	
+dbo:regionServed	dbr:Northern_Europe
+dbo:location	dbr:Reykjavík
+dbr:Advania	
+dbo:regionServed	dbr:Victoria,_British_Columbia
+dbo:location	dbr:Vancouver
+dbr:Modo_(car_co-op)	
+dbo:regionServed	dbr:Santa_Monica,_California
+dbo:location	dbr:United_States
+dbr:Southland_Credit_Union	
+dbo:regionServed	dbr:Federated_States_of_Micronesia
+dbo:location	dbr:Maryland
+dbr:North_American_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Saitama_Prefecture
+dbo:location	dbr:Japan
+dbr:Shuto_Expressway	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:South_Korea
+dbr:E-Land_Group	
+dbo:regionServed	dbr:South_Texas
+dbo:location	dbr:San_Antonio
+dbr:Security_Service_Federal_Credit_Union	
+dbo:regionServed	dbr:Channel_Islands
+dbo:location	dbr:Jersey
+dbr:HD_Ferries	
+dbo:regionServed	dbr:Thailand
+dbo:location	dbr:New_South_Wales
+dbr:Video_Ezy	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Carrollton,_Texas
+dbr:Fastsigns	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:Republic_of_China
+dbr:Taiwan_Financial_Holdings_Group	
+dbo:regionServed	dbr:Slovenia
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Iran
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Denmark
+dbo:location	dbr:Odense
+dbr:Experimenterende_Danske_Radioamatører	
+dbo:regionServed	dbr:Italy
+dbo:location	dbr:Dallas
+dbr:Pollo_Campero	
+dbo:regionServed	dbr:Earth
+dbo:location	dbr:Bratislava
+dbr:HighChem	
+dbo:regionServed	dbr:English_Channel
+dbo:location	dbr:Dieppe,_Seine-Maritime
+dbr:Transmanche_Ferries	
+dbo:regionServed	dbr:Utah
+dbo:location	dbr:United_States
+dbr:Shopko	dbr:Security_Service_Federal_Credit_Union	dbr:Chronic_Tacos	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Romania
+dbr:Terapia_Ranbaxy	dbr:Reaching_Out_Romania	
+dbo:regionServed	dbr:International
+dbo:location	dbr:New_York_(state)
+dbr:Logicworks	
+dbo:regionServed	dbr:Hispanic_America
+dbo:location	dbr:Luxembourg_(city)
+dbr:Millicom	
+dbo:regionServed	dbr:Botany_Bay
+dbo:location	dbr:Sans_Souci,_New_South_Wales
+dbr:Bass_&_Flinders_Cruises	
+dbo:regionServed	dbr:New_Zealand
+dbo:location	dbr:London
+dbr:Topman	
+dbo:regionServed	dbr:Río_de_la_Plata
+dbo:location	dbr:Argentina
+dbr:Buquebus	
+dbo:regionServed	dbr:Slovenia
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	dbr:Dorothy_Perkins	dbr:Trans-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:United_States_of_America
+dbo:location	dbr:United_States
+dbr:Underwater_Society_of_America	dbr:Pulitzer,_Inc.	
+dbo:regionServed	dbr:Cyprus
+dbo:location	dbr:New_Territories
+dbr:Bossini	
+dbo:regionServed	dbr:Republic_of_India
+dbo:location	dbr:India
+dbr:Catholic_Syrian_Bank	dbr:Federal_Bank	
+dbo:regionServed	dbr:Ohio
+dbo:location	dbr:New_Castle,_Pennsylvania
+dbr:Augustine's_Pizza	
+dbo:regionServed	dbr:Pacific_Northwest
+dbo:location	dbr:Portland,_Oregon
+dbr:Vigor_Industrial	
+dbo:regionServed	dbr:Dubai
+dbo:location	dbr:India
+dbr:ABC_Consultants	
+dbo:regionServed	dbr:Brunei
+dbo:location	dbr:Tseung_Kwan_O
+dbr:Bossini	
+dbo:regionServed	dbr:West_Midlands_(region)
+dbo:location	dbr:Willenhall
+dbr:West_Midlands_Ghost_Club	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Mountain_View,_California
+dbr:Instamojo	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Gurgaon,_Haryana
+dbr:HealthKart	dbr:Dial_medico	dbr:UrbanClap	
+dbo:regionServed	dbr:Box_Elder_County,_Utah
+dbo:location	dbr:Logan,_Utah
+dbr:USU_Credit_Union	
+dbo:regionServed	dbr:Alabama
+dbo:location	dbr:Charlotte,_North_Carolina
+dbr:Grandbridge_Real_Estate_Capital	
+dbo:regionServed	dbr:Mexico
+dbo:location	dbr:New_York_(state)
+dbr:Vevo	dbr:Aéropostale_(clothing)	dbr:Entertainment_Software_Rating_Board	
+dbo:regionServed	dbr:Comoros
+dbo:location	dbr:Poland
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:UK
+dbo:location	dbr:Clydebank
+dbr:Synergy_School_Radio	
+dbo:regionServed	dbr:Western_New_York
+dbo:location	dbr:New_York_(state)
+dbr:Bank_of_Holland	
+dbo:regionServed	dbr:Accra
+dbo:location	dbr:Ghana
+dbr:BusyInternet	
+dbo:regionServed	dbr:Costa_Rica
+dbo:location	dbr:Guanajuato
+dbr:Pirma	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Finland
+dbr:Telescreen_(company)	
+dbo:regionServed	dbr:Uruguay
+dbo:location	dbr:Brasilia
+dbr:South_American_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Curaçao
+dbo:location	dbr:Caracas
+dbr:Chocolates_El_Rey	
+dbo:regionServed	dbr:Vietnamese_people
+dbo:location	dbr:Atlanta,_GA
+dbr:Lang_Van	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Radnor,_PA
+dbr:Peachtree_Financial_Solutions	
+dbo:regionServed	dbr:Bangalore
+dbo:location	dbr:India
+dbr:Zoomcar	dbr:MylesCar	dbr:JustRide	
+dbo:regionServed	dbr:MiddleEast
+dbo:location	dbr:Singapore
+dbr:Medical_Plus	
+dbo:regionServed	dbr:Asia-Pacific
+dbo:location	dbr:Malaysia
+dbr:Public_Bank_Berhad	
+dbo:regionServed	dbr:Ireland
+dbo:location	dbr:United_States
+dbr:Vevo	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Miami_Gardens
+dbr:Merchandize_Liquidators	
+dbo:regionServed	dbr:Midwest
+dbo:location	dbr:Missouri
+dbr:Planet_Sub	
+dbo:regionServed	dbr:Marshall_Islands
+dbo:location	dbr:Silver_Spring,_Maryland
+dbr:North_American_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Somalia
+dbo:location	dbr:Somalia
+dbr:Somali_Red_Crescent_Society	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Bath,_Somerset
+dbr:Rupert_and_Buckley	
+dbo:regionServed	dbr:Coral_Sea
+dbo:location	dbr:Townsville,_Queensland
+dbr:Sunferries	
+dbo:regionServed	dbr:New_Mexico
+dbo:location	dbr:Phoenix,_AZ
+dbr:Sunflower_Farmers_Market	
+dbo:regionServed	dbr:Kenya
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Eckington,_Derbyshire
+dbo:location	dbr:Mansfield
+dbr:Stagecoach_in_Mansfield	
+dbo:regionServed	dbr:British_Virgin_Islands
+dbo:location	dbr:Gibraltar
+dbr:Sovereign_Group	
+dbo:regionServed	dbr:Alaska
+dbo:location	dbr:Mountlake_Terrace
+dbr:Premera_Blue_Cross	
+dbo:regionServed	dbr:North_Africa
+dbo:location	dbr:Nottingham
+dbr:Archiam_Centre	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Wayne,_New_Jersey
+dbr:Vision_Research_Phantom	
+dbo:regionServed	dbr:United_States_of_America
+dbo:location	dbr:Madhya_Pradesh
+dbr:Dinclix_GroundWorks	
+dbo:regionServed	dbr:Togo
+dbo:location	dbr:United_States
+dbr:Freedom_from_Hunger	
+dbo:regionServed	dbr:Cyprus
+dbo:location	dbr:Istanbul
+dbr:Turkish_Bank	
+dbo:regionServed	dbr:Malaysia
+dbo:location	dbr:Jakarta
+dbr:Indomie	
+dbo:regionServed	dbr:United_Arab_Emirates
+dbo:location	dbr:Kampala
+dbr:MOGAS_Group	
+dbo:regionServed	dbr:Rutland
+dbo:location	dbr:UK
+dbr:EMMAN	
+dbo:regionServed	dbr:Jharkhand
+dbo:location	dbr:India
+dbr:Vananchal_Gramin_Bank	dbr:Bharat_Coking_Coal	
+dbo:regionServed	dbr:Taiwan
+dbo:location	dbr:Taipei
+dbr:Eslite_Bookstore	dbr:Unison_Healthcare_Group	dbr:EZTABLE	
+dbo:regionServed	dbr:London
+dbo:location	dbr:Houston,_Texas
+dbr:Bubba_Gump_Shrimp_Company	
+dbo:regionServed	dbr:Dubai
+dbo:location	dbr:Dubai
+dbr:Du_(company)	
+dbo:regionServed	dbr:Wisconsin
+dbo:location	dbr:Green_Bay,_Wisconsin
+dbr:Associated_Banc-Corp	dbr:Shopko	
+dbo:regionServed	dbr:South_West_England
+dbo:location	dbr:United_Kingdom
+dbr:South_West_Observatory	dbr:Wales_&_West_Utilities	
+dbo:regionServed	dbr:North_America
+dbo:location	dbr:Mississauga
+dbr:Biovail	
+dbo:regionServed	dbr:Libya
+dbo:location	dbr:Dubai,_UAE
+dbr:Splash_(Fashion)	
+dbo:regionServed	dbr:Florida
+dbo:location	dbr:Raleigh,_North_Carolina
+dbr:First_Citizens_BancShares	
+dbo:regionServed	dbr:Bergen
+dbo:location	dbr:Norway
+dbr:Student_Welfare_Organisation_in_Bergen	
+dbo:regionServed	dbr:Hedmark
+dbo:location	dbr:Hamar
+dbr:Eidsiva_Energi	dbr:Sparebanken_Hedmark	
+dbo:regionServed	dbr:Colorado
+dbo:location	dbr:San_Antonio
+dbr:Security_Service_Federal_Credit_Union	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Woodland_Hills,_California
+dbr:ReachLocal	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Toronto
+dbr:Cadillac_Fairview	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:Chelmsford
+dbr:Warsop_Stebbing	
+dbo:regionServed	dbr:Russian_Federation
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:South_Texas
+dbo:location	dbr:Texas
+dbr:Security_Service_Federal_Credit_Union	
+dbo:regionServed	dbr:South_America
+dbo:location	dbr:Florida
+dbr:Associated_Grocers_of_Florida	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Oregon
+dbr:Lensbaby	
+dbo:regionServed	dbr:South_America
+dbo:location	dbr:Australia
+dbr:Sparx_Systems	
+dbo:regionServed	dbr:Balearic_Islands
+dbo:location	dbr:Palma_de_Mallorca
+dbr:Banca_March	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Bolderslev
+dbr:Kohberg_Bakery_Group	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Aberdeen
+dbr:FirstGroup	dbr:Shepherd_and_Wedderburn	dbr:Maclay_Murray_&_Spens	
+dbo:regionServed	dbr:Southeast_Europe
+dbo:location	dbr:Ljubljana
+dbr:Mercator_(retail)	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Burnett_Plaza
+dbr:GM_Financial	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Newburyport,_Massachusetts
+dbr:Goozex	
+dbo:regionServed	dbr:Hong_Kong
+dbo:location	dbr:Queensway,_Hong_Kong
+dbr:Hong_Kong_General_Chamber_of_Commerce	
+dbo:regionServed	dbr:Tanzania
+dbo:location	dbr:Kitwe
+dbr:Zambian_Music_Blog	
+dbo:regionServed	dbr:Romania
+dbo:location	dbr:Sai_Kung_District
+dbr:Bossini	
+dbo:regionServed	dbr:Portugal
+dbo:location	dbr:Portugal
+dbr:Vodafone_Portugal	dbr:Leya	
+dbo:regionServed	dbr:Belgium
+dbo:location	dbr:Utrecht
+dbr:Mediq	
+dbo:regionServed	dbr:Uganda
+dbo:location	dbr:Kampala
+dbr:Translink_(U)_Ltd	dbr:Women_At_Work_International	dbr:Association_of_Real_Estate_Agents_Uganda	dbr:MOGAS_Group	
+dbo:regionServed	dbr:Nevada
+dbo:location	dbr:Signal_Hill,_California
+dbr:Lucille's_Smokehouse_Bar-B-Que	
+dbo:regionServed	dbr:Carmarthenshire
+dbo:location	dbr:United_Kingdom
+dbr:Hywel_Dda_Local_Health_Board	
+dbo:regionServed	dbr:The_Philippines
+dbo:location	dbr:United_States
+dbr:Buffalo_Wild_Wings	
+dbo:regionServed	dbr:South_America
+dbo:location	dbr:Atlanta
+dbr:Rheem	
+dbo:regionServed	dbr:Bucks_County,_Pennsylvania
+dbo:location	dbr:Pennsylvania
+dbr:TruMark_Financial_Credit_Union	
+dbo:regionServed	dbr:New_Zealand
+dbo:location	dbr:Western_Australia
+dbr:Wesfarmers	
+dbo:regionServed	dbr:Germany
+dbo:location	dbr:Thailand
+dbr:Central_Group	
+dbo:regionServed	dbr:Berkshire
+dbo:location	dbr:Littlemore
+dbr:Berkshire,_Buckinghamshire_and_Oxfordshire_Wildlife_Trust	
+dbo:regionServed	dbr:Susquehanna_Valley
+dbo:location	dbr:U.S._Steel_Tower
+dbr:University_of_Pittsburgh_Medical_Center	
+dbo:regionServed	dbr:Kenya
+dbo:location	dbr:London
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Mediterranean
+dbo:location	dbr:Chania
+dbr:ANEK_Lines	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Lausanne,_Switzerland
+dbr:Bata_Shoes	
+dbo:regionServed	dbr:Brazil
+dbo:location	dbr:Victoria_(Australia)
+dbr:ANCA_(company)	
+dbo:regionServed	dbr:Great_Britain
+dbo:location	dbr:Hertfordshire
+dbr:Butlins	
+dbo:regionServed	dbr:East_Asia
+dbo:location	dbr:Johannesburg
+dbr:Econet_Wireless	
+dbo:regionServed	dbr:Singapore
+dbo:location	dbr:Orchard_Road
+dbr:Eclarity	
+dbo:regionServed	dbr:Puerto_Rico
+dbo:location	dbr:Seffner,_Florida
+dbr:Rooms_To_Go	
+dbo:regionServed	dbr:Benin
+dbo:location	dbr:Poland
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Russian_Federation
+dbo:location	dbr:Poland
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:New_York,_New_York
+dbo:location	dbr:1_Broadway
+dbr:United_States_Lines	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Mill_Hill
+dbr:National_Institute_for_Medical_Research	
+dbo:regionServed	dbr:Dominican_Republic
+dbo:location	dbr:Sai_Kung_District
+dbr:Bossini	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Carson,_California
+dbr:Artemis_(pet_food)	
+dbo:regionServed	dbr:Thailand
+dbo:location	dbr:Sydney
+dbr:Video_Ezy	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Jeddah
+dbr:Dallah_Al-Baraka	
+dbo:regionServed	dbr:Ireland
+dbo:location	dbr:France
+dbr:Brittany_Ferries	
+dbo:regionServed	dbr:Kerala
+dbo:location	dbr:Thiruvananthapuram
+dbr:Tourist_Resorts_(Kerala)	dbr:KEAM	dbr:Kerala_State_Electricity_Board	dbr:Kerala_Tourism_Development_Corporation	dbr:Department_of_Technical_Education	
+dbo:regionServed	dbr:California
+dbo:location	dbr:California
+dbr:First_Republic_Bank	dbr:Aera_Energy	dbr:Ruby's_Diner	dbr:California_Newspapers_Partnership	dbr:Penske_Motor_Group	dbr:Beneficial_State_Bank	
+dbo:regionServed	dbr:Oxfordshire
+dbo:location	dbr:Littlemore
+dbr:Berkshire,_Buckinghamshire_and_Oxfordshire_Wildlife_Trust	
+dbo:regionServed	dbr:Western_United_States
+dbo:location	dbr:Oregon
+dbr:VIP's	
+dbo:regionServed	dbr:Santa_Maria_Island_(Azores)
+dbo:location	dbr:Ponta_Delgada
+dbr:Ponta_Delgada_Football_Association	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Aspen,_Colorado
+dbr:Klaus_Obermeyer	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Labège
+dbr:Myfox	
+dbo:regionServed	dbr:Bulgaria
+dbo:location	dbr:Safat
+dbr:M._A._Kharafi_&_Sons	
+dbo:regionServed	dbr:Minnesota
+dbo:location	dbr:Colorado
+dbr:Qwest_Corporation	
+dbo:regionServed	dbr:Asia-Pacific
+dbo:location	dbr:Jakarta
+dbr:Archipelago_International	
+dbo:regionServed	dbr:South_India
+dbo:location	dbr:Tamil_Nadu
+dbr:Chennai_Trekking_Club	
+dbo:regionServed	dbr:Australia
+dbo:location	dbr:Western_Australia
+dbr:Wesfarmers	dbr:Ocean_Power_Technologies_Australasia	
+dbo:regionServed	dbr:Barcelona_metropolitan_area
+dbo:location	dbr:Barcelona
+dbr:Transports_Metropolitans_de_Barcelona	
+dbo:regionServed	dbr:Russian_Federation
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Ecuador
+dbo:location	dbr:Brisbane
+dbr:SolGold	
+dbo:regionServed	dbr:Finnmark
+dbo:location	dbr:Tromsø
+dbr:University_Hospital_of_North_Norway	
+dbo:regionServed	dbr:Brazzaville
+dbo:location	dbr:Brazzaville
+dbr:Warid_Congo	
+dbo:regionServed	dbr:Rogaland
+dbo:location	dbr:Stavanger
+dbr:Western_Norway_Regional_Health_Authority	dbr:Stavangerske	dbr:Kolumbus	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:Sri_Lanka
+dbr:Aitken_Spence	
+dbo:regionServed	dbr:Hungary
+dbo:location	dbr:Modena
+dbr:Panini_Comics	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Toano,_Virginia
+dbr:Lumber_Liquidators	
+dbo:regionServed	dbr:Government
+dbo:location	dbr:Washington,_District_of_Columbia
+dbr:Oceus_Networks	
+dbo:regionServed	dbr:North_Carolina
+dbo:location	dbr:New_Jersey
+dbr:TD_Bank,_N.A.	
+dbo:regionServed	dbr:Democratic_Republic_of_the_Congo
+dbo:location	dbr:Democratic_Republic_of_the_Congo
+dbr:Studies_Centre_for_Social_Action	
+dbo:regionServed	dbr:Continental_Europe
+dbo:location	dbr:Renfrewshire
+dbr:M&Co.	
+dbo:regionServed	dbr:China
+dbo:location	dbr:Midland,_Texas
+dbr:China_Aid	
+dbo:regionServed	dbr:Doha
+dbo:location	dbr:Bahrain
+dbr:Interactivo_Gulf	dbr:Fakhro_Group	
+dbo:regionServed	dbr:Spain
+dbo:location	dbr:Berkshire
+dbr:The_Rank_Group	
+dbo:regionServed	dbr:Panama
+dbo:location	dbr:Guanajuato
+dbr:Pirma	
+dbo:regionServed	dbr:Prince_George's_County,_Maryland
+dbo:location	dbr:Upper_Marlboro,_Maryland
+dbr:Prince_George's_Community_Federal_Credit_Union	
+dbo:regionServed	dbr:Côte_d'Ivoire
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Germany
+dbo:location	dbr:New_York_City
+dbr:Vevo	
+dbo:regionServed	dbr:Delaware_Valley
+dbo:location	dbr:Flourtown,_PA
+dbr:Philadelphia_Cricket_Club	
+dbo:regionServed	dbr:Leeds
+dbo:location	dbr:Bradford
+dbr:First_Bradford	
+dbo:regionServed	dbr:Taiwan
+dbo:location	dbr:Victoria,_Australia
+dbr:Divers_Alert_Network	
+dbo:regionServed	dbr:Odisha
+dbo:location	dbr:India
+dbr:Central_Electricity_Supply_Utility_of_Odisha	dbr:Orissa_Public_Health_Engineering_Organisation	dbr:Odisha_Gramya_Bank	dbr:Utkal_Grameen_Bank	dbr:Odisha_State_Road_Transport_Corporation	dbr:Grid_Corporation_of_Odisha	dbr:North_Eastern_Electricity_Supply_Company_of_Odisha	dbr:SRIJAN	dbr:Western_Electricity_Supply_Company_of_Odisha	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Darien,_Connecticut
+dbr:Genesee_&_Wyoming	
+dbo:regionServed	dbr:Argentina
+dbo:location	dbr:Argentina
+dbr:Chakana_wines	dbr:Radio_Club_Argentino	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:France
+dbr:MEGA_International_Srl.	
+dbo:regionServed	dbr:Canary_Islands
+dbo:location	dbr:Canary_Islands
+dbr:Fred._Olsen_Express	dbr:Garajonay_Express	
+dbo:regionServed	dbr:Birmingham
+dbo:location	dbr:Alabama
+dbr:America's_First_Federal_Credit_Union	
+dbo:regionServed	dbr:Gwinnett_County,_Georgia
+dbo:location	dbr:Lawrenceville,_Georgia
+dbr:Peach_State_Federal_Credit_Union	
+dbo:regionServed	dbr:Nigeria
+dbo:location	dbr:Liverpool
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:Miami_Dade_County,_Florida
+dbo:location	dbr:Florida
+dbr:Tropical_Financial_Credit_Union	
+dbo:regionServed	dbr:Memphis_metropolitan_area
+dbo:location	dbr:Detroit
+dbr:Real_Times	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Salisbury,_Maryland
+dbr:Marquee_Broadcasting	
+dbo:regionServed	dbr:Chicago_metropolitan_area
+dbo:location	dbr:Bannockburn,_Illinois
+dbr:MainStreet	
+dbo:regionServed	dbr:Bee_County,_Texas
+dbo:location	dbr:Texas
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Hong_Kong
+dbo:location	dbr:Causeway_Bay
+dbr:Sogo_Hong_Kong	
+dbo:regionServed	dbr:United_Arab_Emirates
+dbo:location	dbr:Toronto
+dbr:Mr._Sub	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Augsburg
+dbr:Synlab_Group	
+dbo:regionServed	dbr:Bristol
+dbo:location	dbr:Newton_Abbot
+dbr:Scott_Cinemas	
+dbo:regionServed	dbr:Iceland
+dbo:location	dbr:Iceland
+dbr:Straumur_Investment_Bank	dbr:Íslandsbanki	dbr:RHnet	dbr:Isavia	dbr:Íslenskir_Radíóamatörar	
+dbo:regionServed	dbr:Northern_Ireland
+dbo:location	dbr:Dún_Laoghaire
+dbr:Comhairle_Fo-Thuinn	
+dbo:regionServed	dbr:Andorra
+dbo:location	dbr:Bern,_Switzerland
+dbr:Inter-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Greater_Manchester
+dbo:location	dbr:Preston,_Lancashire
+dbr:Booths	
+dbo:regionServed	dbr:Belgium
+dbo:location	dbr:Brussels
+dbr:Olivaint_Conference_of_Belgium	dbr:Royal_Union_of_Belgian_Radio_Amateurs	
+dbo:regionServed	dbr:Texas
+dbo:location	dbr:Green_Bay,_Wisconsin
+dbr:Associated_Banc-Corp	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Fort_Myers,_Florida
+dbr:White_House_Black_Market	
+dbo:regionServed	dbr:Strait_of_Gibraltar
+dbo:location	dbr:Algeciras
+dbr:Euroferrys	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:Taipei
+dbr:Bank_of_Taiwan	dbr:Taiwan_Financial_Holdings_Group	
+dbo:regionServed	dbr:Taiwan
+dbo:location	dbr:Singapore
+dbr:Ya_Kun_Kaya_Toast	dbr:Golden_Gate_Ventures	
+dbo:regionServed	dbr:Ukraine
+dbo:location	dbr:Amsterdam
+dbr:Viacom_International_Media_Networks_Northern_Europe	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Philadelphia
+dbr:Philly_Shipyard	
+dbo:regionServed	dbr:Florida
+dbo:location	dbr:Winston-Salem,_North_Carolina
+dbr:BB&T	
+dbo:regionServed	dbr:Huddersfield
+dbo:location	dbr:Bradford
+dbr:First_Bradford	
+dbo:regionServed	dbr:Tajikistan
+dbo:location	dbr:Tajikistan
+dbr:Tcell	
+dbo:regionServed	dbr:Egypt
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:World
+dbo:location	dbr:McLean,_Virginia
+dbr:DynCorp	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Central_London
+dbr:National_Employment_Savings_Trust	
+dbo:regionServed	dbr:Austin_(TX)
+dbo:location	dbr:California
+dbr:Instacart	
+dbo:regionServed	dbr:Hong_Kong
+dbo:location	dbr:Taipei
+dbr:Eslite_Bookstore	dbr:Taiwan_Financial_Holdings_Group	dbr:EZTABLE	
+dbo:regionServed	dbr:UK
+dbo:location	dbr:London
+dbr:Version_1	dbr:People's_Trust_for_Endangered_Species	dbr:Confederation_of_British_Industry	dbr:The_British_Screen_Advisory_Council	dbr:Zotefoams	dbr:War_Memorials_Trust	
+dbo:regionServed	dbr:Mediterranean
+dbo:location	dbr:Madrid
+dbr:Pullmantur_Cruises	
+dbo:regionServed	dbr:Republic_of_Ireland
+dbo:location	dbr:Bolton
+dbr:Dabs.com	
+dbo:regionServed	dbr:University_City,_Philadelphia,_Pennsylvania
+dbo:location	dbr:Philadelphia,_Pennsylvania
+dbr:Neighborhood_Bike_Works	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Kuala_Lumpur
+dbr:Hopetech	dbr:JobStreet.com	
+dbo:regionServed	dbr:Catalonia
+dbo:location	dbr:Catalonia
+dbr:Catalan_Food_Safety_Agency	
+dbo:regionServed	dbr:California
+dbo:location	dbr:El_Monte,_California
+dbr:Penske_Motor_Group	
+dbo:regionServed	dbr:South_Dakota
+dbo:location	dbr:Colorado
+dbr:Qwest_Corporation	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Fifth_Avenue_(Manhattan)
+dbr:Parachute_Publishing	
+dbo:regionServed	dbr:Ethiopia
+dbo:location	dbr:Nairobi,_Kenya
+dbr:East-Central_Africa_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Ukraine
+dbo:location	dbr:Saskatoon
+dbr:NASHI	
+dbo:regionServed	dbr:Channel_Islands
+dbo:location	dbr:London_Borough_of_Bromley
+dbr:Professional_Association_for_Childcare_and_Early_Years	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Fort_Worth,_Texas
+dbr:GM_Financial	
+dbo:regionServed	dbr:Egypt
+dbo:location	dbr:Tehran
+dbr:Iran_Khodro	
+dbo:regionServed	dbr:Albania
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	dbr:Trans-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Hong_Kong
+dbo:location	dbr:Guangdong
+dbr:China_Resources_Vanguard	
+dbo:regionServed	dbr:Australia
+dbo:location	dbr:Swinton,_South_Yorkshire
+dbr:Morphy_Richards	
+dbo:regionServed	dbr:Republic_of_Macedonia
+dbo:location	dbr:Serbia
+dbr:TotalTV	
+dbo:regionServed	dbr:Red_Sea
+dbo:location	dbr:Aqaba
+dbr:Arab_Bridge_Maritime	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Handforth
+dbr:Pets_at_Home	
+dbo:regionServed	dbr:Palau
+dbo:location	dbr:United_States
+dbr:North_American_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Telemark
+dbo:location	dbr:Norway
+dbr:Sparebanken_Sør	dbr:Timetoget	
+dbo:regionServed	dbr:Nottinghamshire
+dbo:location	dbr:Derbyshire
+dbr:Trentbarton	
+dbo:regionServed	dbr:Auburn,_California
+dbo:location	dbr:Dixon,_California
+dbr:First_Northern_Bank	
+dbo:regionServed	dbr:Auckland
+dbo:location	dbr:New_Zealand
+dbr:YourDrive	dbr:I_Measure_U	dbr:Bon_Ton_(brothel)	
+dbo:regionServed	dbr:North_Carolina
+dbo:location	dbr:Washington_metropolitan_area
+dbr:Grand_Mart	
+dbo:regionServed	dbr:Providence,_Rhode_Island
+dbo:location	dbr:United_States
+dbr:Drizly	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Muscatine,_Iowa
+dbr:By_Nature	
+dbo:regionServed	dbr:Bolivia
+dbo:location	dbr:Darien,_Connecticut
+dbr:Genesee_&_Wyoming	
+dbo:regionServed	dbr:Riverside_County,_California
+dbo:location	dbr:Oceanside,_California
+dbr:Pacific_Marine_Credit_Union	
+dbo:regionServed	dbr:Arab_World
+dbo:location	dbr:Cairo,_Egypt
+dbr:Arab_Organization_for_Industrialization	
+dbo:regionServed	dbr:Pennsylvania
+dbo:location	dbr:Kennett_Square,_Pennsylvania
+dbr:Regional_Rail,_LLC	
+dbo:regionServed	dbr:Kuyavian-Pomeranian_Voivodeship
+dbo:location	dbr:Poland
+dbr:Arriva_RP	
+dbo:regionServed	dbr:Bangsamoro_(political_entity)
+dbo:location	dbr:Mindanao
+dbr:Maradeka	
+dbo:regionServed	dbr:London_Borough
+dbo:location	dbr:London
+dbr:Four_Per_Cent_Industrial_Dwellings_Company	
+dbo:regionServed	dbr:New_Brunswick
+dbo:location	dbr:Vancouver,_BC
+dbr:Vantage_Airport_Group	
+dbo:regionServed	dbr:Chattisgarh
+dbo:location	dbr:New_Delhi
+dbr:SRIJAN	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Regina,_Saskatchewan
+dbr:Neil_Squire_Society	
+dbo:regionServed	dbr:Ottawa
+dbo:location	dbr:Canada
+dbr:Ottawa_River_Runners	
+dbo:regionServed	dbr:Indianapolis
+dbo:location	dbr:Boston
+dbr:Drizly	
+dbo:regionServed	dbr:Dutchess_County,_New_York
+dbo:location	dbr:New_York_(state)
+dbr:New_York's_41st_State_Senate_district	
+dbo:regionServed	dbr:Dresden
+dbo:location	dbr:Pirna
+dbr:Geibeltbad_Pirna	
+dbo:regionServed	dbr:Madagascar
+dbo:location	dbr:Pretoria,_South_Africa
+dbr:Southern_Africa-Indian_Ocean_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Flores_Island_(Azores)
+dbo:location	dbr:Portugal
+dbr:Horta_Football_Association	
+dbo:regionServed	dbr:Military
+dbo:location	dbr:Reston,_Virginia
+dbr:Oceus_Networks	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Italy
+dbr:Panini_Comics	
+dbo:regionServed	dbr:Norway
+dbo:location	dbr:Haugesund
+dbr:Norwegian_Maritime_Authority	
+dbo:regionServed	dbr:Central_Asia
+dbo:location	dbr:Azerbaijan
+dbr:Trend_News_Agency	
+dbo:regionServed	dbr:Qatar
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Algeria
+dbo:location	dbr:Poland
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Lake_Geneva
+dbo:location	dbr:Lausanne
+dbr:Compagnie_Générale_de_Navigation_sur_le_lac_Léman	
+dbo:regionServed	dbr:Malaysia
+dbo:location	dbr:Selangor
+dbr:Teras_Teknologi	dbr:Racing_Boy	dbr:Big_Apple_Donuts_and_Coffee	dbr:ABNXcess	dbr:UMA_Racing	dbr:Professional_Footballers_Association_of_Malaysia	
+dbo:regionServed	dbr:Vietnamese_diaspora
+dbo:location	dbr:Atlanta,_GA
+dbr:Lang_Van	
+dbo:regionServed	dbr:North_America
+dbo:location	dbr:Des_Moines
+dbr:EFCO	
+dbo:regionServed	dbr:Japan
+dbo:location	dbr:Jinbōchō,_Tokyo
+dbr:Tōkyōdō_Shoten	
+dbo:regionServed	dbr:North_America
+dbo:location	dbr:San_Jose,_California
+dbr:American_Video_Entertainment	
+dbo:regionServed	dbr:Laguna_San_Rafael
+dbo:location	dbr:Chile
+dbr:Cruceros_Skorpios	
+dbo:regionServed	dbr:Northern_Europe
+dbo:location	dbr:Madrid
+dbr:Pullmantur_Cruises	
+dbo:regionServed	dbr:Teddington
+dbo:location	dbr:Teddington
+dbr:St_Alban's_Church,_Teddington__Landmark_Arts_Centre__1	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Columbia,_South_Carolina
+dbr:Technetics_Group	
+dbo:regionServed	dbr:Vietnam
+dbo:location	dbr:Kuala_Lumpur
+dbr:Tan_Chong_Motor	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Mississauga
+dbr:Hatch_Ltd	dbr:Orion_International	
+dbo:regionServed	dbr:North_Korea
+dbo:location	dbr:Pyongyang
+dbr:Pyongyang_Chewing_Gum_Factory	
+dbo:regionServed	dbr:Norway
+dbo:location	dbr:Asker
+dbr:TeleComputing	
+dbo:regionServed	dbr:Australia
+dbo:location	dbr:Melbourne
+dbr:Quicksales	dbr:Kookaburra_bats	dbr:Turkey_Travel_Centre	dbr:Optus_Television	dbr:M2_Group	dbr:National_Australia_Bank	dbr:National_Safety_Council_of_Australia	dbr:Repco	dbr:Dairy_Farmers	dbr:Lion_Dairy_&_Drinks	dbr:Kookaburra_Sport	dbr:Metricon	dbr:Bank_of_Melbourne_(2011)	dbr:Bank_of_Melbourne_(1989)	dbr:Stratton_(financial_services)	
+dbo:regionServed	dbr:Latin_America
+dbo:location	dbr:Florida
+dbr:Quepasa	
+dbo:regionServed	dbr:United_Arab_Emirates
+dbo:location	dbr:Singapore
+dbr:Spuul	
+dbo:regionServed	dbr:South_America
+dbo:location	dbr:Dubai
+dbr:Voilà_Hotel_Rewards	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Clearwater,_Florida
+dbr:Americans_For_Fair_Taxation	
+dbo:regionServed	dbr:Poland
+dbo:location	dbr:Warsaw
+dbr:Plus_(telecommunications_Poland)	dbr:Discovery_Networks_CEEMEA	dbr:Waneko	
+dbo:regionServed	dbr:Hawaii
+dbo:location	dbr:Meguro,_Tokyo
+dbr:Don_Quijote_(store)	
+dbo:regionServed	dbr:Great_Barrier_Reef
+dbo:location	dbr:Neutral_Bay
+dbr:Captain_Cook_Cruises,_Australia	
+dbo:regionServed	dbr:Switzerland
+dbo:location	dbr:Munich
+dbr:Discovery_Networks_Deutschland	
+dbo:regionServed	dbr:Greater_Mexico_City
+dbo:location	dbr:Mexico_City
+dbr:Izzi_Telecom	
+dbo:regionServed	dbr:Brazil
+dbo:location	dbr:Israel
+dbr:Strauss_(company)	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Maryland
+dbr:Hughes_Communications	
+dbo:regionServed	dbr:The_Bronx
+dbo:location	dbr:Spuyten_Duyvil,_New_York
+dbr:List_of_bus_routes_in_the_Bronx	
+dbo:regionServed	dbr:Lancashire
+dbo:location	dbr:Ribbleton
+dbr:Booths	
+dbo:regionServed	dbr:New_York_(state)
+dbo:location	dbr:Honolulu
+dbr:L&L_Hawaiian_Barbecue	
+dbo:regionServed	dbr:Guangzhou
+dbo:location	dbr:Hong_Kong
+dbr:San_Miguel_Brewery_Hong_Kong	
+dbo:regionServed	dbr:Udaipur
+dbo:location	dbr:New_Delhi
+dbr:MylesCar	
+dbo:regionServed	dbr:Cambria_County,_Pennsylvania
+dbo:location	dbr:Pennsylvania
+dbr:Somerset_Trust_Company	
+dbo:regionServed	dbr:France
+dbo:location	dbr:Caracas
+dbr:Chocolates_El_Rey	
+dbo:regionServed	dbr:Solent
+dbo:location	dbr:Dover
+dbr:Seaspeed	
+dbo:regionServed	dbr:Channel_Islands
+dbo:location	dbr:St_Albans
+dbr:Trans-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Melbourne
+dbr:Kookaburra_bats	dbr:Turkey_Travel_Centre	dbr:Kookaburra_Sport	
+dbo:regionServed	dbr:Vietnamese_people
+dbo:location	dbr:San_Jose,_CA
+dbr:Lang_Van	
+dbo:regionServed	dbr:Connecticut
+dbo:location	dbr:Orange,_Connecticut
+dbr:Southern_Connecticut_Gas	dbr:The_United_Illuminating_Company	
+dbo:regionServed	dbr:Kenosha_County
+dbo:location	dbr:Sheridan_Road
+dbr:Kenosha/Racine_Lead-Free_Communities_Partnership	
+dbo:regionServed	dbr:Wisconsin
+dbo:location	dbr:Rural
+dbr:Wisconsin_Senate,_District_29	
+dbo:regionServed	dbr:Belarus
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:New_York_metropolitan_area
+dbo:location	dbr:New_York,_New_York
+dbr:Union_Club_of_the_City_of_New_York	dbr:Harmonie_Club	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Cambridge,_Massachusetts
+dbr:Basis_Technology_Corp.	dbr:Endeca	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:Tshwane
+dbr:InkuluFreeHeid_Organisation	
+dbo:regionServed	dbr:West_Virginia
+dbo:location	dbr:Columbus,_Ohio
+dbr:American_Electric_Power	
+dbo:regionServed	dbr:Hong_Kong
+dbo:location	dbr:United_Kingdom
+dbr:Jack_Wills	dbr:Clever_Bins	
+dbo:regionServed	dbr:The_Netherlands
+dbo:location	dbr:Istanbul
+dbr:Anadolubank	
+dbo:regionServed	dbr:North_America
+dbo:location	dbr:Klagenfurt
+dbr:Bitmovin	
+dbo:regionServed	dbr:Central_America
+dbo:location	dbr:Florida
+dbr:Associated_Grocers_of_Florida	
+dbo:regionServed	dbr:European_Union
+dbo:location	dbr:Texas
+dbr:Quantapoint	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Seoul
+dbr:E-Land_Group	
+dbo:regionServed	dbr:North_Africa
+dbo:location	dbr:UAE
+dbr:Berios	
+dbo:regionServed	dbr:Karachi
+dbo:location	dbr:Lahore
+dbr:Nickie_Nina	
+dbo:regionServed	dbr:Louisiana
+dbo:location	dbr:Austin,_Texas
+dbr:LSO_(company)	
+dbo:regionServed	dbr:Mumbai_Metropolitan_Region
+dbo:location	dbr:Maharashtra
+dbr:Mahanagar_Gas	
+dbo:regionServed	dbr:Germany
+dbo:location	dbr:Hallbergmoos
+dbr:Panavia_Aircraft_GmbH	
+dbo:regionServed	dbr:Western_Sahara
+dbo:location	dbr:London
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Slovakia
+dbo:location	dbr:Austria
+dbr:ZUNO_Bank_AG	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:Zambia
+dbr:Zambian_Music_Blog	
+dbo:regionServed	dbr:Bashkortostan
+dbo:location	dbr:Ufa
+dbr:Bashneft-Ufaneftekhim	dbr:Bashneft_–_Novoil	dbr:Energy_Retail_Company_of_Bashkortostan	dbr:Ufimsky_refinery_plant	
+dbo:regionServed	dbr:Sicily
+dbo:location	dbr:Italy
+dbr:SNAV	
+dbo:regionServed	dbr:Maryland
+dbo:location	dbr:Winston-Salem,_North_Carolina
+dbr:BB&T	
+dbo:regionServed	dbr:New_Zealand
+dbo:location	dbr:Franklin,_Tennessee
+dbr:Nutro_Products	
+dbo:regionServed	dbr:Arizona
+dbo:location	dbr:1801_California_Street
+dbr:Qwest_Corporation	
+dbo:regionServed	dbr:South_Carolina
+dbo:location	dbr:Winston-Salem,_North_Carolina
+dbr:BB&T	dbr:Lowes_Foods	
+dbo:regionServed	dbr:La_Spezia
+dbo:location	dbr:Viareggio
+dbr:Perini_Navi	
+dbo:regionServed	dbr:Silesian_Voivodeship
+dbo:location	dbr:Katowice
+dbr:Koleje_Śląskie	
+dbo:regionServed	dbr:India
+dbo:location	dbr:New_Klang_Valley_Expressway
+dbr:Teras_Teknologi	
+dbo:regionServed	dbr:Guinea-Bissau
+dbo:location	dbr:Poland
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Seattle
+dbo:location	dbr:Massachusetts
+dbr:Drizly	
+dbo:regionServed	dbr:San_Diego
+dbo:location	dbr:San_Diego,_California
+dbr:Pacific_Southwest_Chapter_of_the_National_Television_Academy	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Venezuela
+dbr:Chocolates_El_Rey	
+dbo:regionServed	dbr:Philippines
+dbo:location	dbr:Republic_of_China
+dbr:Mega_International_Commercial_Bank	
+dbo:regionServed	dbr:Northeastern_India
+dbo:location	dbr:India
+dbr:North_Eastern_Electric_Power_Corporation_Limited	
+dbo:regionServed	dbr:Scandinavia
+dbo:location	dbr:Norway
+dbr:InCreo_Interactive_Creations_AS	dbr:Electronic_Chart_Centre	dbr:Mantena	dbr:Baneservice	dbr:Secora	dbr:Diplom-Is	dbr:Det_Stavangerske_Dampskibsselskap	dbr:Kantega	dbr:Steen_&_Strøm	dbr:AF_Group	dbr:Reinertsen	
+dbo:regionServed	dbr:North_America
+dbo:location	dbr:Houston
+dbr:NCI_Building_Systems	dbr:Quantapoint	
+dbo:regionServed	dbr:New_York_City
+dbo:location	dbr:New_York_City
+dbr:Verizon_New_York	dbr:Morgans_Hotel_Group	dbr:Stealth_Communications	
+dbo:regionServed	dbr:Minnesota
+dbo:location	dbr:Minnesota
+dbr:Wings_Financial_Credit_Union	
+dbo:regionServed	dbr:Austin_(TX)
+dbo:location	dbr:San_Francisco
+dbr:Instacart	
+dbo:regionServed	dbr:Devon
+dbo:location	dbr:Bristol
+dbr:SWERN	
+dbo:regionServed	dbr:Indonesia
+dbo:location	dbr:Far_East_Square
+dbr:Ya_Kun_Kaya_Toast	
+dbo:regionServed	dbr:Barrow_County,_Georgia
+dbo:location	dbr:United_States
+dbr:Peach_State_Federal_Credit_Union	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Massachusetts
+dbr:GenArts,_Inc.	dbr:Raytheon	
+dbo:regionServed	dbr:Caribbean
+dbo:location	dbr:Imperial_Highway
+dbr:DirecTV	
+dbo:regionServed	dbr:Morgan_County,_Utah
+dbo:location	dbr:Utah
+dbr:USU_Credit_Union	dbr:Goldenwest_Credit_Union	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:Houston
+dbr:Quantapoint	
+dbo:regionServed	dbr:Rhode_Island
+dbo:location	dbr:New_Jersey_Route_138
+dbr:Student_Transportation_Inc.	
+dbo:regionServed	dbr:Swaziland
+dbo:location	dbr:London
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Canada
+dbr:Resolute_Forest_Products	dbr:5N_Plus	dbr:Churchill_Investments_Group	dbr:XE.com	
+dbo:regionServed	dbr:Caribbean
+dbo:location	dbr:Spain
+dbr:Pullmantur_Cruises	
+dbo:regionServed	dbr:UAE
+dbo:location	dbr:Noida
+dbr:Xolo_(company)	
+dbo:regionServed	dbr:New_York_(state)
+dbo:location	dbr:Charlottetown
+dbr:Bay_Ferries_Great_Lakes	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:India
+dbr:Zomato	
+dbo:regionServed	dbr:Scotland
+dbo:location	dbr:Belfast
+dbr:SeaCat	
+dbo:regionServed	dbr:Burundi
+dbo:location	dbr:Dubai
+dbr:MOGAS_Group	
+dbo:regionServed	dbr:Milwaukee,_WI
+dbo:location	dbr:Milwaukee,_WI
+dbr:Marquette_University_Student_Media	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Osaka
+dbr:Mister_Donut	
+dbo:regionServed	dbr:Latin_America
+dbo:location	dbr:San_José,_Costa_Rica
+dbr:Banco_Nacional_de_Costa_Rica	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:El_Segundo,_California
+dbr:DirecTV	
+dbo:regionServed	dbr:Greenland
+dbo:location	dbr:Nuuk
+dbr:Atuagkat_Bookstore	dbr:Nuup_Bussii	dbr:Greenland_Airport_Authority	dbr:Arctic_Umiaq_Line	dbr:Brugsen	dbr:Royal_Arctic_Line	dbr:Bank_of_Greenland	
+dbo:regionServed	dbr:Norway
+dbo:location	dbr:Bjølsen
+dbr:Voice_Norge	
+dbo:regionServed	dbr:Sharjah_(emirate)
+dbo:location	dbr:Bahrain
+dbr:Interactivo_Gulf	dbr:Fakhro_Group	
+dbo:regionServed	dbr:Northern_California
+dbo:location	<http://maps.google.com/maps?oe=utf-8&client=firefox-a&q=11090+San+Pablo+Ave,+El+Cerrito,+CA+94530&ie=UTF8&split=0&gl=us&ei=CHO6SZaNO5nMsAP93Y1B&z=16>
+dbr:Nation's_Giant_Hamburgers	
+dbo:regionServed	dbr:South-East_Asia
+dbo:location	dbr:Kuala_Lumpur
+dbr:Berjaya_Group	
+dbo:regionServed	dbr:Oregon
+dbo:location	dbr:Washington_(U.S._state)
+dbr:Premera_Blue_Cross	dbr:Cartoys	
+dbo:regionServed	dbr:Nepal
+dbo:location	dbr:Nong_Khai
+dbr:Openmind_Projects	
+dbo:regionServed	dbr:Croatia
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	dbr:Trans-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Assam,_India
+dbo:location	dbr:Assam
+dbr:People's_Consultative_Group	
+dbo:regionServed	dbr:San_Francisco,_California
+dbo:location	dbr:United_States
+dbr:Morgans_Hotel_Group	
+dbo:regionServed	dbr:Ottawa
+dbo:location	dbr:Toronto
+dbr:Mill_Street_Brewery	dbr:Videoflicks	
+dbo:regionServed	dbr:Somalia
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Palo_Alto
+dbo:location	dbr:Palo_Alto,_CA
+dbr:Printers_Inc._Bookstore	
+dbo:regionServed	dbr:Kent
+dbo:location	dbr:England
+dbr:KOS_Media	
+dbo:regionServed	dbr:San_Juan,_Puerto_Rico
+dbo:location	dbr:Puerto_Rico
+dbr:OneLink_Communications	
+dbo:regionServed	dbr:Saudi
+dbo:location	dbr:Riyadh
+dbr:Saudi_Society_of_Dermatology_and_Dermatologic_Surgery	
+dbo:regionServed	dbr:California
+dbo:location	dbr:Oregon
+dbr:PacifiCorp	
+dbo:regionServed	dbr:Tanzania
+dbo:location	dbr:Dubai,_UAE
+dbr:Splash_(Fashion)	
+dbo:regionServed	dbr:Botswana
+dbo:location	dbr:South_Africa
+dbr:Checkers_(supermarket_chain)	
+dbo:regionServed	dbr:Hadley,_Massachusetts
+dbo:location	dbr:Five_College_Consortium
+dbr:University_of_Massachusetts_Transportation_Services	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Montreal
+dbr:Resolute_Forest_Products	dbr:Churchill_Investments_Group	
+dbo:regionServed	dbr:Channel_Islands
+dbo:location	dbr:Bromley
+dbr:Professional_Association_for_Childcare_and_Early_Years	
+dbo:regionServed	dbr:International
+dbo:location	dbr:Malaysia
+dbr:XOX	
+dbo:regionServed	dbr:Czech_Republic
+dbo:location	dbr:Welwyn_Garden_City
+dbr:Tesco_Mobile	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Perai
+dbr:Pelita_Nasi_Kandar	
+dbo:regionServed	dbr:Detroit,_Michigan
+dbo:location	dbr:Bannockburn,_Illinois
+dbr:MainStreet	
+dbo:regionServed	dbr:Pennsylvania
+dbo:location	dbr:Pennsylvania
+dbr:TruMark_Financial_Credit_Union	dbr:United_Refining_Company	dbr:Giant_Eagle	dbr:Renda_Broadcasting	
+dbo:regionServed	dbr:Nordic_countries
+dbo:location	dbr:Stockholm
+dbr:Viacom_International_Media_Networks_Northern_Europe	dbr:Scandic_Hotels	
+dbo:regionServed	dbr:Peru
+dbo:location	dbr:Lima
+dbr:Radio_Club_Peruano	dbr:Peruvian_Academy_of_Language	
+dbo:regionServed	dbr:India
+dbo:location	dbr:New_York_City
+dbr:Aéropostale_(clothing)	
+dbo:regionServed	dbr:Malaysia
+dbo:location	dbr:New_South_Wales
+dbr:Video_Ezy	
+dbo:regionServed	dbr:Chile
+dbo:location	dbr:West_Perth,_Western_Australia
+dbr:Laguna_Resources	
+dbo:regionServed	dbr:Cayman_Islands
+dbo:location	dbr:Indonesia
+dbr:Bank_Maybank_Indonesia	
+dbo:regionServed	dbr:Poland
+dbo:location	dbr:New_York_City
+dbr:Vevo	
+dbo:regionServed	dbr:Bhutan
+dbo:location	dbr:India
+dbr:Southern_Asia_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Pembrokeshire
+dbo:location	dbr:United_Kingdom
+dbr:Hywel_Dda_Local_Health_Board	
+dbo:regionServed	dbr:New_York_(state)
+dbo:location	dbr:Wall_Township,_New_Jersey
+dbr:Student_Transportation_Inc.	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Victoria_(Australia)
+dbr:Sparx_Systems	
+dbo:regionServed	dbr:Latvia
+dbo:location	dbr:Stockholm
+dbr:If_P&C_Insurance	
+dbo:regionServed	dbr:Libyan_Arab_Jamahiriya
+dbo:location	dbr:London
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Thailand
+dbo:location	dbr:New_Territories
+dbr:Bossini	
+dbo:regionServed	dbr:Fiji
+dbo:location	dbr:Papua_New_Guinea
+dbr:Bank_South_Pacific	
+dbo:regionServed	dbr:Live_Entertainment
+dbo:location	dbr:England
+dbr:The_Ticket_Factory	dbr:See_Tickets	
+dbo:regionServed	dbr:Illinois
+dbo:location	dbr:New_Jersey
+dbr:Student_Transportation_Inc.	
+dbo:regionServed	dbr:Adriatic_Sea
+dbo:location	dbr:Marsa,_Malta
+dbr:Virtu_Ferries	
+dbo:regionServed	dbr:Mozambique
+dbo:location	dbr:Pretoria,_South_Africa
+dbr:Southern_Africa-Indian_Ocean_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Eastern_Norway
+dbo:location	dbr:Drammen
+dbr:Sparebanken_Øst	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Georgia_(U.S._state)
+dbr:HD_Supply	
+dbo:regionServed	dbr:Kazakhstan
+dbo:location	dbr:Pittsburgh
+dbr:University_of_Pittsburgh_Medical_Center	
+dbo:regionServed	dbr:Newark-on-Trent
+dbo:location	dbr:Mansfield
+dbr:Stagecoach_in_Mansfield	
+dbo:regionServed	dbr:Jæren
+dbo:location	dbr:Norway
+dbr:Lyse_Energi	
+dbo:regionServed	dbr:Northeast_India
+dbo:location	dbr:India
+dbr:Manab_Adhikar_Sangram_Samiti	
+dbo:regionServed	dbr:Virginia
+dbo:location	dbr:Maryland
+dbr:Balducci's	
+dbo:regionServed	dbr:Italy
+dbo:location	dbr:London
+dbr:Clever_Bins	
+dbo:regionServed	dbr:Gulf_of_Bothnia
+dbo:location	dbr:Jakobstad
+dbr:Jakob_Lines	
+dbo:regionServed	dbr:South_Korea
+dbo:location	dbr:Seoul
+dbr:Shinsegae	dbr:Hotel_Shilla	dbr:Rush_&_Cash	dbr:Cowon	dbr:OpenNet_(organization)	dbr:Korean_e-Sports_Association	dbr:The_Plaza_Hotel_Seoul	dbr:Keumyoung_Group	
+dbo:regionServed	dbr:Belarus
+dbo:location	dbr:London
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Mongolia
+dbo:location	dbr:Ulan_Bator
+dbr:Mongolian_Amateur_Radio_Society	
+dbo:regionServed	dbr:Kentucky
+dbo:location	dbr:Cincinnati,_Ohio
+dbr:Gold_Star_Chili	dbr:Frisch's	
+dbo:regionServed	dbr:The_United_States
+dbo:location	dbr:Texas
+dbr:NL_Industries	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Aberdeen
+dbr:FirstGroup	
+dbo:regionServed	dbr:Northern_California
+dbo:location	dbr:United_States
+dbr:Mi_Pueblo_Food_Center	
+dbo:regionServed	dbr:Australia
+dbo:location	dbr:New_Hampshire
+dbr:Carpet_One	
+dbo:regionServed	dbr:Nigeria
+dbo:location	dbr:Resende,_Rio_de_Janeiro
+dbr:Volkswagen_Trucks_and_Buses	
+dbo:regionServed	dbr:Gulf_of_Bothnia
+dbo:location	dbr:Finland
+dbr:RG_Line	dbr:Jakob_Lines	
+dbo:regionServed	dbr:Switzerland
+dbo:location	dbr:Damascus
+dbr:Bank_of_Syria_and_Overseas	
+dbo:regionServed	dbr:Puerto_Rico
+dbo:location	dbr:Fort_Myers,_Florida
+dbr:White_House_Black_Market	
+dbo:regionServed	dbr:Mainland_China
+dbo:location	dbr:Beijing,_China
+dbr:Ocean_Butterflies_International	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Ontario
+dbr:Neil_Squire_Society	dbr:Hudson's_Bay_(retailer)	dbr:Hatch_Ltd	dbr:ASN_Canada_FIA	dbr:Cadillac_Fairview	dbr:Mr._Sub	dbr:Dragon_Lady_Comics	dbr:Shaw_Media	dbr:Orion_International	dbr:Cineplex_Entertainment	dbr:Clearnet_Communications	dbr:Bell_Fund	dbr:Daily_Bread_Food_Bank	
+dbo:regionServed	dbr:Norway
+dbo:location	dbr:Frogner,_Akershus
+dbr:RenoNorden	
+dbo:regionServed	dbr:Falkland_Islands
+dbo:location	dbr:United_Kingdom
+dbr:Rockhopper_Exploration	
+dbo:regionServed	dbr:Austria
+dbo:location	dbr:Bern,_Switzerland
+dbr:Inter-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Grand_Isle_County,_Vermont
+dbo:location	dbr:Burlington,_Vermont
+dbr:HowardCenter	
+dbo:regionServed	dbr:North_East_England
+dbo:location	dbr:United_Kingdom
+dbr:Bells_Stores	
+dbo:regionServed	dbr:Slovakia
+dbo:location	dbr:United_Kingdom
+dbr:Tesco_Mobile	dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Central_America
+dbo:location	dbr:São_Paulo
+dbr:Finta	
+dbo:regionServed	dbr:United_Arab_Emirates
+dbo:location	dbr:United_Arab_Emirates
+dbr:Emirates_Amateur_Radio_Society	dbr:Commercial_Bank_of_Dubai	
+dbo:regionServed	dbr:Hungary
+dbo:location	dbr:St_Albans
+dbr:Trans-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Ukraine
+dbo:location	dbr:Russia
+dbr:Mega-Anime	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Canoga_Park,_California
+dbr:Bone_Clones	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Philippines
+dbr:Photoville_International	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:British_Columbia
+dbr:LIJA_Style	
+dbo:regionServed	dbr:Klaipėda
+dbo:location	dbr:Lithuania
+dbr:Klaipėda_city_passenger_transport	
+dbo:regionServed	dbr:Turkey
+dbo:location	dbr:Yenibosna
+dbr:Feza_Publications	
+dbo:regionServed	dbr:Mexico
+dbo:location	dbr:Nuevo_Vallarta
+dbr:Grupo_Vidanta	dbr:Vida_Vacations	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Onnaing
+dbr:Toyota_Motor_Manufacturing_France	
+dbo:regionServed	dbr:North_Africa
+dbo:location	dbr:Cairo
+dbr:Egyptian_Arts_Group	
+dbo:regionServed	dbr:Georgia_(U.S._state)
+dbo:location	dbr:Charlotte,_North_Carolina
+dbr:BellSouth_Telecommunications	dbr:Grandbridge_Real_Estate_Capital	
+dbo:regionServed	dbr:Toronto
+dbo:location	dbr:Prince_Edward_Island
+dbr:Bay_Ferries_Great_Lakes	
+dbo:regionServed	dbr:Peru
+dbo:location	dbr:New_York_City
+dbr:Aéropostale_(clothing)	
+dbo:regionServed	dbr:Mahé_district
+dbo:location	dbr:India
+dbr:Puduvai_Bharathiar_Grama_Bank	dbr:Pondicherry_Gramin_Bank	
+dbo:regionServed	dbr:Philippines
+dbo:location	dbr:Quezon_City
+dbr:Gerry's_Grill	dbr:Del_Monte_Motors	dbr:Robinsons_Supermarket	dbr:Samahang_Magdalo	dbr:Kris_Aquino__K_Productions__1	dbr:Megaworld_Lifestyle_Malls	dbr:Skylight_Films	dbr:Mercury_Drug	dbr:Republic_Biscuit_Corporation	
+dbo:regionServed	dbr:Mauritania
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:South_America
+dbo:location	dbr:United_States
+dbr:Yamasaki_&_Associates	dbr:Big_Heart_Pet_Brands	dbr:California_Pizza_Kitchen	dbr:Del_Monte_Foods	dbr:Grupo_Elektra	dbr:Heyl_&_Patterson_Inc.	dbr:Associated_Grocers_of_Florida	dbr:ST_Aerospace_Mobile	dbr:Rheem	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Investopad
+dbr:MyPoolin	
+dbo:regionServed	dbr:Netherlands
+dbo:location	dbr:Sweden
+dbr:Johansfors_Glasbruk	
+dbo:regionServed	dbr:World
+dbo:location	dbr:New_York
+dbr:Magnum_Foundation	
+dbo:regionServed	dbr:World
+dbo:location	dbr:New_York_(state)
+dbr:Koehler_Instrument_Company,_Inc.	dbr:Schoology	dbr:40_Acres_and_a_Mule_Filmworks	dbr:4Licensing_Corporation	dbr:Parachute_Publishing	
+dbo:regionServed	dbr:South_America
+dbo:location	dbr:Ponce,_Puerto_Rico
+dbr:Industrias_Vassallo	
+dbo:regionServed	dbr:Computer_security
+dbo:location	dbr:Romania
+dbr:Bitdefender	
+dbo:regionServed	dbr:Algeria
+dbo:location	dbr:France
+dbr:Maritima_Ferries	
+dbo:regionServed	dbr:East_of_England
+dbo:location	dbr:Hinxworth
+dbr:East_of_England_Broadband_Network	
+dbo:regionServed	dbr:Japan
+dbo:location	dbr:United_States
+dbr:Marvelous_Entertainment	dbr:Red_Lobster	
+dbo:regionServed	dbr:Northamptonshire
+dbo:location	dbr:United_Kingdom
+dbr:Moulton_Co-operative_Society	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Fort_Worth,_Texas
+dbr:AMR_Corporation	
+dbo:regionServed	dbr:Poland
+dbo:location	dbr:Utrecht
+dbr:Mediq	
+dbo:regionServed	dbr:Norway
+dbo:location	dbr:Kristiansund
+dbr:Sparebanken_Nordvest	
+dbo:regionServed	dbr:Permian_Basin_(North_America)
+dbo:location	dbr:Midland,_Texas
+dbr:Concho_Resources	
+dbo:regionServed	dbr:Nigeria
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Haiti
+dbo:location	dbr:Colombia
+dbr:Argos_S.A.	
+dbo:regionServed	dbr:Australia
+dbo:location	dbr:Woodland_Hills,_California
+dbr:ReachLocal	
+dbo:regionServed	dbr:Cambodia
+dbo:location	dbr:Penang
+dbr:RECSAM	
+dbo:regionServed	dbr:Kazakhstan
+dbo:location	dbr:Kuwait
+dbr:M._A._Kharafi_&_Sons	
+dbo:regionServed	dbr:Sweden
+dbo:location	dbr:Gotland
+dbr:Destination_Gotland	
+dbo:regionServed	dbr:New_York
+dbo:location	dbr:New_York
+dbr:New_York_Military_Affairs_Symposium	
+dbo:regionServed	dbr:Nottinghamshire
+dbo:location	dbr:Lincoln,_Lincolnshire
+dbr:Lincolnshire_&_Nottinghamshire_Air_Ambulance	
+dbo:regionServed	dbr:Cornwall
+dbo:location	dbr:Bristol
+dbr:SWERN	
+dbo:regionServed	dbr:Sharjah_(emirate)
+dbo:location	dbr:Al_Salam_Tecom_Tower
+dbr:Du_(company)	
+dbo:regionServed	dbr:Gibraltar
+dbo:location	dbr:Main_Street,_Gibraltar
+dbr:Banco_Galliano	
+dbo:regionServed	dbr:European_Union
+dbo:location	dbr:Vilnius
+dbr:Baltic_Aviation_Academy	
+dbo:regionServed	dbr:Iowa
+dbo:location	dbr:United_States
+dbr:Shopko	
+dbo:regionServed	dbr:Grand_Bahama
+dbo:location	dbr:Dénia
+dbr:Baleària	
+dbo:regionServed	dbr:Chiloé
+dbo:location	dbr:Puerto_Montt
+dbr:Cruceros_Skorpios	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Jacksonville,_Florida
+dbr:Interline_Brands	
+dbo:regionServed	dbr:Ajman
+dbo:location	dbr:Al_Salam_Tecom_Tower
+dbr:Du_(company)	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:East_Lothian
+dbr:Anderson_Strathern	
+dbo:regionServed	dbr:Latin_America
+dbo:location	dbr:Peru
+dbr:Geoservice_Ingeniería	dbr:Graña_y_Montero	
+dbo:regionServed	dbr:Denmark
+dbo:location	dbr:Bangkok
+dbr:Central_Group	
+dbo:regionServed	dbr:Botswana
+dbo:location	dbr:UK
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:Malaysia
+dbo:location	dbr:Beijing,_China
+dbr:Ocean_Butterflies_International	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:England
+dbr:WhoSay	
+dbo:regionServed	dbr:Washington_County,_Utah
+dbo:location	dbr:South_Ogden,_Utah
+dbr:Goldenwest_Credit_Union	
+dbo:regionServed	dbr:Chula_Vista,_California
+dbo:location	dbr:Orlando,_Florida
+dbr:SeaWorld_Entertainment	
+dbo:regionServed	dbr:North_America
+dbo:location	dbr:Indianapolis
+dbr:Republic_Airways_Holdings	
+dbo:regionServed	dbr:Switzerland
+dbo:location	dbr:Switzerland
+dbr:PostFinance	dbr:CBH_Bank	
+dbo:regionServed	dbr:Americas
+dbo:location	dbr:South_Korea
+dbr:Ottogi	
+dbo:regionServed	dbr:Pakistan
+dbo:location	dbr:Lahore,_Punjab,_Pakistan
+dbr:Ghani_Group_of_Companies	
+dbo:regionServed	dbr:Indonesia
+dbo:location	dbr:Dutch_East_Indies
+dbr:Berita_Film_Indonesia	
+dbo:regionServed	dbr:Maine
+dbo:location	dbr:New_Jersey_Route_138
+dbr:Student_Transportation_Inc.	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Clapham
+dbr:Chartered_Institute_of_Internal_Auditors	
+dbo:regionServed	dbr:Bratislava
+dbo:location	dbr:Bratislava
+dbr:Dopravný_podnik_Bratislava	
+dbo:regionServed	dbr:Israel
+dbo:location	dbr:Holon
+dbr:Landwer_coffee	
+dbo:regionServed	dbr:Bangladesh
+dbo:location	dbr:Sialkot
+dbr:CA_Sports	
+dbo:regionServed	dbr:South_Carolina_Lowcountry
+dbo:location	dbr:Hilton_Head_Island,_South_Carolina
+dbr:Hargray	
+dbo:regionServed	dbr:Southeast_Asia
+dbo:location	dbr:France
+dbr:MEGA_International_Srl.	
+dbo:regionServed	dbr:Nassau_County,_Florida
+dbo:location	dbr:Jacksonville,_Florida
+dbr:Community_Hospice_of_Northeast_Florida	
+dbo:regionServed	dbr:US
+dbo:location	dbr:Toronto
+dbr:Art_for_Everyday	
+dbo:regionServed	dbr:England
+dbo:location	dbr:England
+dbr:Budgens	dbr:England_Handball_Association	dbr:Guardian_Media_Group	dbr:Learning_and_Skills_Council	dbr:Youth_Hostels_Association_(England_&_Wales)	dbr:Extra_(service_areas)	
+dbo:regionServed	dbr:Australia
+dbo:location	dbr:NSW
+dbr:Laser_Corporation	dbr:SESL_Australia	dbr:Kirby_Institute	
+dbo:regionServed	dbr:Texas
+dbo:location	dbr:Seattle,_Washington
+dbr:Cartoys	
+dbo:regionServed	dbr:Murmansk_Oblast
+dbo:location	dbr:Murmashi
+dbr:TGC-1	
+dbo:regionServed	dbr:Southern_England
+dbo:location	dbr:Devon
+dbr:Scott_Cinemas	
+dbo:regionServed	dbr:Maine
+dbo:location	dbr:Cherry_Hill,_New_Jersey
+dbr:TD_Bank,_N.A.	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:New_York,_NY
+dbr:Hudson's_Bay_Trading_Company	
+dbo:regionServed	dbr:Canberra
+dbo:location	dbr:Melbourne
+dbr:V/Line	
+dbo:regionServed	dbr:Lebanon
+dbo:location	dbr:St_Albans
+dbr:Trans-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:Durban
+dbr:Mr._Price	dbr:InkuluFreeHeid_Organisation	dbr:NBS_(Natal_Building_Society)	
+dbo:regionServed	dbr:Mexico
+dbo:location	dbr:Hickory,_North_Carolina
+dbr:Klingspor_Abrasives	
+dbo:regionServed	dbr:Rail_transport_in_France
+dbo:location	dbr:Luxembourg_City
+dbr:Société_Nationale_des_Chemins_de_Fer_Luxembourgeois	
+dbo:regionServed	dbr:Japan
+dbo:location	dbr:Suginami,_Tokyo
+dbr:Satelight	
+dbo:regionServed	dbr:London
+dbo:location	dbr:United_Kingdom
+dbr:Everyman_Cinemas	
+dbo:regionServed	dbr:Clark_County,_Nevada
+dbo:location	dbr:Utah
+dbr:America_First_Credit_Union	
+dbo:regionServed	dbr:Fujairah
+dbo:location	dbr:Dubai
+dbr:Du_(company)	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:London,_Ontario
+dbr:Sustainable_Archaeology	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Norton_Canes_services
+dbr:Roadchef	
+dbo:regionServed	dbr:Chicago
+dbo:location	dbr:California
+dbr:Instacart	
+dbo:regionServed	dbr:Lakewood,_California
+dbo:location	dbr:California
+dbr:Orange_County's_Credit_Union	
+dbo:regionServed	dbr:UAE
+dbo:location	dbr:Lahore,_Punjab,_Pakistan
+dbr:Ghani_Group_of_Companies	
+dbo:regionServed	dbr:Nottingham
+dbo:location	dbr:Worksop
+dbr:Stagecoach_in_Bassetlaw	
+dbo:regionServed	dbr:South_Carolina
+dbo:location	dbr:New_Jersey
+dbr:Student_Transportation_Inc.	dbr:TD_Bank,_N.A.	
+dbo:regionServed	dbr:Colorado
+dbo:location	dbr:New_Jersey_Route_138
+dbr:Student_Transportation_Inc.	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Andhra_Pradesh
+dbr:Serudsngo	
+dbo:regionServed	dbr:Quebec_City
+dbo:location	dbr:Quebec
+dbr:Conservatoire_de_musique_du_Québec_à_Québec	
+dbo:regionServed	dbr:Greater_Port_Harcourt
+dbo:location	dbr:Port_Harcourt,_Rivers_State
+dbr:Greater_Port_Harcourt_City_Development_Authority	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:location	dbr:Cyprus
+dbr:Lois_Builders	
+dbo:regionServed	dbr:Ontario
+dbo:location	dbr:Prince_Edward_Island
+dbr:Bay_Ferries_Great_Lakes	
+dbo:regionServed	dbr:Greater_Vancouver
+dbo:location	dbr:British_Columbia
+dbr:Modo_(car_co-op)	
+dbo:regionServed	dbr:Mali
+dbo:location	dbr:London
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Toddington,_Bedfordshire
+dbr:Moto_Hospitality	
+dbo:regionServed	dbr:Mumbai
+dbo:location	dbr:Bengaluru
+dbr:JustRide	
+dbo:regionServed	dbr:Singapore
+dbo:location	dbr:Auckland
+dbr:Modica_Group	
+dbo:regionServed	dbr:Victoria_(Australia)
+dbo:location	dbr:East_Melbourne,_Victoria
+dbr:Cricket_Victoria	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Netherlands
+dbr:Q-Park	
+dbo:regionServed	dbr:Africa
+dbo:location	dbr:Nairobi
+dbr:African_Airlines_Association	dbr:KenolKobil	
+dbo:regionServed	dbr:Egypt
+dbo:location	dbr:Greece
+dbr:Karelia_Fine_Tobaccos	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Cambridge
+dbr:British_Antarctic_Survey	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Texas
+dbr:AMR_Corporation	dbr:Spacetime_Studios	
+dbo:regionServed	dbr:Roseville,_California
+dbo:location	dbr:Dixon,_California
+dbr:First_Northern_Bank	
+dbo:regionServed	dbr:Middle_East
+dbo:location	dbr:Malaysia
+dbr:Proton_Holdings	
+dbo:regionServed	dbr:Slovakia
+dbo:location	dbr:Grand-Duchy_of_Luxembourg
+dbr:M7_Group_S.A.	
+dbo:regionServed	dbr:Japan
+dbo:location	dbr:Chūō,_Tokyo
+dbr:Kyodo_Television	
+dbo:regionServed	dbr:France
+dbo:location	dbr:London
+dbr:Nails_Inc.	dbr:Topman	dbr:Bookatable	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Findlay_Township,_Allegheny_County,_Pennsylvania
+dbr:Dick's_Sporting_Goods	
+dbo:regionServed	dbr:Northwest_Arkansas_Mall
+dbo:location	dbr:Fayetteville,_Arkansas
+dbr:Razorback_Transit	
+dbo:regionServed	dbr:Disko_Bay
+dbo:location	dbr:Ilulissat
+dbr:Diskoline	
+dbo:regionServed	dbr:Victoria,_British_Columbia
+dbo:location	dbr:British_Columbia
+dbr:Modo_(car_co-op)	
+dbo:regionServed	dbr:Republic_of_the_Congo
+dbo:location	dbr:Republic_of_the_Congo
+dbr:Agence_de_Régulation_des_Postes_et_des_Communication_Electroniques_Republique_du_Congo	
+dbo:regionServed	dbr:Channel_Islands
+dbo:location	dbr:Weymouth,_Dorset
+dbr:British_Channel_Island_Ferries	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Thrissur
+dbr:Oushadhi	dbr:Kalyan_Jewellers	
+dbo:regionServed	dbr:Mahé_district
+dbo:location	dbr:Pondicherry
+dbr:Puduvai_Bharathiar_Grama_Bank	dbr:Pondicherry_Gramin_Bank	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Vadanemmeli
+dbr:Madras_Crocodile_Bank_Trust	
+dbo:regionServed	dbr:Malaysia
+dbo:location	dbr:Bangsar
+dbr:Salamfone	
+dbo:regionServed	dbr:Japan
+dbo:location	dbr:Jakarta
+dbr:Indomie	
+dbo:regionServed	dbr:Kuyavian-Pomeranian_Voivodeship
+dbo:location	dbr:Warsaw
+dbr:Arriva_RP	
+dbo:regionServed	dbr:Mozambique
+dbo:location	dbr:Poland
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Texas
+dbo:location	dbr:Phoenix,_AZ
+dbr:Sunflower_Farmers_Market	
+dbo:regionServed	dbr:China
+dbo:location	dbr:Victoria,_Australia
+dbr:Divers_Alert_Network	
+dbo:regionServed	dbr:Orange_County,_California
+dbo:location	dbr:United_States
+dbr:San_Diego_County_Credit_Union	dbr:Orange_County's_Credit_Union	dbr:Southland_Credit_Union	
+dbo:regionServed	dbr:Singapore
+dbo:location	dbr:France
+dbr:MEGA_International_Srl.	
+dbo:regionServed	dbr:Chicago_metropolitan_area
+dbo:location	dbr:United_States
+dbr:Real_Times	dbr:Wrapports	
+dbo:regionServed	dbr:Illinois
+dbo:location	dbr:Rantoul,_Illinois
+dbr:Credit_Union_1_(Illinois)	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Atlanta,_Georgia
+dbr:Maid_Brigade	
+dbo:regionServed	dbr:Elliott_Bay
+dbo:location	dbr:West_Seattle
+dbr:West_Seattle_Land_and_Improvement_Company	
+dbo:regionServed	dbr:Mantua,_Philadelphia
+dbo:location	dbr:Philadelphia,_Pennsylvania
+dbr:Neighborhood_Bike_Works	
+dbo:regionServed	dbr:Bayamón
+dbo:location	dbr:San_Juan,_Puerto_Rico
+dbr:OneLink_Communications	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Newark-on-Trent
+dbr:Center_Parcs_UK	
+dbo:regionServed	dbr:Dubai
+dbo:location	dbr:Lahore
+dbr:Nickie_Nina	
+dbo:regionServed	dbr:Republic_of_Macedonia
+dbo:location	dbr:Sofia
+dbr:Litex_Motors	
+dbo:regionServed	dbr:South_Carolina
+dbo:location	dbr:Charlotte,_North_Carolina
+dbr:Grandbridge_Real_Estate_Capital	
+dbo:regionServed	dbr:Lake_Ontario
+dbo:location	dbr:Charlottetown
+dbr:Bay_Ferries_Great_Lakes	
+dbo:regionServed	dbr:Cuba
+dbo:location	dbr:Havana
+dbr:Cuba_Petróleo_Union	
+dbo:regionServed	dbr:Philippines
+dbo:location	dbr:New_York_City
+dbr:Aéropostale_(clothing)	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Bloomfield_Hills,_Michigan
+dbr:Penske_Automotive_Group	
+dbo:regionServed	dbr:Flathead_Valley
+dbo:location	dbr:Kalispell,_Montana
+dbr:Glacier_Institute	dbr:Glacier_National_Park_Fund	
+dbo:regionServed	dbr:Africa
+dbo:location	dbr:Paris
+dbr:Viz_Media_Europe	
+dbo:regionServed	dbr:Cooperation_Council_for_the_Arab_States_of_the_Gulf
+dbo:location	dbr:Saudi_Arabia
+dbr:National_&_Gulf_Center_for_Evidence_Based_Health_Practice	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Market_Lane
+dbr:Bland_Group	
+dbo:regionServed	dbr:Ontario
+dbo:location	dbr:New_Jersey
+dbr:Student_Transportation_Inc.	
+dbo:regionServed	dbr:Japan
+dbo:location	dbr:Osaka
+dbr:Mister_Donut	
+dbo:regionServed	dbr:Dominican_Republic
+dbo:location	dbr:United_States
+dbr:R+L_Carriers	
+dbo:regionServed	dbr:UAE
+dbo:location	dbr:Copenhagen
+dbr:Essential_Foods	
+dbo:regionServed	dbr:World
+dbo:location	dbr:The_Hague
+dbr:Chicago_Bridge_&_Iron_Company	
+dbo:regionServed	dbr:Lahore
+dbo:location	dbr:Pakistan
+dbr:Nickie_Nina	
+dbo:regionServed	dbr:Sweden
+dbo:location	dbr:Netherlands
+dbr:Q-Park	dbr:Mediq	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Dubai
+dbr:Voilà_Hotel_Rewards	
+dbo:regionServed	dbr:Aruba
+dbo:location	dbr:Venezuela
+dbr:Chocolates_El_Rey	
+dbo:regionServed	dbr:Dubai
+dbo:location	dbr:Thrissur
+dbr:Kalyan_Silks	
+dbo:regionServed	dbr:Indiana
+dbo:location	dbr:Wisconsin
+dbr:Associated_Banc-Corp	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Iowa
+dbr:EFCO	
+dbo:regionServed	dbr:Rail_transport_in_France
+dbo:location	dbr:Luxembourg
+dbr:Société_Nationale_des_Chemins_de_Fer_Luxembourgeois	
+dbo:regionServed	dbr:Fujairah
+dbo:location	dbr:Al_Salam_Tecom_Tower
+dbr:Du_(company)	
+dbo:regionServed	dbr:Northern_California
+dbo:location	dbr:San_Jose,_California
+dbr:Mi_Pueblo_Food_Center	dbr:CIF_Central_Coast_Section	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Barcelona
+dbr:Voilà_Hotel_Rewards	dbr:Edesa	
+dbo:regionServed	dbr:Forsyth_County,_Georgia
+dbo:location	dbr:United_States
+dbr:Peach_State_Federal_Credit_Union	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Hyderabad_(shifting_to_Bombay),_Andhra_Pradesh
+dbr:Bharat_Financial_Inclusion_Limited	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Maryland
+dbr:North_American_Division_of_Seventh-day_Adventists	dbr:Security_Industry_Association	dbr:VirtualCourthouse.com	
+dbo:regionServed	dbr:Antarctica
+dbo:location	dbr:Tromsø
+dbr:Hurtigruten_AS	
+dbo:regionServed	dbr:Serbia
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	dbr:Trans-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Norway
+dbo:location	dbr:Florø
+dbr:Fjord1	dbr:Fjord1_Fylkesbaatane	
+dbo:regionServed	dbr:Dominican_Republic
+dbo:location	dbr:Auckland
+dbr:Modica_Group	
+dbo:regionServed	dbr:Qatar
+dbo:location	dbr:Gurgaon
+dbr:Zomato	
+dbo:regionServed	dbr:New_Zealand
+dbo:location	dbr:Liverpool,_New_South_Wales
+dbr:Inghams_Enterprises	
+dbo:regionServed	dbr:United_States_of_America
+dbo:location	dbr:Missouri
+dbr:Pulitzer,_Inc.	
+dbo:regionServed	dbr:Guam
+dbo:location	dbr:Honolulu,_Hawaii
+dbr:First_Hawaiian_Bank	
+dbo:regionServed	dbr:Bangalore
+dbo:location	dbr:Bangalore
+dbr:Zoomcar	
+dbo:regionServed	dbr:Bowling_Green,_Ohio
+dbo:location	dbr:Bowling_Green,_Ohio
+dbr:Bowling_Green_State_University_Department_of_Popular_Culture	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Teddington
+dbr:Down's_Syndrome_Association	
+dbo:regionServed	dbr:Nigeria
+dbo:location	dbr:Zambia
+dbr:Zambian_Music_Blog	
+dbo:regionServed	dbr:Africa
+dbo:location	dbr:London
+dbr:Viacom_International_Media_Networks_Europe	
+dbo:regionServed	dbr:Virginia
+dbo:location	dbr:Rockville,_Maryland
+dbr:Silver_Diner	
+dbo:regionServed	dbr:Turkey
+dbo:location	dbr:Mersin
+dbr:İçel_Sanat_Kulübü	
+dbo:regionServed	dbr:Suzhou
+dbo:location	dbr:Beijing
+dbr:Xinyuan_Real_Estate	
+dbo:regionServed	dbr:Hong_Kong
+dbo:location	dbr:Wisma_46
+dbr:Bank_Negara_Indonesia	
+dbo:regionServed	dbr:Oregon
+dbo:location	dbr:Oakland
+dbr:Beneficial_State_Bank	
+dbo:regionServed	dbr:Central_Florida
+dbo:location	dbr:Florida
+dbr:Fairwinds_Credit_Union	
+dbo:regionServed	dbr:Botswana
+dbo:location	dbr:Metropolitan_Borough_of_Knowsley
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:Nordic_countries
+dbo:location	dbr:Fornebu
+dbr:Canal_Digital	
+dbo:regionServed	dbr:Bee_County,_Texas
+dbo:location	dbr:Corpus_Christi,_Texas
+dbr:NavyArmy_Community_Credit_Union	
+dbo:regionServed	dbr:Southeastern_United_States
+dbo:location	dbr:Bronxville,_New_York
+dbr:Citadel_Communications	
+dbo:regionServed	dbr:England
+dbo:location	dbr:Marston_Green
+dbr:Forensic_Science_Service	
+dbo:regionServed	dbr:The_Netherlands
+dbo:location	dbr:Finland
+dbr:Blyk	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Holborn
+dbr:Civil_Aviation_Authority_(United_Kingdom)	
+dbo:regionServed	dbr:Middle_East
+dbo:location	dbr:Germany
+dbr:Nordsee	dbr:Synlab_Group	
+dbo:regionServed	dbr:Ukraine
+dbo:location	dbr:Kiev
+dbr:Silpo	dbr:Ukrainian_Amateur_Radio_League	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Washington,_DC
+dbr:National_Railroad_Construction_and_Maintenance_Association	
+dbo:regionServed	dbr:Saudi_Arabia
+dbo:location	dbr:Poland
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:United_States_of_America
+dbo:location	dbr:California
+dbr:JustShareIt	dbr:Professional_Amigos_of_Comic_Art_Society	
+dbo:regionServed	dbr:Coahuila
+dbo:location	dbr:Texas
+dbr:H-E-B	
+dbo:regionServed	dbr:Ashland,_Massachusetts
+dbo:location	dbr:Massachusetts
+dbr:MetroWest_Regional_Transit_Authority	
+dbo:regionServed	dbr:Tanzania
+dbo:location	dbr:Poland
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Ullswater
+dbo:location	dbr:Cumbria
+dbr:Ullswater_'Steamers'	
+dbo:regionServed	dbr:Hsinchu
+dbo:location	dbr:Taiwan
+dbr:Stanford_American_Language_Institution	
+dbo:regionServed	dbr:Ukraine
+dbo:location	dbr:Berlin
+dbr:Viacom_International_Media_Networks_Northern_Europe	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Hamilton,_Ontario
+dbr:Stelco	
+dbo:regionServed	dbr:North_Africa
+dbo:location	dbr:Saudi_Arabia
+dbr:Dallah_Al-Baraka	
+dbo:regionServed	dbr:United_States_of_America
+dbo:location	dbr:Sialkot
+dbr:CA_Sports	
+dbo:regionServed	dbr:Bucks_County,_Pennsylvania
+dbo:location	dbr:United_States
+dbr:TruMark_Financial_Credit_Union	
+dbo:regionServed	dbr:India
+dbo:location	dbr:UK
+dbr:Clarke_Energy	
+dbo:regionServed	dbr:New_Jersey
+dbo:location	dbr:West_Trenton,_New_Jersey
+dbr:New_Jersey_Cybersecurity_and_Communications_Integration_Cell	
+dbo:regionServed	dbr:Burundi
+dbo:location	dbr:Poland
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Abu_Dhabi_(emirate)
+dbo:location	dbr:Al_Salam_Tecom_Tower
+dbr:Du_(company)	
+dbo:regionServed	dbr:Libyan_Arab_Jamahiriya
+dbo:location	dbr:United_Kingdom
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Dallas
+dbr:Pollo_Campero	dbr:NCircle_Entertainment	
+dbo:regionServed	dbr:Ahmedabad
+dbo:location	dbr:Bangalore
+dbr:Zoomcar	
+dbo:regionServed	dbr:California
+dbo:location	dbr:Boulder,_Colorado
+dbr:Sunflower_Farmers_Market	
+dbo:regionServed	dbr:Oman
+dbo:location	dbr:India
+dbr:Smokin'_Joe's	
+dbo:regionServed	dbr:Buchanan_County,_Missouri
+dbo:location	dbr:St._Joseph,_Missouri
+dbr:St._Joseph_Transit	
+dbo:regionServed	dbr:Sweden
+dbo:location	dbr:Copenhagen
+dbr:Discovery_Communications_Nordic	dbr:Tryg	
+dbo:regionServed	dbr:Antique
+dbo:location	dbr:Aklan
+dbr:Bread_&_Butter_Bakeshop	
+dbo:regionServed	dbr:Enebakk
+dbo:location	dbr:Ski
+dbr:Energi_1	
+dbo:regionServed	dbr:Macau
+dbo:location	dbr:Macau
+dbr:CTM_(Macau)	dbr:CTT_(Macau)	dbr:Macau_Amateur_Radio_Society	
+dbo:regionServed	dbr:Hall_County,_Georgia
+dbo:location	dbr:Atlanta,_Georgia
+dbr:Delta_Community_Credit_Union	
+dbo:regionServed	dbr:California
+dbo:location	dbr:New_Jersey_Route_138
+dbr:Student_Transportation_Inc.	
+dbo:regionServed	dbr:Texas
+dbo:location	dbr:Ontario,_California
+dbr:Prime_Healthcare_Services	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Oulu
+dbr:Iobox	
+dbo:regionServed	dbr:Iowa
+dbo:location	dbr:Green_Bay,_Wisconsin
+dbr:Shopko	
+dbo:regionServed	dbr:Arizona
+dbo:location	dbr:Denver
+dbr:Qwest_Corporation	
+dbo:regionServed	dbr:Computer_security
+dbo:location	dbr:Guro-gu
+dbr:INCA_Internet	
+dbo:regionServed	dbr:India
+dbo:location	dbr:Swinton,_South_Yorkshire
+dbr:Morphy_Richards	
+dbo:regionServed	dbr:Cheshire
+dbo:location	dbr:Chetham's_Library
+dbr:Chetham_Society	
+dbo:regionServed	dbr:Department_of_Homeland_Security
+dbo:location	dbr:Washington,_D.C.
+dbr:Treasury_Department_Federal_Credit_Union	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Kalamata
+dbr:Karelia_Fine_Tobaccos	
+dbo:regionServed	dbr:Virginia
+dbo:location	dbr:Abingdon,_Virginia
+dbr:Food_City_(K-VA-T)	
+dbo:regionServed	dbr:French_Polynesia
+dbo:location	dbr:Bellevue,_Washington
+dbr:Paul_Gauguin_Cruises	
+dbo:regionServed	dbr:International
+dbo:location	dbr:United_States
+dbr:Institute_for_Supply_Management	dbr:Spiegel_(catalog)	dbr:AERO_Specialties	dbr:Logicworks	dbr:Bruce_Fox,_Inc.	
+dbo:regionServed	dbr:Taiwan
+dbo:location	dbr:Tokyo,_Japan
+dbr:Animate	
+dbo:regionServed	dbr:Gwinnett_County,_Georgia
+dbo:location	dbr:Atlanta,_Georgia
+dbr:Delta_Community_Credit_Union	
+dbo:regionServed	dbr:Idaho
+dbo:location	dbr:Denver
+dbr:Qwest_Corporation	
+dbo:regionServed	dbr:All_India
+dbo:location	dbr:India
+dbr:Central_Warehousing_Corporation	
+dbo:regionServed	dbr:Kitchener,_Ontario
+dbo:location	dbr:Ontario
+dbr:Gray_Coach	
+dbo:regionServed	dbr:Philippines
+dbo:location	dbr:Novaliches
+dbr:Republic_Biscuit_Corporation	
+dbo:regionServed	dbr:Kuwait
+dbo:location	dbr:United_Kingdom
+dbr:Jack_Wills	dbr:Discovery_Networks_CEEMEA	dbr:Dorothy_Perkins	
+dbo:regionServed	dbr:Devon
+dbo:location	dbr:England
+dbr:SWERN	
+dbo:regionServed	dbr:The_United_Kingdom
+dbo:location	dbr:St_Peter_Port
+dbr:Condor_Ferries	
+dbo:regionServed	dbr:United_Arab_Emirates
+dbo:location	dbr:Delhi
+dbr:BoxTV.com	
+dbo:regionServed	dbr:Ozamis
+dbo:location	dbr:Mandaue_City
+dbr:Gothong_Lines	
+dbo:regionServed	dbr:Europe
+dbo:location	dbr:Cluj-Napoca
+dbr:Terapia_Ranbaxy	
+dbo:regionServed	dbr:World
+dbo:location	dbr:Jupiter,_Florida
+dbr:ZeroC	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Chelmsford
+dbr:Warsop_Stebbing	
+dbo:regionServed	dbr:Lincolnshire
+dbo:location	dbr:Bracebridge_Heath
+dbr:Lincolnshire_&_Nottinghamshire_Air_Ambulance	
+dbo:regionServed	dbr:Germany
+dbo:location	dbr:Berlin
+dbr:Viacom_International_Media_Networks_Northern_Europe	dbr:Advisory_Board_of_the_Stability_Council_(Germany)	dbr:Stabilitätsrat_(Germany)	
+dbo:regionServed	dbr:Romania
+dbo:location	dbr:Bern,_Switzerland
+dbr:Inter-European_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Nordland
+dbo:location	dbr:Bodø
+dbr:Nordlandsbanken	
+dbo:regionServed	dbr:UK
+dbo:location	dbr:Scotland
+dbr:Synergy_School_Radio	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:Balgowan,_KwaZulu-Natal
+dbr:Frankie's	
+dbo:regionServed	dbr:California
+dbo:location	dbr:Elk_Grove,_California
+dbr:Frontier_Communications_of_the_Southwest	
+dbo:regionServed	dbr:Tanzania
+dbo:location	dbr:Kenya
+dbr:East-Central_Africa_Division_of_Seventh-day_Adventists	
+dbo:regionServed	dbr:Northeast_Florida
+dbo:location	dbr:Jacksonville,_Florida
+dbr:University_of_Florida_Health	
+dbo:regionServed	dbr:Hsinchu
+dbo:location	dbr:Hsinchu
+dbr:Stanford_American_Language_Institution	
+dbo:regionServed	dbr:United_Arab_Emirates
+dbo:location	dbr:Ontario,_California
+dbr:Phoenix_Motorcars	
+dbo:regionServed	dbr:DR_Congo
+dbo:location	dbr:UAE
+dbr:MOGAS_Group	
+dbo:regionServed	dbr:Middle_East
+dbo:location	dbr:Luxembourg
+dbr:Kulczyk_Investments	
+dbo:regionServed	dbr:Jamaica
+dbo:location	dbr:New_Kingston,_St._Andrew
+dbr:On_the_Ground_News_Reports	
+dbo:regionServed	dbr:River_Clyde
+dbo:location	dbr:Dunoon
+dbr:Western_Ferries	
+dbo:regionServed	dbr:Worthing
+dbo:location	dbr:West_Sussex
+dbr:Adur_and_Worthing_Councils	
+dbo:regionServed	dbr:Ghaziabad,_Uttar_Pradesh
+dbo:location	dbr:India
+dbr:MylesCar	
+dbo:regionServed	dbr:Louisiana
+dbo:location	dbr:Columbus,_Ohio
+dbr:American_Electric_Power	
+dbo:regionServed	dbr:Palm_Beach_County,_Florida
+dbo:location	dbr:Florida
+dbr:Tropical_Financial_Credit_Union	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Austin,_Texas
+dbr:MyEdu	dbr:Citizens_for_Self-Governance	
+dbo:regionServed	dbr:Baltic_Sea
+dbo:location	dbr:Poland
+dbr:Unity_Line	
+dbo:regionServed	dbr:Oregon
+dbo:location	dbr:Portland,_Oregon
+dbr:Fred_Meyer	dbr:PacifiCorp	
+dbo:regionServed	dbr:South_Eastern_Europe
+dbo:location	dbr:Greece
+dbr:OTEGlobe	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:Rossett
+dbr:British_Association_for_Shooting_and_Conservation	
+dbo:regionServed	dbr:Oslo
+dbo:location	dbr:Oslo
+dbr:Oslo_Kino	dbr:Sporveien_Trikken	dbr:Oslo-Fergene	dbr:Ruter	dbr:Sporveien	dbr:Sporveisbussene	dbr:Unibuss	
+dbo:regionServed	dbr:Canada
+dbo:location	dbr:Chennai
+dbr:Sulekha	
+dbo:regionServed	dbr:West_Virginia
+dbo:location	dbr:United_States
+dbr:BB&T	dbr:First_Citizens_BancShares	dbr:Food_Lion	dbr:American_Electric_Power	dbr:Giant_Eagle	dbr:FNB_Corporation	dbr:Frontier_West_Virginia	
+dbo:regionServed	dbr:Washington_County,_Utah
+dbo:location	dbr:Utah
+dbr:USU_Credit_Union	dbr:Goldenwest_Credit_Union	
+dbo:regionServed	dbr:Tennessee
+dbo:location	dbr:Cincinnati,_Ohio
+dbr:Frisch's	
+dbo:regionServed	dbr:South_Africa
+dbo:location	dbr:Ferndale,_Gauteng
+dbr:DStv	
+dbo:regionServed	dbr:Asia
+dbo:location	dbr:Pakistan
+dbr:Asif_Group_of_Companies	
+dbo:regionServed	dbr:Myanmar
+dbo:location	dbr:Penang
+dbr:RECSAM	
+dbo:regionServed	dbr:Ohio
+dbo:location	dbr:Green_Bay,_Wisconsin
+dbr:Associated_Banc-Corp	dbr:Shopko	
+dbo:regionServed	dbr:Austria
+dbo:location	dbr:Vienna
+dbr:Bank_Gutmann	dbr:Wiener_Lokalbahnen	dbr:Österreichischer_Versuchssenderverband	
+dbo:regionServed	dbr:Houston
+dbo:location	dbr:United_States
+dbr:Instacart	
+dbo:regionServed	dbr:World
+dbo:location	dbr:New_Haven,_CT
+dbr:Rib-X_Pharmaceuticals	
+dbo:regionServed	dbr:United_Kingdom
+dbo:location	dbr:New_York_(state)
+dbr:Vevo	
+dbo:regionServed	dbr:North_Africa
+dbo:location	dbr:Egypt
+dbr:Egyptian_Arts_Group	
+dbo:regionServed	dbr:Afghanistan
+dbo:location	dbr:Warsaw
+dbr:Discovery_Networks_CEEMEA	
+dbo:regionServed	dbr:Sarasota_County,_Florida
+dbo:location	dbr:Miramar,_Florida
+dbr:Tropical_Financial_Credit_Union	
+dbo:regionServed	dbr:Algerciras
+dbo:location	dbr:Morocco
+dbr:Inter_Shipping	
+dbo:regionServed	dbr:Florida
+dbo:location	dbr:Cocoa,_Florida
+dbr:Brevard_Family_of_Housing	
+dbo:regionServed	dbr:United_States
+dbo:location	dbr:Australia
+dbr:Michael_Hill_Jeweller	
+dbo:regionServed	dbr:Hong_Kong
+dbo:location	dbr:London
+dbr:Jack_Wills	dbr:Nails_Inc.	dbr:Clever_Bins	
+dbo:regionServed	dbr:Tampoi,_Johor
+dbo:location	dbr:Malaysia
+dbr:Causeway_Link	
+dbo:regionServed	dbr:Sweden
+dbo:location	dbr:Tønsberg
+dbr:Nokas	
+dbo:regionServed	dbr:Greenland
+dbo:location	dbr:Sisimiut
+dbr:Pilersuisoq	

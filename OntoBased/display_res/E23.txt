@@ -1,0 +1,20 @@
+
+23.
+SELECT * WHERE { 
+        ?x dbo:regionServed dbr:Pacific_Ocean. 
+        ?x dbo:regionServed ?uri }
+		
+Rule (5)
+dbo:regionServed rdfs:domain dbo:Organisation
+Rule (6)
+dbo:regionServed rdfs:range dbo:Place
+
+Reformed Query:
+select * where {
+        ?x rdf:type dbo:Organisation.
+		?x dbo:regionServed ?uri.}
+
+select * where {
+        ?uri rdf:type dbo:Place.
+		?x dbo:regionServed dbr:Pacific_Ocean.}
+

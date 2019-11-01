@@ -3,9 +3,7 @@ import numpy as np
 import scipy
 import os
 
-from Empty_Answer_Query import eaqs
-from RuleBased.BiSearch.SparqlParser import SparqlParser
-from SimiBased.SimiBasedParams import js_key_differ_num_threshold, alpha, js_top_k, num_threshold_after_merging, miu_o, \
+from SimiBased.SimiBasedParams import alpha, js_top_k, miu_o, \
     miu_s
 
 
@@ -241,7 +239,7 @@ class SimiGraph:
     def load_triples(self):
         print("Start loading Triples.")
         with open(self.triple2idx_file, 'r', encoding="UTF-8") as f:
-            all_triples = f.readlines()
+            all_triples = f.readlines()[1:]
             triple_num = len(all_triples)
             print("Num Of Triples: {}.".format(triple_num))
             self.total_e_num += triple_num * 2
@@ -251,7 +249,7 @@ class SimiGraph:
             self.total_o_num += triple_num * 1
 
             for line in all_triples:
-                h, r, t = [int(w) for w in line.split()]
+                h, t, r = [int(w) for w in line.split()]
 
                 self.count_U_w_num(h)
                 self.count_U_w_num(t)
@@ -296,18 +294,19 @@ class SimiGraph:
         change_num2ratio_1(self.r_B_w_num, self.total_s_o_num)
 
     def get_jsd(self, p_dict, q_dict, prob_mode):
-        key_differ_num = abs(len(p_dict.keys()) - len(q_dict.keys()))
-        if key_differ_num >= js_key_differ_num_threshold:
-            print("p: {}, q: {}, differ {}.".format(len(p_dict.keys()), len(q_dict.keys()), key_differ_num))
-            # return 1
+        # key_differ_num = abs(len(p_dict.keys()) - len(q_dict.keys()))
+        # if key_differ_num >= js_key_differ_num_threshold:
+        #     print("p: {}, q: {}, differ {}.".format(len(p_dict.keys()), len(q_dict.keys()), key_differ_num))
+        # return 1
 
         merged_key_set = p_dict.keys() | q_dict.keys()
-        p_key_differ_num = abs(len(p_dict.keys()) - len(merged_key_set))
-        q_key_differ_num = abs(len(q_dict.keys()) - len(merged_key_set))
-        if p_key_differ_num > num_threshold_after_merging or q_key_differ_num > num_threshold_after_merging:
-            print("p: {}, q: {}, megerd: {}.".format(len(p_dict.keys()), len(q_dict.keys()), len(merged_key_set)))
-            print("p differ: {}, q differ {}.".format(p_key_differ_num, q_key_differ_num))
-            # return 1
+
+        # p_key_differ_num = abs(len(p_dict.keys()) - len(merged_key_set))
+        # q_key_differ_num = abs(len(q_dict.keys()) - len(merged_key_set))
+        # if p_key_differ_num > num_threshold_after_merging or q_key_differ_num > num_threshold_after_merging:
+        #     print("p: {}, q: {}, megerd: {}.".format(len(p_dict.keys()), len(q_dict.keys()), len(merged_key_set)))
+        #     print("p differ: {}, q differ {}.".format(p_key_differ_num, q_key_differ_num))
+        # return 1
 
         def add_one_prob(tar_key, prob_dict, tar_prob_list):
             if tar_key in prob_dict:
@@ -344,14 +343,14 @@ class SimiGraph:
     def load_e_r_dict(self):
         print("Load e2idx_file and r2idx_file.")
         with open(self.e2idx_file, 'r', encoding="UTF-8") as f:
-            for line in f.readlines():
-                idx, name = line.split()
+            for line in f.readlines()[1:]:
+                name, idx = line.split()
                 idx = int(idx)
                 self.e_name2idx[name] = idx
                 self.e_idx2name[idx] = name
         with open(self.r2idx_file, 'r', encoding="UTF-8") as f:
-            for line in f.readlines():
-                idx, name = line.split()
+            for line in f.readlines()[1:]:
+                name, idx = line.split()
                 idx = int(idx)
                 if idx % 2 == 0:
                     self.r_name2idx[name] = idx
@@ -381,10 +380,18 @@ class SimiGraph:
             B_jsd = self.get_jsd(B_p_dict, B_q_dict, 1)
 
             weighted_jsd = alpha * U_jsd + (1 - alpha) * B_jsd
-            result_dict[q_e_idx] = weighted_jsd
+            if weighted_jsd < 0.5:
+                result_dict[q_e_idx] = weighted_jsd
+
+            if (cnt + 1) % 10000 == 0:
+                sorted_result_list = sorted(result_dict.items(), key=lambda kv: kv[1])[:js_top_k * 5]
+                with open(result_file, 'w', encoding="UTF-8") as f:
+                    for s_res in sorted_result_list:
+                        f.write("{}\t{}\n".format(self.e_idx2name[s_res[0]], s_res[1]))
+
             print("JSD: U: {}, B: {}, Weighted: {}.".format(U_jsd, B_jsd, weighted_jsd))
 
-        sorted_result_list = sorted(result_dict.items(), key=lambda kv: kv[1])[:js_top_k*5]
+        sorted_result_list = sorted(result_dict.items(), key=lambda kv: kv[1])[:js_top_k * 5]
         with open(result_file, 'w', encoding="UTF-8") as f:
             for s_res in sorted_result_list:
                 f.write("{}\t{}\n".format(self.e_idx2name[s_res[0]], s_res[1]))
@@ -419,8 +426,8 @@ class SimiGraph:
             weighted_jsd = miu_s * S_jsd + miu_o * O_jsd + (1 - miu_s - miu_o) * B_jsd
             result_dict[q_r_idx] = weighted_jsd
 
-            print("JSD: S: {}, O: {}, B: {}, Weighted: {}."
-                  .format(S_jsd, O_jsd, B_jsd, weighted_jsd))
+            # print("JSD: S: {}, O: {}, B: {}, Weighted: {}."
+            #       .format(S_jsd, O_jsd, B_jsd, weighted_jsd))
 
         sorted_result_list = sorted(result_dict.items(), key=lambda kv: kv[1])[:js_top_k]
         with open(result_file, 'w', encoding="UTF-8") as f:
@@ -493,22 +500,8 @@ def search_bunch():
     simiGraph = SimiGraph(triple2idx_file, e2idx_shortcut_file, r2idx_shortcut_file)
     simiGraph.pre_process_data()
 
-    entity_list = []
-    relation_list = []
-
-    for query in eaqs:
-        a = SparqlParser(sparql=query)
-        a.parse_sparql()
-        entity_list.extend(a.e_name_list)
-        relation_list.extend(a.r_name_list)
-
-    for r_name in list(set(relation_list)):
-        print("Get similar relations of R: {}.".format(r_name))
-        result_file = result_folder + r_name.split(":")[-1] + ".txt"
-        if os.path.exists(result_file):
-            print("{} already exists.".format(result_file))
-            continue
-        simiGraph.get_top_K_simi_relation(r_name, result_file)
+    # entity_list = ["dbr:Paris","dbr:Amazon.com","dbr:Jeep_Wrangler"]
+    entity_list = ["dbr:Amazon.com"]
 
     for e_name in list(set(entity_list)):
         print("Get similar entities of E: {}.".format(e_name))

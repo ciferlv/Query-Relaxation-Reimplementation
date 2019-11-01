@@ -1,0 +1,3000 @@
+dbo:product	dbr:Hot_dogs
+dbo:foundationPlace	dbr:Cleveland,_Mississippi
+dbr:Back_Yard_Burgers	
+dbo:product	dbr:Ribs_(food)
+dbo:foundationPlace	dbr:Detroit,_Michigan
+dbr:Happy's_Pizza	
+dbo:product	dbr:Supercenter
+dbo:foundationPlace	dbr:City_of_London
+dbr:Sainsbury's	
+dbo:product	dbr:Dairy_products
+dbo:foundationPlace	dbr:Yorkshire
+dbr:Kashmir_Crown_Bakeries	
+dbo:product	dbr:Financial_services
+dbo:foundationPlace	dbr:Virginia
+dbr:Jackson_Hewitt	
+dbo:product	dbr:Evacuation_(TV_series)
+dbo:foundationPlace	dbr:London
+dbr:Twenty_Twenty	
+dbo:product	dbr:Malt_beverage
+dbo:foundationPlace	dbr:St._Louis
+dbr:Anheuser-Busch	
+dbo:product	dbr:Lightning_LS-218
+dbo:foundationPlace	dbr:San_Carlos,_California
+dbr:Lightning_Motorcycle	
+dbo:product	dbr:Food
+dbo:foundationPlace	dbr:Philadelphia
+dbr:Palumbo's	dbr:The_Cherry_Street_Tavern	dbr:McGillin's_Olde_Ale_House	
+dbo:product	dbr:Private_bank
+dbo:foundationPlace	dbr:Belgrade
+dbr:Banca_Intesa_Beograd	dbr:UniCredit_banka	
+dbo:product	dbr:Tile
+dbo:foundationPlace	dbr:Ohio
+dbr:Belden_Brick_Company	
+dbo:product	dbr:Light-emitting_diode
+dbo:foundationPlace	dbr:Anan,_Tokushima
+dbr:Nichia	
+dbo:product	dbr:Clem_Jones_Tunnel
+dbo:foundationPlace	dbr:Melbourne,_Australia
+dbr:Transurban	
+dbo:product	dbr:Percussion
+dbo:foundationPlace	dbr:Saint_Petersburg
+dbr:Paiste	
+dbo:product	dbr:Advertising
+dbo:foundationPlace	dbr:Province_of_Mantua
+dbr:Arnoldo_Mondadori_Editore	
+dbo:product	dbr:Mortgage_loan
+dbo:foundationPlace	dbr:Koriyama,_Fukushima
+dbr:Toho_Bank	
+dbo:product	dbr:Business_support_system
+dbo:foundationPlace	dbr:Omaha,_Nebraska
+dbr:CSG_International	
+dbo:product	dbr:Café
+dbo:foundationPlace	dbr:Mississippi
+dbr:Newk's_Eatery	
+dbo:product	dbr:Information_technology
+dbo:foundationPlace	dbr:Belgrade
+dbr:Telekom_Srbija	
+dbo:product	dbr:Cartridge_(firearms)
+dbo:foundationPlace	dbr:Italy
+dbr:Fiocchi_Munizioni	
+dbo:product	dbr:Managed_account
+dbo:foundationPlace	dbr:Boston,_Massachusetts
+dbr:Eaton_Vance	
+dbo:product	dbr:Guitar_amplifier
+dbo:foundationPlace	dbr:Brooklyn
+dbr:Gretsch	
+dbo:product	dbr:French_fries
+dbo:foundationPlace	dbr:Queen_Street_East
+dbr:Lick's_Homeburgers	
+dbo:product	dbr:Magazine
+dbo:foundationPlace	dbr:Washington,_D.C.
+dbr:Graham_Holdings_Company	
+dbo:product	dbr:Beer
+dbo:foundationPlace	dbr:Ukraine
+dbr:Obolon_(company)	
+dbo:product	dbr:BlackBerry_Enterprise_Server
+dbo:foundationPlace	dbr:Canada
+dbr:BlackBerry_Limited	
+dbo:product	dbr:Screen_Saver_Studio
+dbo:foundationPlace	dbr:Shreveport,_Louisiana
+dbr:Softdisk	
+dbo:product	dbr:Insurance
+dbo:foundationPlace	dbr:A_Coruña
+dbr:Banco_Pastor	
+dbo:product	dbr:Fashion_accessories
+dbo:foundationPlace	dbr:Tel_Aviv
+dbr:Cassidi	dbr:Castro_(clothing)	
+dbo:product	dbr:Tube_Laser_Cutting
+dbo:foundationPlace	dbr:United_States
+dbr:Laser_Dynamics	
+dbo:product	dbr:BlackBerry_OS
+dbo:foundationPlace	dbr:Connecticut
+dbr:US_Mobile	
+dbo:product	dbr:Call_of_Duty
+dbo:foundationPlace	dbr:California
+dbr:Infinity_Ward	
+dbo:product	dbr:Lightning_LS-218
+dbo:foundationPlace	dbr:California
+dbr:Lightning_Motorcycle	
+dbo:product	dbr:Agrochemical
+dbo:foundationPlace	dbr:Ehime,_Japan
+dbr:Sumitomo_Chemical	
+dbo:product	dbr:Soft_drink
+dbo:foundationPlace	dbr:Klaksvík
+dbr:Föroya_Bjór	
+dbo:product	dbr:Full_Spectrum_Warrior
+dbo:foundationPlace	dbr:United_States
+dbr:Pandemic_Studios	
+dbo:product	dbr:Electric_guitar
+dbo:foundationPlace	dbr:Japan
+dbr:Ibanez	
+dbo:product	dbr:Helicopter
+dbo:foundationPlace	dbr:Moscow
+dbr:Russian_Helicopters	
+dbo:product	dbr:3D_modeling
+dbo:foundationPlace	dbr:Australia
+dbr:Maptek	
+dbo:product	dbr:Integrated_development_environment
+dbo:foundationPlace	dbr:United_States
+dbr:The_Portland_Group	
+dbo:product	dbr:Grocery
+dbo:foundationPlace	dbr:Liverpool
+dbr:Home_Bargains	
+dbo:product	dbr:Hydrocarbon
+dbo:foundationPlace	dbr:Calgary
+dbr:Enerflex	
+dbo:product	dbr:Automobile
+dbo:foundationPlace	dbr:Grand_Detour,_Illinois
+dbr:John_Deere	
+dbo:product	dbr:American_Idol
+dbo:foundationPlace	dbr:United_States
+dbr:CORE_Media_Group	
+dbo:product	dbr:Insurance
+dbo:foundationPlace	dbr:Puerto_Rico
+dbr:W_Holding_Company	dbr:Doral_Financial_Corporation	dbr:R_&_G_Financial_Corporation	dbr:Oriental_Financial_Group	dbr:EuroBancshares	dbr:Triple-S_Management_Corporation	
+dbo:product	dbr:Bladestorm:_The_Hundred_Years'_War
+dbo:foundationPlace	dbr:Tochigi_Prefecture
+dbr:Koei	
+dbo:product	dbr:Superstore
+dbo:foundationPlace	dbr:Toronto
+dbr:Loblaw_Companies	
+dbo:product	dbr:Snacks
+dbo:foundationPlace	dbr:Singapore
+dbr:Old_Chang_Kee	
+dbo:product	dbr:Coin_Drop!
+dbo:foundationPlace	dbr:Leamington_Spa
+dbr:Full_Fat	
+dbo:product	dbr:Insurance
+dbo:foundationPlace	dbr:Toronto
+dbr:Empire_Life	
+dbo:product	dbr:Pork_tenderloin_sandwich
+dbo:foundationPlace	dbr:Des_Moines,_Iowa
+dbr:B-Bop's	
+dbo:product	dbr:Wealth_Management
+dbo:foundationPlace	dbr:California
+dbr:Wedbush_Securities	
+dbo:product	dbr:Motorcycle
+dbo:foundationPlace	dbr:Beverly_Hills,_California
+dbr:Edelbrock	
+dbo:product	dbr:Amusement_park
+dbo:foundationPlace	dbr:Tokyo
+dbr:Bandai_Namco_Holdings	
+dbo:product	dbr:Islamic_Banking
+dbo:foundationPlace	dbr:Dhaka
+dbr:Prime_Bank_Limited	dbr:One_Bank_Limited	dbr:Mutual_Trust_Bank_Limited	dbr:Social_Islami_Bank	dbr:Jamuna_Bank	
+dbo:product	dbr:Enterprise_resource_planning
+dbo:foundationPlace	dbr:Ontario
+dbr:Geac_Computer_Corporation	
+dbo:product	dbr:Clothing
+dbo:foundationPlace	dbr:Netherlands
+dbr:Mexx	dbr:Daily_Paper_(clothing)	
+dbo:product	dbr:DHTML
+dbo:foundationPlace	dbr:United_States
+dbr:IAmaze	
+dbo:product	dbr:WAN_optimization
+dbo:foundationPlace	dbr:Dhaka
+dbr:REVE_Systems	
+dbo:product	dbr:BlackBerry_Messenger
+dbo:foundationPlace	dbr:Ontario
+dbr:BlackBerry_Limited	
+dbo:product	dbr:Mobile_phone
+dbo:foundationPlace	dbr:Thailand
+dbr:True_Corporation	
+dbo:product	dbr:Shoe
+dbo:foundationPlace	dbr:Ely,_Minnesota
+dbr:Steger_Design	
+dbo:product	dbr:Salami
+dbo:foundationPlace	dbr:Koothattukulam
+dbr:Meat_Products_of_India	
+dbo:product	dbr:Rebel_Sport
+dbo:foundationPlace	dbr:New_Zealand
+dbr:Briscoe_Group	
+dbo:product	dbr:Apparel
+dbo:foundationPlace	dbr:Vancouver
+dbr:Naturally_Advanced	
+dbo:product	dbr:Television_advertisement
+dbo:foundationPlace	dbr:Odisha
+dbr:Tarang_Cine_Productions	
+dbo:product	dbr:Online_dating_service
+dbo:foundationPlace	dbr:New_York_City
+dbr:SNAP_Interactive	
+dbo:product	dbr:Real_estate
+dbo:foundationPlace	dbr:London
+dbr:Gatehouse_Bank	
+dbo:product	dbr:Energy_drink
+dbo:foundationPlace	dbr:Santa_Fe,_New_Mexico
+dbr:Blue_Sky_Beverage_Company	
+dbo:product	dbr:Tea
+dbo:foundationPlace	dbr:United_Kingdom_of_Great_Britain_and_Ireland
+dbr:Nambarrie	dbr:Punjana	
+dbo:product	dbr:Landline
+dbo:foundationPlace	dbr:England
+dbr:TalkTalk_Group	
+dbo:product	dbr:Munitions
+dbo:foundationPlace	dbr:Belgrade
+dbr:Yugoimport_SDPR	
+dbo:product	dbr:Sulphur
+dbo:foundationPlace	dbr:Shreveport,_Louisiana
+dbr:United_Gas_Corporation	
+dbo:product	dbr:Virginia_HOT_lanes
+dbo:foundationPlace	dbr:Melbourne,_Australia
+dbr:Transurban	
+dbo:product	dbr:Machinery_and_Equipment
+dbo:foundationPlace	dbr:Denmark
+dbr:Brødrene_Hartmann	
+dbo:product	dbr:Collectibles
+dbo:foundationPlace	dbr:Iowa
+dbr:ACME_Comics_&_Collectibles	
+dbo:product	dbr:Milk
+dbo:foundationPlace	dbr:Quebec
+dbr:Liberté_Inc.	
+dbo:product	dbr:Pyrotechnics
+dbo:foundationPlace	dbr:Italy
+dbr:Zambelli_Fireworks	
+dbo:product	dbr:Consumer_Products
+dbo:foundationPlace	dbr:Galle
+dbr:Hayleys	
+dbo:product	dbr:Television
+dbo:foundationPlace	dbr:United_States
+dbr:News_Corporation	
+dbo:product	dbr:Pasta
+dbo:foundationPlace	dbr:New_York_City
+dbr:Sbarro	
+dbo:product	dbr:Grocery_store
+dbo:foundationPlace	dbr:Brixton
+dbr:British_Home_Stores	
+dbo:product	dbr:Phenyl
+dbo:foundationPlace	dbr:Calcutta
+dbr:Bengal_Chemicals_and_Pharmaceuticals	
+dbo:product	dbr:Iced_Coffee_Drink
+dbo:foundationPlace	dbr:Brooklyn,_New_York
+dbr:Manhattan_Special	
+dbo:product	dbr:Roof_Bolting
+dbo:foundationPlace	dbr:Incorporation_(business)
+dbr:Joy_Mining_Machinery	
+dbo:product	dbr:Video
+dbo:foundationPlace	dbr:Florida,_United_States
+dbr:Bravo_Music	
+dbo:product	dbr:Thermography
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Land_Instruments_International	
+dbo:product	dbr:So_Good_(soy_beverage)
+dbo:foundationPlace	dbr:Canada
+dbr:Earth's_Own_Food_Company	
+dbo:product	dbr:Fuel_oil
+dbo:foundationPlace	dbr:California
+dbr:Chemoil	
+dbo:product	dbr:Zenback
+dbo:foundationPlace	dbr:California
+dbr:Six_Apart	
+dbo:product	dbr:Delicacy
+dbo:foundationPlace	dbr:Grand_Rapids,_Minnesota
+dbr:Super_One_Foods	
+dbo:product	dbr:Clothing
+dbo:foundationPlace	dbr:Varberg,_Sweden
+dbr:Tenson_(brand)	
+dbo:product	dbr:Mandolin
+dbo:foundationPlace	dbr:Japan
+dbr:Ibanez	
+dbo:product	dbr:Paint
+dbo:foundationPlace	dbr:Amagasaki
+dbr:Kansai_Paint	
+dbo:product	dbr:Private_banking
+dbo:foundationPlace	dbr:Santander,_Spain
+dbr:Banco_Santander	
+dbo:product	dbr:Traditional_Chinese_medicine
+dbo:foundationPlace	dbr:People's_Republic_of_China
+dbr:Yilishen_Tianxi_Group	
+dbo:product	dbr:.hack//Roots
+dbo:foundationPlace	dbr:Tokyo
+dbr:Bee_Train	
+dbo:product	dbr:Smoothies
+dbo:foundationPlace	dbr:Lynden
+dbr:Woods_Coffee	
+dbo:product	dbr:Headphone
+dbo:foundationPlace	dbr:Osaka_Prefecture
+dbr:Hitachi_Maxell	
+dbo:product	dbr:Ice_Cream
+dbo:foundationPlace	dbr:Wales
+dbr:Cadwalader's_Ice_Cream	
+dbo:product	dbr:Healthcare
+dbo:foundationPlace	dbr:California
+dbr:Clorox	
+dbo:product	dbr:Frontier_House
+dbo:foundationPlace	dbr:London
+dbr:Wall_to_Wall_Media_(production_company)	
+dbo:product	dbr:Synplant
+dbo:foundationPlace	dbr:Stockholm
+dbr:NuEdge_Development	
+dbo:product	dbr:Hamburger
+dbo:foundationPlace	dbr:Toronto
+dbr:Fran's_Restaurant	
+dbo:product	dbr:Electronic_test_equipment
+dbo:foundationPlace	dbr:Chicago,_Illinois
+dbr:Ideal_Industries	
+dbo:product	dbr:Telephone
+dbo:foundationPlace	dbr:Geraldton,_Western_Australia
+dbr:Westnet	
+dbo:product	dbr:Connection_Machine
+dbo:foundationPlace	dbr:Waltham,_Massachusetts
+dbr:Thinking_Machines_Corporation	
+dbo:product	dbr:Curtain
+dbo:foundationPlace	dbr:Fisherman's_Wharf,_San_Francisco,_California
+dbr:Cost_Plus,_Inc.	
+dbo:product	dbr:New_York_(state)
+dbo:foundationPlace	dbr:Long_Island
+dbr:Long_Island_Lighting_Company	
+dbo:product	dbr:Acrylate_polymer
+dbo:foundationPlace	dbr:Istanbul
+dbr:Altintel	
+dbo:product	dbr:Intellectual_Property
+dbo:foundationPlace	dbr:California
+dbr:FX_Palo_Alto_Laboratory	
+dbo:product	dbr:Performance_parts
+dbo:foundationPlace	dbr:United_States
+dbr:Ford_Racing	
+dbo:product	dbr:Sandwiches
+dbo:foundationPlace	dbr:Oxford,_Mississippi
+dbr:Newk's_Eatery	
+dbo:product	dbr:Amines
+dbo:foundationPlace	dbr:Turkey
+dbr:Altintel	
+dbo:product	dbr:Plumbing_fixture
+dbo:foundationPlace	dbr:Kitakyushu,_Fukuoka
+dbr:Toto_Ltd.	
+dbo:product	dbr:Nuclear_power
+dbo:foundationPlace	dbr:Chennai
+dbr:BHAVINI	
+dbo:product	dbr:Hot_dog
+dbo:foundationPlace	dbr:United_States
+dbr:A&W_Restaurants	dbr:Zweigle's	dbr:Dairy_Queen	
+dbo:product	dbr:Public_relations
+dbo:foundationPlace	dbr:Ohio
+dbr:Edward_Howard_(public_relations_firm)	
+dbo:product	dbr:Spindizzy_(computer_game)
+dbo:foundationPlace	dbr:1985_in_video_gaming
+dbr:Electric_Dreams_Software	
+dbo:product	dbr:Home_appliance
+dbo:foundationPlace	dbr:Paris
+dbr:Bricostore	
+dbo:product	dbr:Printing
+dbo:foundationPlace	dbr:Sweden
+dbr:Stampen_Group	
+dbo:product	dbr:Late_Night_with_David_Letterman
+dbo:foundationPlace	dbr:New_York_City
+dbr:Worldwide_Pants	
+dbo:product	dbr:Model_building
+dbo:foundationPlace	dbr:Berlin
+dbr:Conrad_Electronic	
+dbo:product	dbr:Electric_motor
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:General_Electric	
+dbo:product	dbr:Credit_card
+dbo:foundationPlace	dbr:New_York_City
+dbr:Wells_Fargo	
+dbo:product	dbr:Fashion_accessory
+dbo:foundationPlace	dbr:New_York_City
+dbr:Abercrombie_&_Fitch	dbr:Kate_Spade_&_Company	dbr:Theory_(clothing_retailer)	dbr:Staple_Design	
+dbo:product	<http://www.guixt.com/products/webui.php>
+dbo:foundationPlace	dbr:United_States
+dbr:GuiXT	
+dbo:product	dbr:Lost_Eden
+dbo:foundationPlace	dbr:Paris
+dbr:Cryo_Interactive	
+dbo:product	dbr:Textiles
+dbo:foundationPlace	dbr:Mumbai
+dbr:Grasim_Industries	
+dbo:product	dbr:Mobile_app
+dbo:foundationPlace	dbr:Keilaniemi
+dbr:Microsoft_Mobile	
+dbo:product	dbr:Tv
+dbo:foundationPlace	dbr:Stockholm
+dbr:Ericsson	
+dbo:product	dbr:Tax_preparation
+dbo:foundationPlace	dbr:Virginia_Beach,_Virginia
+dbr:Liberty_Tax_Service	
+dbo:product	dbr:Eyepiece
+dbo:foundationPlace	dbr:Laguna_Hills,_California
+dbr:Explore_Scientific	
+dbo:product	dbr:Cassette_tapes
+dbo:foundationPlace	dbr:Emeryville,_California
+dbr:Alibris	
+dbo:product	dbr:Consolidated_R2Y
+dbo:foundationPlace	dbr:Buffalo,_NY
+dbr:Consolidated_Aircraft	
+dbo:product	dbr:Landline
+dbo:foundationPlace	dbr:Privatization
+dbr:Orange_S.A.	dbr:Deutsche_Telekom	
+dbo:product	dbr:Workstation
+dbo:foundationPlace	dbr:United_States
+dbr:Symbolics	
+dbo:product	dbr:Swim_wear
+dbo:foundationPlace	dbr:Saint_Tropez
+dbr:Vilebrequin	
+dbo:product	dbr:DVD
+dbo:foundationPlace	dbr:Hiroshima
+dbr:Brain_Music	
+dbo:product	dbr:Automation
+dbo:foundationPlace	dbr:Nagoya
+dbr:Okuma_Corporation	
+dbo:product	dbr:Agricultural_machinery
+dbo:foundationPlace	dbr:Belgrade
+dbr:Industry_of_Machinery_and_Tractors	
+dbo:product	dbr:Beer
+dbo:foundationPlace	dbr:St._Louis
+dbr:Anheuser-Busch	
+dbo:product	dbr:Copper
+dbo:foundationPlace	dbr:Illinois
+dbr:Chemetco	
+dbo:product	dbr:Traction_TeamPage
+dbo:foundationPlace	dbr:Providence,_RI
+dbr:Traction_Software	
+dbo:product	dbr:Volkswagen_Type_14A_(Hebmüller_Cabriolet)
+dbo:foundationPlace	dbr:Germany
+dbr:Hebmüller	
+dbo:product	dbr:Computer_game
+dbo:foundationPlace	dbr:Berkeley,_California
+dbr:Berkeley_Systems	
+dbo:product	dbr:Clothing
+dbo:foundationPlace	dbr:Tokyo
+dbr:Don_Quijote_(store)	
+dbo:product	dbr:Millettia_pinnata
+dbo:foundationPlace	dbr:Biofuel
+dbr:Pacific_Renewable_Energy	
+dbo:product	dbr:Magazine
+dbo:foundationPlace	dbr:South_Hadley,_Massachusetts
+dbr:The_Odyssey_Bookshop	
+dbo:product	dbr:Mortgage_loan
+dbo:foundationPlace	dbr:Illinois
+dbr:First_Midwest_Bancorp	
+dbo:product	dbr:Alcoholic_beverages
+dbo:foundationPlace	dbr:Zaporizhia
+dbr:Khortytsia_(company)	
+dbo:product	dbr:Landline
+dbo:foundationPlace	dbr:Athens
+dbr:WIND_Hellas	
+dbo:product	dbr:Automotive_parts
+dbo:foundationPlace	dbr:Lenexa,_Kansas
+dbr:ProCharger	
+dbo:product	dbr:Home_appliance
+dbo:foundationPlace	dbr:Eindhoven
+dbr:Philips	
+dbo:product	dbr:Fireplaces
+dbo:foundationPlace	dbr:Finland
+dbr:Nunnauuni	
+dbo:product	dbr:Ting_(cell_phone_company)
+dbo:foundationPlace	dbr:Flint,_Michigan
+dbr:Tucows	
+dbo:product	dbr:Pensions
+dbo:foundationPlace	dbr:Mangalore
+dbr:Canara_Bank	
+dbo:product	dbr:Flour
+dbo:foundationPlace	dbr:Cheshire
+dbr:Hovis	
+dbo:product	dbr:Online_casino,_sportsbook,_poker_room
+dbo:foundationPlace	dbr:Canada
+dbr:Morris_Mohawk_Gaming_Group	
+dbo:product	dbr:Consumer_finance
+dbo:foundationPlace	dbr:Iran
+dbr:Keshavarzi_Bank	dbr:EN_Bank	
+dbo:product	dbr:Music
+dbo:foundationPlace	dbr:Oxford_Street
+dbr:Virgin_Megastores	
+dbo:product	dbr:Asset-based_lending
+dbo:foundationPlace	dbr:Puerto_Rico
+dbr:W_Holding_Company	dbr:R_&_G_Financial_Corporation	dbr:Oriental_Financial_Group	dbr:EuroBancshares	
+dbo:product	dbr:Playboy_TV
+dbo:foundationPlace	dbr:United_States
+dbr:Playboy_Enterprises	
+dbo:product	dbr:Nachos
+dbo:foundationPlace	dbr:Denver
+dbr:Qdoba	
+dbo:product	dbr:Hamburger
+dbo:foundationPlace	dbr:Quezon_City
+dbr:Jollibee	
+dbo:product	dbr:Comics
+dbo:foundationPlace	dbr:2004_in_comics
+dbr:Mam_Tor_Publishing	
+dbo:product	dbr:Sporting_goods
+dbo:foundationPlace	dbr:New_Jersey
+dbr:Two_Guys	
+dbo:product	dbr:Fast_food
+dbo:foundationPlace	dbr:Texas
+dbr:Whataburger	
+dbo:product	dbr:Utawarerumono
+dbo:foundationPlace	dbr:Osaka
+dbr:Leaf_(Japanese_company)	
+dbo:product	dbr:Warcraft
+dbo:foundationPlace	dbr:United_States
+dbr:ACME_Comics_&_Collectibles	
+dbo:product	dbr:Rifles
+dbo:foundationPlace	dbr:Ilion,_NY
+dbr:E._Remington_and_Sons	
+dbo:product	dbr:Wool
+dbo:foundationPlace	dbr:Colorado
+dbr:SmartWool	
+dbo:product	dbr:Cable_television
+dbo:foundationPlace	dbr:Republic_of_Ireland
+dbr:NTL_Ireland	
+dbo:product	dbr:Fiberglass
+dbo:foundationPlace	dbr:Pennsylvania
+dbr:PPG_Industries	
+dbo:product	dbr:Effexor
+dbo:foundationPlace	dbr:Philadelphia
+dbr:Wyeth	
+dbo:product	dbr:Espresso_machine
+dbo:foundationPlace	dbr:Bern
+dbr:Schaerer_Ltd	
+dbo:product	dbr:Vacation_properties
+dbo:foundationPlace	dbr:Portland,_Oregon
+dbr:Vacasa	
+dbo:product	dbr:Gloves
+dbo:foundationPlace	dbr:England
+dbr:Dents	
+dbo:product	dbr:Milkshakes
+dbo:foundationPlace	dbr:Ontario
+dbr:Hero_Certified_Burgers	
+dbo:product	dbr:Personal_finance
+dbo:foundationPlace	dbr:United_States
+dbr:Intuit	
+dbo:product	dbr:V2i_Builder
+dbo:foundationPlace	dbr:Orem,_Utah
+dbr:PowerQuest	
+dbo:product	dbr:Rusk
+dbo:foundationPlace	dbr:Netherlands
+dbr:Verkade	
+dbo:product	dbr:Photographic_lens
+dbo:foundationPlace	dbr:Toronto
+dbr:Vistek	
+dbo:product	dbr:WiMAX
+dbo:foundationPlace	dbr:Adelaide,_South_Australia
+dbr:Adam_Internet	
+dbo:product	dbr:Mobile_VoIP
+dbo:foundationPlace	dbr:Bangladesh
+dbr:REVE_Systems	
+dbo:product	dbr:List_of_IBM_products
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:IBM	
+dbo:product	dbr:Bag
+dbo:foundationPlace	dbr:Småland
+dbr:Thule_Group	
+dbo:product	dbr:Finance_and_insurance
+dbo:foundationPlace	dbr:Taunton,_Massachusetts
+dbr:Mechanics_Cooperative_Bank	
+dbo:product	dbr:Cable_carriers
+dbo:foundationPlace	dbr:Osaka
+dbr:Tsubakimoto_Chain	
+dbo:product	dbr:Meat_industry
+dbo:foundationPlace	dbr:Smithfield,_Virginia
+dbr:Smithfield_Foods	
+dbo:product	dbr:Red_Orchestra:_Ostfront_41-45
+dbo:foundationPlace	dbr:United_States
+dbr:Tripwire_Interactive	
+dbo:product	dbr:Lighting
+dbo:foundationPlace	dbr:Titusville,_Florida
+dbr:Barn_Light_Electric	
+dbo:product	dbr:Beef_brisket
+dbo:foundationPlace	dbr:Hayward,_Wisconsin
+dbr:Famous_Dave's	
+dbo:product	dbr:Media_service_provider
+dbo:foundationPlace	dbr:United_States
+dbr:Netflix	
+dbo:product	dbr:Donair
+dbo:foundationPlace	dbr:Moncton
+dbr:Greco_Pizza_Restaurant	
+dbo:product	dbr:JB_series
+dbo:foundationPlace	dbr:Taipei
+dbr:Infortrend	
+dbo:product	dbr:Bicycle_carrier
+dbo:foundationPlace	dbr:Hillerstorp
+dbr:Thule_Group	
+dbo:product	dbr:BlackBerry_PlayBook
+dbo:foundationPlace	dbr:Ontario
+dbr:BlackBerry_Limited	
+dbo:product	dbr:Electronic_cigarette
+dbo:foundationPlace	dbr:Hong_Kong
+dbr:Dragonite_International_Limited	
+dbo:product	dbr:CDMA
+dbo:foundationPlace	dbr:San_Diego
+dbr:Qualcomm	
+dbo:product	dbr:Clothing
+dbo:foundationPlace	dbr:Somerset
+dbr:Mulberry_(company)	dbr:New_Look_(company)	dbr:Rupert_and_Buckley	
+dbo:product	dbr:Delicatessen
+dbo:foundationPlace	dbr:United_States
+dbr:Dixie_Chili_and_Deli	dbr:Safeway_Inc.	dbr:Harris_Teeter	dbr:Haggen	
+dbo:product	dbr:Terrestrial_television
+dbo:foundationPlace	dbr:Philippines
+dbr:PLDT	
+dbo:product	dbr:Video_games
+dbo:foundationPlace	dbr:Tokyo
+dbr:Sony	
+dbo:product	dbr:Microsoft_Windows
+dbo:foundationPlace	dbr:United_States
+dbr:Microsoft	
+dbo:product	dbr:Electricity_generation
+dbo:foundationPlace	dbr:United_States
+dbr:Energy_Future_Holdings	
+dbo:product	dbr:Datacenter
+dbo:foundationPlace	dbr:California
+dbr:Cisco_Systems	
+dbo:product	dbr:Implantable_cardioverter-defibrillator
+dbo:foundationPlace	dbr:Minnesota
+dbr:St._Jude_Medical	
+dbo:product	dbr:Tea
+dbo:foundationPlace	dbr:Maharashtra
+dbr:Tata_Starbucks	
+dbo:product	dbr:Trillian_Pro
+dbo:foundationPlace	dbr:Connecticut
+dbr:Cerulean_Studios	
+dbo:product	dbr:Savings
+dbo:foundationPlace	dbr:Beijing
+dbr:Bank_of_China	
+dbo:product	dbr:Imperialism_(game)
+dbo:foundationPlace	dbr:California
+dbr:Frog_City_Software	
+dbo:product	dbr:EFD_Connex
+dbo:foundationPlace	dbr:Minneapolis,_Minnesota
+dbr:EFD_(eFunds_Corporation)	
+dbo:product	dbr:Coprocessor
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:ClearSpeed	
+dbo:product	dbr:Marine_steam_engine
+dbo:foundationPlace	dbr:Birmingham
+dbr:Boulton_and_Watt	
+dbo:product	dbr:Battleship_(game)
+dbo:foundationPlace	dbr:United_States
+dbr:Milton_Bradley_Company	
+dbo:product	dbr:Stainless_steel
+dbo:foundationPlace	dbr:Wuppertal
+dbr:Wera_Tools	
+dbo:product	dbr:Furniture
+dbo:foundationPlace	dbr:Eastpointe,_Michigan
+dbr:Art_Van	
+dbo:product	dbr:Irn-Bru
+dbo:foundationPlace	dbr:United_States
+dbr:Foxon_Park	
+dbo:product	dbr:Electrical_equipment
+dbo:foundationPlace	dbr:Mount_Vernon,_Ohio
+dbr:Cooper_Industries	
+dbo:product	dbr:Lighting
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:General_Electric	
+dbo:product	dbr:Napoleon's_Campaigns
+dbo:foundationPlace	dbr:Grenoble
+dbr:AGEod	
+dbo:product	dbr:Tank
+dbo:foundationPlace	dbr:Charleville-Mézières
+dbr:Manufacture_d'armes_de_Saint-Étienne	
+dbo:product	dbr:Yarn
+dbo:foundationPlace	dbr:Multan
+dbr:Hussain_Industries	
+dbo:product	dbr:Finacle
+dbo:foundationPlace	dbr:Bangalore
+dbr:EdgeVerve_Systems	
+dbo:product	dbr:Books
+dbo:foundationPlace	dbr:Kraków
+dbr:Wydawnictwo_Literackie	
+dbo:product	dbr:Historical_and_Current_Aerial_Photography
+dbo:foundationPlace	dbr:Austin,_Texas
+dbr:Texas_Natural_Resources_Information_System	
+dbo:product	dbr:Photographic_lens
+dbo:foundationPlace	dbr:Canada
+dbr:Vistek	
+dbo:product	dbr:Trailer_music
+dbo:foundationPlace	dbr:California
+dbr:Two_Steps_from_Hell	
+dbo:product	dbr:PlayStation
+dbo:foundationPlace	dbr:Minato,_Tokyo
+dbr:Sony_Interactive_Entertainment	
+dbo:product	dbr:527_organization
+dbo:foundationPlace	dbr:Minnesota
+dbr:Scott_Political	
+dbo:product	dbr:Frozen_foods
+dbo:foundationPlace	dbr:Santiago_de_Chile
+dbr:Líder	
+dbo:product	dbr:Mutual_fund
+dbo:foundationPlace	dbr:New_York_City
+dbr:Neuberger_Berman	dbr:Franklin_Templeton_Investments	
+dbo:product	dbr:Fast_food
+dbo:foundationPlace	dbr:Lethbridge
+dbr:Burger_Baron	
+dbo:product	dbr:Thermal_transfer
+dbo:foundationPlace	dbr:Japan
+dbr:Dai_Nippon_Printing	
+dbo:product	dbr:Stainless_steel
+dbo:foundationPlace	dbr:Germany
+dbr:Wera_Tools	
+dbo:product	dbr:Financial_services
+dbo:foundationPlace	dbr:Philadelphia
+dbr:Philadelphia_Savings_Fund_Society	
+dbo:product	dbr:Application_Performance_Management
+dbo:foundationPlace	dbr:California
+dbr:Quest_Software	
+dbo:product	dbr:Kitchen_knife
+dbo:foundationPlace	dbr:Germany
+dbr:J._A._Henckels	
+dbo:product	dbr:Lingerie
+dbo:foundationPlace	dbr:New_York_(U.S._state)
+dbr:Chromat	
+dbo:product	dbr:Mortgage_loans
+dbo:foundationPlace	dbr:China
+dbr:Industrial_and_Commercial_Bank_of_China	
+dbo:product	dbr:Newsprint
+dbo:foundationPlace	dbr:Montreal
+dbr:Abitibi-Consolidated	
+dbo:product	dbr:Locker_room
+dbo:foundationPlace	dbr:Florida
+dbr:Historic_Dodgertown	
+dbo:product	dbr:Pizza
+dbo:foundationPlace	dbr:Israel
+dbr:Big_Apple_Pizza	dbr:Domino's_Pizza_Israel	dbr:Pizza_Hut_Israel	
+dbo:product	dbr:Tablet_computer
+dbo:foundationPlace	dbr:Warrington
+dbr:CMS_Computers	
+dbo:product	dbr:Ultracentrifuge
+dbo:foundationPlace	dbr:Pasadena,_California
+dbr:Beckman_Coulter	
+dbo:product	dbr:Resin
+dbo:foundationPlace	dbr:Kurashiki,_Okayama
+dbr:Kuraray	
+dbo:product	dbr:Consultancy
+dbo:foundationPlace	dbr:London
+dbr:Delete_Agency	
+dbo:product	dbr:Mobile_Applications
+dbo:foundationPlace	dbr:Boulder,_Colorado
+dbr:Simple_Energy	
+dbo:product	dbr:Rum
+dbo:foundationPlace	dbr:Hollywood,_CA
+dbr:Selvarey_Rum	
+dbo:product	dbr:Ice_cream
+dbo:foundationPlace	dbr:Toronto
+dbr:Lick's_Homeburgers	
+dbo:product	dbr:Soft_drink
+dbo:foundationPlace	dbr:Israel
+dbr:Burger_King_Israel	dbr:Burgers_Bar	
+dbo:product	dbr:Xceed_SmartUI_for_.NET
+dbo:foundationPlace	dbr:Quebec
+dbr:Xceed	
+dbo:product	dbr:Pizza
+dbo:foundationPlace	dbr:Indiana
+dbr:Azzip_Pizza	
+dbo:product	dbr:Tableware
+dbo:foundationPlace	dbr:United_States
+dbr:Kerr_&_Co	
+dbo:product	dbr:Lingerie
+dbo:foundationPlace	dbr:Byron_Bay,_New_South_Wales
+dbr:Wicked_Weasel	
+dbo:product	dbr:Petrochemicals
+dbo:foundationPlace	dbr:Colombia
+dbr:Terpel	
+dbo:product	dbr:Watch
+dbo:foundationPlace	dbr:Switzerland
+dbr:TechnoMarine	dbr:Romain_Gauthier	dbr:Piaget_SA	
+dbo:product	dbr:Threshing_machine
+dbo:foundationPlace	dbr:Milwaukee,_Wisconsin
+dbr:Allis-Chalmers	
+dbo:product	dbr:Plasterboard
+dbo:foundationPlace	dbr:Sydney
+dbr:CSR_Limited	
+dbo:product	dbr:Juicy_Fruit
+dbo:foundationPlace	dbr:Chicago
+dbr:Wrigley_Company	
+dbo:product	dbr:Timpani
+dbo:foundationPlace	dbr:United_States
+dbr:Ludwig_Drums	
+dbo:product	dbr:Soup
+dbo:foundationPlace	dbr:Mississippi
+dbr:Newk's_Eatery	
+dbo:product	dbr:Dessert
+dbo:foundationPlace	dbr:Canada
+dbr:Williams_Fresh_Cafe	dbr:McCain_Foods	
+dbo:product	dbr:Avatar_(computing)
+dbo:foundationPlace	dbr:Scotland
+dbr:WeeWorld	
+dbo:product	dbr:Steel-string_acoustic_guitar
+dbo:foundationPlace	dbr:Kalamazoo,_Michigan
+dbr:Gibson_Guitar_Corporation	
+dbo:product	dbr:Cadmium
+dbo:foundationPlace	dbr:New_Delhi
+dbr:Hindustan_Zinc	
+dbo:product	dbr:Dairy
+dbo:foundationPlace	dbr:Mankato
+dbr:All_American_Foods	
+dbo:product	dbr:Apparel
+dbo:foundationPlace	dbr:Jackson,_Michigan
+dbr:Jacobson's	
+dbo:product	dbr:Profilers
+dbo:foundationPlace	dbr:Wilsonville,_OR
+dbr:The_Portland_Group	
+dbo:product	dbr:Pizza
+dbo:foundationPlace	dbr:College_Station,_Texas
+dbr:DoubleDave's_Pizzaworks	
+dbo:product	dbr:E-books
+dbo:foundationPlace	dbr:Warsaw
+dbr:Cdp.pl	
+dbo:product	dbr:Private_banking
+dbo:foundationPlace	dbr:Beijing
+dbr:Bank_of_China	dbr:China_Construction_Bank	dbr:Industrial_and_Commercial_Bank_of_China	
+dbo:product	dbr:Massively_multiplayer_online_games
+dbo:foundationPlace	dbr:Ghent
+dbr:CatLab_Interactive	
+dbo:product	dbr:French_fries
+dbo:foundationPlace	dbr:Albuquerque
+dbr:Blake's_Lotaburger	
+dbo:product	dbr:Cocktail
+dbo:foundationPlace	dbr:Atlantic_Beach,_Florida
+dbr:Fly's_Tie_Irish_Pub	
+dbo:product	dbr:Fashion_accessory
+dbo:foundationPlace	dbr:Islington
+dbr:Wallis_(retailer)	
+dbo:product	dbr:Chop_Chop_Rocket
+dbo:foundationPlace	dbr:Canada
+dbr:Gamerizon	
+dbo:product	dbr:IT_consultancy
+dbo:foundationPlace	dbr:Norway
+dbr:Visma	
+dbo:product	dbr:Online_banking
+dbo:foundationPlace	dbr:Ontario
+dbr:Alterna_Savings	
+dbo:product	dbr:Electricity_distribution
+dbo:foundationPlace	dbr:Texas
+dbr:Luminant	
+dbo:product	dbr:Consolidated_PB4Y-1_Liberator
+dbo:foundationPlace	dbr:1923_in_aviation
+dbr:Consolidated_Aircraft	
+dbo:product	dbr:Glass_fiber
+dbo:foundationPlace	dbr:Osaka
+dbr:Nippon_Sheet_Glass	
+dbo:product	dbr:Cheeses
+dbo:foundationPlace	dbr:United_States
+dbr:Heluva_Good!	
+dbo:product	dbr:Military_vehicles
+dbo:foundationPlace	dbr:India
+dbr:Vehicle_Factory_Jabalpur	
+dbo:product	dbr:Compact_disc
+dbo:foundationPlace	dbr:Paris
+dbr:Thúy_Nga_Productions	
+dbo:product	dbr:Paint
+dbo:foundationPlace	dbr:Boston
+dbr:Valspar	
+dbo:product	dbr:Lifestyle
+dbo:foundationPlace	dbr:San_Francisco,_California
+dbr:O'Neill_(brand)	
+dbo:product	dbr:Wire_transfer
+dbo:foundationPlace	dbr:Iran
+dbr:Keshavarzi_Bank	dbr:EN_Bank	
+dbo:product	dbr:Flame_Effects
+dbo:foundationPlace	dbr:Sydney,_New_South_Wales
+dbr:Laservision	
+dbo:product	dbr:Tablet_computer
+dbo:foundationPlace	dbr:Ontario
+dbr:Kobo_Inc.	
+dbo:product	dbr:Meat
+dbo:foundationPlace	dbr:United_States
+dbr:Harris_Teeter	
+dbo:product	dbr:Excavator
+dbo:foundationPlace	dbr:Lianyuan
+dbr:Sany	
+dbo:product	dbr:Salads
+dbo:foundationPlace	dbr:Massachusetts
+dbr:Boloco	
+dbo:product	dbr:GGSN
+dbo:foundationPlace	dbr:Australia
+dbr:Oasis_Systems	
+dbo:product	dbr:LCD
+dbo:foundationPlace	dbr:Rocklin,_California
+dbr:International_Display_Works	
+dbo:product	dbr:Colonial_House_(TV_series)
+dbo:foundationPlace	dbr:London
+dbr:Wall_to_Wall_Media_(production_company)	
+dbo:product	dbr:Seed
+dbo:foundationPlace	dbr:United_States
+dbr:Monsanto	dbr:DeKalb_Genetics_Corporation	
+dbo:product	dbr:Carpets
+dbo:foundationPlace	dbr:LaGrange,_Georgia
+dbr:Interface,_Inc.	
+dbo:product	dbr:Purification_Products
+dbo:foundationPlace	dbr:Galle
+dbr:Hayleys	
+dbo:product	dbr:Studio_glass
+dbo:foundationPlace	dbr:Hove
+dbr:Cox_&_Barnard	
+dbo:product	dbr:Alcoholic_beverage
+dbo:foundationPlace	dbr:Whitehorse,_Yukon
+dbr:Yukon_Liquor_Corporation	
+dbo:product	dbr:Climbing_wall
+dbo:foundationPlace	dbr:Bulgaria
+dbr:Walltopia	
+dbo:product	dbr:Archtop_guitar
+dbo:foundationPlace	dbr:Turkey
+dbr:Epiphone	
+dbo:product	dbr:BlackBerry_10
+dbo:foundationPlace	dbr:Waterloo,_Ontario
+dbr:BlackBerry_Limited	
+dbo:product	dbr:Internet_radio
+dbo:foundationPlace	dbr:Amsterdam
+dbr:Tribe_of_Noise	
+dbo:product	dbr:Pizza
+dbo:foundationPlace	dbr:Chennai
+dbr:Pizza_Corner	
+dbo:product	dbr:Trencher_(machine)
+dbo:foundationPlace	dbr:Australia
+dbr:Digga_Machinery_Attachments	
+dbo:product	dbr:Metaplace
+dbo:foundationPlace	dbr:San_Diego,_California
+dbr:Areae	
+dbo:product	dbr:Television_advertisement
+dbo:foundationPlace	dbr:United_States
+dbr:Steiner_Studios	
+dbo:product	dbr:Cable_television
+dbo:foundationPlace	dbr:California
+dbr:The_Walt_Disney_Company	dbr:Entertainment_Studios	
+dbo:product	dbr:Rolex_Yacht-Master
+dbo:foundationPlace	dbr:United_Kingdom_of_Great_Britain_and_Ireland
+dbr:Rolex	
+dbo:product	dbr:Trading_Card_Game
+dbo:foundationPlace	dbr:Italy
+dbr:Panini_Group	
+dbo:product	dbr:Sportski_žurnal
+dbo:foundationPlace	dbr:Belgrade
+dbr:Politika_a.d.	
+dbo:product	dbr:Data_protection
+dbo:foundationPlace	dbr:Newport_Beach,_California
+dbr:Quest_Software	
+dbo:product	dbr:Brass_instrument
+dbo:foundationPlace	dbr:Terre_Haute
+dbr:Paige's_Music	
+dbo:product	dbr:Credit_Cards
+dbo:foundationPlace	dbr:China
+dbr:China_Construction_Bank	
+dbo:product	dbr:Drum_kit
+dbo:foundationPlace	dbr:United_States
+dbr:Drum_Workshop	dbr:Ludwig_Drums	dbr:Dixon_Drums	
+dbo:product	dbr:Synthetic_rutile
+dbo:foundationPlace	dbr:Kumba_Resources
+dbr:Exxaro	
+dbo:product	dbr:Electric_upright_bass
+dbo:foundationPlace	dbr:Erlangen
+dbr:Warwick_(company)	
+dbo:product	dbr:Peer-to-peer_lending
+dbo:foundationPlace	dbr:London
+dbr:Assetz_Capital	
+dbo:product	dbr:Guitar_amplifiers
+dbo:foundationPlace	dbr:New_Jersey
+dbr:Danelectro	
+dbo:product	dbr:Handbags
+dbo:foundationPlace	dbr:Worcester
+dbr:Dents	
+dbo:product	dbr:Infrastructure
+dbo:foundationPlace	dbr:Mumbai
+dbr:RPG_Group	
+dbo:product	dbr:Decorative_arts
+dbo:foundationPlace	dbr:London
+dbr:British_Home_Stores	
+dbo:product	dbr:Personal_care
+dbo:foundationPlace	dbr:Elmhurst,_Illinois
+dbr:NOW_Foods	
+dbo:product	dbr:Calendar
+dbo:foundationPlace	dbr:Manama
+dbr:Trade_Arabia	
+dbo:product	dbr:Fashion_accessory
+dbo:foundationPlace	dbr:Spain
+dbr:Stradivarius_(clothing_brand)	
+dbo:product	dbr:Retail_banking
+dbo:foundationPlace	dbr:Osaka
+dbr:Nomura_Holdings	dbr:Nomura_Group	
+dbo:product	dbr:Petrochemicals
+dbo:foundationPlace	dbr:Quebec
+dbr:Suncor_Energy	
+dbo:product	dbr:Cake_mix
+dbo:foundationPlace	dbr:United_States
+dbr:General_Mills	
+dbo:product	dbr:Clothing
+dbo:foundationPlace	dbr:Torquay,_Victoria
+dbr:Quiksilver	
+dbo:product	dbr:EastLink,_Melbourne
+dbo:foundationPlace	dbr:Australia
+dbr:ConnectEast	
+dbo:product	dbr:Cable_television
+dbo:foundationPlace	dbr:Dublin
+dbr:NTL_Ireland	
+dbo:product	dbr:Chili_con_carne
+dbo:foundationPlace	dbr:California
+dbr:Original_Tommy's	
+dbo:product	dbr:Oddworld:_Stranger's_Wrath
+dbo:foundationPlace	dbr:San_Luis_Obispo,_California
+dbr:Oddworld_Inhabitants	
+dbo:product	dbr:Music_video
+dbo:foundationPlace	dbr:Atlanta,_Georgia
+dbr:Radiant3_Productions	
+dbo:product	dbr:I-DEAS
+dbo:foundationPlace	dbr:Cincinnati,_Ohio
+dbr:SDRC	
+dbo:product	dbr:Shchi
+dbo:foundationPlace	dbr:New_York_City
+dbr:Gold_Pure_Food_Products_Co.	
+dbo:product	dbr:Motherboard
+dbo:foundationPlace	dbr:Delhi
+dbr:Simmtronics	
+dbo:product	dbr:Asset_management
+dbo:foundationPlace	dbr:A_Coruña
+dbr:Banco_Pastor	
+dbo:product	dbr:Sandwich
+dbo:foundationPlace	dbr:Ontario
+dbr:Williams_Fresh_Cafe	dbr:Fran's_Restaurant	
+dbo:product	dbr:Web_Application_Security
+dbo:foundationPlace	dbr:Israel
+dbr:Check_Point	
+dbo:product	dbr:Swimming_pool
+dbo:foundationPlace	dbr:Vero_Beach
+dbr:Historic_Dodgertown	
+dbo:product	dbr:Concert
+dbo:foundationPlace	dbr:Seoul
+dbr:Chrome_Entertainment	
+dbo:product	dbr:Replica
+dbo:foundationPlace	dbr:Gardone_Val_Trompia
+dbr:A._Uberti,_Srl.	
+dbo:product	dbr:Discount_department_store
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Navy_Exchange	
+dbo:product	dbr:Combustion_Efficiency_Monitors
+dbo:foundationPlace	dbr:Sheffield
+dbr:Land_Instruments_International	
+dbo:product	dbr:Infinity_Blade_III
+dbo:foundationPlace	dbr:South_Jordan,_Utah
+dbr:Chair_Entertainment	
+dbo:product	dbr:Lumber
+dbo:foundationPlace	dbr:Olean,_New_York
+dbr:Olean_Lumber	
+dbo:product	dbr:Plumbing
+dbo:foundationPlace	dbr:Plymouth,_Minnesota
+dbr:United_Hardware_Distributing_Company	
+dbo:product	dbr:Drive-through
+dbo:foundationPlace	dbr:Cincinnati
+dbr:Diebold	
+dbo:product	dbr:Pasta
+dbo:foundationPlace	dbr:Pennsylvania
+dbr:Vocelli_Pizza	
+dbo:product	dbr:Appcelerator_Titanium
+dbo:foundationPlace	dbr:Atlanta
+dbr:Appcelerator	
+dbo:product	dbr:Suspension_(vehicle)
+dbo:foundationPlace	dbr:Goleta,_California
+dbr:Big_Brand_Tire_&_Service	
+dbo:product	dbr:Smartphone
+dbo:foundationPlace	dbr:Beijing
+dbr:Lenovo	
+dbo:product	dbr:DRAM
+dbo:foundationPlace	dbr:United_States
+dbr:Kingston_Technology	
+dbo:product	dbr:Futures_contract
+dbo:foundationPlace	dbr:New_York_City
+dbr:Interactive_Brokers_Group	
+dbo:product	dbr:Smoothies
+dbo:foundationPlace	dbr:Lancaster_County,_Pennsylvania
+dbr:Hershey_Creamery_Company	
+dbo:product	dbr:Quarterback_(arcade_game)
+dbo:foundationPlace	dbr:El_Cajon,_California
+dbr:Leland_Corporation	
+dbo:product	dbr:Ceilings
+dbo:foundationPlace	dbr:Lancaster,_Pennsylvania
+dbr:Armstrong_World_Industries	
+dbo:product	dbr:Concrete_Masonry_Unit
+dbo:foundationPlace	dbr:United_States
+dbr:Acme_Brick	
+dbo:product	dbr:Automatic_number_plate_recognition
+dbo:foundationPlace	dbr:Canada
+dbr:Genetec	
+dbo:product	dbr:Wittnauer
+dbo:foundationPlace	dbr:New_York_City
+dbr:Bulova	
+dbo:product	dbr:Soft_drink
+dbo:foundationPlace	dbr:Santa_Fe,_New_Mexico
+dbr:Blue_Sky_Beverage_Company	
+dbo:product	dbr:Physical_security
+dbo:foundationPlace	dbr:United_States
+dbr:Diebold	
+dbo:product	dbr:Coffee_grinder
+dbo:foundationPlace	dbr:Milan
+dbr:Cimbali	
+dbo:product	dbr:Hotels
+dbo:foundationPlace	dbr:Washington,_D.C.
+dbr:Marriott_International	dbr:Capstone_Development	dbr:Quadrangle_Development_Corporation	
+dbo:product	dbr:Consolidated_Commodore
+dbo:foundationPlace	dbr:1923_in_aviation
+dbr:Consolidated_Aircraft	
+dbo:product	dbr:Tires
+dbo:foundationPlace	dbr:Iran
+dbr:Goldstone_Tires	dbr:Yazd_Tire	
+dbo:product	dbr:Clothing
+dbo:foundationPlace	dbr:Val_d'Isère
+dbr:White_Stuff_Clothing	
+dbo:product	dbr:Household_hardware
+dbo:foundationPlace	dbr:Östergötland_County
+dbr:Biltema	
+dbo:product	dbr:Percussion_instrument
+dbo:foundationPlace	dbr:Terre_Haute
+dbr:Paige's_Music	
+dbo:product	dbr:Theatre
+dbo:foundationPlace	dbr:India
+dbr:Chilsag_Entertainment_Network	
+dbo:product	dbr:Currency_converter
+dbo:foundationPlace	dbr:Newmarket,_Ontario
+dbr:XE.com	
+dbo:product	dbr:Contact_Lenses
+dbo:foundationPlace	dbr:Cleveland
+dbr:Target_Optical	
+dbo:product	dbr:Consumer_Banking
+dbo:foundationPlace	dbr:Bangladesh
+dbr:Uttara_Bank	
+dbo:product	dbr:ANSA_Pre-processor
+dbo:foundationPlace	dbr:Thessaloniki
+dbr:BETA_CAE_Systems_S.A.	
+dbo:product	dbr:Cruise_ship
+dbo:foundationPlace	dbr:Tokyo
+dbr:Nippon_Yusen	
+dbo:product	dbr:Music
+dbo:foundationPlace	dbr:Longsight
+dbr:Music_Zone	
+dbo:product	dbr:Grocery
+dbo:foundationPlace	dbr:British_Columbia
+dbr:Jim_Pattison_Group	dbr:Sustainable_Produce_Urban_Delivery	
+dbo:product	dbr:Fast_food
+dbo:foundationPlace	dbr:Richmond_Hill,_Ontario
+dbr:Harvey's	
+dbo:product	dbr:Casual_dining
+dbo:foundationPlace	dbr:Hong_Kong
+dbr:Café_de_Coral_(restaurant)	
+dbo:product	dbr:Knife
+dbo:foundationPlace	dbr:San_Diego,_California
+dbr:Buck_Knives	
+dbo:product	dbr:Calendar
+dbo:foundationPlace	dbr:Abu_Dhabi
+dbr:AMEinfo.com	
+dbo:product	dbr:FOCUS
+dbo:foundationPlace	dbr:United_States
+dbr:Information_Builders	
+dbo:product	dbr:Toy
+dbo:foundationPlace	dbr:United_States
+dbr:Toys_%22R%22_Us	dbr:Lionel_Kiddie_City	
+dbo:product	dbr:Irish_pub
+dbo:foundationPlace	dbr:Greater_Sudbury
+dbr:Prime_Restaurants	
+dbo:product	dbr:Album
+dbo:foundationPlace	dbr:Emeryville,_California
+dbr:Alibris	
+dbo:product	dbr:Publishing
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:The_Walt_Disney_Company	
+dbo:product	dbr:Tequila
+dbo:foundationPlace	dbr:Jalisco,_Mexico
+dbr:Don_Julio__Tequila_Don_Julio,_S.A._de_C.V.__1	
+dbo:product	dbr:Home_video
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Universal_Pictures_Home_Entertainment	dbr:Entertainment_Studios	
+dbo:product	dbr:String_(music)
+dbo:foundationPlace	dbr:New_York_City
+dbr:C._F._Martin_&_Company	
+dbo:product	dbr:Timing_chain
+dbo:foundationPlace	dbr:Osaka
+dbr:Tsubakimoto_Chain	
+dbo:product	dbr:Mobile_telephone
+dbo:foundationPlace	dbr:Cali
+dbr:Claro_Colombia	
+dbo:product	dbr:Hamburgers
+dbo:foundationPlace	dbr:New_Mexico
+dbr:Blake's_Lotaburger	
+dbo:product	dbr:Furniture
+dbo:foundationPlace	dbr:Beirut
+dbr:Farra_Design_Center	
+dbo:product	dbr:Data_storage_device
+dbo:foundationPlace	dbr:Japan
+dbr:Hitachi_Maxell	
+dbo:product	dbr:Milling_(machining)
+dbo:foundationPlace	dbr:Switzerland
+dbr:Frewitt	
+dbo:product	dbr:Ice_Cream
+dbo:foundationPlace	dbr:Criccieth
+dbr:Cadwalader's_Ice_Cream	
+dbo:product	dbr:Computer_peripheral
+dbo:foundationPlace	dbr:Switzerland
+dbr:Logitech	
+dbo:product	dbr:Fast_food
+dbo:foundationPlace	dbr:Boston,_Massachusetts
+dbr:Papa_Gino's	
+dbo:product	dbr:Seafood
+dbo:foundationPlace	dbr:Bremen
+dbr:Nordsee	
+dbo:product	dbr:Broadband
+dbo:foundationPlace	dbr:Manila
+dbr:Red_Mobile	dbr:Globe_Telecom	dbr:Digital_Telecommunications_Philippines	dbr:Sun_Cellular	dbr:Smart_Communications	
+dbo:product	dbr:Train
+dbo:foundationPlace	dbr:Mexico
+dbr:Siemens_Mexico	
+dbo:product	dbr:Sporting_goods
+dbo:foundationPlace	dbr:Phoenix,_Arizona
+dbr:Yellow_Front_Stores	
+dbo:product	dbr:Coffee
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Equal_Exchange_Trading	
+dbo:product	dbr:Electric_guitar
+dbo:foundationPlace	dbr:Luby_(Cheb_District)
+dbr:Framus	dbr:Höfner	
+dbo:product	dbr:Magazine
+dbo:foundationPlace	dbr:Oxford_Street
+dbr:Virgin_Megastores	
+dbo:product	dbr:ComiXology
+dbo:foundationPlace	dbr:Washington_(state)
+dbr:Amazon.com	
+dbo:product	dbr:Bombshell_(video_game)
+dbo:foundationPlace	dbr:Denmark
+dbr:Interceptor_Entertainment	
+dbo:product	dbr:JBuilder
+dbo:foundationPlace	dbr:California
+dbr:CodeGear	
+dbo:product	dbr:Point_of_sale
+dbo:foundationPlace	dbr:Dayton,_Ohio
+dbr:NCR_Corporation	
+dbo:product	dbr:Heroes_of_Might_and_Magic
+dbo:foundationPlace	dbr:1984_in_video_gaming
+dbr:New_World_Computing	
+dbo:product	dbr:Automonopoli
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Automata_UK	
+dbo:product	dbr:Cellular_network
+dbo:foundationPlace	dbr:Zagreb,_Croatia
+dbr:Ericsson_Nikola_Tesla	
+dbo:product	dbr:Organic_infant_formula
+dbo:foundationPlace	dbr:Tasmania
+dbr:Bellamy's_Organic	
+dbo:product	dbr:Music
+dbo:foundationPlace	dbr:Toronto
+dbr:Chapters	dbr:Yowza!_Animation	
+dbo:product	dbr:Tableware
+dbo:foundationPlace	dbr:Lorraine_(region)
+dbr:Villeroy_&_Boch	
+dbo:product	dbr:Industrial_Cases_Reports
+dbo:foundationPlace	dbr:London
+dbr:Incorporated_Council_of_Law_Reporting	
+dbo:product	dbr:Movies
+dbo:foundationPlace	dbr:Columbia,_Missouri
+dbr:Slackers_CDs_and_Games	
+dbo:product	dbr:GPS
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Binatone	
+dbo:product	dbr:Retailing
+dbo:foundationPlace	dbr:United_States
+dbr:Hhgregg	
+dbo:product	dbr:Vodka
+dbo:foundationPlace	dbr:Zaporizhia
+dbr:Khortytsia_(company)	
+dbo:product	dbr:Retail_banking
+dbo:foundationPlace	dbr:India
+dbr:Karnataka_Bank	
+dbo:product	dbr:Fashion_accessory
+dbo:foundationPlace	dbr:Germany
+dbr:S.Oliver	
+dbo:product	dbr:Leadlight
+dbo:foundationPlace	dbr:Hove
+dbr:Cox_&_Barnard	
+dbo:product	dbr:PlayStation_Vita
+dbo:foundationPlace	dbr:Tokyo
+dbr:Sony_Interactive_Entertainment	
+dbo:product	dbr:Wind_turbine
+dbo:foundationPlace	dbr:Beijing
+dbr:Sinovel	
+dbo:product	dbr:Coal
+dbo:foundationPlace	dbr:Horizon_Natural_Resources
+dbr:International_Coal_Group	
+dbo:product	dbr:Cello
+dbo:foundationPlace	dbr:Luby_(Cheb_District)
+dbr:Framus	dbr:Höfner	
+dbo:product	dbr:Cuisine_of_the_United_States
+dbo:foundationPlace	dbr:Saint_Paul,_Minnesota
+dbr:Champps	
+dbo:product	dbr:Commercial_banking
+dbo:foundationPlace	dbr:Nicosia
+dbr:Turkish_Bank	
+dbo:product	dbr:Cutlet-mix
+dbo:foundationPlace	dbr:Kerala
+dbr:Meat_Products_of_India	
+dbo:product	dbr:Laborer
+dbo:foundationPlace	dbr:Kent,_Washington
+dbr:Labor_Ready	
+dbo:product	dbr:Software
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:General_Electric	
+dbo:product	dbr:Microscope
+dbo:foundationPlace	dbr:Glasgow
+dbr:Charles_Frank_Ltd	
+dbo:product	dbr:Sanitation
+dbo:foundationPlace	dbr:Boracay
+dbr:Boracay_Water	
+dbo:product	dbr:Organic_compound
+dbo:foundationPlace	dbr:Ehime,_Japan
+dbr:Sumitomo_Chemical	
+dbo:product	dbr:Amusement_park_attraction
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Landmark_Entertainment_Group	
+dbo:product	dbr:Webcomics
+dbo:foundationPlace	dbr:2007_in_comics
+dbr:Zuda_Comics	
+dbo:product	dbr:Colocation_centre
+dbo:foundationPlace	dbr:Adelaide,_South_Australia
+dbr:Adam_Internet	
+dbo:product	dbr:Drilling
+dbo:foundationPlace	dbr:Alberta
+dbr:Trinidad_Drilling	dbr:RJV_Gas_Field_Services	dbr:Stoneham_Drilling	
+dbo:product	dbr:Sang-Froid:_Tales_of_Werewolves
+dbo:foundationPlace	dbr:Canada
+dbr:Artifice_Studio	
+dbo:product	dbr:Telescopic_sight
+dbo:foundationPlace	dbr:Bucharest
+dbr:I.O.R.	
+dbo:product	dbr:Video_CD
+dbo:foundationPlace	dbr:Quezon_City
+dbr:Viva_Entertainment	
+dbo:product	dbr:Footwear
+dbo:foundationPlace	dbr:Italy
+dbr:Diadora	dbr:Valentino_SpA	
+dbo:product	dbr:Circuit_breaker
+dbo:foundationPlace	dbr:Novi_Sad
+dbr:Schneider_Electric_DMS	
+dbo:product	dbr:Neuromodulation_(medicine)
+dbo:foundationPlace	dbr:Saint_Paul,_Minnesota
+dbr:St._Jude_Medical	
+dbo:product	dbr:Live_album
+dbo:foundationPlace	dbr:Jalandhar
+dbr:Plasma_Records	
+dbo:product	dbr:Central_ad_server
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Right_Media	
+dbo:product	dbr:Automated_teller_machine
+dbo:foundationPlace	dbr:United_States
+dbr:Diebold	dbr:MetaBank	
+dbo:product	dbr:Credit_card
+dbo:foundationPlace	dbr:Republic_of_China
+dbr:Bank_of_China	
+dbo:product	dbr:Airbag
+dbo:foundationPlace	dbr:Germany
+dbr:Petri_AG	
+dbo:product	dbr:Engineering
+dbo:foundationPlace	dbr:Belo_Horizonte
+dbr:Andrade_Gutierrez	
+dbo:product	dbr:Quadro
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:PNY_Technologies	
+dbo:product	dbr:Motorcycles
+dbo:foundationPlace	dbr:Taizhou,_Zhejiang
+dbr:Geely	
+dbo:product	dbr:Separately_managed_account
+dbo:foundationPlace	dbr:New_York,_NY
+dbr:VanEck	
+dbo:product	dbr:Brokerage_firm
+dbo:foundationPlace	dbr:Humacao,_Puerto_Rico
+dbr:Oriental_Financial_Group	
+dbo:product	dbr:Comics
+dbo:foundationPlace	dbr:Worcester,_Massachusetts
+dbr:That's_Entertainment_(comic_shop)	
+dbo:product	dbr:Cadmium
+dbo:foundationPlace	dbr:India
+dbr:Hindustan_Zinc	
+dbo:product	dbr:Mobile_phone_operator
+dbo:foundationPlace	dbr:Düsseldorf
+dbr:Sipgate	
+dbo:product	dbr:Apparel
+dbo:foundationPlace	dbr:Malden,_Massachusetts
+dbr:Converse_(shoe_company)	
+dbo:product	dbr:Diskeeper
+dbo:foundationPlace	dbr:Glendale,_California
+dbr:Condusiv_Technologies	
+dbo:product	dbr:Amiga
+dbo:foundationPlace	dbr:Canada
+dbr:Commodore_International	
+dbo:product	dbr:Photographic_processing
+dbo:foundationPlace	dbr:American_Falls,_Idaho
+dbr:Safeway_Inc.	
+dbo:product	dbr:Automotive
+dbo:foundationPlace	dbr:Rome
+dbr:Giannini_Automobili	
+dbo:product	dbr:Paraffin_wax
+dbo:foundationPlace	dbr:Tehran
+dbr:Sepahan_Oil_Company	
+dbo:product	dbr:Meat
+dbo:foundationPlace	dbr:Richmond,_British_Columbia
+dbr:Premium_Brands_Holdings_Corporation	
+dbo:product	dbr:Dental_material
+dbo:foundationPlace	dbr:Japan
+dbr:Kuraray	
+dbo:product	dbr:Electronic_flight_bag
+dbo:foundationPlace	dbr:Montreal
+dbr:CMC_Electronics	
+dbo:product	dbr:Camera
+dbo:foundationPlace	dbr:Krasnogorsk,_Moscow_Oblast
+dbr:Krasnogorsky_Zavod	
+dbo:product	dbr:Gold
+dbo:foundationPlace	dbr:United_States
+dbr:Hecla_Mining	
+dbo:product	dbr:Real_estate
+dbo:foundationPlace	dbr:Mumbai
+dbr:Larsen_&_Toubro	
+dbo:product	dbr:Electricity_distribution
+dbo:foundationPlace	dbr:Ontario
+dbr:Hydro_One	
+dbo:product	dbr:Web_mail
+dbo:foundationPlace	dbr:Ontario
+dbr:Mail2web	
+dbo:product	dbr:Commercial_Pontoons
+dbo:foundationPlace	dbr:Owosso,_Michigan
+dbr:Crest_Marine	
+dbo:product	dbr:Flour
+dbo:foundationPlace	dbr:Minneapolis
+dbr:General_Mills	
+dbo:product	dbr:Electronic_tuner
+dbo:foundationPlace	dbr:Chicago
+dbr:Peterson_Electro-Musical_Products	
+dbo:product	dbr:Ukulele
+dbo:foundationPlace	dbr:Hawaii
+dbr:Kamaka_Ukulele	
+dbo:product	dbr:Tea
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Equal_Exchange_Trading	
+dbo:product	dbr:Customer_relationship_management
+dbo:foundationPlace	dbr:California
+dbr:Phoenix_American_Incorporated	
+dbo:product	dbr:Xceed_Ultimate_Suite
+dbo:foundationPlace	dbr:Quebec
+dbr:Xceed	
+dbo:product	dbr:Pumps
+dbo:foundationPlace	dbr:Bavaria
+dbr:Linde_Hydraulics	
+dbo:product	dbr:Romance_of_the_Three_Kingdoms_(video_game_series)
+dbo:foundationPlace	dbr:Ashikaga,_Tochigi
+dbr:Koei	
+dbo:product	dbr:Apparel
+dbo:foundationPlace	dbr:Lahaina,_Hawaii
+dbr:Maui_Jim	
+dbo:product	dbr:Starpath_Supercharger
+dbo:foundationPlace	dbr:United_States
+dbr:Starpath	
+dbo:product	dbr:Aviation_fuel
+dbo:foundationPlace	dbr:Madrid
+dbr:Compañía_Española_de_Petróleos	
+dbo:product	dbr:Prontosil
+dbo:foundationPlace	dbr:Paris
+dbr:Roussel_Uclaf	
+dbo:product	dbr:Fruit
+dbo:foundationPlace	dbr:Kingdom_of_Hawaii
+dbr:Dole_Food_Company	
+dbo:product	dbr:Computer_display
+dbo:foundationPlace	dbr:Oregon
+dbr:LaCie	
+dbo:product	dbr:Hamburger
+dbo:foundationPlace	dbr:Des_Moines,_Iowa
+dbr:B-Bop's	
+dbo:product	dbr:Boeing_777
+dbo:foundationPlace	dbr:Washington_(state)
+dbr:Boeing	
+dbo:product	dbr:River_cruise
+dbo:foundationPlace	dbr:Los_Angeles,_California
+dbr:Uniworld	
+dbo:product	dbr:Paint
+dbo:foundationPlace	dbr:Evanston,_IL
+dbr:Rust-Oleum	
+dbo:product	dbr:French_fries
+dbo:foundationPlace	dbr:Saint-Hyacinthe,_Quebec
+dbr:Valentine_(restaurant)	
+dbo:product	dbr:BlackBerry
+dbo:foundationPlace	dbr:Ontario
+dbr:BlackBerry_Limited	dbr:Bell_Mobility	dbr:Mobilicity	
+dbo:product	dbr:Boom_(containment)
+dbo:foundationPlace	dbr:Louisville,_Kentucky
+dbr:C.I.Agent_Solutions	
+dbo:product	dbr:Intellectual_property
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:19_Entertainment	dbr:Storm_Model_Management	
+dbo:product	dbr:Guest_house
+dbo:foundationPlace	dbr:Portland,_Oregon
+dbr:Vacasa	
+dbo:product	dbr:Financial_Services
+dbo:foundationPlace	dbr:Chevy_Chase,_Maryland
+dbr:CapitalSource	
+dbo:product	dbr:Game
+dbo:foundationPlace	dbr:Longsight
+dbr:Music_Zone	
+dbo:product	dbr:Pizza
+dbo:foundationPlace	dbr:Plano,_Texas
+dbr:Cicis	
+dbo:product	dbr:Guitar_amplifier
+dbo:foundationPlace	dbr:Chicago,_Illinois
+dbr:Washburn_Guitars	
+dbo:product	dbr:Pontoon_(boat)
+dbo:foundationPlace	dbr:Owosso,_Michigan
+dbr:Crest_Marine	
+dbo:product	dbr:Cosmetics
+dbo:foundationPlace	dbr:Wichita,_Kansas
+dbr:Mentholatum	
+dbo:product	dbr:Telecommunication
+dbo:foundationPlace	dbr:Dublin
+dbr:NTL_Ireland	
+dbo:product	dbr:Film_distribution
+dbo:foundationPlace	dbr:Optimus_Telecomunicações
+dbr:NOS_(Portuguese_media_company)	
+dbo:product	dbr:The_A.V._Club
+dbo:foundationPlace	dbr:Madison,_Wisconsin
+dbr:The_Onion__,_Inc.__1	
+dbo:product	dbr:Education
+dbo:foundationPlace	dbr:Washington,_D.C.
+dbr:Graham_Holdings_Company	
+dbo:product	dbr:Cruise_missile
+dbo:foundationPlace	dbr:New_Delhi,_India
+dbr:BrahMos_Aerospace	
+dbo:product	dbr:TV_production
+dbo:foundationPlace	dbr:United_States
+dbr:21st_Century_Fox	
+dbo:product	dbr:Shotgun
+dbo:foundationPlace	dbr:Birmingham
+dbr:Webley_&_Scott	
+dbo:product	dbr:Guillotine
+dbo:foundationPlace	dbr:Sioux_City,_Iowa
+dbr:ACME_Comics_&_Collectibles	
+dbo:product	dbr:Leather
+dbo:foundationPlace	dbr:Fort_Worth,_Texas
+dbr:Tandy_Corporation	
+dbo:product	dbr:Chicken-n-ham
+dbo:foundationPlace	dbr:Koothattukulam
+dbr:Meat_Products_of_India	
+dbo:product	dbr:Commercial_real_estate
+dbo:foundationPlace	dbr:Toronto
+dbr:Maple_Leaf_Sports_&_Entertainment	
+dbo:product	dbr:Online_games
+dbo:foundationPlace	dbr:New_Zealand
+dbr:Parkside_Media	
+dbo:product	dbr:Furniture
+dbo:foundationPlace	dbr:Boalt
+dbr:Brio_(company)	
+dbo:product	dbr:Integrated_security
+dbo:foundationPlace	dbr:Moscow,_Russia
+dbr:Kaspersky_Lab	
+dbo:product	dbr:Motherboard
+dbo:foundationPlace	dbr:India
+dbr:Simmtronics	
+dbo:product	dbr:Still_camera
+dbo:foundationPlace	dbr:Tokyo
+dbr:Canon_Inc.	dbr:Nikon	
+dbo:product	dbr:Clothing
+dbo:foundationPlace	dbr:Los_Angeles,_California
+dbr:Tokidoki	
+dbo:product	dbr:PowerSlave
+dbo:foundationPlace	dbr:United_States
+dbr:Lobotomy_Software	
+dbo:product	dbr:Projectiles
+dbo:foundationPlace	dbr:Sturgis,_South_Dakota
+dbr:Jamison_International	
+dbo:product	dbr:Banking
+dbo:foundationPlace	dbr:Bombay
+dbr:Commercial_Bank_of_India	
+dbo:product	dbr:Natural_gas
+dbo:foundationPlace	dbr:TSX
+dbr:Lightstream_Resources	
+dbo:product	dbr:Milkshake
+dbo:foundationPlace	dbr:Detroit,_Michigan
+dbr:Smashburger	
+dbo:product	dbr:Cardiac_dysrhythmia
+dbo:foundationPlace	dbr:Minnesota
+dbr:St._Jude_Medical	
+dbo:product	dbr:Satellite
+dbo:foundationPlace	dbr:Geraldton,_Western_Australia
+dbr:Westnet	
+dbo:product	dbr:Infinity_Blade
+dbo:foundationPlace	dbr:South_Jordan,_Utah
+dbr:Chair_Entertainment	
+dbo:product	dbr:Electric_toothbrush
+dbo:foundationPlace	dbr:Frankfurt
+dbr:Braun_(company)	
+dbo:product	dbr:Savings
+dbo:foundationPlace	dbr:Milwaukee,_Wisconsin
+dbr:Landmark_Credit_Union	
+dbo:product	dbr:Tablet_computer
+dbo:foundationPlace	dbr:Finland
+dbr:Microsoft_Mobile	
+dbo:product	dbr:Adobe_Flash
+dbo:foundationPlace	dbr:France
+dbr:Total_Immersion_(augmented_reality)	
+dbo:product	dbr:Acoustics
+dbo:foundationPlace	dbr:Niš
+dbr:EI_Niš	
+dbo:product	dbr:Mobile_phone
+dbo:foundationPlace	dbr:Greece
+dbr:WIND_Hellas	
+dbo:product	dbr:Oil
+dbo:foundationPlace	dbr:Canada
+dbr:Harvest_Operations	dbr:Pengrowth_Energy	dbr:Penn_West_Exploration	
+dbo:product	dbr:Alcoholic_beverage
+dbo:foundationPlace	dbr:New_York_City
+dbr:Star_Industries	
+dbo:product	dbr:Copper
+dbo:foundationPlace	dbr:London
+dbr:WMC_Resources	
+dbo:product	dbr:Fixed_wireless
+dbo:foundationPlace	dbr:Sydney,_New_South_Wales
+dbr:BigAir	
+dbo:product	dbr:MP3_Player
+dbo:foundationPlace	dbr:South_Korea
+dbr:Samsung_Telecommunications	
+dbo:product	dbr:Meat
+dbo:foundationPlace	dbr:Charlotte,_North_Carolina
+dbr:Harris_Teeter	
+dbo:product	dbr:Commercial_bank
+dbo:foundationPlace	dbr:Iran
+dbr:Amin_Investment_Bank	
+dbo:product	dbr:Salad
+dbo:foundationPlace	dbr:Illinois
+dbr:Dairy_Queen	
+dbo:product	dbr:Film
+dbo:foundationPlace	dbr:Denmark
+dbr:Egmont_Group	
+dbo:product	dbr:Fish_and_chips
+dbo:foundationPlace	dbr:United_States
+dbr:Skippers_Seafood_&_Chowder_House	
+dbo:product	dbr:Bespoke
+dbo:foundationPlace	dbr:Houston
+dbr:Hamilton_Shirts	
+dbo:product	dbr:Financial_Services
+dbo:foundationPlace	dbr:Davao_City
+dbr:One_Network_Bank	
+dbo:product	dbr:Cosmetics
+dbo:foundationPlace	dbr:Dallas
+dbr:Mary_Kay	
+dbo:product	dbr:Radio_modem
+dbo:foundationPlace	dbr:Salo,_Finland
+dbr:SATEL	
+dbo:product	dbr:Publishing
+dbo:foundationPlace	dbr:Llanview
+dbr:Lord_family	
+dbo:product	dbr:Supercomputers
+dbo:foundationPlace	dbr:California
+dbr:PSSC_Labs	
+dbo:product	dbr:Super_Smash_Bros._(series)
+dbo:foundationPlace	dbr:Chiyoda,_Tokyo
+dbr:HAL_Laboratory	
+dbo:product	dbr:Education
+dbo:foundationPlace	dbr:Tamil_Nadu
+dbr:Chettinad_Group	
+dbo:product	dbr:No_Going_Back_(TV_series)
+dbo:foundationPlace	dbr:London
+dbr:Ricochet_(TV_production_company)	
+dbo:product	dbr:Deposit_account
+dbo:foundationPlace	dbr:United_States
+dbr:Mountain_National_Bank	
+dbo:product	dbr:TVBS
+dbo:foundationPlace	dbr:British_Hong_Kong
+dbr:TVB	
+dbo:product	dbr:Automated_optical_inspection
+dbo:foundationPlace	dbr:Canoga_Park,_California
+dbr:VIEW_Engineering	
+dbo:product	dbr:Backpacks
+dbo:foundationPlace	dbr:Småland
+dbr:Thule_Group	
+dbo:product	dbr:Pay_television
+dbo:foundationPlace	dbr:Bosnia_and_Herzegovina
+dbr:Telemach	
+dbo:product	dbr:Electronics
+dbo:foundationPlace	dbr:Addison,_Texas
+dbr:CompUSA	
+dbo:product	dbr:Pretzels
+dbo:foundationPlace	dbr:Redondo_Beach,_California
+dbr:Wetzel's_Pretzels	
+dbo:product	dbr:Dental_insurance
+dbo:foundationPlace	dbr:Quebec
+dbr:Sun_Life_Financial	
+dbo:product	dbr:Internet
+dbo:foundationPlace	dbr:Cali
+dbr:Claro_Colombia	
+dbo:product	dbr:Less_than_truckload_shipping
+dbo:foundationPlace	dbr:Portland,_Oregon
+dbr:Con-way	
+dbo:product	dbr:Investment_banking
+dbo:foundationPlace	dbr:Rochester,_Minnesota
+dbr:Think_Mutual_Bank	
+dbo:product	dbr:Biofuel
+dbo:foundationPlace	dbr:San_Diego,_California
+dbr:Sapphire_Energy	
+dbo:product	dbr:Optics
+dbo:foundationPlace	dbr:World_War_II
+dbr:Kiev_Arsenal	
+dbo:product	dbr:Financial_Services
+dbo:foundationPlace	dbr:Upstate_New_York
+dbr:TrustCo_Bank	
+dbo:product	dbr:Petroleum
+dbo:foundationPlace	dbr:Ogden,_Utah
+dbr:Conoco	
+dbo:product	dbr:TNTmips_Pro
+dbo:foundationPlace	dbr:Lincoln,_Nebraska_U.S.A.
+dbr:MicroImages,_Inc.	
+dbo:product	dbr:Cable_television
+dbo:foundationPlace	dbr:Douglas_County,_Colorado
+dbr:Liberty_Global	
+dbo:product	dbr:Sports_venue
+dbo:foundationPlace	dbr:Ontario
+dbr:Maple_Leaf_Sports_&_Entertainment	
+dbo:product	dbr:Nutraceuticals
+dbo:foundationPlace	dbr:Quebec
+dbr:Liquid_Nutrition	
+dbo:product	dbr:Greek_cuisine
+dbo:foundationPlace	dbr:Canada
+dbr:Jimmy_the_Greek_(restaurant)	
+dbo:product	dbr:Construction
+dbo:foundationPlace	dbr:Dallas
+dbr:Luminant	
+dbo:product	dbr:Kiss_102
+dbo:foundationPlace	dbr:England
+dbr:Faze_FM	
+dbo:product	dbr:Massively_multiplayer_online_games
+dbo:foundationPlace	dbr:Munich
+dbr:Travian_Games	
+dbo:product	dbr:International_Arbitration
+dbo:foundationPlace	dbr:Turkey
+dbr:Halikarnas_Financial_Services_and_Advisory	
+dbo:product	dbr:Financial_Services
+dbo:foundationPlace	dbr:New_York_City,_NY
+dbr:Bank_of_New_York	
+dbo:product	dbr:Doughnut_Holes
+dbo:foundationPlace	dbr:Bolton,_Ontario
+dbr:Coffee_Time	
+dbo:product	dbr:Aviation_Fuel
+dbo:foundationPlace	dbr:Houston,_Texas
+dbr:Phillips_66	
+dbo:product	dbr:Perfume
+dbo:foundationPlace	dbr:Basingstoke
+dbr:Burberry	
+dbo:product	dbr:Jewelry
+dbo:foundationPlace	dbr:Baton_Rouge,_Louisiana
+dbr:H._J._Wilson_Co.	
+dbo:product	dbr:General_Packet_Radio_Service
+dbo:foundationPlace	dbr:Belgrade
+dbr:Vip_mobile	
+dbo:product	dbr:VoiceXML
+dbo:foundationPlace	dbr:Cologne,_Germany
+dbr:VoiceObjects	
+dbo:product	dbr:Sparkling_water
+dbo:foundationPlace	dbr:East_Haven,_Connecticut
+dbr:Foxon_Park	
+dbo:product	dbr:Shirts
+dbo:foundationPlace	dbr:Jalandhar
+dbr:Plasma_Records	
+dbo:product	dbr:Television_Production
+dbo:foundationPlace	dbr:Columbia_Pictures_Entertainment
+dbr:Sony_Pictures_Entertainment	
+dbo:product	dbr:Submarine_sandwich
+dbo:foundationPlace	dbr:Hoboken,_New_Jersey
+dbr:Blimpie	
+dbo:product	dbr:Rum
+dbo:foundationPlace	dbr:Santo_Domingo
+dbr:Siboney_(rum)	
+dbo:product	dbr:Data_protection
+dbo:foundationPlace	dbr:California
+dbr:Quest_Software	
+dbo:product	dbr:Firearm
+dbo:foundationPlace	dbr:Kragujevac
+dbr:Zastava_Arms	
+dbo:product	dbr:Mail
+dbo:foundationPlace	dbr:San_José,_Costa_Rica
+dbr:Correos_de_Costa_Rica	
+dbo:product	dbr:Car_rental
+dbo:foundationPlace	dbr:South_Africa
+dbr:Avis_Southern_Africa	
+dbo:product	dbr:Electromechanical
+dbo:foundationPlace	dbr:Stockholm
+dbr:Clavia	
+dbo:product	dbr:Hypermarket
+dbo:foundationPlace	dbr:Roubaix
+dbr:Auchan	
+dbo:product	dbr:Hire_purchase
+dbo:foundationPlace	dbr:Rotherham
+dbr:Lombard_(company)	
+dbo:product	dbr:Personal_digital_assistant
+dbo:foundationPlace	dbr:Taiwan
+dbr:Compal_Electronics	
+dbo:product	dbr:Direct-broadcast_satellite
+dbo:foundationPlace	dbr:United_States
+dbr:News_Corporation	dbr:Liberty_Global	
+dbo:product	dbr:Automated_Clearing_House
+dbo:foundationPlace	dbr:Storm_Lake,_Iowa
+dbr:MetaBank	
+dbo:product	dbr:Air_gun
+dbo:foundationPlace	dbr:England
+dbr:Webley_&_Scott	
+dbo:product	dbr:Gramophone_record
+dbo:foundationPlace	dbr:1947_in_music
+dbr:Croatia_Records	
+dbo:product	dbr:Grim_Dawn
+dbo:foundationPlace	dbr:United_States
+dbr:Crate_Entertainment	
+dbo:product	dbr:Civil_disobedience
+dbo:foundationPlace	dbr:Mount_Hood_National_Forest
+dbr:Ruckus_Society	
+dbo:product	dbr:Ceramic_materials
+dbo:foundationPlace	dbr:Hyōgo
+dbr:Asahi_Glass_Co.	
+dbo:product	dbr:Hi-Fi
+dbo:foundationPlace	dbr:Peter_Lyngdorf
+dbr:Danish_Audiophile_Loudspeaker_Industries	
+dbo:product	dbr:Telephone
+dbo:foundationPlace	dbr:Wisconsin
+dbr:Amherst_Telephone_Company	
+dbo:product	dbr:Yogurt
+dbo:foundationPlace	dbr:Andover,_Massachusetts
+dbr:Colombo_Yogurt	
+dbo:product	dbr:Furniture
+dbo:foundationPlace	dbr:Leicester
+dbr:Dunelm_Group	
+dbo:product	dbr:Avionics
+dbo:foundationPlace	dbr:Bengaluru
+dbr:Bharat_Electronics_Limited	
+dbo:product	dbr:Pliers
+dbo:foundationPlace	dbr:Germany
+dbr:Knipex	
+dbo:product	dbr:Data_Hosting
+dbo:foundationPlace	dbr:South_Africa
+dbr:Telkom_(South_Africa)	
+dbo:product	dbr:GibWireline
+dbo:foundationPlace	dbr:Gibraltar
+dbr:Gibtelecom	
+dbo:product	dbr:Cincinnati_chili
+dbo:foundationPlace	dbr:Newport,_Kentucky
+dbr:Dixie_Chili_and_Deli	
+dbo:product	dbr:Sports_nutrition
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Herbalife	
+dbo:product	dbr:FL_Studio
+dbo:foundationPlace	dbr:Belgium
+dbr:Image-Line	
+dbo:product	dbr:CitectSCADA
+dbo:foundationPlace	dbr:Australia
+dbr:Citect	
+dbo:product	dbr:Direct_broadcast_satellite
+dbo:foundationPlace	dbr:Portugal
+dbr:TVTEL	
+dbo:product	dbr:Michael_Jackson's_Moonwalker
+dbo:foundationPlace	dbr:1988_in_video_gaming
+dbr:Emerald_Software	
+dbo:product	dbr:Superstore
+dbo:foundationPlace	dbr:London
+dbr:Tesco_International_operations	
+dbo:product	dbr:Bacon
+dbo:foundationPlace	dbr:Koothattukulam
+dbr:Meat_Products_of_India	
+dbo:product	dbr:Superstore
+dbo:foundationPlace	dbr:Cincinnati
+dbr:Kroger	
+dbo:product	dbr:Rusk
+dbo:foundationPlace	dbr:England
+dbr:Kashmir_Crown_Bakeries	
+dbo:product	dbr:Borscht
+dbo:foundationPlace	dbr:New_York_City
+dbr:Gold_Pure_Food_Products_Co.	
+dbo:product	dbr:ISP
+dbo:foundationPlace	dbr:Aveiro,_Portugal
+dbr:SAPO_(company)	
+dbo:product	dbr:Le_31
+dbo:foundationPlace	dbr:Quebec_City
+dbr:La_Maison_Simons	
+dbo:product	dbr:Suspension_(vehicle)
+dbo:foundationPlace	dbr:United_States
+dbr:Big_Brand_Tire_&_Service	
+dbo:product	dbr:Consultant
+dbo:foundationPlace	dbr:Zagreb,_Croatia
+dbr:Ericsson_Nikola_Tesla	
+dbo:product	dbr:Effects_units
+dbo:foundationPlace	dbr:Red_Bank,_New_Jersey
+dbr:Danelectro	
+dbo:product	dbr:Commercial_bank
+dbo:foundationPlace	dbr:Čačak
+dbr:Čačanska_banka	
+dbo:product	dbr:Freeway_(software)
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Softpress	
+dbo:product	dbr:Gibtel
+dbo:foundationPlace	dbr:Gibraltar
+dbr:Gibtelecom	
+dbo:product	dbr:Credit_card
+dbo:foundationPlace	dbr:Puerto_Rico
+dbr:Banco_Crédito_y_Ahorro_Ponceño	
+dbo:product	dbr:Luxury_yacht
+dbo:foundationPlace	dbr:Lazio
+dbr:Fincantieri	
+dbo:product	dbr:NeXTcube
+dbo:foundationPlace	dbr:California
+dbr:NeXT	
+dbo:product	dbr:Enterprise_resource_planning
+dbo:foundationPlace	dbr:Andover,_Massachusetts
+dbr:Visibility_(corporation)	
+dbo:product	dbr:Sparkling_water
+dbo:foundationPlace	dbr:United_States
+dbr:Foxon_Park	
+dbo:product	dbr:Investment_banking
+dbo:foundationPlace	dbr:China
+dbr:Industrial_and_Commercial_Bank_of_China	
+dbo:product	dbr:Shooting_range
+dbo:foundationPlace	dbr:Provo,_Utah
+dbr:Action_Target	
+dbo:product	dbr:Beverage
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Golden_State_Foods	
+dbo:product	dbr:Bearing_(mechanical)
+dbo:foundationPlace	dbr:Kuwana,_Mie
+dbr:NTN_Corporation	
+dbo:product	dbr:Investment_banking
+dbo:foundationPlace	dbr:City_of_London
+dbr:Barclays	
+dbo:product	dbr:Rute_(music)
+dbo:foundationPlace	dbr:Niagara_Falls,_New_York
+dbr:Regaltip	
+dbo:product	dbr:Mobile_Phones
+dbo:foundationPlace	dbr:Chile
+dbr:Entel_Phone	
+dbo:product	dbr:Philippine_cuisine
+dbo:foundationPlace	dbr:Mandaluyong
+dbr:Bacolod_Chicken_Inasal	
+dbo:product	dbr:Sporting_goods
+dbo:foundationPlace	dbr:Harrison,_New_Jersey
+dbr:Two_Guys	
+dbo:product	dbr:Ghost_Pirates_of_Vooju_Island
+dbo:foundationPlace	dbr:Encinitas,_California
+dbr:Autumn_Moon_Entertainment	
+dbo:product	dbr:Lifestyle_brand
+dbo:foundationPlace	dbr:Paramount,_California
+dbr:West_Coast_Choppers	
+dbo:product	dbr:Digital_Audio_Player
+dbo:foundationPlace	dbr:United_States
+dbr:Kingston_Technology	
+dbo:product	dbr:Telecommunications
+dbo:foundationPlace	dbr:Quebec
+dbr:Cogeco	
+dbo:product	dbr:Wind_power
+dbo:foundationPlace	dbr:Lianyuan
+dbr:Sany	
+dbo:product	dbr:Kitchens
+dbo:foundationPlace	dbr:Howden
+dbr:Wren_Kitchens	
+dbo:product	dbr:OLED_displays
+dbo:foundationPlace	dbr:Mobara
+dbr:Futaba_Corporation	
+dbo:product	dbr:Jewels
+dbo:foundationPlace	dbr:Switzerland
+dbr:Piaget_SA	
+dbo:product	dbr:Furniture
+dbo:foundationPlace	dbr:California
+dbr:Pier_1_Imports	dbr:Cost_Plus,_Inc.	dbr:Breuners_Home_Furnishings	
+dbo:product	dbr:Fried_chicken
+dbo:foundationPlace	dbr:Bethpage,_New_York
+dbr:Pudgie's	
+dbo:product	dbr:SpongeBob_SquarePants_featuring_Nicktoons:_Globs_of_Doom
+dbo:foundationPlace	dbr:Carlsbad,_California
+dbr:Incinerator_Studios	
+dbo:product	dbr:Binoculars
+dbo:foundationPlace	dbr:Tokyo
+dbr:Pentax	dbr:Nikon	
+dbo:product	dbr:Implantable_cardioverter-defibrillator
+dbo:foundationPlace	dbr:Saint_Paul,_Minnesota
+dbr:St._Jude_Medical	
+dbo:product	dbr:Daily_fantasy_sports
+dbo:foundationPlace	dbr:Boston,_Massachusetts
+dbr:DraftKings	
+dbo:product	dbr:Web_Design
+dbo:foundationPlace	dbr:Gladstone,_Queensland
+dbr:Dreamtilt	
+dbo:product	dbr:Sex_Tips_for_Girls
+dbo:foundationPlace	dbr:London
+dbr:Ricochet_(TV_production_company)	
+dbo:product	dbr:Bedding
+dbo:foundationPlace	dbr:John_Oster_Manufacturing_Company
+dbr:Sunbeam_Products	
+dbo:product	dbr:Jams
+dbo:foundationPlace	dbr:Vineland,_New_Jersey
+dbr:Welch's	
+dbo:product	dbr:Ticket_exchange
+dbo:foundationPlace	dbr:Austin,_Texas
+dbr:TicketCity	
+dbo:product	dbr:Digital_single-lens_reflex_camera
+dbo:foundationPlace	dbr:Tokyo
+dbr:Nikon	
+dbo:product	dbr:Seafood
+dbo:foundationPlace	dbr:North_Carolina
+dbr:Harris_Teeter	
+dbo:product	dbr:Supercenter
+dbo:foundationPlace	dbr:Alexandria
+dbr:Spinneys	
+dbo:product	dbr:Cake_mix
+dbo:foundationPlace	dbr:Minnesota
+dbr:General_Mills	
+dbo:product	dbr:Runes_of_Magic
+dbo:foundationPlace	dbr:Taiwan
+dbr:Runewaker_Entertainment	
+dbo:product	dbr:SUV
+dbo:foundationPlace	dbr:Nanchang
+dbr:Jianxi_Isuzu_Motors	
+dbo:product	dbr:Interior_design
+dbo:foundationPlace	dbr:Fisherman's_Wharf,_San_Francisco,_California
+dbr:Cost_Plus,_Inc.	
+dbo:product	dbr:Broadband
+dbo:foundationPlace	dbr:Perth,_Western_Australia
+dbr:Highway_1_(ISP)	dbr:ZettaNet	
+dbo:product	dbr:Sunglasses
+dbo:foundationPlace	dbr:Cleveland
+dbr:Target_Optical	
+dbo:product	dbr:Electronic_commerce
+dbo:foundationPlace	dbr:Seattle
+dbr:CarDomain	
+dbo:product	dbr:Cake
+dbo:foundationPlace	dbr:Tennenlohe
+dbr:Der_Beck	
+dbo:product	dbr:Diving_regulators
+dbo:foundationPlace	dbr:California
+dbr:American_Underwater_Products	
+dbo:product	dbr:Hoagies
+dbo:foundationPlace	dbr:United_States
+dbr:Wawa_Inc.	
+dbo:product	dbr:Credit_Cards
+dbo:foundationPlace	dbr:Montana
+dbr:Valley_Bank_of_Kalispell	
+dbo:product	dbr:Pesticide
+dbo:foundationPlace	dbr:St._Louis
+dbr:Monsanto	
+dbo:product	dbr:Retail_Banking
+dbo:foundationPlace	dbr:Argentina
+dbr:Banco_Credicoop	
+dbo:product	dbr:Resonator_guitar
+dbo:foundationPlace	dbr:Los_Angeles,_California
+dbr:National_String_Instrument_Corporation	
+dbo:product	dbr:Credit_card
+dbo:foundationPlace	dbr:Storm_Lake,_Iowa
+dbr:MetaBank	
+dbo:product	dbr:Outboard_motor
+dbo:foundationPlace	dbr:Tokyo
+dbr:Tohatsu	
+dbo:product	dbr:Castellan
+dbo:foundationPlace	dbr:Taichung
+dbr:Runewaker_Entertainment	
+dbo:product	dbr:Cream_soda
+dbo:foundationPlace	dbr:Connecticut
+dbr:Foxon_Park	
+dbo:product	dbr:Petrochemical
+dbo:foundationPlace	dbr:Pennsylvania
+dbr:Sunoco	
+dbo:product	dbr:Hex_key
+dbo:foundationPlace	dbr:Wuppertal
+dbr:Wera_Tools	
+dbo:product	dbr:Investment_Management
+dbo:foundationPlace	dbr:Turkey
+dbr:Halikarnas_Financial_Services_and_Advisory	
+dbo:product	dbr:Ketones
+dbo:foundationPlace	dbr:Turkey
+dbr:Altintel	
+dbo:product	dbr:Breadstick
+dbo:foundationPlace	dbr:Lexington,_Kentucky
+dbr:Fazoli's	
+dbo:product	dbr:Telecommunications
+dbo:foundationPlace	dbr:Italy
+dbr:Onda_Mobile_Communication	dbr:Telit	
+dbo:product	dbr:Ice_cream
+dbo:foundationPlace	dbr:Kansas
+dbr:MaggieMoo's_Ice_Cream_and_Treatery	
+dbo:product	dbr:Casino
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Landmark_Entertainment_Group	
+dbo:product	dbr:Ham
+dbo:foundationPlace	dbr:Tokushima,_Tokushima
+dbr:Nippon_Ham	
+dbo:product	dbr:Savings_account
+dbo:foundationPlace	dbr:Boca_Raton,_Florida
+dbr:IBM_Southeast_Employees'_Credit_Union	
+dbo:product	dbr:Fleet_management
+dbo:foundationPlace	dbr:Sydney
+dbr:Maptek	
+dbo:product	dbr:VoIP_phone
+dbo:foundationPlace	dbr:Tupelo,_Mississippi
+dbr:Comcast	
+dbo:product	dbr:Global_Mapper
+dbo:foundationPlace	dbr:Maine
+dbr:Blue_Marble_Geographics	
+dbo:product	dbr:Refining
+dbo:foundationPlace	dbr:Calgary
+dbr:RSX_Energy	
+dbo:product	dbr:Chop_Chop_Tennis
+dbo:foundationPlace	dbr:Canada
+dbr:Gamerizon	
+dbo:product	dbr:Vinegar
+dbo:foundationPlace	dbr:Bačka_Palanka
+dbr:Carlsberg_Srbija	
+dbo:product	dbr:Steak_sauce
+dbo:foundationPlace	dbr:New_York_City
+dbr:Gold_Pure_Food_Products_Co.	
+dbo:product	dbr:Book
+dbo:foundationPlace	dbr:Glasgow
+dbr:Fopp_(retailer)	
+dbo:product	dbr:Perennials
+dbo:foundationPlace	dbr:Boston
+dbr:Breck's	
+dbo:product	dbr:Financial_Services
+dbo:foundationPlace	dbr:Montreal
+dbr:Sun_Life_Financial	
+dbo:product	dbr:MarketWatch
+dbo:foundationPlace	dbr:United_States
+dbr:Dow_Jones_&_Company	
+dbo:product	dbr:Turok_(series)
+dbo:foundationPlace	dbr:United_States
+dbr:Acclaim_Studios_Austin	
+dbo:product	dbr:Light_fixture
+dbo:foundationPlace	dbr:Portland,_OR
+dbr:A-Boy_Plumbing_&_Electrical_Supply	
+dbo:product	dbr:Camera
+dbo:foundationPlace	dbr:Scotland
+dbr:Charles_Frank_Ltd	
+dbo:product	dbr:Water-based_ink
+dbo:foundationPlace	dbr:Hospitalet_de_Llobregat
+dbr:Chimigraf	
+dbo:product	dbr:Commodore_128
+dbo:foundationPlace	dbr:Canada
+dbr:Commodore_International	
+dbo:product	dbr:Tacos
+dbo:foundationPlace	dbr:Wichita,_Kansas
+dbr:Taco_Tico	
+dbo:product	dbr:Maya_(software)
+dbo:foundationPlace	dbr:San_Francisco,_California
+dbr:Autodesk_Media_and_Entertainment	
+dbo:product	dbr:Taco
+dbo:foundationPlace	dbr:Newport_Beach,_California
+dbr:Chronic_Tacos	
+dbo:product	dbr:Toys
+dbo:foundationPlace	dbr:Worcester,_Massachusetts
+dbr:That's_Entertainment_(comic_shop)	
+dbo:product	dbr:Infrastructure_as_a_service
+dbo:foundationPlace	dbr:London
+dbr:CertiVox	
+dbo:product	dbr:Marching_instrument
+dbo:foundationPlace	dbr:Terre_Haute
+dbr:Paige's_Music	
+dbo:product	dbr:Short_message_service
+dbo:foundationPlace	dbr:Toronto
+dbr:Bell_Mobility	
+dbo:product	dbr:Hot_dogs
+dbo:foundationPlace	dbr:Kentucky
+dbr:Checkers_and_Rally's	
+dbo:product	dbr:Video
+dbo:foundationPlace	dbr:Hiroshima
+dbr:Brain_Music	
+dbo:product	dbr:Air_conditioning
+dbo:foundationPlace	dbr:Pittsburgh,_Pennsylvania
+dbr:Rheem	
+dbo:product	dbr:Hot_dogs
+dbo:foundationPlace	dbr:Winnipeg
+dbr:A&W_(Canada)	
+dbo:product	dbr:Bakery
+dbo:foundationPlace	dbr:Troy,_New_York
+dbr:Bruegger's	
+dbo:product	dbr:Mandolin
+dbo:foundationPlace	dbr:Turkey
+dbr:Epiphone	
+dbo:product	dbr:Sandwiches
+dbo:foundationPlace	dbr:Rochester,_New_York
+dbr:DiBella's	
+dbo:product	dbr:Electricity_generation
+dbo:foundationPlace	dbr:Texas
+dbr:Luminant	dbr:Energy_Future_Holdings	
+dbo:product	dbr:Chili_con_carne
+dbo:foundationPlace	dbr:Joplin,_Missouri
+dbr:Fred_and_Red's	
+dbo:product	dbr:Frappuccino
+dbo:foundationPlace	dbr:Washington_(U.S._state)
+dbr:Woods_Coffee	
+dbo:product	dbr:Entrees
+dbo:foundationPlace	dbr:Alberta
+dbr:Boston_Pizza	
+dbo:product	dbr:Private_Bank
+dbo:foundationPlace	dbr:Canyonville,_Oregon
+dbr:Umpqua_Holdings_Corporation	
+dbo:product	dbr:Gold
+dbo:foundationPlace	dbr:Mumbai
+dbr:Vedanta_Resources	
+dbo:product	dbr:Commercial_bank
+dbo:foundationPlace	dbr:China
+dbr:China_Construction_Bank	dbr:Industrial_and_Commercial_Bank_of_China	
+dbo:product	dbr:Loan
+dbo:foundationPlace	dbr:Tehran
+dbr:Amin_Investment_Bank	
+dbo:product	dbr:Pizza
+dbo:foundationPlace	dbr:Boston,_Massachusetts
+dbr:Papa_Gino's	
+dbo:product	dbr:Consolidated_Commodore
+dbo:foundationPlace	dbr:Buffalo,_NY
+dbr:Consolidated_Aircraft	
+dbo:product	dbr:Trading_Cards
+dbo:foundationPlace	dbr:United_States
+dbr:That's_Entertainment_(comic_shop)	dbr:ACME_Comics_&_Collectibles	
+dbo:product	dbr:Digital_television
+dbo:foundationPlace	dbr:Cali
+dbr:Claro_Colombia	
+dbo:product	dbr:Nachos
+dbo:foundationPlace	dbr:Georgia_(U.S._state)
+dbr:Moe's_Southwest_Grill	
+dbo:product	dbr:Seafood
+dbo:foundationPlace	dbr:British_Columbia
+dbr:The_Keg	
+dbo:product	dbr:Linens
+dbo:foundationPlace	dbr:Greenville,_Mississippi
+dbr:Stein_Mart	
+dbo:product	dbr:Mobile_Phones_&_Gadget
+dbo:foundationPlace	dbr:Newcastle-upon-Tyne
+dbr:Grainger_Games	
+dbo:product	dbr:List_of_auto_parts
+dbo:foundationPlace	dbr:Turin
+dbr:Fiat_S.p.A.	
+dbo:product	dbr:Lighting_control_system
+dbo:foundationPlace	dbr:Madison,_WI
+dbr:Electronic_Theatre_Controls	
+dbo:product	dbr:Media-Manager
+dbo:foundationPlace	dbr:Australia
+dbr:Laservision	
+dbo:product	dbr:Laser_cutting
+dbo:foundationPlace	dbr:Wels
+dbr:Trotec	
+dbo:product	dbr:Credit_card
+dbo:foundationPlace	dbr:Banco_de_Credito_del_Peru
+dbr:Banco_de_Crédito_de_Bolivia	
+dbo:product	dbr:Fallout_(series)
+dbo:foundationPlace	dbr:1983_in_video_gaming
+dbr:Interplay_Entertainment	
+dbo:product	dbr:Apparel
+dbo:foundationPlace	dbr:India
+dbr:Printvenue	
+dbo:product	dbr:Taco
+dbo:foundationPlace	dbr:Newtown,_New_South_Wales
+dbr:Guzman_y_Gomez	
+dbo:product	dbr:Mobile_phone
+dbo:foundationPlace	dbr:Douglas_County,_Colorado
+dbr:Liberty_Global	
+dbo:product	dbr:Animated_feature_film
+dbo:foundationPlace	dbr:Shanghai
+dbr:Shanghai_Animation_Film_Studio	
+dbo:product	dbr:Steel-string_acoustic_guitar
+dbo:foundationPlace	dbr:Van_Nuys
+dbr:Schecter_Guitar_Research	
+dbo:product	dbr:Perfumes
+dbo:foundationPlace	dbr:London
+dbr:Alfred_Dunhill_Ltd.	
+dbo:product	dbr:Securities
+dbo:foundationPlace	dbr:Beijing
+dbr:Bank_of_China	
+dbo:product	dbr:Cookie
+dbo:foundationPlace	dbr:Philadelphia
+dbr:Keebler_Company	
+dbo:product	dbr:Baby_carrier
+dbo:foundationPlace	dbr:Boulder,_Colorado
+dbr:Belle_Baby_Carriers	
+dbo:product	dbr:Ace_Combat
+dbo:foundationPlace	dbr:Tokyo
+dbr:Bandai_Namco_Entertainment	
+dbo:product	dbr:Audiobook
+dbo:foundationPlace	dbr:Saigon
+dbr:Thúy_Nga_Productions	
+dbo:product	dbr:Selsun_Blue
+dbo:foundationPlace	dbr:Tennessee
+dbr:Chattem	
+dbo:product	<http://www.guixt.com/products/webui.php>
+dbo:foundationPlace	dbr:California
+dbr:GuiXT	
+dbo:product	dbr:Advertising_network
+dbo:foundationPlace	dbr:Beverly_Hills
+dbr:Hydra_Network	
+dbo:product	dbr:Lists_of_radio_stations_in_North_America
+dbo:foundationPlace	dbr:North_Carolina
+dbr:Beasley_Broadcast_Group	
+dbo:product	dbr:Rolex_Datejust
+dbo:foundationPlace	dbr:United_Kingdom_of_Great_Britain_and_Ireland
+dbr:Rolex	
+dbo:product	dbr:Continuous_Miners
+dbo:foundationPlace	dbr:Incorporation_(business)
+dbr:Joy_Mining_Machinery	
+dbo:product	dbr:IT_consultancy
+dbo:foundationPlace	dbr:Oslo
+dbr:Visma	
+dbo:product	dbr:Merchandise
+dbo:foundationPlace	dbr:Irvine,_California
+dbr:Diedrich_Coffee	
+dbo:product	dbr:Rag_Doll_Kung_Fu
+dbo:foundationPlace	dbr:2004_in_video_gaming
+dbr:Tarsier_Studios	
+dbo:product	dbr:Connection_Machine
+dbo:foundationPlace	dbr:Massachusetts
+dbr:Thinking_Machines_Corporation	
+dbo:product	dbr:Computer_networking_device
+dbo:foundationPlace	dbr:United_States
+dbr:Cisco_Systems	
+dbo:product	dbr:French_fries
+dbo:foundationPlace	dbr:Saudi_Arabia
+dbr:Herfy	
+dbo:product	dbr:Vehicle
+dbo:foundationPlace	dbr:Gun_Quarter
+dbr:Birmingham_Small_Arms_Company	
+dbo:product	dbr:Power_Supply
+dbo:foundationPlace	dbr:Denver
+dbr:Mushkin	
+dbo:product	dbr:Digital_signal_processor
+dbo:foundationPlace	dbr:Geophysical_Service_Incorporated
+dbr:Texas_Instruments	
+dbo:product	dbr:Poultry
+dbo:foundationPlace	dbr:San_Francisco
+dbr:Fresh_Del_Monte_Produce	
+dbo:product	dbr:Flame_Effects
+dbo:foundationPlace	dbr:Australia
+dbr:Laservision	
+dbo:product	dbr:Radio_modem
+dbo:foundationPlace	dbr:Finland
+dbr:SATEL	
+dbo:product	dbr:Hair_products
+dbo:foundationPlace	dbr:Corpus_Christi,_Texas
+dbr:Selena_Etc.	
+dbo:product	dbr:Delicatessen
+dbo:foundationPlace	dbr:Idaho
+dbr:Safeway_Inc.	
+dbo:product	dbr:Major_appliance
+dbo:foundationPlace	dbr:Germany
+dbr:Miele	
+dbo:product	dbr:Enterprise_resource_planning
+dbo:foundationPlace	dbr:Netherlands
+dbr:Baan_Corporation	
+dbo:product	dbr:Visualization_(graphic)
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Kitware	
+dbo:product	dbr:CRBT
+dbo:foundationPlace	dbr:New_Delhi
+dbr:Mahindra_Comviva	
+dbo:product	dbr:Insurance
+dbo:foundationPlace	dbr:Kitchener,_Ontario
+dbr:Your_Neighbourhood_Credit_Union	
+dbo:product	dbr:Dairy
+dbo:foundationPlace	dbr:Washington_(state)
+dbr:Haggen	
+dbo:product	dbr:Easyrec
+dbo:foundationPlace	dbr:Salzburg
+dbr:Research_Studios_Austria	
+dbo:product	dbr:Rum
+dbo:foundationPlace	dbr:St._George's,_Bermuda
+dbr:Gosling_Brothers	
+dbo:product	dbr:AmigaOS_4
+dbo:foundationPlace	dbr:1999_in_video_gaming
+dbr:Hyperion_Entertainment	
+dbo:product	dbr:EDart
+dbo:foundationPlace	dbr:Traverse_City,_Michigan
+dbr:RJG_Inc.	
+dbo:product	dbr:Cruising_(maritime)
+dbo:foundationPlace	dbr:Italy
+dbr:MSC_Cruises	
+dbo:product	dbr:Mobile_phone
+dbo:foundationPlace	dbr:Hamburg
+dbr:Blau_Mobilfunk	
+dbo:product	dbr:Snacks
+dbo:foundationPlace	dbr:Santiago_de_Chile
+dbr:Líder	
+dbo:product	dbr:Electricity_generation
+dbo:foundationPlace	dbr:Dallas
+dbr:Luminant	dbr:Energy_Future_Holdings	
+dbo:product	dbr:Metroid_Prime
+dbo:foundationPlace	dbr:Austin,_Texas
+dbr:Retro_Studios	
+dbo:product	dbr:Speaker_cabinets
+dbo:foundationPlace	dbr:Sylmar,_California
+dbr:SWR_Sound_Corporation	
+dbo:product	dbr:Oprah:_Where_Are_They_Now%3F
+dbo:foundationPlace	dbr:Chicago
+dbr:Harpo_Productions	
+dbo:product	dbr:Breakfast_food
+dbo:foundationPlace	dbr:Springfield,_Massachusetts
+dbr:Friendly's	
+dbo:product	dbr:Electric_power_transmission
+dbo:foundationPlace	dbr:Ontario
+dbr:Hydro_One	
+dbo:product	dbr:Airliner
+dbo:foundationPlace	dbr:1938_in_aviation
+dbr:Messerschmitt	
+dbo:product	dbr:Brazing
+dbo:foundationPlace	dbr:Lausanne,_Switzerland
+dbr:Castolin_Eutectic	
+dbo:product	dbr:Security
+dbo:foundationPlace	dbr:Montreal
+dbr:Genetec	
+dbo:product	dbr:Apparel
+dbo:foundationPlace	dbr:New_York,_New_York
+dbr:Wilke-Rodriguez	
+dbo:product	dbr:Small_and_medium_enterprises
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:State_Bank_of_Hyderabad	
+dbo:product	dbr:Paper
+dbo:foundationPlace	dbr:Turin
+dbr:Nebiolo_Printech	
+dbo:product	dbr:Sex_toy
+dbo:foundationPlace	dbr:Los_Angeles_County,_California
+dbr:Doc_Johnson	
+dbo:product	<http://white.dilmah.com/,>
+dbo:foundationPlace	dbr:Sri_Lanka
+dbr:Dilmah	
+dbo:product	dbr:Financial_Services
+dbo:foundationPlace	dbr:Halifax,_West_Yorkshire
+dbr:Yorkshire_Bank	
+dbo:product	dbr:IP_switching
+dbo:foundationPlace	dbr:Austin,_TX
+dbr:Genband	
+dbo:product	dbr:Vinegar
+dbo:foundationPlace	dbr:Serbia
+dbr:Carlsberg_Srbija	
+dbo:product	dbr:Spotting_scope
+dbo:foundationPlace	dbr:Bucharest
+dbr:I.O.R.	
+dbo:product	dbr:Commercial_Banking
+dbo:foundationPlace	dbr:Mangalore
+dbr:Canara_Bank	
+dbo:product	dbr:Mobile_banking
+dbo:foundationPlace	dbr:Milwaukee,_Wisconsin
+dbr:Landmark_Credit_Union	
+dbo:product	dbr:Mobile_telephone
+dbo:foundationPlace	dbr:Colombia
+dbr:Claro_Colombia	
+dbo:product	dbr:Financial_Planning
+dbo:foundationPlace	dbr:India
+dbr:InsuringIndia	
+dbo:product	dbr:Acoustic_guitar
+dbo:foundationPlace	dbr:Poughkeepsie_(city),_New_York
+dbr:Babicz_Guitars	
+dbo:product	dbr:Media_gateway
+dbo:foundationPlace	dbr:Austin,_TX
+dbr:Genband	
+dbo:product	dbr:PowerFTP
+dbo:foundationPlace	dbr:Calgary,_Canada
+dbr:FSA_Corporation	
+dbo:product	dbr:Fast_Food
+dbo:foundationPlace	dbr:Lima
+dbr:Bembos	
+dbo:product	dbr:Career_counseling
+dbo:foundationPlace	dbr:Ickenham
+dbr:The_JGA_Group	
+dbo:product	dbr:French_fries
+dbo:foundationPlace	dbr:Arlington,_Virginia
+dbr:Five_Guys	
+dbo:product	dbr:Autographs
+dbo:foundationPlace	dbr:United_States
+dbr:That's_Entertainment_(comic_shop)	
+dbo:product	dbr:Air_gun
+dbo:foundationPlace	dbr:Zella-Mehlis
+dbr:Weihrauch	
+dbo:product	dbr:E-commerce
+dbo:foundationPlace	dbr:Zhejiang
+dbr:Alibaba_Group	
+dbo:product	dbr:Furniture
+dbo:foundationPlace	dbr:Fisherman's_Wharf,_San_Francisco,_California
+dbr:Cost_Plus,_Inc.	
+dbo:product	dbr:Desserts
+dbo:foundationPlace	dbr:Maharashtra
+dbr:Smokin'_Joe's	
+dbo:product	dbr:Apparel
+dbo:foundationPlace	dbr:France
+dbr:Millet_(manufacturer)	
+dbo:product	dbr:TVBS
+dbo:foundationPlace	dbr:Kowloon
+dbr:TVB	
+dbo:product	dbr:Banking
+dbo:foundationPlace	dbr:Alhambra,_California
+dbr:Omni_Bank_(California)	dbr:Tomato_Bank	
+dbo:product	dbr:Landline
+dbo:foundationPlace	dbr:Optimus_Telecomunicações
+dbr:NOS_(Portuguese_media_company)	
+dbo:product	dbr:Sandwich
+dbo:foundationPlace	dbr:Springfield,_Massachusetts
+dbr:Friendly's	
+dbo:product	dbr:Sports_nutrition
+dbo:foundationPlace	dbr:California
+dbr:Herbalife	
+dbo:product	dbr:Digital_single-lens_reflex_camera
+dbo:foundationPlace	dbr:Japan
+dbr:Nikon	
+dbo:product	dbr:Furniture
+dbo:foundationPlace	dbr:Jackson,_Michigan
+dbr:Jacobson's	
+dbo:product	dbr:Glass
+dbo:foundationPlace	dbr:Amagasaki
+dbr:Asahi_Glass_Co.	
+dbo:product	dbr:Service_control_point
+dbo:foundationPlace	dbr:Australia
+dbr:Oasis_Systems	
+dbo:product	dbr:Food
+dbo:foundationPlace	dbr:New_South_Wales
+dbr:David_Jones_Limited	
+dbo:product	dbr:Spacecraft
+dbo:foundationPlace	dbr:Mojave,_California
+dbr:The_Spaceship_Company	
+dbo:product	dbr:Terrycloth
+dbo:foundationPlace	dbr:Mumbai
+dbr:Welspun_Retail_Ltd	
+dbo:product	dbr:Ice_cream
+dbo:foundationPlace	dbr:Prince_Edward_Island
+dbr:Cows_Creamery	
+dbo:product	dbr:Credit_card
+dbo:foundationPlace	dbr:Karachi
+dbr:First_Women_Bank_Limited	dbr:Bank_Alfalah	dbr:Summit_Bank	
+dbo:product	dbr:Royalty_trust
+dbo:foundationPlace	dbr:Calgary
+dbr:Harvest_Operations	dbr:Pengrowth_Energy	
+dbo:product	dbr:VPN-1
+dbo:foundationPlace	dbr:Israel
+dbr:Check_Point	
+dbo:product	dbr:Directory_assistance
+dbo:foundationPlace	dbr:Munich
+dbr:Telegate	
+dbo:product	dbr:Music
+dbo:foundationPlace	dbr:2004_in_music
+dbr:Suntrip_Records	
+dbo:product	dbr:Freight
+dbo:foundationPlace	dbr:Seattle
+dbr:United_Parcel_Service	
+dbo:product	dbr:Shoe
+dbo:foundationPlace	dbr:United_States
+dbr:Converse_(shoe_company)	dbr:British_Knights	
+dbo:product	dbr:Bicycle
+dbo:foundationPlace	dbr:California
+dbr:Mongoose_(bicycles)	
+dbo:product	dbr:ECG
+dbo:foundationPlace	dbr:Haryana
+dbr:YU_Televentures	
+dbo:product	dbr:Internet
+dbo:foundationPlace	dbr:Cuba
+dbr:ETECSA	
+dbo:product	dbr:Pizza
+dbo:foundationPlace	dbr:Louisville,_Kentucky
+dbr:Bearno's	
+dbo:product	dbr:Internet
+dbo:foundationPlace	dbr:South_Australia
+dbr:News_Corp_Australia	
+dbo:product	dbr:Thin_films
+dbo:foundationPlace	dbr:New_Delhi
+dbr:Moser_Baer_Solar_(company)	
+dbo:product	dbr:Canadian_cuisine
+dbo:foundationPlace	dbr:Ontario
+dbr:Swiss_Chalet	
+dbo:product	dbr:Vacuum_tube
+dbo:foundationPlace	dbr:Slovakia
+dbr:JJ_Electronic	
+dbo:product	dbr:Arab_cuisine
+dbo:foundationPlace	dbr:Dammam
+dbr:Abu_Nawas	
+dbo:product	dbr:Automobile
+dbo:foundationPlace	dbr:Qingdao
+dbr:Soar_Automotive	
+dbo:product	dbr:Banking
+dbo:foundationPlace	dbr:Dhaka
+dbr:Dutch_Bangla_Bank	dbr:Trust_Bank_Limited_(Bangladesh)	dbr:Janata_Bank	dbr:IFIC_Bank	dbr:Prime_Bank_Limited	dbr:Islami_Bank_Bangladesh_Ltd	dbr:One_Bank_Limited	dbr:Bangladesh_Commerce_Bank_Limited	dbr:BASIC_Bank_Limited	dbr:Bangladesh_Krishi_Bank	dbr:First_Security_Islami_Bank_Limited	dbr:Meghna_Bank	dbr:Mutual_Trust_Bank_Limited	dbr:Social_Islami_Bank	dbr:Probashi_Kallyan_Bank	dbr:Jamuna_Bank	
+dbo:product	dbr:Massage_chair
+dbo:foundationPlace	dbr:Austin,_Texas
+dbr:Relax_The_Back	
+dbo:product	dbr:Laser_printer
+dbo:foundationPlace	dbr:Osaka
+dbr:Minolta	
+dbo:product	dbr:Coffee
+dbo:foundationPlace	dbr:Gävle,_Sweden
+dbr:Gevalia	
+dbo:product	dbr:Vegetables
+dbo:foundationPlace	dbr:United_States
+dbr:Popeyes_Louisiana_Kitchen	
+dbo:product	dbr:PlayStation_Controller
+dbo:foundationPlace	dbr:Minato,_Tokyo
+dbr:Sony_Interactive_Entertainment	
+dbo:product	dbr:Submarine_sandwich
+dbo:foundationPlace	dbr:Prince_Edward_Island
+dbr:Captain_Submarine	
+dbo:product	dbr:Corned_beef
+dbo:foundationPlace	dbr:Edayar
+dbr:Meat_Products_of_India	
+dbo:product	dbr:Automotive_electronics
+dbo:foundationPlace	dbr:Japan
+dbr:Omron	
+dbo:product	dbr:Water
+dbo:foundationPlace	dbr:United_States
+dbr:General_Electric	
+dbo:product	dbr:Health_care_services
+dbo:foundationPlace	dbr:New_York_City
+dbr:McKesson_Corporation	
+dbo:product	dbr:Synthetic_fiber
+dbo:foundationPlace	dbr:Japan
+dbr:Kuraray	
+dbo:product	dbr:Automobile
+dbo:foundationPlace	dbr:Guangzhou
+dbr:GAC_Toyota	dbr:Guangqi_Honda	
+dbo:product	dbr:Power_generation
+dbo:foundationPlace	dbr:Mexico_City
+dbr:Siemens_Mexico	
+dbo:product	dbr:Module
+dbo:foundationPlace	dbr:United_States
+dbr:Cisco_Systems	
+dbo:product	dbr:Pasta
+dbo:foundationPlace	dbr:Lakeland,_Florida
+dbr:Red_Lobster	
+dbo:product	dbr:Green_Tea
+dbo:foundationPlace	dbr:Ireland
+dbr:Barry's_Tea	
+dbo:product	dbr:Optical
+dbo:foundationPlace	dbr:Portugal
+dbr:Companhia_Portuguesa_de_Hipermercados	
+dbo:product	dbr:Floristry
+dbo:foundationPlace	dbr:North_Carolina
+dbr:Harris_Teeter	
+dbo:product	dbr:Touchscreen
+dbo:foundationPlace	dbr:Mobara
+dbr:Futaba_Corporation	
+dbo:product	dbr:Price_comparison
+dbo:foundationPlace	dbr:Poznań
+dbr:Allegro_(auction_website)	
+dbo:product	dbr:Textiles
+dbo:foundationPlace	dbr:Sri_Lanka
+dbr:Hayleys	
+dbo:product	dbr:Special_Effects
+dbo:foundationPlace	dbr:Sydney,_New_South_Wales
+dbr:Laservision	
+dbo:product	dbr:Clock_tower
+dbo:foundationPlace	dbr:England
+dbr:J._B._Joyce_&_Co	
+dbo:product	dbr:Broadband_Internet_access
+dbo:foundationPlace	dbr:Alberta
+dbr:Shaw_Communications	
+dbo:product	dbr:Real_estate
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Harmony_Gold_USA	
+dbo:product	dbr:Internet_access
+dbo:foundationPlace	dbr:Belgrade
+dbr:Telekom_Srbija	
+dbo:product	dbr:Central_ad_server
+dbo:foundationPlace	dbr:New_York_City
+dbr:Right_Media	
+dbo:product	dbr:Tea
+dbo:foundationPlace	dbr:Toronto
+dbr:DavidsTea	
+dbo:product	dbr:Dimmer
+dbo:foundationPlace	dbr:Madison,_WI
+dbr:Electronic_Theatre_Controls	
+dbo:product	dbr:Pizza
+dbo:foundationPlace	dbr:Kelburn,_New_Zealand
+dbr:Hell_Pizza	
+dbo:product	dbr:Medical_device
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Johnson_Matthey	
+dbo:product	dbr:Coconut
+dbo:foundationPlace	dbr:Singapore
+dbr:Ayam_Brand	
+dbo:product	dbr:Dial-Up_Internet
+dbo:foundationPlace	dbr:Toledo,_Ohio
+dbr:Buckeye_Broadband	
+dbo:product	dbr:Banking
+dbo:foundationPlace	dbr:United_States
+dbr:Emprise_Bank	dbr:MetroCorp_Bancshares	dbr:D._L._Evans_Bank	
+dbo:product	dbr:Effects_unit
+dbo:foundationPlace	dbr:São_Paulo,_São_Paulo
+dbr:Giannini	
+dbo:product	dbr:Fibre-Fed_Media_Servers
+dbo:foundationPlace	dbr:Australia
+dbr:Laservision	
+dbo:product	dbr:Asset_management
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Ladenburg_Thalmann	
+dbo:product	dbr:Computer_software
+dbo:foundationPlace	dbr:United_States
+dbr:Sandhills_Publishing_Company	
+dbo:product	dbr:Cymbal
+dbo:foundationPlace	dbr:Istanbul
+dbr:Avedis_Zildjian_Company	dbr:Istanbul_Agop_Cymbals	
+dbo:product	dbr:Advocacy
+dbo:foundationPlace	dbr:Toronto
+dbr:McMillan_LLP	
+dbo:product	dbr:Luggage
+dbo:foundationPlace	dbr:Massachusetts
+dbr:Eastpak	
+dbo:product	dbr:Sausage
+dbo:foundationPlace	dbr:Tokushima,_Tokushima
+dbr:Nippon_Ham	
+dbo:product	dbr:CD
+dbo:foundationPlace	dbr:Chatsworth,_Los_Angeles
+dbr:Image_Entertainment	
+dbo:product	dbr:Information_technology
+dbo:foundationPlace	dbr:Manila
+dbr:Digital_Telecommunications_Philippines	dbr:PLDT	dbr:Express_Telecom	
+dbo:product	dbr:MPLS_VPN
+dbo:foundationPlace	dbr:Houston,_Texas
+dbr:Global_Capacity	
+dbo:product	dbr:Clothing
+dbo:foundationPlace	dbr:Santa_Ana,_CA
+dbr:Society_of_the_Spectacle_LLC	
+dbo:product	dbr:Internet
+dbo:foundationPlace	dbr:Russia
+dbr:PJSC_VimpelCom	
+dbo:product	dbr:Investments
+dbo:foundationPlace	dbr:Osceola,_Wisconsin
+dbr:The_RiverBank	
+dbo:product	dbr:Industry
+dbo:foundationPlace	dbr:Edmonton
+dbr:Commercial_Solutions	dbr:Steeplejack_Industrial	
+dbo:product	dbr:Shotguns
+dbo:foundationPlace	dbr:Thuringia
+dbr:Merkel_(firearms_manufacturer)	
+dbo:product	dbr:Beverage
+dbo:foundationPlace	dbr:Philadelphia
+dbr:Palumbo's	dbr:The_Cherry_Street_Tavern	dbr:McGillin's_Olde_Ale_House	
+dbo:product	dbr:Bathroom
+dbo:foundationPlace	dbr:Leicester
+dbr:Dunelm_Group	
+dbo:product	dbr:Guitar_amplifier
+dbo:foundationPlace	dbr:Ottoman_Empire
+dbr:Epiphone	
+dbo:product	dbr:Rubbing_alcohol
+dbo:foundationPlace	dbr:Ponce,_Puerto_Rico
+dbr:Destilería_Serrallés	
+dbo:product	dbr:Equities
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Neuberger_Berman	
+dbo:product	dbr:Power-Generation_&_Distribution,_Mining
+dbo:foundationPlace	dbr:Kolkata
+dbr:CESC_Limited	
+dbo:product	dbr:Accounting_software
+dbo:foundationPlace	dbr:Australia
+dbr:POS_solutions	
+dbo:product	dbr:Simon_(game)
+dbo:foundationPlace	dbr:United_States
+dbr:Milton_Bradley_Company	
+dbo:product	dbr:Actor
+dbo:foundationPlace	dbr:Canada
+dbr:Stunts_Canada	
+dbo:product	dbr:Comic_Book
+dbo:foundationPlace	dbr:Croatia
+dbr:Fibra	
+dbo:product	dbr:Makeup
+dbo:foundationPlace	dbr:New_York_City
+dbr:Eyes_Lips_Face	
+dbo:product	dbr:Mortgages
+dbo:foundationPlace	dbr:Mangalore
+dbr:Canara_Bank	
+dbo:product	dbr:General_merchandise
+dbo:foundationPlace	dbr:Zagreb,_Croatia
+dbr:Konzum	
+dbo:product	dbr:Milkshake
+dbo:foundationPlace	dbr:Mobile,_Alabama
+dbr:Checkers_and_Rally's	
+dbo:product	dbr:Delicatessen
+dbo:foundationPlace	dbr:Newport,_Kentucky
+dbr:Dixie_Chili_and_Deli	
+dbo:product	dbr:Online_banking
+dbo:foundationPlace	dbr:Ottawa
+dbr:Alterna_Savings	
+dbo:product	dbr:Grocery
+dbo:foundationPlace	dbr:Tavernes_Blanques
+dbr:Mercadona	
+dbo:product	dbr:Ice_cream
+dbo:foundationPlace	dbr:Kansas_City,_Kansas
+dbr:MaggieMoo's_Ice_Cream_and_Treatery	
+dbo:product	dbr:Stage_rigging
+dbo:foundationPlace	dbr:Madison,_WI
+dbr:Electronic_Theatre_Controls	
+dbo:product	dbr:Sandwich
+dbo:foundationPlace	dbr:Alabama
+dbr:Zoës_Kitchen	
+dbo:product	dbr:Kaopectate
+dbo:foundationPlace	dbr:Tennessee
+dbr:Chattem	
+dbo:product	dbr:Web_portal
+dbo:foundationPlace	dbr:United_States
+dbr:The_Walt_Disney_Company	
+dbo:product	dbr:Petrochemical
+dbo:foundationPlace	dbr:Pittsburgh
+dbr:Sunoco	
+dbo:product	dbr:Chocolate
+dbo:foundationPlace	dbr:Ohio
+dbr:Malley's_Chocolates	
+dbo:product	dbr:Telescopes
+dbo:foundationPlace	dbr:Laguna_Hills,_California
+dbr:Explore_Scientific	
+dbo:product	dbr:Internet
+dbo:foundationPlace	dbr:Hamilton,_Ontario
+dbr:Source_Cable	
+dbo:product	dbr:Building_materials
+dbo:foundationPlace	dbr:Chicago
+dbr:True_Value	
+dbo:product	dbr:Late_Late_Show_with_Craig_Ferguson
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Worldwide_Pants	
+dbo:product	dbr:Firearm
+dbo:foundationPlace	dbr:USSR
+dbr:Izhevsk_Mechanical_Plant	
+dbo:product	dbr:Xceed_Binary_Encoding_Library
+dbo:foundationPlace	dbr:Quebec
+dbr:Xceed	
+dbo:product	dbr:Pasta
+dbo:foundationPlace	dbr:Portland,_Maine
+dbr:Amato's	
+dbo:product	dbr:Rapeseed
+dbo:foundationPlace	dbr:Germany
+dbr:KWS_Saat	
+dbo:product	dbr:Gifts
+dbo:foundationPlace	dbr:England
+dbr:Acorn_DVD	
+dbo:product	dbr:Home_appliances
+dbo:foundationPlace	dbr:Germany
+dbr:BSH_Hausgeräte	
+dbo:product	dbr:Houseware
+dbo:foundationPlace	dbr:Wolverhampton
+dbr:Beatties	
+dbo:product	dbr:Restaurant
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:British_Home_Stores	
+dbo:product	dbr:Magnetic_material
+dbo:foundationPlace	dbr:Anan,_Tokushima
+dbr:Nichia	
+dbo:product	dbr:Telecommunications_equipment
+dbo:foundationPlace	dbr:Tokyo
+dbr:NEC	dbr:Sony	
+dbo:product	dbr:Fight_in_the_Skies
+dbo:foundationPlace	dbr:Evansville,_Indiana
+dbr:Guidon_Games	
+dbo:product	dbr:MVNE
+dbo:foundationPlace	dbr:Australia
+dbr:Oasis_Systems	
+dbo:product	dbr:Sandwich
+dbo:foundationPlace	dbr:Kirkwood,_Missouri
+dbr:Panera_Bread	
+dbo:product	dbr:Hot_Dog
+dbo:foundationPlace	dbr:Allentown,_Pennsylvania
+dbr:Yocco's_Hot_Dogs	
+dbo:product	dbr:Toxic_Grind
+dbo:foundationPlace	dbr:United_States
+dbr:Blue_Shift_Inc.	
+dbo:product	dbr:Breakfast_cereal
+dbo:foundationPlace	dbr:Battle_Creek
+dbr:Post_Cereals	
+dbo:product	<http://www.guixt.com/products/developer_toolkit.php>
+dbo:foundationPlace	dbr:California
+dbr:GuiXT	
+dbo:product	dbr:Webhosting
+dbo:foundationPlace	dbr:Gladstone,_Queensland
+dbr:Dreamtilt	
+dbo:product	dbr:Convenience_Foods
+dbo:foundationPlace	dbr:Dublin
+dbr:Greencore	
+dbo:product	dbr:Deposits
+dbo:foundationPlace	dbr:Manila
+dbr:Philippine_Veterans_Bank	
+dbo:product	dbr:Salad
+dbo:foundationPlace	dbr:Plano,_Texas
+dbr:Cicis	
+dbo:product	dbr:Tony_Hawk's_Proving_Ground
+dbo:foundationPlace	dbr:San_Francisco,_California
+dbr:Page_44_Studios	
+dbo:product	dbr:Pizza
+dbo:foundationPlace	dbr:Taylor,_Michigan
+dbr:Hungry_Howie's_Pizza	
+dbo:product	dbr:Network_security
+dbo:foundationPlace	dbr:Seoul
+dbr:AhnLab,_Inc.	
+dbo:product	dbr:Ginger_ale
+dbo:foundationPlace	dbr:Connecticut
+dbr:Foxon_Park	
+dbo:product	dbr:Computer_game
+dbo:foundationPlace	dbr:United_States
+dbr:Berkeley_Systems	
+dbo:product	dbr:Restaurant
+dbo:foundationPlace	dbr:Brixton
+dbr:British_Home_Stores	
+dbo:product	dbr:Mail
+dbo:foundationPlace	dbr:Algeria
+dbr:Algérie_Poste	
+dbo:product	dbr:Mobile_phone_accessories
+dbo:foundationPlace	dbr:Salt_Lake_City
+dbr:Zagg	
+dbo:product	dbr:Resort
+dbo:foundationPlace	dbr:Houston
+dbr:Landry's,_Inc.	
+dbo:product	dbr:Frappuccino
+dbo:foundationPlace	dbr:Lynden
+dbr:Woods_Coffee	
+dbo:product	dbr:Video_production
+dbo:foundationPlace	dbr:England
+dbr:The_Yogscast	
+dbo:product	dbr:Financial_services
+dbo:foundationPlace	dbr:U.S.
+dbr:Lazard	
+dbo:product	dbr:Online_Video_Platform
+dbo:foundationPlace	dbr:Stockholm
+dbr:Picsearch	
+dbo:product	dbr:Tool
+dbo:foundationPlace	dbr:Linköping
+dbr:Biltema	
+dbo:product	dbr:IPTV
+dbo:foundationPlace	dbr:Colombo
+dbr:PEO_TV	
+dbo:product	dbr:Image_scanner
+dbo:foundationPlace	dbr:Gothenburg
+dbr:Hasselblad	
+dbo:product	dbr:Superstore
+dbo:foundationPlace	dbr:Metropolitan_Borough_of_Hackney
+dbr:Tesco_International_operations	
+dbo:product	dbr:Military_aircraft
+dbo:foundationPlace	dbr:Trollhättan,_Sweden
+dbr:Saab_Group	
+dbo:product	dbr:Power_tools
+dbo:foundationPlace	dbr:Syracuse,_New_York
+dbr:Porter-Cable	
+dbo:product	dbr:Computer_Memory
+dbo:foundationPlace	dbr:Delhi
+dbr:Simmtronics	
+dbo:product	dbr:Infrared_thermometer
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Land_Instruments_International	
+dbo:product	dbr:Stock_photography
+dbo:foundationPlace	dbr:Washington_(state)
+dbr:PhotoDisc	
+dbo:product	dbr:Movies
+dbo:foundationPlace	dbr:Stockholm
+dbr:Private_Media_Group	
+dbo:product	dbr:Submarine_sandwich
+dbo:foundationPlace	dbr:Boston,_Massachusetts
+dbr:Papa_Gino's	
+dbo:product	dbr:Laser_Shows
+dbo:foundationPlace	dbr:Sydney,_New_South_Wales
+dbr:Laservision	
+dbo:product	dbr:Bathroom
+dbo:foundationPlace	dbr:Wigan
+dbr:Better_Bathrooms	
+dbo:product	dbr:Intellectual_Property
+dbo:foundationPlace	dbr:United_States
+dbr:FX_Palo_Alto_Laboratory	
+dbo:product	dbr:Pizza
+dbo:foundationPlace	dbr:Oregon,_Ohio
+dbr:Marco's_Pizza	
+dbo:product	dbr:Munchkin
+dbo:foundationPlace	dbr:Iowa
+dbr:ACME_Comics_&_Collectibles	
+dbo:product	dbr:Computer_network
+dbo:foundationPlace	dbr:London
+dbr:Delete_Agency	
+dbo:product	dbr:Börek
+dbo:foundationPlace	dbr:Kahramanmaraş
+dbr:Mado_(food_company)	
+dbo:product	dbr:Ophthalmic_lenses
+dbo:foundationPlace	dbr:Japan
+dbr:Nikon	
+dbo:product	dbr:3D_Printer
+dbo:foundationPlace	dbr:Wilton,_New_Hampshire
+dbr:Solidscape	
+dbo:product	dbr:Chemical
+dbo:foundationPlace	dbr:Kurashiki,_Okayama
+dbr:Kuraray	
+dbo:product	dbr:Motivation
+dbo:foundationPlace	<http://www.successories.com/category/company+info/our+history.do>
+dbr:Successories	
+dbo:product	dbr:Lingerie
+dbo:foundationPlace	dbr:San_Francisco
+dbr:Victoria's_Secret	
+dbo:product	dbr:Ashok_Leyland
+dbo:foundationPlace	dbr:Miami
+dbr:Maxposure_Media_Group	
+dbo:product	dbr:Prescription_drugs
+dbo:foundationPlace	dbr:Vršac
+dbr:Hemofarm_a.d.	
+dbo:product	<http://www.guixt.com/solutions/desktop.php>
+dbo:foundationPlace	dbr:United_States
+dbr:GuiXT	
+dbo:product	<http://www.bpidirect.com/page/view/maxi-saver>
+dbo:foundationPlace	dbr:Manila
+dbr:BPI_Direct_Savings_Bank	
+dbo:product	dbr:Video_game
+dbo:foundationPlace	dbr:Washington_(state)
+dbr:Surreal_Software	
+dbo:product	dbr:Product_Lifecycle_Management
+dbo:foundationPlace	dbr:Torrance,_California
+dbr:Siemens_PLM_Software	dbr:UGS_Corp.	

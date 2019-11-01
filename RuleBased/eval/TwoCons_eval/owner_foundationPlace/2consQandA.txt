@@ -1,0 +1,3000 @@
+dbo:owner	dbr:Toshiba
+dbo:foundationPlace	dbr:United_States
+dbr:Westinghouse_Electric_Company	
+dbo:owner	dbr:Madison_Dearborn_Partners
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Univision_Communications	
+dbo:owner	dbr:Kelso_&_Company
+dbo:foundationPlace	dbr:Lexington,_Kentucky
+dbr:Logan's_Roadhouse	
+dbo:owner	dbr:Verizon_Communications
+dbo:foundationPlace	dbr:Frankfurt
+dbr:Adtech	
+dbo:owner	dbr:Manchu_Mohan_Babu
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Sree_Lakshmi_Prasanna_Pictures	
+dbo:owner	dbr:Sun_Capital_Partners
+dbo:foundationPlace	dbr:United_States
+dbr:Johnny_Rockets	dbr:Mervyn's	dbr:Boston_Market	
+dbo:owner	dbr:Khloé_Kardashian
+dbo:foundationPlace	dbr:California
+dbr:Dash_(boutique)	
+dbo:owner	dbr:Noli_de_Castro
+dbo:foundationPlace	dbr:Quezon_City
+dbr:Bayan_Productions	
+dbo:owner	dbr:John_C._Malone
+dbo:foundationPlace	dbr:Vancouver
+dbr:Lionsgate	
+dbo:owner	dbr:Pepkor
+dbo:foundationPlace	dbr:South_Australia
+dbr:Harris_Scarfe	
+dbo:owner	dbr:Mahesh_Babu
+dbo:foundationPlace	dbr:Hyderabad,India
+dbr:G._Mahesh_Babu_Entertainment_Pvt._Ltd	
+dbo:owner	dbr:L._E._Baynes
+dbo:foundationPlace	dbr:Wrecclesham
+dbr:Abbott-Baynes_Sailplanes	
+dbo:owner	dbr:Government_of_Sweden
+dbo:foundationPlace	dbr:Det_Norske_Luftfartsselskap
+dbr:SAS_Group	
+dbo:owner	dbr:Ohzora_Publishing
+dbo:foundationPlace	dbr:Torrance,_California
+dbr:Aurora_Publishing_(United_States)	
+dbo:owner	dbr:Liberty_Global
+dbo:foundationPlace	dbr:Vancouver
+dbr:Lionsgate	
+dbo:owner	dbr:California_Tortilla_Group,_Inc.
+dbo:foundationPlace	dbr:Bethesda,_Maryland
+dbr:California_Tortilla	
+dbo:owner	dbr:The_J.M._Smucker_Company
+dbo:foundationPlace	dbr:California
+dbr:Natural_Balance_Pet_Foods	
+dbo:owner	dbr:Imlek_a.d.
+dbo:foundationPlace	dbr:Požarevac
+dbr:Bambi_a.d.	
+dbo:owner	dbr:Sony
+dbo:foundationPlace	dbr:Tokyo
+dbr:Olympus_Corporation	dbr:Sony_Interactive_Entertainment	
+dbo:owner	dbr:Government_of_South_Africa
+dbo:foundationPlace	dbr:Pretoria
+dbr:South_African_National_Roads_Agency	
+dbo:owner	dbr:CVS_Pharmacy
+dbo:foundationPlace	dbr:Havana
+dbr:Navarro_Discount_Pharmacies	
+dbo:owner	dbr:JVC_Kenwood
+dbo:foundationPlace	dbr:Japan
+dbr:Victor_Entertainment	
+dbo:owner	dbr:ISUZU
+dbo:foundationPlace	dbr:Jiangxi
+dbr:Jianxi_Isuzu_Motors	
+dbo:owner	dbr:Edward_R._Tinsley
+dbo:foundationPlace	dbr:Clovis,_New_Mexico
+dbr:K-Bob's_Steakhouse	
+dbo:owner	dbr:Asiacom
+dbo:foundationPlace	dbr:Manila
+dbr:Globe_Telecom	
+dbo:owner	dbr:Brookfield_Asset_Management
+dbo:foundationPlace	dbr:South_Wales
+dbr:PD_Ports	
+dbo:owner	dbr:Nandamuri_Kalyan_Ram
+dbo:foundationPlace	dbr:India
+dbr:N._T._R._Arts	
+dbo:owner	dbr:Stefan_Persson_(magnate)
+dbo:foundationPlace	dbr:Sweden
+dbr:H&M	
+dbo:owner	dbr:CBS_Corporation
+dbo:foundationPlace	dbr:United_States
+dbr:CBS_Television_Distribution	
+dbo:owner	dbr:Dai-ichi_Life
+dbo:foundationPlace	dbr:Tokyo
+dbr:Tokyo_Electric_Power_Company	
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbo:foundationPlace	dbr:Oslo
+dbr:Visma	
+dbo:owner	dbr:Elektroprivreda_Srbije
+dbo:foundationPlace	dbr:Belgrade
+dbr:Politika_a.d.	
+dbo:owner	dbr:Dongfeng_Motor
+dbo:foundationPlace	dbr:Wuhan
+dbr:Dongfeng_Peugeot-Citroën	
+dbo:owner	dbr:Nippon_Life_Insurance_Company
+dbo:foundationPlace	dbr:Osaka
+dbr:Kansai_Electric_Power_Company	
+dbo:owner	dbr:21st_Century_Fox
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Shine_TV_(UK)	
+dbo:owner	dbr:Kazatomprom
+dbo:foundationPlace	dbr:Monroeville,_Pennsylvania
+dbr:Westinghouse_Electric_Company	
+dbo:owner	dbr:Wesley_Clover
+dbo:foundationPlace	dbr:Kanata,_Ontario
+dbr:Brookstreet_Pictures	
+dbo:owner	dbr:Avalon_Communications
+dbo:foundationPlace	dbr:1986_in_comics
+dbr:Roger_Broughton	
+dbo:owner	dbr:John_C._Malone
+dbo:foundationPlace	dbr:Canada
+dbr:Lionsgate	
+dbo:owner	dbr:Government_of_Serbia
+dbo:foundationPlace	dbr:Belgrade
+dbr:Energoprojekt_holding	dbr:Elektroprivreda_Srbije	dbr:Serbian_Railways	dbr:Tanjug	dbr:Komercijalna_banka	dbr:Politika_a.d.	dbr:Yugoimport_SDPR	dbr:Mostogradnja	dbr:Dunav_osiguranje	dbr:Poštanska_štedionica	dbr:JUBMES_banka	dbr:Novosti_a.d.	dbr:Lasta_Beograd	dbr:Elektromreža_Srbije	
+dbo:owner	dbr:Robert_Dudani
+dbo:foundationPlace	dbr:London
+dbr:CeX_(company)	
+dbo:owner	dbr:Alphabet_Inc.
+dbo:foundationPlace	dbr:San_Francisco,_California
+dbr:Dropcam	
+dbo:owner	dbr:Yıldız_Holding
+dbo:foundationPlace	dbr:Zaandam
+dbr:Verkade	
+dbo:owner	dbr:AOL
+dbo:foundationPlace	dbr:California
+dbr:GameDaily	
+dbo:owner	dbr:Entertainment_One_Films
+dbo:foundationPlace	dbr:England
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Weston_family
+dbo:foundationPlace	dbr:Canada
+dbr:George_Weston_Limited	
+dbo:owner	dbr:Lord_Sainsbury_of_Turville
+dbo:foundationPlace	dbr:Holborn
+dbr:Sainsbury's	
+dbo:owner	dbr:Paul_Howley
+dbo:foundationPlace	dbr:Massachusetts
+dbr:That's_Entertainment_(comic_shop)	
+dbo:owner	dbr:Tokuma_Shoten
+dbo:foundationPlace	dbr:Tokyo
+dbr:Studio_Ghibli	
+dbo:owner	dbr:Jack_in_the_Box
+dbo:foundationPlace	dbr:Denver
+dbr:Qdoba	
+dbo:owner	dbr:IBC_Publishing_Group
+dbo:foundationPlace	dbr:Berkeley,_California
+dbr:Cody's_Books	
+dbo:owner	dbr:Employee_stock_ownership_plan
+dbo:foundationPlace	dbr:Ashland,_Massachusetts
+dbr:Lampin_Corporation	
+dbo:owner	dbr:Ludacris
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:WeMix	
+dbo:owner	dbr:Real_Mex_Restaurants
+dbo:foundationPlace	dbr:California
+dbr:Chevys_Fresh_Mex	
+dbo:owner	dbr:Eurazeo
+dbo:foundationPlace	dbr:France
+dbr:Europcar	
+dbo:owner	dbr:Maps_Service_Agency
+dbo:foundationPlace	dbr:Salem,_Oregon
+dbr:Fi-linx	
+dbo:owner	dbr:Bankruptcy
+dbo:foundationPlace	dbr:Serbia
+dbr:Zastava_Arms	
+dbo:owner	dbr:Blackstone_Group
+dbo:foundationPlace	dbr:Warsaw,_Indiana
+dbr:Biomet	
+dbo:owner	dbr:Henkel
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Sellotape	
+dbo:owner	dbr:Larry_Tanenbaum
+dbo:foundationPlace	dbr:Toronto
+dbr:Maple_Leaf_Sports_&_Entertainment	
+dbo:owner	dbr:Discovery_Digital_Networks
+dbo:foundationPlace	dbr:Los_Angeles,_California
+dbr:Revision3	
+dbo:owner	dbr:Joan_Blades
+dbo:foundationPlace	dbr:Berkeley,_California
+dbr:Berkeley_Systems	
+dbo:owner	dbr:Newell_Brands
+dbo:foundationPlace	dbr:United_States
+dbr:Waterman_pens	
+dbo:owner	dbr:G4S
+dbo:foundationPlace	dbr:Belgrade
+dbr:G4S_Secure_Solutions_d.o.o.	
+dbo:owner	dbr:Highfields_Capital_Management
+dbo:foundationPlace	dbr:Texas
+dbr:Michaels	
+dbo:owner	dbr:Fusion_Media_Group
+dbo:foundationPlace	dbr:United_States
+dbr:The_Onion__,_Inc.__1	
+dbo:owner	dbr:Ludacris
+dbo:foundationPlace	dbr:New_York_City
+dbr:WeMix	
+dbo:owner	dbr:Srbijagas
+dbo:foundationPlace	dbr:Pančevo
+dbr:HIP-Petrohemija	
+dbo:owner	dbr:Canadian_Imperial_Bank_of_Commerce
+dbo:foundationPlace	dbr:Warrens,_Saint_Michael
+dbr:CIBC_FirstCaribbean_International_Bank	
+dbo:owner	dbr:Government_of_South_Africa
+dbo:foundationPlace	dbr:South_Africa
+dbr:South_African_National_Roads_Agency	
+dbo:owner	dbr:Fiat_Chrysler_Automobiles
+dbo:foundationPlace	dbr:Bologna
+dbr:Abarth	
+dbo:owner	dbr:Kim_Jung-ju
+dbo:foundationPlace	dbr:Norway
+dbr:Stokke_AS	
+dbo:owner	dbr:Volkswagen_Group
+dbo:foundationPlace	dbr:Englewood_Cliffs,_New_Jersey
+dbr:Volkswagen_Group_of_America	
+dbo:owner	dbr:Government_of_Delhi
+dbo:foundationPlace	dbr:India
+dbr:National_Capital_Region_Transport_Corporation	
+dbo:owner	dbr:SSBT_OD05_OMNIBUS_ACCOUNT—TREATY_CLIENTS
+dbo:foundationPlace	dbr:Osaka
+dbr:West_Japan_Railway_Company	
+dbo:owner	dbr:Criteria_CaixaCorp
+dbo:foundationPlace	dbr:Belgium
+dbr:Grupo_Agbar	
+dbo:owner	dbr:21st_Century_Fox
+dbo:foundationPlace	dbr:Auckland
+dbr:New_Zealand_Media_and_Entertainment	
+dbo:owner	dbr:Investor_AB
+dbo:foundationPlace	dbr:Mölnlycke
+dbr:Mölnlycke_Health_Care	
+dbo:owner	dbr:Ford_Motor_Company
+dbo:foundationPlace	dbr:Chongqing
+dbr:Changan_Ford_Mazda	
+dbo:owner	dbr:Landry's,_Inc.
+dbo:foundationPlace	dbr:Monterey,_California
+dbr:Bubba_Gump_Shrimp_Company	
+dbo:owner	dbr:Kourtney_Kardashian
+dbo:foundationPlace	dbr:California
+dbr:Dash_(boutique)	
+dbo:owner	dbr:Armida_Siguion-Reyna
+dbo:foundationPlace	dbr:Manila
+dbr:Reyna_Films	
+dbo:owner	dbr:The_Royal_Bank_of_Scotland_Group
+dbo:foundationPlace	dbr:Rotherham
+dbr:Lombard_(company)	
+dbo:owner	dbr:Sanpower_Corp.
+dbo:foundationPlace	dbr:Peterborough,_New_Hampshire
+dbr:Brookstone	
+dbo:owner	dbr:Bankruptcy
+dbo:foundationPlace	dbr:Kragujevac
+dbr:Zastava_Arms	
+dbo:owner	dbr:Carlsberg_Group
+dbo:foundationPlace	dbr:Čelarevo
+dbr:Carlsberg_Srbija	
+dbo:owner	dbr:Mikhail_Prokhorov
+dbo:foundationPlace	dbr:Moscow
+dbr:RBC_Information_Systems	
+dbo:owner	dbr:John_Lloyd_(writer)
+dbo:foundationPlace	dbr:Oxford
+dbr:Quite_Interesting_Limited	
+dbo:owner	dbr:Walton_family
+dbo:foundationPlace	dbr:Rogers,_Arkansas
+dbr:Walmart	
+dbo:owner	dbr:Crown_Property_Bureau
+dbo:foundationPlace	dbr:Siam
+dbr:Siam_Cement	
+dbo:owner	dbr:Highfields_Capital_Management
+dbo:foundationPlace	dbr:Dallas
+dbr:Michaels	
+dbo:owner	dbr:Alpha_Bank
+dbo:foundationPlace	dbr:Belgrade
+dbr:Alpha_Bank_Srbija	
+dbo:owner	dbr:Chiranjeevi
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Anjana_Productions	
+dbo:owner	dbr:Vidant_Health
+dbo:foundationPlace	dbr:North_Carolina
+dbr:EastCare	
+dbo:owner	dbr:GAC_Group
+dbo:foundationPlace	dbr:Guangzhou
+dbr:GAC_Toyota	dbr:Guangqi_Honda	
+dbo:owner	dbr:Chery
+dbo:foundationPlace	dbr:Anhui
+dbr:Qoros	
+dbo:owner	dbr:GAC_Group
+dbo:foundationPlace	dbr:Changsha
+dbr:GAC_Fiat	
+dbo:owner	dbr:PLDT
+dbo:foundationPlace	dbr:Philippines
+dbr:TNT_(cellular_service)	
+dbo:owner	dbr:Anju_Bishnoi
+dbo:foundationPlace	dbr:Maharashtra
+dbr:ASA_Productions_and_Enterprises	
+dbo:owner	dbr:Sumner_Redstone
+dbo:foundationPlace	dbr:Dedham,_Massachusetts
+dbr:National_Amusements	
+dbo:owner	dbr:Duke_University
+dbo:foundationPlace	dbr:United_States
+dbr:Duke_Corporate_Education	
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbo:foundationPlace	dbr:Texas
+dbr:Energy_Future_Holdings	
+dbo:owner	dbr:Nintendo
+dbo:foundationPlace	dbr:United_States
+dbr:Nintendo_Software_Technology	
+dbo:owner	dbr:Lars_Larsen_(entrepreneur)
+dbo:foundationPlace	dbr:Aarhus
+dbr:Jysk_(store)	
+dbo:owner	dbr:Fiat_Chrysler_Automobiles
+dbo:foundationPlace	dbr:Italy
+dbr:Alfa_Romeo	dbr:Abarth	dbr:Fiat_Automobiles	
+dbo:owner	dbr:Tarsem_Antil
+dbo:foundationPlace	dbr:Delhi
+dbr:Harikrit_Films	
+dbo:owner	dbr:Sony
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Columbia_Pictures	dbr:Sony_Pictures_Classics	dbr:Sony_Pictures_Motion_Picture_Group	dbr:Sony_Pictures_Worldwide_Acquisitions	
+dbo:owner	dbr:Sony/ATV_Music_Publishing
+dbo:foundationPlace	dbr:London
+dbr:EMI_Music_Publishing	
+dbo:owner	dbr:Entertainment_One_Films
+dbo:foundationPlace	dbr:Ontario
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Ford_Motor_Company
+dbo:foundationPlace	dbr:Turin
+dbr:Vignale	dbr:Carrozzeria_Ghia	
+dbo:owner	dbr:Qatar_Investment_Authority
+dbo:foundationPlace	dbr:Berlin
+dbr:Volkswagen_Group	
+dbo:owner	dbr:Singapore_Telecommunications
+dbo:foundationPlace	dbr:Philippine_Commonwealth
+dbr:Globe_Telecom	
+dbo:owner	dbr:Mars,_Incorporated
+dbo:foundationPlace	dbr:United_States
+dbr:The_Goodlife_Recipe	dbr:Nutro_Products	
+dbo:owner	dbr:Walton_family
+dbo:foundationPlace	dbr:United_States
+dbr:Walmart	
+dbo:owner	dbr:Goldman_Sachs
+dbo:foundationPlace	dbr:Warsaw,_Indiana
+dbr:Biomet	
+dbo:owner	dbr:CK_Hutchison_Holdings
+dbo:foundationPlace	dbr:Peter_Goldstein
+dbr:Superdrug	
+dbo:owner	dbr:Apollo_Global_Management
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Shine_TV_(UK)	
+dbo:owner	dbr:Dahabshiil
+dbo:foundationPlace	dbr:Somalia
+dbr:Somtel	
+dbo:owner	dbr:Mars,_Incorporated
+dbo:foundationPlace	dbr:Gard
+dbr:Royal_Canin	
+dbo:owner	dbr:McGill_University
+dbo:foundationPlace	dbr:Montreal
+dbr:McGill_Executive_Institute	
+dbo:owner	dbr:Nandamuri_Kalyan_Ram
+dbo:foundationPlace	dbr:Telangana
+dbr:N._T._R._Arts	
+dbo:owner	dbr:Bourne_Leisure
+dbo:foundationPlace	dbr:Skegness
+dbr:Butlins	
+dbo:owner	dbr:Hexagon_AB
+dbo:foundationPlace	dbr:Italy
+dbr:Vero_Software	
+dbo:owner	dbr:Mubadala_Development_Company
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:EMI_Music_Publishing	
+dbo:owner	dbr:Primedia
+dbo:foundationPlace	dbr:Johannesburg
+dbr:Primedia_Broadcasting	
+dbo:owner	dbr:Sberbank_of_Russia
+dbo:foundationPlace	dbr:Belgrade
+dbr:Sberbank_Srbija	
+dbo:owner	dbr:Roark_Capital_Group
+dbo:foundationPlace	dbr:Boardman,_Ohio
+dbr:Arby's	
+dbo:owner	dbr:Pakistan_Air_Force
+dbo:foundationPlace	dbr:Kamra
+dbr:Pakistan_Aeronautical_Complex	
+dbo:owner	dbr:Novator_Partners
+dbo:foundationPlace	dbr:Reykjavík
+dbr:CCP_Games	
+dbo:owner	dbr:Gerald_Forsythe
+dbo:foundationPlace	dbr:London
+dbr:Cosworth	
+dbo:owner	dbr:Entertainment_One_Films
+dbo:foundationPlace	dbr:London
+dbr:Momentum_Pictures	
+dbo:owner	dbr:NRDC_Equity_Partners
+dbo:foundationPlace	dbr:Alabama
+dbr:Saks,_Inc.	
+dbo:owner	dbr:Investcorp
+dbo:foundationPlace	dbr:Illinois
+dbr:Paper_Source	
+dbo:owner	dbr:Public_float
+dbo:foundationPlace	dbr:Privatization
+dbr:Orange_S.A.	dbr:Deutsche_Telekom	
+dbo:owner	dbr:Hyatt
+dbo:foundationPlace	dbr:Dallas
+dbr:Room_Key	
+dbo:owner	dbr:SBE_(company)
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Umami_Burger	
+dbo:owner	dbr:RZD
+dbo:foundationPlace	dbr:Russia
+dbr:Transmashholding	
+dbo:owner	dbr:Government_of_the_Philippines
+dbo:foundationPlace	dbr:Hartford,_Connecticut
+dbr:Panay_Railways	
+dbo:owner	dbr:Marvel_Comics
+dbo:foundationPlace	dbr:1985_in_comics
+dbr:Eternity_Comics	
+dbo:owner	dbr:Hans-Peter_Wilfer
+dbo:foundationPlace	dbr:Luby_(Cheb_District)
+dbr:Framus	
+dbo:owner	dbr:Stadsregio_Rotterdam
+dbo:foundationPlace	dbr:Netherlands
+dbr:Rotterdamse_Elektrische_Tram	
+dbo:owner	dbr:Deutsche_Bank
+dbo:foundationPlace	dbr:Las_Vegas,_Nevada
+dbr:Station_Casinos	
+dbo:owner	dbr:David_Letterman
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Worldwide_Pants	
+dbo:owner	dbr:NRDC_Equity_Partners
+dbo:foundationPlace	dbr:Ontario
+dbr:Zellers	
+dbo:owner	dbr:Jeg_Coughlin,_Jr.
+dbo:foundationPlace	dbr:Columbus,Ohio
+dbr:Jegs_High_Performance	
+dbo:owner	dbr:Citigroup
+dbo:foundationPlace	dbr:Portland,_Oregon
+dbr:Sylvan_Learning	
+dbo:owner	dbr:Government_of_India
+dbo:foundationPlace	dbr:Bengaluru
+dbr:Bharat_Electronics_Limited	
+dbo:owner	dbr:Wyndham_Worldwide
+dbo:foundationPlace	dbr:Aberdeen,_South_Dakota
+dbr:Super_8_Motels	
+dbo:owner	dbr:Government_of_Tamil_Nadu
+dbo:foundationPlace	dbr:India
+dbr:Aavin	
+dbo:owner	dbr:Michael_Jackson
+dbo:foundationPlace	dbr:London
+dbr:EMI_Music_Publishing	
+dbo:owner	dbr:Bibojee_Group
+dbo:foundationPlace	dbr:Karachi
+dbr:General_Tyre_Pakistan	
+dbo:owner	dbr:Lindsay_G._Merrithew
+dbo:foundationPlace	dbr:Canada
+dbr:Stott_Pilates	
+dbo:owner	dbr:Roman_Abramovich
+dbo:foundationPlace	dbr:Moscow
+dbr:Evraz	
+dbo:owner	dbr:Allu_Aravind
+dbo:foundationPlace	dbr:Telangana
+dbr:Geetha_Arts	
+dbo:owner	dbr:Fiat_Automobili_Srbija
+dbo:foundationPlace	dbr:Kragujevac
+dbr:Zastava_Trucks	
+dbo:owner	dbr:Berkshire_Hathaway
+dbo:foundationPlace	dbr:Pennsylvania
+dbr:Heinz	
+dbo:owner	dbr:Hornby_Railways
+dbo:foundationPlace	dbr:England
+dbr:Humbrol	
+dbo:owner	dbr:Stantec
+dbo:foundationPlace	dbr:Heywood,_Lancashire,_United_Kingdom
+dbr:MWH_Global	
+dbo:owner	dbr:CH2M_Hill
+dbo:foundationPlace	dbr:Wilmington,_Delaware
+dbr:VECO_Corporation	
+dbo:owner	dbr:Vetrimaaran
+dbo:foundationPlace	dbr:Chennai
+dbr:Grass_Root_Film_Company	
+dbo:owner	dbr:Bill_Putnam
+dbo:foundationPlace	dbr:Evanston,_Illinois
+dbr:Universal_Audio_(company)	
+dbo:owner	dbr:Michelin
+dbo:foundationPlace	dbr:Pirot
+dbr:Tigar_Tyres	
+dbo:owner	dbr:Emerson_Electric
+dbo:foundationPlace	dbr:North_Ridgeville,_Ohio
+dbr:Ridgid	
+dbo:owner	dbr:PepsiCo
+dbo:foundationPlace	dbr:Quaker_Mill_Company
+dbr:Quaker_Oats_Company	
+dbo:owner	dbr:Mubadala_Development_Company
+dbo:foundationPlace	dbr:London
+dbr:EMI_Music_Publishing	
+dbo:owner	dbr:Target_Corporation
+dbo:foundationPlace	dbr:San_Lorenzo,_California
+dbr:Mervyn's	
+dbo:owner	dbr:Kroger
+dbo:foundationPlace	dbr:Hutchinson,_Kansas
+dbr:Kwik_Shop	
+dbo:owner	dbr:Konstanty_Rudzki
+dbo:foundationPlace	dbr:Warsaw
+dbr:K._Rudzki_i_S-ka	
+dbo:owner	dbr:Canadian_Imperial_Bank_of_Commerce
+dbo:foundationPlace	dbr:Canada
+dbr:CIBC_Mellon	
+dbo:owner	dbr:Brookfield_Asset_Management
+dbo:foundationPlace	dbr:Aberdare
+dbr:PD_Ports	
+dbo:owner	dbr:Oprah_Winfrey
+dbo:foundationPlace	dbr:Chicago
+dbr:Harpo_Productions	
+dbo:owner	dbr:ExxonMobil
+dbo:foundationPlace	dbr:Ontario
+dbr:Imperial_Oil	
+dbo:owner	dbr:NBCUniversal
+dbo:foundationPlace	dbr:London
+dbr:United_International_Pictures	
+dbo:owner	dbr:Brait_SE
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Virgin_Active	
+dbo:owner	dbr:The_J.M._Smucker_Company
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Natural_Balance_Pet_Foods	
+dbo:owner	dbr:Ares_Management
+dbo:foundationPlace	dbr:California
+dbr:Guitar_Center	
+dbo:owner	dbr:Criteria_CaixaCorp
+dbo:foundationPlace	dbr:Liège
+dbr:Grupo_Agbar	
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbo:foundationPlace	dbr:Norway
+dbr:Visma	
+dbo:owner	dbr:Intesa_Sanpaolo
+dbo:foundationPlace	dbr:S.A._(corporation)
+dbr:Cassa_di_Risparmio_di_Ascoli_Piceno	
+dbo:owner	dbr:Bankruptcy
+dbo:foundationPlace	dbr:Užice
+dbr:Prvi_Partizan	
+dbo:owner	dbr:3G_Capital
+dbo:foundationPlace	dbr:Sharpsburg,_Pennsylvania
+dbr:Heinz	
+dbo:owner	dbr:Government_of_Norway
+dbo:foundationPlace	dbr:Aerotransport
+dbr:SAS_Group	
+dbo:owner	dbr:Virgin_Group
+dbo:foundationPlace	dbr:Preston,_Lancashire
+dbr:Virgin_Active	
+dbo:owner	dbr:Union_Tank_Car_Company
+dbo:foundationPlace	dbr:Canada
+dbr:Procor	
+dbo:owner	dbr:Fairfax_Financial_Holdings_Limited
+dbo:foundationPlace	dbr:Waterloo,_Ontario
+dbr:BlackBerry_Limited	
+dbo:owner	dbr:Dynamite_Entertainment
+dbo:foundationPlace	dbr:1994_in_comics
+dbr:Chaos!_Comics	
+dbo:owner	dbr:Huaqiang_Group
+dbo:foundationPlace	dbr:China
+dbr:Fantawild	
+dbo:owner	dbr:Gemeente_Rotterdam
+dbo:foundationPlace	dbr:Rotterdam
+dbr:Rotterdamse_Elektrische_Tram	
+dbo:owner	dbr:Berkshire_Hathaway
+dbo:foundationPlace	dbr:Texas
+dbr:Acme_Brick	
+dbo:owner	dbr:IHI_Corporation
+dbo:foundationPlace	dbr:United_States
+dbr:Westinghouse_Electric_Company	
+dbo:owner	dbr:Steve_Richardson_(puzzle_designer)
+dbo:foundationPlace	dbr:Norwich
+dbr:Stave_Puzzles	
+dbo:owner	dbr:Shine_Group
+dbo:foundationPlace	dbr:London
+dbr:ChannelFlip	
+dbo:owner	dbr:Magnitogorsk_Iron_and_Steel_Works
+dbo:foundationPlace	dbr:Iskenderun
+dbr:MMK-Atakaş_Metallurgy	
+dbo:owner	dbr:David_Letterman
+dbo:foundationPlace	dbr:1991_in_television
+dbr:Worldwide_Pants	
+dbo:owner	dbr:PepsiCo
+dbo:foundationPlace	dbr:United_States
+dbr:Quaker_Oats_Company	
+dbo:owner	dbr:Rossiya_Segodnya
+dbo:foundationPlace	dbr:Soviet_Information_Bureau
+dbr:RIA_Novosti	
+dbo:owner	dbr:Puri_Jagannadh
+dbo:foundationPlace	dbr:Telangana
+dbr:Vaishno_Academy	dbr:Puri_Jagannadh_Touring_Talkies	
+dbo:owner	dbr:Yomiuri_Shimbun
+dbo:foundationPlace	dbr:Osaka
+dbr:Yomiuri_Telecasting_Corporation	
+dbo:owner	dbr:Dutch_government
+dbo:foundationPlace	dbr:Groningen_(city)
+dbr:GasTerra	
+dbo:owner	dbr:Bank_Austria
+dbo:foundationPlace	dbr:Zagreb
+dbr:Zagrebačka_banka	
+dbo:owner	dbr:MEHMOOD_ALI
+dbo:foundationPlace	dbr:Maharashtra
+dbr:Pen_N_Camera_International	
+dbo:owner	dbr:Gordon_Brothers_Group
+dbo:foundationPlace	dbr:United_States
+dbr:K's_Merchandise_Mart	
+dbo:owner	dbr:Reitangruppen
+dbo:foundationPlace	dbr:Norway
+dbr:REMA_1000	
+dbo:owner	dbr:Steve_DiTullio
+dbo:foundationPlace	dbr:United_States
+dbr:Broken_Wall_Films	
+dbo:owner	dbr:Allu_Aravind
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Geetha_Arts	
+dbo:owner	dbr:Robert_Dudani
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:CeX_(company)	
+dbo:owner	dbr:Alliance_Atlantis
+dbo:foundationPlace	dbr:London
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Government_of_Serbia
+dbo:foundationPlace	dbr:Kragujevac
+dbr:Zastava_Arms	dbr:Fiat_Automobili_Srbija	
+dbo:owner	dbr:BDT_Capital_Partners
+dbo:foundationPlace	dbr:Golden,_Colorado
+dbr:Einstein_Bros._Bagels	
+dbo:owner	dbr:Wuling_Motors
+dbo:foundationPlace	dbr:Guangxi
+dbr:SAIC-GM-Wuling	
+dbo:owner	dbr:Royal_Dutch_Shell
+dbo:foundationPlace	dbr:Groningen_(city)
+dbr:GasTerra	
+dbo:owner	dbr:Duke_University
+dbo:foundationPlace	dbr:Durham,_North_Carolina
+dbr:Duke_Corporate_Education	
+dbo:owner	dbr:Molson_Coors_Brewing_Company
+dbo:foundationPlace	dbr:List_of_Oldest_Breweries_of_Canada
+dbr:Carling_brewery	
+dbo:owner	dbr:Canadian_Imperial_Bank_of_Commerce
+dbo:foundationPlace	dbr:Toronto
+dbr:CIBC_Mellon	
+dbo:owner	dbr:Sailing_Capital
+dbo:foundationPlace	dbr:Peterborough,_New_Hampshire
+dbr:Brookstone	
+dbo:owner	dbr:Manchu_Mohan_Babu
+dbo:foundationPlace	dbr:Andhra_Pradesh
+dbr:Sree_Lakshmi_Prasanna_Pictures	
+dbo:owner	dbr:Family_Home_Entertainment
+dbo:foundationPlace	dbr:Family_Home_Entertainment
+dbr:Artisan_Entertainment	
+dbo:owner	dbr:Seminole_Tribe_of_Florida
+dbo:foundationPlace	dbr:London
+dbr:Hard_Rock_Cafe	
+dbo:owner	dbr:Tokio_Marine_Nichido
+dbo:foundationPlace	dbr:Hamamatsu
+dbr:Honda	
+dbo:owner	dbr:Sentinel_Capital_Partners
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:T.G.I._Friday's	
+dbo:owner	dbr:Puri_Jagannadh
+dbo:foundationPlace	dbr:Andhra_Pradesh
+dbr:Puri_Sangeet	
+dbo:owner	dbr:Sony_Corporation_of_America
+dbo:foundationPlace	dbr:London
+dbr:EMI_Music_Publishing	
+dbo:owner	dbr:James_K._Irving
+dbo:foundationPlace	dbr:Canada
+dbr:J._D._Irving	
+dbo:owner	dbr:James_Pascoe_Group
+dbo:foundationPlace	dbr:North_Shore_City
+dbr:The_Warehouse_Group	
+dbo:owner	dbr:Kenon_Holdings
+dbo:foundationPlace	dbr:China
+dbr:Qoros	
+dbo:owner	dbr:David_Geffen
+dbo:foundationPlace	dbr:London
+dbr:EMI_Music_Publishing	
+dbo:owner	dbr:Tomoko_Namba
+dbo:foundationPlace	dbr:Setagaya
+dbr:DeNA	
+dbo:owner	dbr:Kenon_Holdings
+dbo:foundationPlace	dbr:Anhui
+dbr:Qoros	
+dbo:owner	dbr:Ikram_Akhtar
+dbo:foundationPlace	dbr:Maharashtra
+dbr:Ikram_Akhtar_Films	
+dbo:owner	dbr:Eurobank_Ergasias
+dbo:foundationPlace	dbr:Greece
+dbr:New_TT_Hellenic_Postbank	
+dbo:owner	dbr:Premier_Foods
+dbo:foundationPlace	dbr:Cheshire
+dbr:Hovis	
+dbo:owner	dbr:Banco_Popular
+dbo:foundationPlace	dbr:A_Coruña
+dbr:Banco_Pastor	
+dbo:owner	dbr:Pawan_Kalyan
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Anjana_Productions	
+dbo:owner	dbr:Tokuma_Shoten
+dbo:foundationPlace	dbr:Japan
+dbr:Studio_Ghibli	
+dbo:owner	dbr:Lukoil
+dbo:foundationPlace	dbr:Belgrade
+dbr:Lukoil_Serbia	
+dbo:owner	dbr:NRDC_Equity_Partners
+dbo:foundationPlace	dbr:Canada
+dbr:Zellers	
+dbo:owner	<http://framtakssjodur.is/>
+dbo:foundationPlace	dbr:Reykjavík
+dbr:Advania	
+dbo:owner	dbr:Golden_Gate_Capital
+dbo:foundationPlace	dbr:Seattle
+dbr:Eddie_Bauer	
+dbo:owner	dbr:Crown_Property_Bureau
+dbo:foundationPlace	dbr:Bangkok
+dbr:Siam_Cement	
+dbo:owner	dbr:Government_of_Serbia
+dbo:foundationPlace	dbr:Užice
+dbr:Prvi_Partizan	
+dbo:owner	dbr:PLDT
+dbo:foundationPlace	dbr:Manila
+dbr:Sun_Cellular	dbr:TNT_(cellular_service)	
+dbo:owner	dbr:Fairfax_Financial_Holdings_Limited
+dbo:foundationPlace	dbr:Ontario
+dbr:BlackBerry_Limited	
+dbo:owner	dbr:Tom_O'Toole
+dbo:foundationPlace	dbr:Beechworth,_Victoria
+dbr:Beechworth_Bakery	
+dbo:owner	dbr:Virgin_Group
+dbo:foundationPlace	dbr:Swindon,_Wiltshire
+dbr:Virgin_Holidays_Cruises	
+dbo:owner	dbr:Roark_Capital_Group
+dbo:foundationPlace	dbr:Ohio
+dbr:Arby's	
+dbo:owner	dbr:Kraft_Heinz
+dbo:foundationPlace	dbr:Aston
+dbr:HP_Foods	
+dbo:owner	dbr:Robert_Dudani
+dbo:foundationPlace	dbr:Tottenham_Court_Road
+dbr:CeX_(company)	
+dbo:owner	dbr:UnipolSai
+dbo:foundationPlace	dbr:Novi_Sad
+dbr:DDOR_Novi_Sad	
+dbo:owner	dbr:The_Walt_Disney_Company
+dbo:foundationPlace	dbr:1998_in_comics
+dbr:CrossGen	
+dbo:owner	dbr:Shenzhen_Overseas_Chinese_Town_Holding_Company
+dbo:foundationPlace	dbr:Guangdong
+dbr:Happy_Valley_(amusement_parks)	
+dbo:owner	dbr:Investment_Corporation_of_Dubai
+dbo:foundationPlace	dbr:Dubai
+dbr:The_Emirates_Group	
+dbo:owner	dbr:Equinix
+dbo:foundationPlace	dbr:São_Paulo
+dbr:Alog_Datacenters	
+dbo:owner	dbr:Nihon_Keizai_Shimbun
+dbo:foundationPlace	dbr:Tokyo
+dbr:TV_Tokyo	
+dbo:owner	dbr:Compagnia_Italiana_di_Navigazione
+dbo:foundationPlace	dbr:Italy
+dbr:Tirrenia_Compagnia_Italiana_di_Navigazione	
+dbo:owner	dbr:Emerson_Electric
+dbo:foundationPlace	dbr:United_States
+dbr:Ridgid	
+dbo:owner	dbr:Diageo
+dbo:foundationPlace	dbr:St._James's_Gate
+dbr:Guinness_Brewery	
+dbo:owner	dbr:George_Weston_Limited
+dbo:foundationPlace	dbr:Ontario
+dbr:Loblaw_Companies	
+dbo:owner	dbr:Alliance_Communications
+dbo:foundationPlace	dbr:London
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Discovery_Communications
+dbo:foundationPlace	dbr:British_Columbia
+dbr:Lionsgate	
+dbo:owner	dbr:Benelli_(firearms)
+dbo:foundationPlace	dbr:Gardone_Val_Trompia
+dbr:A._Uberti,_Srl.	
+dbo:owner	dbr:William_Morris_Endeavor
+dbo:foundationPlace	dbr:Japan
+dbr:Pride_Fighting_Championships	
+dbo:owner	dbr:Gazprom_Neft
+dbo:foundationPlace	dbr:Novi_Sad
+dbr:Naftna_Industrija_Srbije	
+dbo:owner	dbr:Sony
+dbo:foundationPlace	dbr:Netherlands
+dbr:2waytraffic	
+dbo:owner	dbr:Daewoo
+dbo:foundationPlace	dbr:Westlake_Village,_California
+dbr:Corona_Data_Systems	
+dbo:owner	dbr:Government_of_India
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:State_Bank_of_Hyderabad	
+dbo:owner	dbr:Marriott_International
+dbo:foundationPlace	dbr:Real_estate_investment_trust
+dbr:Starwood	
+dbo:owner	dbr:Government_of_Canada
+dbo:foundationPlace	dbr:Montreal
+dbr:Telefilm_Canada	
+dbo:owner	dbr:Rogers_Communications
+dbo:foundationPlace	dbr:Ontario
+dbr:Maple_Leaf_Sports_&_Entertainment	
+dbo:owner	dbr:Viacom
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Viacom_Media_Networks	
+dbo:owner	dbr:MGM_Resorts_International
+dbo:foundationPlace	dbr:Winchester,_Nevada
+dbr:Mandalay_Resort_Group	
+dbo:owner	dbr:National_Pension_Service
+dbo:foundationPlace	dbr:South_Korea
+dbr:G2R	dbr:CJ_E&M	
+dbo:owner	dbr:SAIC_Motor
+dbo:foundationPlace	dbr:China
+dbr:Pan_Asia_Technical_Automotive_Center	dbr:SAIC-GM-Wuling	
+dbo:owner	dbr:Qatar_Investment_Authority
+dbo:foundationPlace	dbr:Holborn
+dbr:Sainsbury's	
+dbo:owner	dbr:Liberty_Interactive
+dbo:foundationPlace	dbr:Charlotte,_North_Carolina
+dbr:LendingTree	
+dbo:owner	dbr:MegaFon
+dbo:foundationPlace	dbr:Limited_liability_company
+dbr:Yota	
+dbo:owner	dbr:Aryzta
+dbo:foundationPlace	dbr:California
+dbr:La_Brea_Bakery	
+dbo:owner	dbr:Government_of_India
+dbo:foundationPlace	dbr:India
+dbr:Bharat_Electronics_Limited	dbr:Canara_Bank	dbr:National_Capital_Region_Transport_Corporation	
+dbo:owner	dbr:O2_(United_Kingdom)
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Tesco_Mobile	
+dbo:owner	dbr:NBCUniversal
+dbo:foundationPlace	dbr:California
+dbr:Universal_Pictures_Home_Entertainment	
+dbo:owner	dbr:The_Church_of_Jesus_Christ_of_Latter-day_Saints
+dbo:foundationPlace	dbr:Salt_Lake_City
+dbr:Deseret_Telegraph_Company	
+dbo:owner	dbr:Alphabet_Inc.
+dbo:foundationPlace	dbr:New_York_City
+dbr:Softcard	
+dbo:owner	dbr:Alliance_Communications
+dbo:foundationPlace	dbr:Toronto
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Marvel_Comics
+dbo:foundationPlace	dbr:2004_in_comics
+dbr:Icon_Comics	
+dbo:owner	dbr:Alliance_Films
+dbo:foundationPlace	dbr:England
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Guggenheim_Partners
+dbo:foundationPlace	dbr:Philadelphia,_Pennsylvania
+dbr:Dick_Clark_Productions	
+dbo:owner	dbr:Sentinel_Capital_Partners
+dbo:foundationPlace	dbr:United_States
+dbr:Checkers_and_Rally's	dbr:T.G.I._Friday's	
+dbo:owner	dbr:Sentinel_Capital_Partners
+dbo:foundationPlace	dbr:Mobile,_Alabama
+dbr:Checkers_and_Rally's	
+dbo:owner	dbr:JUCY
+dbo:foundationPlace	dbr:Auckland
+dbr:YourDrive	
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbo:foundationPlace	dbr:United_States
+dbr:Toys_%22R%22_Us	dbr:Energy_Future_Holdings	dbr:Biomet	
+dbo:owner	dbr:Nagendra_Babu
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Anjana_Productions	
+dbo:owner	dbr:Microsoft
+dbo:foundationPlace	dbr:Republic_of_Ireland
+dbr:Havok_(company)	
+dbo:owner	dbr:Premier_League
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Football_DataCo	
+dbo:owner	dbr:NRDC_Equity_Partners
+dbo:foundationPlace	dbr:Birmingham,_Alabama
+dbr:Saks,_Inc.	
+dbo:owner	dbr:Eldorado_Resorts
+dbo:foundationPlace	dbr:Wilmington,_Delaware
+dbr:MTR_Gaming_Group	
+dbo:owner	dbr:Choice_Hotels
+dbo:foundationPlace	dbr:Dallas
+dbr:Room_Key	
+dbo:owner	dbr:Erik_Brunetti
+dbo:foundationPlace	dbr:United_States
+dbr:FUCT_(clothing)	
+dbo:owner	dbr:TPG_Capital
+dbo:foundationPlace	dbr:Dallas
+dbr:Energy_Future_Holdings	
+dbo:owner	dbr:Novator_Partners
+dbo:foundationPlace	dbr:Iceland
+dbr:CCP_Games	
+dbo:owner	dbr:Dillons
+dbo:foundationPlace	dbr:Hutchinson,_Kansas
+dbr:Kwik_Shop	
+dbo:owner	dbr:Verizon_Communications
+dbo:foundationPlace	dbr:United_States
+dbr:Advertising.com	
+dbo:owner	dbr:Hilton_Worldwide
+dbo:foundationPlace	dbr:Dallas
+dbr:Room_Key	
+dbo:owner	dbr:Leonard_Green_&_Partners
+dbo:foundationPlace	dbr:Texas
+dbr:The_Container_Store	
+dbo:owner	dbr:HgCapital
+dbo:foundationPlace	dbr:Oslo
+dbr:Visma	
+dbo:owner	dbr:Armida_Siguion-Reyna
+dbo:foundationPlace	dbr:Philippines
+dbr:Reyna_Films	
+dbo:owner	dbr:Sumitomo_Mitsui_Financial_Group
+dbo:foundationPlace	dbr:Shinjuku
+dbr:Olympus_Corporation	
+dbo:owner	dbr:Aon_plc
+dbo:foundationPlace	dbr:Lake_Forest,_Illinois
+dbr:Hewitt_Associates	dbr:Aon_Hewitt	
+dbo:owner	dbr:Schneider_Electric
+dbo:foundationPlace	dbr:Sydney
+dbr:Citect	
+dbo:owner	dbr:Kids_II,_Inc.
+dbo:foundationPlace	dbr:Colorado
+dbr:Baby_Einstein	
+dbo:owner	dbr:Lawren_Pope
+dbo:foundationPlace	dbr:Houston,_Texas
+dbr:Fuchsia_(clothing)	
+dbo:owner	dbr:Mazda
+dbo:foundationPlace	dbr:Chongqing
+dbr:Changan_Ford_Mazda	
+dbo:owner	dbr:Iskander_Makhmudov
+dbo:foundationPlace	dbr:Russia
+dbr:Transmashholding	
+dbo:owner	dbr:Kim_Kardashian
+dbo:foundationPlace	dbr:United_States
+dbr:Dash_(boutique)	
+dbo:owner	dbr:Eurobank_Ergasias
+dbo:foundationPlace	dbr:Athens
+dbr:New_TT_Hellenic_Postbank	
+dbo:owner	dbr:Ananta_Jalil
+dbo:foundationPlace	dbr:Bangladesh
+dbr:Monsoon_Films	
+dbo:owner	dbr:Warburg_Pincus
+dbo:foundationPlace	dbr:Ft._Smith,_Arkansas
+dbr:Crossmark	
+dbo:owner	dbr:Rothschild_family
+dbo:foundationPlace	dbr:London
+dbr:Economist_Group	
+dbo:owner	dbr:Win's_Entertainment
+dbo:foundationPlace	dbr:Hong_Kong
+dbr:Ocean_Shores_Video	
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbo:foundationPlace	dbr:Tokyo
+dbr:Tokyo_Electric_Power_Company	
+dbo:owner	dbr:Sony
+dbo:foundationPlace	dbr:Columbia_Pictures_Entertainment
+dbr:Sony_Pictures_Entertainment	
+dbo:owner	dbr:Verizon_Communications
+dbo:foundationPlace	dbr:Baltimore
+dbr:Advertising.com	
+dbo:owner	dbr:Peter_Jones_(entrepreneur)
+dbo:foundationPlace	dbr:Leicester
+dbr:Jessops	
+dbo:owner	dbr:Arcadia_Group
+dbo:foundationPlace	dbr:Sheffield
+dbr:Topshop	
+dbo:owner	dbr:Magnitogorsk_Iron_and_Steel_Works
+dbo:foundationPlace	dbr:Turkey
+dbr:MMK-Atakaş_Metallurgy	
+dbo:owner	dbr:Banco_Popular
+dbo:foundationPlace	dbr:Spain
+dbr:Banco_Pastor	
+dbo:owner	dbr:Sun_Capital_Partners
+dbo:foundationPlace	dbr:Los_Angeles,_California
+dbr:Johnny_Rockets	
+dbo:owner	dbr:Adobe_Systems
+dbo:foundationPlace	dbr:Basel
+dbr:Day_Software	
+dbo:owner	dbr:TPG_Capital
+dbo:foundationPlace	dbr:United_States
+dbr:Energy_Future_Holdings	dbr:Biomet	
+dbo:owner	dbr:IDRO_Group
+dbo:foundationPlace	dbr:Tehran
+dbr:SAIPA	
+dbo:owner	dbr:Lars_Larsen_(entrepreneur)
+dbo:foundationPlace	dbr:Denmark
+dbr:Jysk_(store)	
+dbo:owner	dbr:Wuling_Motors
+dbo:foundationPlace	dbr:China
+dbr:SAIC-GM-Wuling	
+dbo:owner	dbr:Anwar_Rasheed
+dbo:foundationPlace	dbr:India
+dbr:Anwar_Rasheed_Entertainments	
+dbo:owner	dbr:Daniel_R._Gernatt,_Sr.
+dbo:foundationPlace	dbr:Collins,_New_York
+dbr:Dan_Gernatt_Farms	
+dbo:owner	dbr:Cinven
+dbo:foundationPlace	dbr:Norway
+dbr:Visma	
+dbo:owner	dbr:Berkshire_Hathaway
+dbo:foundationPlace	dbr:Sharpsburg,_Pennsylvania
+dbr:Heinz	
+dbo:owner	dbr:Cinven
+dbo:foundationPlace	dbr:Oslo
+dbr:Visma	
+dbo:owner	dbr:Nandamuri_Kalyan_Ram
+dbo:foundationPlace	dbr:Hyderabad
+dbr:N._T._R._Arts	
+dbo:owner	dbr:Comcast
+dbo:foundationPlace	dbr:Seattle,_Washington
+dbr:ThePlatform	
+dbo:owner	dbr:Lotte_(conglomerate)
+dbo:foundationPlace	dbr:Poland
+dbr:E._Wedel	
+dbo:owner	dbr:Government_of_Denmark
+dbo:foundationPlace	dbr:Det_Norske_Luftfartsselskap
+dbr:SAS_Group	
+dbo:owner	dbr:Weather_Services_International
+dbo:foundationPlace	dbr:Wisconsin
+dbr:Weather_Central	
+dbo:owner	dbr:P._F._Chang's_China_Bistro
+dbo:foundationPlace	dbr:Scottsdale,_Arizona
+dbr:Pei_Wei_Asian_Diner	
+dbo:owner	dbr:Lionel_Corp.
+dbo:foundationPlace	dbr:United_States
+dbr:Lionel_Kiddie_City	
+dbo:owner	dbr:Mars,_Incorporated
+dbo:foundationPlace	dbr:Virginia
+dbr:The_Goodlife_Recipe	
+dbo:owner	dbr:Qatar_Investment_Authority
+dbo:foundationPlace	dbr:Germany
+dbr:Volkswagen_Group	
+dbo:owner	dbr:Maxeda
+dbo:foundationPlace	dbr:Venlo
+dbr:Praxis_(store)	
+dbo:owner	dbr:Daimler_Trucks_North_America
+dbo:foundationPlace	dbr:United_States
+dbr:Western_Star_Trucks	
+dbo:owner	dbr:Government_of_the_Philippines
+dbo:foundationPlace	dbr:Philippines
+dbr:Experimental_Cinema_of_the_Philippines	
+dbo:owner	dbr:Hans-Peter_Wilfer
+dbo:foundationPlace	dbr:Bavaria
+dbr:Warwick_(company)	
+dbo:owner	dbr:Subaskaran_Allirajah
+dbo:foundationPlace	dbr:Tamil_Nadu
+dbr:Lyca_Productions	
+dbo:owner	dbr:The_Wendy's_Company
+dbo:foundationPlace	dbr:United_States
+dbr:Wendy's	dbr:Arby's	
+dbo:owner	dbr:Pioneer_Corporation
+dbo:foundationPlace	dbr:Osaka
+dbr:Onkyo	
+dbo:owner	dbr:Joan_Blades
+dbo:foundationPlace	dbr:United_States
+dbr:Berkeley_Systems	
+dbo:owner	dbr:Triple_E_Canada
+dbo:foundationPlace	dbr:Canada
+dbr:Triple_E_Recreational_Vehicles	
+dbo:owner	dbr:Centerbridge_Capital_Partners
+dbo:foundationPlace	dbr:Chattanooga,_Tennessee
+dbr:CraftWorks_Restaurants_&_Breweries	
+dbo:owner	dbr:Comcast
+dbo:foundationPlace	dbr:London
+dbr:United_International_Pictures	
+dbo:owner	dbr:Seminole_Tribe_of_Florida
+dbo:foundationPlace	dbr:Piccadilly
+dbr:Hard_Rock_Cafe	
+dbo:owner	dbr:Daimler_Trucks_North_America
+dbo:foundationPlace	dbr:Cleveland,_Ohio
+dbr:Western_Star_Trucks	
+dbo:owner	dbr:Singapore_Telecommunications
+dbo:foundationPlace	dbr:Manila
+dbr:Globe_Telecom	
+dbo:owner	dbr:S&T_Audio
+dbo:foundationPlace	dbr:1999_in_music
+dbr:Dolphin_Music	
+dbo:owner	dbr:The_Church_of_Jesus_Christ_of_Latter-day_Saints
+dbo:foundationPlace	dbr:United_States
+dbr:Deseret_Telegraph_Company	
+dbo:owner	dbr:McCulloch_Unique_Hotels
+dbo:foundationPlace	dbr:Nottingham
+dbr:Dakota_Hotels	
+dbo:owner	dbr:Time_Warner
+dbo:foundationPlace	dbr:Seattle
+dbr:Surreal_Software	
+dbo:owner	dbr:Weston_family
+dbo:foundationPlace	dbr:Ontario
+dbr:George_Weston_Limited	
+dbo:owner	dbr:Government_of_Bahrain
+dbo:foundationPlace	dbr:Canada
+dbr:Bahrain_Petroleum_Company	
+dbo:owner	dbr:Manchu_Vishnu
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:24_Frames_Factory	
+dbo:owner	dbr:Sekhar_Kammula
+dbo:foundationPlace	dbr:Telangana
+dbr:Amigos_Creations	
+dbo:owner	dbr:Rattan_Chadha
+dbo:foundationPlace	dbr:Amsterdam,_Netherlands
+dbr:CitizenM	
+dbo:owner	dbr:Geox
+dbo:foundationPlace	dbr:Italy
+dbr:Diadora	
+dbo:owner	dbr:Albertsons
+dbo:foundationPlace	dbr:Washington_(state)
+dbr:Haggen	
+dbo:owner	dbr:Time_Warner
+dbo:foundationPlace	dbr:Washington_(state)
+dbr:Surreal_Software	
+dbo:owner	dbr:Sony
+dbo:foundationPlace	dbr:San_Francisco
+dbr:Crackle_(company)	
+dbo:owner	dbr:All_Around_the_World_Productions
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Clubland_(dance_brand)	
+dbo:owner	dbr:FRP_Advisory
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:British_Home_Stores	
+dbo:owner	dbr:Premier_Foods
+dbo:foundationPlace	dbr:Macclesfield
+dbr:Hovis	
+dbo:owner	dbr:National_Amusements
+dbo:foundationPlace	dbr:United_States
+dbr:Westinghouse_Licensing_Corporation	
+dbo:owner	dbr:General_Motors
+dbo:foundationPlace	dbr:Liuzhou
+dbr:SAIC-GM-Wuling	
+dbo:owner	dbr:La_Poste_(France)
+dbo:foundationPlace	dbr:West_Germany
+dbr:Dynamic_Parcel_Distribution	
+dbo:owner	dbr:ABS_Capital_Partners
+dbo:foundationPlace	dbr:United_States_of_America
+dbr:Rosetta_Stone_(company)	
+dbo:owner	dbr:Lew_Grade
+dbo:foundationPlace	dbr:Maidenhead
+dbr:AP_Films	
+dbo:owner	dbr:Richard_Zuschlag
+dbo:foundationPlace	dbr:Lafayette,_Louisiana
+dbr:Acadian_Ambulance	
+dbo:owner	dbr:Exor_(company)
+dbo:foundationPlace	dbr:London
+dbr:Economist_Group	
+dbo:owner	dbr:Newell_Brands
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Waterman_pens	
+dbo:owner	dbr:Servis_Industries_Limited
+dbo:foundationPlace	dbr:Lahore
+dbr:Servis_Shoes	dbr:Servis_Tyres	
+dbo:owner	dbr:Bibojee_Group
+dbo:foundationPlace	dbr:Pakistan
+dbr:General_Tyre_Pakistan	
+dbo:owner	dbr:The_Blackstone_Group
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:EMI_Music_Publishing	
+dbo:owner	dbr:James_K._Irving
+dbo:foundationPlace	dbr:Bouctouche,_New_Brunswick
+dbr:J._D._Irving	
+dbo:owner	dbr:Goldman_Sachs_Capital_Partners
+dbo:foundationPlace	dbr:Texas
+dbr:Energy_Future_Holdings	
+dbo:owner	dbr:Virgin_Group
+dbo:foundationPlace	dbr:Cambridge,_Massachusetts
+dbr:Virgin_Money_US	
+dbo:owner	dbr:Sony_Music_Entertainment
+dbo:foundationPlace	dbr:New_York_City
+dbr:Ultra_Music	
+dbo:owner	dbr:XIO_Group
+dbo:foundationPlace	dbr:Agoura_Hills
+dbr:J.D._Power_and_Associates	
+dbo:owner	dbr:Chinese_Central_Government
+dbo:foundationPlace	dbr:China
+dbr:CITS_Group_Corporation	
+dbo:owner	dbr:Maxim_Integrated
+dbo:foundationPlace	dbr:Austria
+dbr:SensorDynamics	
+dbo:owner	dbr:Evets_Corporation
+dbo:foundationPlace	dbr:New_Jersey
+dbr:Danelectro	
+dbo:owner	dbr:General_Catalyst_Partners
+dbo:foundationPlace	dbr:Iceland
+dbr:CCP_Games	
+dbo:owner	dbr:Epic_Games
+dbo:foundationPlace	dbr:United_States
+dbr:Chair_Entertainment	
+dbo:owner	dbr:Mahesh_Babu
+dbo:foundationPlace	dbr:Jubilee_Hills
+dbr:G._Mahesh_Babu_Entertainment_Pvt._Ltd	
+dbo:owner	dbr:Puri_Jagannadh
+dbo:foundationPlace	dbr:Hyderabad
+dbr:Vaishno_Academy	dbr:Puri_Jagannadh_Touring_Talkies	dbr:Puri_Sangeet	
+dbo:owner	dbr:Liberty_Media
+dbo:foundationPlace	dbr:St._Louis
+dbr:Charter_Communications	
+dbo:owner	dbr:Blackstone_Group
+dbo:foundationPlace	dbr:United_States
+dbr:Michaels	dbr:Biomet	
+dbo:owner	dbr:InterContinental_Hotels_Group
+dbo:foundationPlace	dbr:Dallas
+dbr:Room_Key	
+dbo:owner	dbr:Gibson_Guitar_Corporation
+dbo:foundationPlace	dbr:Japan
+dbr:Onkyo	
+dbo:owner	dbr:Highfields_Capital_Management
+dbo:foundationPlace	dbr:United_States
+dbr:Michaels	
+dbo:owner	dbr:Volkswagen_Group
+dbo:foundationPlace	dbr:Neckarsulm
+dbr:Audi	dbr:Quattro_GmbH	
+dbo:owner	dbr:Government_of_Serbia
+dbo:foundationPlace	dbr:Lazarevac
+dbr:RB_Kolubara	
+dbo:owner	dbr:Government_of_Sweden
+dbo:foundationPlace	dbr:Aerotransport
+dbr:SAS_Group	
+dbo:owner	dbr:OTP_Bank
+dbo:foundationPlace	dbr:Belgrade
+dbr:Industry_of_Machinery_and_Tractors	
+dbo:owner	dbr:Autodesk
+dbo:foundationPlace	dbr:Melbourne
+dbr:Moldflow	
+dbo:owner	dbr:Maps_Service_Agency
+dbo:foundationPlace	dbr:United_States
+dbr:Fi-linx	
+dbo:owner	dbr:KKR
+dbo:foundationPlace	dbr:Sarajevo
+dbr:Telemach	
+dbo:owner	dbr:Berkshire_Partners
+dbo:foundationPlace	dbr:Paris
+dbr:Coty,_Inc.	
+dbo:owner	dbr:Beretta
+dbo:foundationPlace	dbr:Gardone_Val_Trompia
+dbr:A._Uberti,_Srl.	
+dbo:owner	dbr:Government_of_Ukraine
+dbo:foundationPlace	dbr:Kiev
+dbr:State_Savings_Bank_of_Ukraine	
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbo:foundationPlace	dbr:Dallas
+dbr:Energy_Future_Holdings	
+dbo:owner	dbr:Alliance_Atlantis
+dbo:foundationPlace	dbr:England
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Lily_Monteverde
+dbo:foundationPlace	dbr:Quezon_City
+dbr:Regal_Entertainment	
+dbo:owner	dbr:Pioneer_Corporation
+dbo:foundationPlace	dbr:Japan
+dbr:Onkyo	
+dbo:owner	dbr:David_Letterman
+dbo:foundationPlace	dbr:30_Rockefeller_Center
+dbr:Worldwide_Pants	
+dbo:owner	dbr:Centerbridge_Partners
+dbo:foundationPlace	dbr:Scottsdale,_Arizona
+dbr:P._F._Chang's_China_Bistro	
+dbo:owner	dbr:Leonardo-Finmeccanica
+dbo:foundationPlace	dbr:Turin,_Italy
+dbr:Avio	
+dbo:owner	dbr:E._D._Abbott
+dbo:foundationPlace	dbr:Wrecclesham
+dbr:Abbott-Baynes_Sailplanes	
+dbo:owner	dbr:Nikolaus_W._Schües
+dbo:foundationPlace	dbr:Hamburg
+dbr:F._Laeisz	
+dbo:owner	dbr:Securitas_(Swedish_security_company)
+dbo:foundationPlace	dbr:Belgrade
+dbr:Securitas_Services_d.o.o.	
+dbo:owner	dbr:Nielsen_Holdings
+dbo:foundationPlace	dbr:Washington,_D.C.
+dbr:Nielsen_Audio	
+dbo:owner	dbr:Government_of_Kerala
+dbo:foundationPlace	dbr:Kerala
+dbr:Kerala_Rapid_Transit_Corporation_Ltd	
+dbo:owner	dbr:Pinnacle_Entertainment
+dbo:foundationPlace	dbr:Verdi,_Nevada
+dbr:Boomtown,_Inc.	
+dbo:owner	dbr:IDEX_Corporation
+dbo:foundationPlace	dbr:Great_Britain
+dbr:Godiva_Fire_Pumps	
+dbo:owner	dbr:The_J.M._Smucker_Company
+dbo:foundationPlace	dbr:United_States
+dbr:Natural_Balance_Pet_Foods	
+dbo:owner	dbr:C._Ashwini_Dutt
+dbo:foundationPlace	dbr:Andhra_Pradesh
+dbr:Vyjayanthi_Movies	
+dbo:owner	dbr:Sridhar_Lagadapati
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Ramalakshmi_Cine_Creations	
+dbo:owner	dbr:Government_of_Serbia
+dbo:foundationPlace	dbr:Obrenovac
+dbr:TPP_Nikola_Tesla__TPP_Nikola_Tesla__1	
+dbo:owner	dbr:Vista_Equity_Partners
+dbo:foundationPlace	dbr:San_Diego,_CA
+dbr:Active_Network,_LLC	
+dbo:owner	dbr:Qatar_Investment_Authority
+dbo:foundationPlace	dbr:City_of_London
+dbr:Sainsbury's	
+dbo:owner	dbr:Virgin_Group
+dbo:foundationPlace	dbr:Royal_Wootton_Bassett
+dbr:Virgin_Holidays_Cruises	
+dbo:owner	dbr:National_Amusements
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Westinghouse_Licensing_Corporation	
+dbo:owner	dbr:The_Football_League
+dbo:foundationPlace	dbr:London
+dbr:Football_DataCo	
+dbo:owner	dbr:Fiat_Chrysler_Automobiles
+dbo:foundationPlace	dbr:Turin
+dbr:Fiat_Automobiles	
+dbo:owner	dbr:Kazatomprom
+dbo:foundationPlace	dbr:United_States
+dbr:Westinghouse_Electric_Company	
+dbo:owner	dbr:Quick_Service_Restaurant_Holdings
+dbo:foundationPlace	dbr:South_West_(Western_Australia)
+dbr:Chooks_Fresh_&_Tasty	
+dbo:owner	dbr:Noor_Investment_Group
+dbo:foundationPlace	dbr:United_Arab_Emirate
+dbr:Noor_Takaful	
+dbo:owner	dbr:Crestview_Partners
+dbo:foundationPlace	dbr:Pennsylvania
+dbr:NEP_Group,_Inc.	
+dbo:owner	dbr:Bridgestone_Multimedia_Group
+dbo:foundationPlace	dbr:United_States
+dbr:Starpath	
+dbo:owner	dbr:Droga_Kolinska
+dbo:foundationPlace	dbr:Belgrade
+dbr:Štark	
+dbo:owner	dbr:Sony_Music_Entertainment
+dbo:foundationPlace	dbr:United_States
+dbr:Ultra_Music	
+dbo:owner	dbr:Twinings
+dbo:foundationPlace	dbr:United_Kingdom_of_Great_Britain_and_Ireland
+dbr:Nambarrie	
+dbo:owner	dbr:McGill_University
+dbo:foundationPlace	dbr:Quebec
+dbr:McGill_Executive_Institute	
+dbo:owner	dbr:Kahala_Brands
+dbo:foundationPlace	dbr:New_York_City
+dbr:Tasti_D-Lite	
+dbo:owner	dbr:The_J.M._Smucker_Company
+dbo:foundationPlace	dbr:Pacoima
+dbr:Natural_Balance_Pet_Foods	
+dbo:owner	dbr:Banco_Sabadell
+dbo:foundationPlace	dbr:Alicante
+dbr:Caja_de_Ahorros_del_Mediterráneo	
+dbo:owner	dbr:Carolco_Pictures
+dbo:foundationPlace	dbr:Family_Home_Entertainment
+dbr:Artisan_Entertainment	
+dbo:owner	dbr:Brait_SE
+dbo:foundationPlace	dbr:Preston,_Lancashire
+dbr:Virgin_Active	
+dbo:owner	dbr:Kourtney_Kardashian
+dbo:foundationPlace	dbr:Calabasas,_California
+dbr:Dash_(boutique)	
+dbo:owner	dbr:Banesco
+dbo:foundationPlace	dbr:Galicia_(Spain)
+dbr:Banco_Etcheverría	
+dbo:owner	dbr:3G_Capital
+dbo:foundationPlace	dbr:Pennsylvania
+dbr:Heinz	
+dbo:owner	dbr:Hortensia_Herrero
+dbo:foundationPlace	dbr:Tavernes_Blanques
+dbr:Mercadona	
+dbo:owner	dbr:Sun_Capital_Partners
+dbo:foundationPlace	dbr:Massachusetts
+dbr:Boston_Market	
+dbo:owner	dbr:CVC_Capital_Partners
+dbo:foundationPlace	dbr:A_Coruña
+dbr:R_(cable_operator)	
+dbo:owner	dbr:Shobu_Yarlagadda
+dbo:foundationPlace	dbr:Telangana
+dbr:Arka_Media_Works	
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbo:foundationPlace	dbr:Washington,_D.C.
+dbr:Toys_%22R%22_Us	
+dbo:owner	dbr:George_Weston_Limited
+dbo:foundationPlace	dbr:Canada
+dbr:Loblaw_Companies	
+dbo:owner	dbr:Popeyes_Louisiana_Kitchen_Inc.
+dbo:foundationPlace	dbr:United_States
+dbr:Popeyes_Louisiana_Kitchen	
+dbo:owner	dbr:Schneider_Electric
+dbo:foundationPlace	dbr:Novi_Sad
+dbr:Schneider_Electric_DMS	
+dbo:owner	dbr:AOL
+dbo:foundationPlace	dbr:United_States
+dbr:GameDaily	
+dbo:owner	dbr:Brazilian_Government
+dbo:foundationPlace	dbr:Rio_de_Janeiro_(city)
+dbr:Banco_do_Brasil	
+dbo:owner	dbr:K.K._Radha_Mohan
+dbo:foundationPlace	dbr:Hyderabad
+dbr:Sri_Sathya_Sai_Arts	
+dbo:owner	dbr:Government_of_Sweden
+dbo:foundationPlace	dbr:Det_Danske_Luftfartselskab
+dbr:SAS_Group	
+dbo:owner	dbr:Trimax_Investments_GmbH
+dbo:foundationPlace	dbr:Belgrade
+dbr:Novosti_a.d.	
+dbo:owner	dbr:AOL
+dbo:foundationPlace	dbr:San_Francisco
+dbr:GameDaily	
+dbo:owner	dbr:Volkswagen_Group
+dbo:foundationPlace	dbr:Zwickau
+dbr:Audi	
+dbo:owner	dbr:Insight_Venture_Partners
+dbo:foundationPlace	dbr:Rio_de_Janeiro
+dbr:Hotel_Urbano_(company)	
+dbo:owner	dbr:WPP_plc
+dbo:foundationPlace	dbr:Hong_Kong
+dbr:Bates_CHI_&_Partners	
+dbo:owner	dbr:Greer_Industries
+dbo:foundationPlace	dbr:Morgantown,_West_Virginia
+dbr:West_Virginia_Radio_Corporation	
+dbo:owner	dbr:Otto_GmbH
+dbo:foundationPlace	dbr:United_States
+dbr:Crate_&_Barrel	
+dbo:owner	dbr:Director_(business)
+dbo:foundationPlace	dbr:Bristol
+dbr:The_Yogscast	
+dbo:owner	dbr:MEHMOOD_ALI
+dbo:foundationPlace	dbr:India
+dbr:Pen_N_Camera_International	
+dbo:owner	dbr:TPG_Capital
+dbo:foundationPlace	dbr:Indiana
+dbr:Biomet	
+dbo:owner	dbr:Actavis_plc
+dbo:foundationPlace	dbr:Ireland
+dbr:Sudocrem	
+dbo:owner	dbr:Keyence
+dbo:foundationPlace	dbr:Tokushima_Prefecture
+dbr:JustSystems	
+dbo:owner	dbr:Clayton,_Dubilier_&_Rice
+dbo:foundationPlace	dbr:Washington_(U.S._state)
+dbr:Univar	
+dbo:owner	dbr:Government_of_France
+dbo:foundationPlace	dbr:Privatization
+dbr:Orange_S.A.	
+dbo:owner	dbr:Lotte_(conglomerate)
+dbo:foundationPlace	dbr:Warsaw
+dbr:E._Wedel	
+dbo:owner	dbr:Pakistan_Air_Force
+dbo:foundationPlace	dbr:Punjab,_Pakistan
+dbr:Pakistan_Aeronautical_Complex	
+dbo:owner	dbr:HSBC
+dbo:foundationPlace	dbr:Friendly_society
+dbr:AMP_Limited	
+dbo:owner	dbr:Priceline.com
+dbo:foundationPlace	dbr:Rio_de_Janeiro
+dbr:Hotel_Urbano_(company)	
+dbo:owner	dbr:Government_of_Norway
+dbo:foundationPlace	dbr:Det_Norske_Luftfartsselskap
+dbr:SAS_Group	
+dbo:owner	dbr:CVC_Capital_Partners
+dbo:foundationPlace	dbr:Seattle
+dbr:Univar	
+dbo:owner	dbr:Independent_business
+dbo:foundationPlace	dbr:Utica,_New_York
+dbr:F._W._Woolworth_Company	
+dbo:owner	dbr:Hasbro
+dbo:foundationPlace	dbr:Baltimore,_Maryland
+dbr:Claster_Television	
+dbo:owner	dbr:Viacom
+dbo:foundationPlace	dbr:New_York_City
+dbr:Viacom_Media_Networks	
+dbo:owner	dbr:Alfredo_Yao
+dbo:foundationPlace	dbr:Philippines
+dbr:Philippine_Business_Bank	
+dbo:owner	dbr:Sun_Capital_Partners
+dbo:foundationPlace	dbr:San_Lorenzo,_California
+dbr:Mervyn's	
+dbo:owner	dbr:Holmen_(company)
+dbo:foundationPlace	dbr:Initial_Public_Offering
+dbr:Iggesund_Paperboard	
+dbo:owner	dbr:O2_(United_Kingdom)
+dbo:foundationPlace	dbr:Hertfordshire
+dbr:Tesco_Mobile	
+dbo:owner	dbr:Actavis_plc
+dbo:foundationPlace	dbr:Cabra,_Dublin
+dbr:Sudocrem	
+dbo:owner	dbr:Entertainment_One_Films
+dbo:foundationPlace	dbr:Toronto
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Sentinel_Capital_Partners
+dbo:foundationPlace	dbr:Kentucky
+dbr:Checkers_and_Rally's	
+dbo:owner	dbr:Volkswagen_AG
+dbo:foundationPlace	dbr:Salzburg
+dbr:Porsche_Holding	
+dbo:owner	dbr:Mahesh_Babu
+dbo:foundationPlace	dbr:Telangana
+dbr:G._Mahesh_Babu_Entertainment_Pvt._Ltd	
+dbo:owner	dbr:Vikram_Bhatt
+dbo:foundationPlace	dbr:Maharashtra
+dbr:ASA_Productions_and_Enterprises	
+dbo:owner	dbr:Hinduja_Group
+dbo:foundationPlace	dbr:Mumbai
+dbr:IndusInd_Bank	
+dbo:owner	dbr:Kim_Kardashian
+dbo:foundationPlace	dbr:Calabasas,_California
+dbr:Dash_(boutique)	
+dbo:owner	dbr:Porsche_family
+dbo:foundationPlace	dbr:Stuttgart
+dbr:Porsche_SE	
+dbo:owner	dbr:Government_of_Libya
+dbo:foundationPlace	dbr:Benghazi
+dbr:National_Oil_Corporation	
+dbo:owner	dbr:Takashimaya
+dbo:foundationPlace	dbr:Osaka
+dbr:H2O_Retailing	
+dbo:owner	dbr:Hufvudstaden_AB
+dbo:foundationPlace	dbr:Gothenburg
+dbr:Nordiska_Kompaniet	
+dbo:owner	dbr:Alphabet_Inc.
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Softcard	
+dbo:owner	dbr:Government_of_Spain
+dbo:foundationPlace	dbr:Madrid
+dbr:Correos	dbr:Loterías_y_Apuestas_del_Estado	
+dbo:owner	dbr:The_Coca-Cola_Company
+dbo:foundationPlace	dbr:Mexico_City
+dbr:Jugos_del_Valle	
+dbo:owner	dbr:Seminole_Tribe_of_Florida
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Hard_Rock_Cafe	
+dbo:owner	dbr:Pinnacle_Entertainment
+dbo:foundationPlace	dbr:United_States
+dbr:Boomtown,_Inc.	
+dbo:owner	dbr:Liberty_Interactive
+dbo:foundationPlace	dbr:United_States
+dbr:LendingTree	
+dbo:owner	dbr:Larry_Tanenbaum
+dbo:foundationPlace	dbr:Ontario
+dbr:Maple_Leaf_Sports_&_Entertainment	
+dbo:owner	dbr:JAB_Holding_Company
+dbo:foundationPlace	dbr:Waitsfield
+dbr:Keurig_Green_Mountain	
+dbo:owner	dbr:Michael_Jackson
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:EMI_Music_Publishing	
+dbo:owner	dbr:Shenzhen_Overseas_Chinese_Town_Holding_Company
+dbo:foundationPlace	dbr:Shenzhen
+dbr:Happy_Valley_(amusement_parks)	
+dbo:owner	dbr:Nandamuri_Kalyan_Ram
+dbo:foundationPlace	dbr:Banjara_Hills
+dbr:N._T._R._Arts	
+dbo:owner	dbr:Noor_Investment_Group
+dbo:foundationPlace	dbr:Dubai
+dbr:Noor_Takaful	
+dbo:owner	dbr:Sony
+dbo:foundationPlace	dbr:Hollywood
+dbr:Sony_Pictures_Classics	dbr:Sony_Pictures_Motion_Picture_Group	dbr:Sony_Pictures_Worldwide_Acquisitions	
+dbo:owner	dbr:Goldman_Sachs_Capital_Partners
+dbo:foundationPlace	dbr:United_States
+dbr:Energy_Future_Holdings	
+dbo:owner	dbr:Minority_investor,_DJI
+dbo:foundationPlace	dbr:Gothenburg
+dbr:Hasselblad	
+dbo:owner	dbr:East_Indian_Railway
+dbo:foundationPlace	dbr:A_P_J_Abdul_Kalam
+dbr:Carriage_Repair_Workshop,_Harnaut	
+dbo:owner	dbr:News_Corp
+dbo:foundationPlace	dbr:Adelaide
+dbr:News_Corp_Australia	
+dbo:owner	dbr:Daryl_Katz
+dbo:foundationPlace	dbr:Alberta
+dbr:Katz_Group_of_Companies	
+dbo:owner	dbr:Dasari_Narayana_Rao
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Tharaka_Prabhu_Films	
+dbo:owner	dbr:The_Wendy's_Company
+dbo:foundationPlace	dbr:Boardman,_Ohio
+dbr:Arby's	
+dbo:owner	dbr:The_Belden_Brick_Company
+dbo:foundationPlace	dbr:Ohio
+dbr:Belden_Brick_Company	
+dbo:owner	dbr:German_Investment_Corporation
+dbo:foundationPlace	dbr:Belgrade
+dbr:Komercijalna_banka	
+dbo:owner	dbr:F._W._Woolworth_Company
+dbo:foundationPlace	dbr:Liverpool
+dbr:Woolworths_Group	
+dbo:owner	dbr:Discovery_Communications
+dbo:foundationPlace	dbr:San_Francisco
+dbr:Discovery_Digital_Networks	
+dbo:owner	dbr:Pakistan_Armed_Forces
+dbo:foundationPlace	dbr:Kamra
+dbr:Pakistan_Aeronautical_Complex	
+dbo:owner	dbr:Independent_business
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:F._W._Woolworth_Company	
+dbo:owner	dbr:Bain_Capital
+dbo:foundationPlace	dbr:Family_Home_Entertainment
+dbr:Artisan_Entertainment	
+dbo:owner	dbr:Comcast
+dbo:foundationPlace	dbr:United_States
+dbr:ThePlatform	
+dbo:owner	dbr:XIO_Group
+dbo:foundationPlace	dbr:California
+dbr:J.D._Power_and_Associates	
+dbo:owner	<http://www.comune.torino.it/commercioeimpresa/partecipazioni-aziendali/schede/gtt.htm>
+dbo:foundationPlace	dbr:Piemonte
+dbr:Gruppo_Torinese_Trasporti	
+dbo:owner	dbr:Kraft_Heinz
+dbo:foundationPlace	dbr:Birmingham
+dbr:HP_Foods	
+dbo:owner	dbr:Mars,_Incorporated
+dbo:foundationPlace	dbr:McLean,_Virginia
+dbr:The_Goodlife_Recipe	
+dbo:owner	dbr:National_Amusements
+dbo:foundationPlace	dbr:New_York_City
+dbr:Westinghouse_Licensing_Corporation	
+dbo:owner	dbr:Republic_of_Turkey
+dbo:foundationPlace	dbr:Ankara
+dbr:Turkish_State_Railways__Türkiye_Cumhuriyeti_Devlet_Demiryolları__1	
+dbo:owner	dbr:The_Donning_Company
+dbo:foundationPlace	dbr:1978_in_comics
+dbr:Starblaze_Graphics	
+dbo:owner	dbr:Government_of_Gibraltar
+dbo:foundationPlace	dbr:Gibraltar
+dbr:Gibtelecom	
+dbo:owner	dbr:Fiat_Chrysler_Automobiles
+dbo:foundationPlace	dbr:Milan
+dbr:Alfa_Romeo	
+dbo:owner	dbr:International_Finance_Corporation
+dbo:foundationPlace	dbr:Belgrade
+dbr:Komercijalna_banka	
+dbo:owner	dbr:Adidas
+dbo:foundationPlace	dbr:Pasching
+dbr:Runtastic	
+dbo:owner	dbr:Molson_Coors_Brewing_Company
+dbo:foundationPlace	dbr:Canada
+dbr:Carling_brewery	
+dbo:owner	dbr:Asset_Plus_Investment_Management
+dbo:foundationPlace	dbr:South_Korea
+dbr:CJ_E&M	
+dbo:owner	dbr:Epyx
+dbo:foundationPlace	dbr:United_States
+dbr:Starpath	
+dbo:owner	dbr:International_Petroleum_Investment_Company
+dbo:foundationPlace	dbr:Madrid
+dbr:Compañía_Española_de_Petróleos	
+dbo:owner	dbr:TowerBrook_Capital_Partners
+dbo:foundationPlace	dbr:Concord,_California
+dbr:BevMo!	
+dbo:owner	dbr:Nomura_Group
+dbo:foundationPlace	dbr:Bremen
+dbr:Nordsee	
+dbo:owner	dbr:Yıldız_Holding
+dbo:foundationPlace	dbr:Netherlands
+dbr:Verkade	
+dbo:owner	dbr:Citigroup
+dbo:foundationPlace	dbr:Oregon
+dbr:Sylvan_Learning	
+dbo:owner	dbr:Carlyle_Group
+dbo:foundationPlace	dbr:France
+dbr:SAGEMCOM	
+dbo:owner	dbr:GUVNL
+dbo:foundationPlace	dbr:Vadodara
+dbr:Gujarat_Energy_Transmission_Corporation	dbr:Dakshin_Gujarat_Vij_Company	dbr:Madhya_Gujarat_Vij	dbr:Paschim_Gujarat_Vij	
+dbo:owner	dbr:LG_Corp
+dbo:foundationPlace	dbr:South_Korea
+dbr:G2R	
+dbo:owner	dbr:Privately_held_company
+dbo:foundationPlace	dbr:Johannesburg
+dbr:Primedia	
+dbo:owner	dbr:Sapporo_Brewery
+dbo:foundationPlace	dbr:List_of_Oldest_Breweries_of_Canada
+dbr:Sleeman_Breweries	
+dbo:owner	dbr:Wuling_Motors
+dbo:foundationPlace	dbr:Liuzhou
+dbr:SAIC-GM-Wuling	
+dbo:owner	dbr:21st_Century_Fox
+dbo:foundationPlace	dbr:United_States
+dbr:CORE_Media_Group	
+dbo:owner	dbr:Intesa_Sanpaolo
+dbo:foundationPlace	dbr:Belgrade
+dbr:Banca_Intesa_Beograd	
+dbo:owner	dbr:BDT_Capital_Partners
+dbo:foundationPlace	dbr:United_States
+dbr:Einstein_Bros._Bagels	
+dbo:owner	dbr:Evans_Property_Group
+dbo:foundationPlace	dbr:England
+dbr:Dakota_Hotels	
+dbo:owner	dbr:Autodesk
+dbo:foundationPlace	dbr:Australia
+dbr:Moldflow	
+dbo:owner	dbr:Artawheel_Tire
+dbo:foundationPlace	dbr:Yazd
+dbr:Yazd_Tire	
+dbo:owner	dbr:National_Amusements
+dbo:foundationPlace	dbr:London
+dbr:United_International_Pictures	
+dbo:owner	dbr:PayPal
+dbo:foundationPlace	dbr:Timonium,_MD
+dbr:PayPal_Credit	
+dbo:owner	dbr:Berkshire_Hathaway
+dbo:foundationPlace	dbr:United_States
+dbr:Heinz	dbr:Mouser_Electronics	dbr:Fruit_of_the_Loom	dbr:Acme_Brick	dbr:Marmon_Group	
+dbo:owner	dbr:Gordon_Brothers_Group
+dbo:foundationPlace	dbr:Decatur,_Illinois
+dbr:K's_Merchandise_Mart	
+dbo:owner	dbr:BNY_Mellon
+dbo:foundationPlace	dbr:Toronto
+dbr:CIBC_Mellon	
+dbo:owner	dbr:Mitsubishi_UFJ_Financial_Group
+dbo:foundationPlace	dbr:Japan
+dbr:Olympus_Corporation	
+dbo:owner	dbr:Schroders
+dbo:foundationPlace	dbr:London
+dbr:Economist_Group	
+dbo:owner	dbr:Coty,_Inc.
+dbo:foundationPlace	dbr:Paris
+dbr:Bourjois	
+dbo:owner	dbr:Wang_Jianlin
+dbo:foundationPlace	dbr:Dalian
+dbr:Wanda_Group	
+dbo:owner	dbr:Director_(business)
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:The_Yogscast	
+dbo:owner	dbr:Fidelity_Investments
+dbo:foundationPlace	dbr:Las_Vegas,_Nevada
+dbr:Station_Casinos	
+dbo:owner	dbr:Government_of_Serbia
+dbo:foundationPlace	dbr:Republic_of_Serbia_(1992–2006)
+dbr:Belgrade_Nikola_Tesla_Airport__Aerodrom_Nikola_Tesla_a.d.__1	
+dbo:owner	dbr:CVC_Capital_Partners
+dbo:foundationPlace	dbr:United_States
+dbr:Univar	
+dbo:owner	dbr:Apollo_Global_Management
+dbo:foundationPlace	dbr:United_States
+dbr:CORE_Media_Group	
+dbo:owner	dbr:Subaskaran_Allirajah
+dbo:foundationPlace	dbr:Chennai
+dbr:Lyca_Productions	
+dbo:owner	dbr:Lynn_Tilton
+dbo:foundationPlace	dbr:Illinois
+dbr:Rand_McNally	
+dbo:owner	dbr:BNP_Paribas
+dbo:foundationPlace	dbr:ABN_Amro_Maroc
+dbr:BMCI	
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbo:foundationPlace	dbr:Houston
+dbr:Academy_Sports_+_Outdoors	
+dbo:owner	dbr:Equinix
+dbo:foundationPlace	dbr:Brazil
+dbr:Alog_Datacenters	
+dbo:owner	dbr:Lindsay_G._Merrithew
+dbo:foundationPlace	dbr:Toronto
+dbr:Stott_Pilates	
+dbo:owner	dbr:Sony
+dbo:foundationPlace	dbr:California
+dbr:Columbia_Pictures	dbr:Sony_Pictures_Classics	dbr:Sony_Pictures_Motion_Picture_Group	dbr:Sony_Pictures_Worldwide_Acquisitions	dbr:Crackle_(company)	
+dbo:owner	dbr:Noor_Islamic_Bank
+dbo:foundationPlace	dbr:United_Arab_Emirate
+dbr:Noor_Takaful	
+dbo:owner	dbr:Government_of_India
+dbo:foundationPlace	dbr:New_Delhi
+dbr:Delhi_Metro_Rail_Corporation	dbr:National_Capital_Region_Transport_Corporation	
+dbo:owner	dbr:Bain_Capital
+dbo:foundationPlace	dbr:Dallas
+dbr:Michaels	
+dbo:owner	dbr:Krishna_Prasad_Sivalenka
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Sridevi_Movies	
+dbo:owner	dbr:Evets_Corporation
+dbo:foundationPlace	dbr:Red_Bank,_New_Jersey
+dbr:Danelectro	
+dbo:owner	dbr:Kroger
+dbo:foundationPlace	dbr:United_States
+dbr:Harris_Teeter	
+dbo:owner	dbr:Kratos_Defense_&_Security_Solutions
+dbo:foundationPlace	dbr:Lanham,_Maryland
+dbr:Integral_Systems	
+dbo:owner	dbr:Shari_Redstone
+dbo:foundationPlace	dbr:Dedham,_Massachusetts
+dbr:National_Amusements	
+dbo:owner	dbr:Community_organization
+dbo:foundationPlace	dbr:Edmonton,_Alberta
+dbr:Edmonton_Airports	
+dbo:owner	dbr:Berkshire_Hathaway
+dbo:foundationPlace	dbr:Rhode_Island
+dbr:Fruit_of_the_Loom	
+dbo:owner	dbr:Angelo,_Gordon_&_Co.
+dbo:foundationPlace	dbr:Summit,_New_Jersey
+dbr:Kings_Food_Markets	
+dbo:owner	dbr:Deborah_Meaden
+dbo:foundationPlace	dbr:Wellington,_Somerset
+dbr:Fox_Brothers	
+dbo:owner	dbr:National_Pension_Service
+dbo:foundationPlace	dbr:Seoul
+dbr:Seoul_Broadcasting_System__SBS_Media_Holdings,_Ltd.__1	dbr:CJ_E&M	
+dbo:owner	dbr:Sentinel_Capital_Partners
+dbo:foundationPlace	dbr:New_York_City
+dbr:T.G.I._Friday's	
+dbo:owner	dbr:Ares_Management
+dbo:foundationPlace	dbr:Hollywood
+dbr:Guitar_Center	
+dbo:owner	dbr:BNY_Mellon
+dbo:foundationPlace	dbr:Canada
+dbr:CIBC_Mellon	
+dbo:owner	dbr:Sun_Capital_Partners
+dbo:foundationPlace	dbr:California
+dbr:Mervyn's	
+dbo:owner	dbr:Molson_Coors
+dbo:foundationPlace	dbr:Apatin
+dbr:Apatin_Brewery	
+dbo:owner	dbr:Alliance_Atlantis
+dbo:foundationPlace	dbr:Toronto
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Asset_Plus_Investment_Management
+dbo:foundationPlace	dbr:Seoul
+dbr:CJ_E&M	
+dbo:owner	dbr:Karan_Johar
+dbo:foundationPlace	dbr:Maharashtra
+dbr:Dharma_Productions	
+dbo:owner	dbr:Real_Mex_Restaurants
+dbo:foundationPlace	dbr:United_States
+dbr:Chevys_Fresh_Mex	
+dbo:owner	dbr:Amancio_Ortega
+dbo:foundationPlace	dbr:Arteixo
+dbr:Inditex	
+dbo:owner	dbr:Platinum_Equity
+dbo:foundationPlace	dbr:Denver,_Colorado
+dbr:Quark_(company)	
+dbo:owner	dbr:Vornado_Realty_Trust
+dbo:foundationPlace	dbr:Washington,_D.C.
+dbr:Toys_%22R%22_Us	
+dbo:owner	dbr:Fiat_Chrysler_Automobiles
+dbo:foundationPlace	dbr:Changsha
+dbr:GAC_Fiat	
+dbo:owner	dbr:Innofinance_Oy
+dbo:foundationPlace	dbr:Finland
+dbr:Futurice	
+dbo:owner	dbr:Sony
+dbo:foundationPlace	dbr:Minato,_Tokyo
+dbr:Sony_Interactive_Entertainment	
+dbo:owner	dbr:Halk_Bankası
+dbo:foundationPlace	dbr:Čačak
+dbr:Čačanska_banka	
+dbo:owner	dbr:Nintendo
+dbo:foundationPlace	dbr:Redmond,_Washington
+dbr:Nintendo_Software_Technology	
+dbo:owner	dbr:Epyx
+dbo:foundationPlace	dbr:California
+dbr:Starpath	
+dbo:owner	dbr:Mitsubishi_UFJ_Financial_Group
+dbo:foundationPlace	dbr:Shinjuku
+dbr:Olympus_Corporation	
+dbo:owner	dbr:Albertsons
+dbo:foundationPlace	dbr:United_States
+dbr:Haggen	
+dbo:owner	dbr:Discovery_Digital_Networks
+dbo:foundationPlace	dbr:United_States
+dbr:Revision3	
+dbo:owner	dbr:Intel
+dbo:foundationPlace	dbr:Dublin
+dbr:Havok_(company)	
+dbo:owner	dbr:Public_company
+dbo:foundationPlace	dbr:Toledo,_Ohio,_USA
+dbr:Owens-Illinois	
+dbo:owner	dbr:Oprah_Winfrey
+dbo:foundationPlace	dbr:Illinois
+dbr:Harpo_Productions	
+dbo:owner	dbr:Universo_Online
+dbo:foundationPlace	dbr:Brazil
+dbr:UOL_HOST	
+dbo:owner	dbr:Lorenzo_Fertitta
+dbo:foundationPlace	dbr:United_States
+dbr:Station_Casinos	
+dbo:owner	dbr:Maxim_Integrated
+dbo:foundationPlace	dbr:Graz
+dbr:SensorDynamics	
+dbo:owner	dbr:JD_Group
+dbo:foundationPlace	dbr:Hong_Kong
+dbr:Fortis_Insurance_Asia	
+dbo:owner	dbr:Verizon_Communications
+dbo:foundationPlace	dbr:Maryland
+dbr:Advertising.com	
+dbo:owner	dbr:Mani_Ratnam
+dbo:foundationPlace	dbr:Tamil_Nadu
+dbr:Madras_Talkies	
+dbo:owner	dbr:Fusion_Media_Group
+dbo:foundationPlace	dbr:Madison,_Wisconsin
+dbr:The_Onion__,_Inc.__1	
+dbo:owner	dbr:Ayala_Corporation
+dbo:foundationPlace	dbr:Muntinlupa
+dbr:Integrated_Micro-Electronics,_Inc.	
+dbo:owner	dbr:Otto_GmbH
+dbo:foundationPlace	dbr:Chicago,_Illinois
+dbr:Crate_&_Barrel	
+dbo:owner	dbr:MGM_Resorts_International
+dbo:foundationPlace	dbr:United_States
+dbr:Mandalay_Resort_Group	
+dbo:owner	dbr:Steve_DiTullio
+dbo:foundationPlace	dbr:Charlton,_MA
+dbr:Broken_Wall_Films	
+dbo:owner	dbr:Jim_Pattison_Group
+dbo:foundationPlace	dbr:British_Columbia
+dbr:Save-On-Foods	dbr:Urban_Fare	dbr:Overwaitea_Foods	
+dbo:owner	dbr:Meiji_Yasuda_Life
+dbo:foundationPlace	dbr:Hamamatsu
+dbr:Honda	
+dbo:owner	dbr:Alliance_Films
+dbo:foundationPlace	dbr:London
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Mars_family
+dbo:foundationPlace	dbr:Tacoma,_Washington
+dbr:Mars,_Incorporated	
+dbo:owner	dbr:JMCG
+dbo:foundationPlace	dbr:Nanchang
+dbr:Jianxi_Isuzu_Motors	
+dbo:owner	dbr:Lionsgate
+dbo:foundationPlace	dbr:Family_Home_Entertainment
+dbr:Artisan_Entertainment	
+dbo:owner	dbr:Kourtney_Kardashian
+dbo:foundationPlace	dbr:United_States
+dbr:Dash_(boutique)	
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbo:foundationPlace	dbr:Indiana
+dbr:Biomet	
+dbo:owner	dbr:Magnitogorsk_Iron_and_Steel_Works
+dbo:foundationPlace	dbr:Hatay_Province
+dbr:MMK-Atakaş_Metallurgy	
+dbo:owner	dbr:Government_of_India
+dbo:foundationPlace	dbr:Karnataka
+dbr:Bharat_Electronics_Limited	
+dbo:owner	dbr:Rogers_Communications
+dbo:foundationPlace	dbr:Toronto
+dbr:Maple_Leaf_Sports_&_Entertainment	dbr:Rogers_Radio	
+dbo:owner	dbr:Renovo_Capital
+dbo:foundationPlace	dbr:Berkeley,_California
+dbr:Andronico's	
+dbo:owner	dbr:Edward_R._Tinsley
+dbo:foundationPlace	dbr:New_Mexico
+dbr:K-Bob's_Steakhouse	
+dbo:owner	dbr:IDdesign
+dbo:foundationPlace	dbr:Denmark
+dbr:ILVA	
+dbo:owner	dbr:Alliance_Films
+dbo:foundationPlace	dbr:Ontario
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Weston_family
+dbo:foundationPlace	dbr:Toronto
+dbr:George_Weston_Limited	
+dbo:owner	dbr:Avis_Budget_Group
+dbo:foundationPlace	dbr:Washington_(state)
+dbr:Payless_Car_Rental	
+dbo:owner	dbr:James_K._Irving
+dbo:foundationPlace	dbr:New_Brunswick
+dbr:J._D._Irving	
+dbo:owner	dbr:Lion_Capital_LLP
+dbo:foundationPlace	dbr:Amsterdam
+dbr:HEMA_(store)	
+dbo:owner	dbr:Steve_Richardson_(puzzle_designer)
+dbo:foundationPlace	dbr:United_States
+dbr:Stave_Puzzles	
+dbo:owner	dbr:The_Football_League
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Football_DataCo	
+dbo:owner	dbr:Dahabshiil
+dbo:foundationPlace	dbr:Burco
+dbr:Somtel	
+dbo:owner	dbr:Adidas
+dbo:foundationPlace	dbr:Austria
+dbr:Runtastic	
+dbo:owner	dbr:Government_of_India
+dbo:foundationPlace	dbr:Mir_Osman_Ali_Khan
+dbr:State_Bank_of_Hyderabad	
+dbo:owner	dbr:Fox_Entertainment_Group
+dbo:foundationPlace	dbr:United_States
+dbr:Yardbarker	
+dbo:owner	dbr:Gujarat_Urja_Vikas_Nigam
+dbo:foundationPlace	dbr:Ahmedabad
+dbr:Gujarat_State_Electricity_Corporation_Limited	
+dbo:owner	dbr:Sony
+dbo:foundationPlace	dbr:United_States
+dbr:Columbia_Pictures	dbr:Sony_Pictures_Motion_Picture_Group	dbr:Sony_Pictures_Worldwide_Acquisitions	
+dbo:owner	dbr:Fox_Entertainment_Group
+dbo:foundationPlace	dbr:Emeryville,_California
+dbr:Yardbarker	
+dbo:owner	dbr:Dick's_Sporting_Goods
+dbo:foundationPlace	dbr:United_States
+dbr:Sports_Authority	
+dbo:owner	dbr:ExxonMobil
+dbo:foundationPlace	dbr:Groningen_(city)
+dbr:GasTerra	
+dbo:owner	dbr:SAIC_Motor
+dbo:foundationPlace	dbr:Liuzhou
+dbr:SAIC-GM-Wuling	
+dbo:owner	dbr:McCulloch_Unique_Hotels
+dbo:foundationPlace	dbr:England
+dbr:Dakota_Hotels	
+dbo:owner	dbr:The_Walt_Disney_Company
+dbo:foundationPlace	dbr:Colorado
+dbr:Baby_Einstein	
+dbo:owner	dbr:Anwar_Rasheed
+dbo:foundationPlace	dbr:Kerala
+dbr:Anwar_Rasheed_Entertainments	
+dbo:owner	dbr:Bruno_Grollo
+dbo:foundationPlace	dbr:Australia
+dbr:Grocon	
+dbo:owner	dbr:Gibson_Guitar_Corporation
+dbo:foundationPlace	dbr:Osaka
+dbr:Onkyo	
+dbo:owner	dbr:Avis_Budget_Group
+dbo:foundationPlace	dbr:Spokane,_Washington
+dbr:Payless_Car_Rental	
+dbo:owner	dbr:Adam_Fleischman
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Umami_Burger	
+dbo:owner	dbr:Bonnier_Group
+dbo:foundationPlace	dbr:Finland
+dbr:SF_Film_Finland	
+dbo:owner	dbr:Private_company
+dbo:foundationPlace	dbr:London
+dbr:ViaStreaming	
+dbo:owner	dbr:Blackstone_Group
+dbo:foundationPlace	dbr:Dallas
+dbr:Michaels	
+dbo:owner	dbr:Kevin_Kalkhoven
+dbo:foundationPlace	dbr:London
+dbr:Cosworth	
+dbo:owner	dbr:ISUZU
+dbo:foundationPlace	dbr:Nanchang
+dbr:Jianxi_Isuzu_Motors	
+dbo:owner	dbr:Cinven
+dbo:foundationPlace	dbr:Turin,_Italy
+dbr:Avio	
+dbo:owner	dbr:Hornby_Railways
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Humbrol	
+dbo:owner	dbr:Cartoon_Network
+dbo:foundationPlace	dbr:Atlanta,_Georgia
+dbr:Radical_Axis_(studio)	
+dbo:owner	dbr:Leonard_Green_&_Partners
+dbo:foundationPlace	dbr:Ohio
+dbr:Jo-Ann_Stores	
+dbo:owner	dbr:Government_of_China
+dbo:foundationPlace	dbr:Republic_of_China
+dbr:Bank_of_China	
+dbo:owner	dbr:Leonard_Green_and_Partners
+dbo:foundationPlace	dbr:Sheffield
+dbr:Topshop	
+dbo:owner	dbr:Marvel_Comics
+dbo:foundationPlace	dbr:1998_in_comics
+dbr:CrossGen	
+dbo:owner	dbr:Heublein
+dbo:foundationPlace	dbr:Minnesota
+dbr:Zantigo	
+dbo:owner	dbr:Orange_S.A.
+dbo:foundationPlace	dbr:Poland
+dbr:Orange_Polska	
+dbo:owner	dbr:Employee_stock_ownership_plan
+dbo:foundationPlace	dbr:Kent,_Ohio
+dbr:Davey_Tree_Expert_Company	
+dbo:owner	dbr:Ravi_Babu
+dbo:foundationPlace	dbr:Madras
+dbr:Flying_Frogs	
+dbo:owner	dbr:The_Woodbridge_Company
+dbo:foundationPlace	dbr:Ontario
+dbr:Thomson_Reuters	
+dbo:owner	dbr:CPP_Investment_Board
+dbo:foundationPlace	dbr:Madrid
+dbr:Dorna_Sports	
+dbo:owner	dbr:Target_Corporation
+dbo:foundationPlace	dbr:California
+dbr:Mervyn's	
+dbo:owner	dbr:Clayton,_Dubilier_&_Rice
+dbo:foundationPlace	dbr:United_States
+dbr:Univar	
+dbo:owner	dbr:Carlyle_Group
+dbo:foundationPlace	dbr:Rueil-Malmaison
+dbr:SAGEMCOM	
+dbo:owner	dbr:Dr.Azad_Moopen
+dbo:foundationPlace	dbr:Dubai
+dbr:Aster_DM_Healthcare	
+dbo:owner	dbr:List_of_Canadian_restaurant_chains
+dbo:foundationPlace	dbr:Canada
+dbr:Robin's_Donuts	
+dbo:owner	dbr:Super_de_Boer_N.V.
+dbo:foundationPlace	dbr:Hoogeveen
+dbr:Super_de_Boer	
+dbo:owner	dbr:Banca_Intesa
+dbo:foundationPlace	dbr:S.A._(corporation)
+dbr:Cassa_di_Risparmio_di_Ascoli_Piceno	
+dbo:owner	dbr:Leonard_Green_&_Partners
+dbo:foundationPlace	dbr:Florida
+dbr:Sports_Authority	
+dbo:owner	dbr:McCormick_&_Company
+dbo:foundationPlace	dbr:New_Orleans
+dbr:Zatarain's	
+dbo:owner	dbr:Dick's_Sporting_Goods
+dbo:foundationPlace	dbr:Fort_Lauderdale,_Florida
+dbr:Sports_Authority	
+dbo:owner	dbr:Banesco
+dbo:foundationPlace	dbr:A_Coruña
+dbr:Abanca	
+dbo:owner	dbr:Kratos_Defense_&_Security_Solutions
+dbo:foundationPlace	dbr:United_States
+dbr:Integral_Systems	
+dbo:owner	dbr:Fidelity_Investments
+dbo:foundationPlace	dbr:United_States
+dbr:Station_Casinos	
+dbo:owner	dbr:Ananta_Jalil
+dbo:foundationPlace	dbr:Dhaka
+dbr:Monsoon_Films	
+dbo:owner	dbr:Heublein
+dbo:foundationPlace	dbr:Minneapolis
+dbr:Zantigo	
+dbo:owner	dbr:Colgate-Palmolive
+dbo:foundationPlace	dbr:Topeka,_Kansas
+dbr:Science_Diet	
+dbo:owner	dbr:Rhône_Group
+dbo:foundationPlace	dbr:Paris
+dbr:Coty,_Inc.	
+dbo:owner	dbr:Discovery_Communications
+dbo:foundationPlace	dbr:California
+dbr:Discovery_Digital_Networks	
+dbo:owner	dbr:Legrand_(company)
+dbo:foundationPlace	dbr:Varese
+dbr:Bticino	
+dbo:owner	dbr:Nick_Allain
+dbo:foundationPlace	dbr:Charlton,_MA
+dbr:Broken_Wall_Films	
+dbo:owner	dbr:Wes_Boyd
+dbo:foundationPlace	dbr:United_States
+dbr:Berkeley_Systems	
+dbo:owner	dbr:Shonda_Rhimes
+dbo:foundationPlace	dbr:Los_Angeles,_California
+dbr:ShondaLand	
+dbo:owner	dbr:Government_of_Norway
+dbo:foundationPlace	dbr:Det_Danske_Luftfartselskab
+dbr:SAS_Group	
+dbo:owner	dbr:Alstom
+dbo:foundationPlace	dbr:Russia
+dbr:Transmashholding	
+dbo:owner	dbr:General_Motors
+dbo:foundationPlace	dbr:Rüsselsheim
+dbr:Opel_Performance_Center	
+dbo:owner	dbr:Activision_Blizzard
+dbo:foundationPlace	dbr:Canada
+dbr:Beenox	
+dbo:owner	dbr:Cadbury_family
+dbo:foundationPlace	dbr:London
+dbr:Economist_Group	
+dbo:owner	dbr:Government_of_Delhi
+dbo:foundationPlace	dbr:Delhi
+dbr:Delhi_Metro_Rail_Corporation	
+dbo:owner	dbr:IDdesign
+dbo:foundationPlace	dbr:Ishøj
+dbr:ILVA	
+dbo:owner	dbr:Robert_Rowling
+dbo:foundationPlace	dbr:United_States
+dbr:Gold's_Gym	
+dbo:owner	dbr:B._N._Sircar
+dbo:foundationPlace	dbr:Calcutta
+dbr:New_Theatres	
+dbo:owner	dbr:Telstra
+dbo:foundationPlace	dbr:Asia_Pacific
+dbr:Pacnet	
+dbo:owner	dbr:Advance_Publications
+dbo:foundationPlace	dbr:St._Louis
+dbr:Charter_Communications	
+dbo:owner	dbr:K.K._Radha_Mohan
+dbo:foundationPlace	dbr:India
+dbr:Sri_Sathya_Sai_Arts	
+dbo:owner	dbr:Pinnacle_Entertainment
+dbo:foundationPlace	dbr:Nevada
+dbr:Boomtown,_Inc.	
+dbo:owner	dbr:Nikolaus_W._Schües
+dbo:foundationPlace	dbr:Germany
+dbr:F._Laeisz	
+dbo:owner	dbr:TPG_Capital
+dbo:foundationPlace	dbr:Burbank,_California
+dbr:Gelson's_Markets	
+dbo:owner	dbr:Fernando_Sulichin
+dbo:foundationPlace	dbr:France
+dbr:Central_Films	
+dbo:owner	dbr:Nippon_Life
+dbo:foundationPlace	dbr:Osaka
+dbr:West_Japan_Railway_Company	
+dbo:owner	dbr:Ubisoft
+dbo:foundationPlace	dbr:São_Paulo
+dbr:Ubisoft_São_Paulo	
+dbo:owner	dbr:Paxys
+dbo:foundationPlace	dbr:Metro_Manila
+dbr:Advanced_Contact_Solutions	
+dbo:owner	dbr:Leonard_Green_&_Partners
+dbo:foundationPlace	dbr:Cleveland
+dbr:Jo-Ann_Stores	
+dbo:owner	dbr:European_Bank_for_Reconstruction_and_Development
+dbo:foundationPlace	dbr:Belgrade
+dbr:Komercijalna_banka	
+dbo:owner	dbr:Japan_Trustee_Services_Bank
+dbo:foundationPlace	dbr:Hamamatsu
+dbr:Honda	
+dbo:owner	dbr:Kohlberg_Kravis_Roberts
+dbo:foundationPlace	dbr:Warsaw,_Indiana
+dbr:Biomet	
+dbo:owner	dbr:William_Morris_Endeavor
+dbo:foundationPlace	dbr:Tokyo
+dbr:Pride_Fighting_Championships	
+dbo:owner	dbr:Bain_Capital
+dbo:foundationPlace	dbr:United_States
+dbr:Toys_%22R%22_Us	dbr:Michaels	
+dbo:owner	dbr:CEO
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:The_Yogscast	
+dbo:owner	dbr:Ayala_Corporation
+dbo:foundationPlace	dbr:Manila
+dbr:Globe_Telecom	
+dbo:owner	dbr:List_of_Canadian_restaurant_chains
+dbo:foundationPlace	dbr:Ontario
+dbr:Robin's_Donuts	
+dbo:owner	dbr:Reed_Hastings
+dbo:foundationPlace	dbr:United_States
+dbr:Netflix	
+dbo:owner	dbr:MEHMOOD_ALI
+dbo:foundationPlace	dbr:Mumbai
+dbr:Pen_N_Camera_International	
+dbo:owner	dbr:Juan_Roig
+dbo:foundationPlace	dbr:Tavernes_Blanques
+dbr:Mercadona	
+dbo:owner	dbr:General_Motors
+dbo:foundationPlace	dbr:Detroit,_Michigan
+dbr:Cadillac	
+dbo:owner	dbr:TPG_Capital
+dbo:foundationPlace	dbr:Texas
+dbr:Energy_Future_Holdings	
+dbo:owner	dbr:Empire_Company
+dbo:foundationPlace	dbr:Fairfield_(Greater_Victoria)
+dbr:Thrifty_Foods	
+dbo:owner	dbr:Alliance_Films
+dbo:foundationPlace	dbr:Toronto
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Alliance_Communications
+dbo:foundationPlace	dbr:England
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Sony_Pictures_Entertainment
+dbo:foundationPlace	dbr:Netherlands
+dbr:2waytraffic	
+dbo:owner	dbr:MTY_Food_Group
+dbo:foundationPlace	dbr:Montreal
+dbr:Van_Houtte	
+dbo:owner	dbr:Delta_Holding
+dbo:foundationPlace	dbr:Niš
+dbr:Niš-Ekspres	
+dbo:owner	dbr:ISUZU
+dbo:foundationPlace	dbr:China
+dbr:Jianxi_Isuzu_Motors	
+dbo:owner	dbr:Hinduja_Group
+dbo:foundationPlace	dbr:Maharashtra
+dbr:IndusInd_Bank	
+dbo:owner	dbr:Tribune_Company
+dbo:foundationPlace	dbr:Queensbury,_New_York
+dbr:TMS_(entertainment_data)	
+dbo:owner	dbr:Brazilian_Government
+dbo:foundationPlace	dbr:Brazil
+dbr:Banco_do_Brasil	
+dbo:owner	dbr:Sainsbury_family
+dbo:foundationPlace	dbr:Holborn
+dbr:Sainsbury's	
+dbo:owner	dbr:Alfredo_Yao
+dbo:foundationPlace	dbr:Manila
+dbr:Philippine_Business_Bank	
+dbo:owner	dbr:Rinat_Akhmetov
+dbo:foundationPlace	dbr:Donetsk
+dbr:SCM_Holdings	
+dbo:owner	dbr:Marvel_Entertainment
+dbo:foundationPlace	dbr:2004_in_comics
+dbr:Icon_Comics	
+dbo:owner	dbr:News_Corp
+dbo:foundationPlace	dbr:South_Australia
+dbr:News_Corp_Australia	
+dbo:owner	dbr:Ecolab
+dbo:foundationPlace	dbr:National_Aluminate_Corporation
+dbr:Nalco_Holding_Company	
+dbo:owner	dbr:Pošta_Srbije
+dbo:foundationPlace	dbr:Belgrade
+dbr:Poštanska_štedionica	
+dbo:owner	dbr:Government_of_China
+dbo:foundationPlace	dbr:China
+dbr:China_Construction_Bank	dbr:Industrial_and_Commercial_Bank_of_China	
+dbo:owner	dbr:Panda_Restaurant_Group
+dbo:foundationPlace	dbr:Pasadena,_California
+dbr:Panda_Inn	
+dbo:owner	dbr:Farmers_exchanges
+dbo:foundationPlace	dbr:United_States
+dbr:21st_Century_Insurance	
+dbo:owner	dbr:Victoria_Lord
+dbo:foundationPlace	dbr:Llanview
+dbr:Lord_family	
+dbo:owner	dbr:Burger_Time
+dbo:foundationPlace	dbr:Kalamazoo,_Michigan
+dbr:Hot_'n_Now	
+dbo:owner	dbr:BMW
+dbo:foundationPlace	dbr:Greer,_South_Carolina
+dbr:BMW_US_Manufacturing_Company	
+dbo:owner	dbr:Entel_(Chile)
+dbo:foundationPlace	dbr:Santiago_de_Chile
+dbr:Entel_Phone	
+dbo:owner	dbr:Stefan_Persson_(magnate)
+dbo:foundationPlace	dbr:Västerås
+dbr:H&M	
+dbo:owner	dbr:Mandalay_Entertainment
+dbo:foundationPlace	dbr:Philadelphia,_Pennsylvania
+dbr:Dick_Clark_Productions	
+dbo:owner	dbr:Bell_Canada
+dbo:foundationPlace	dbr:Ontario
+dbr:Maple_Leaf_Sports_&_Entertainment	
+dbo:owner	dbr:Mikhail_Prokhorov
+dbo:foundationPlace	dbr:Russia
+dbr:RBC_Information_Systems	
+dbo:owner	dbr:Wang_Jianlin
+dbo:foundationPlace	dbr:Liaoning
+dbr:Wanda_Group	
+dbo:owner	dbr:Erik_Brunetti
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:FUCT_(clothing)	
+dbo:owner	dbr:Telegraaf_Media_Groep
+dbo:foundationPlace	dbr:British_Sky_Broadcasting
+dbr:Sky_Radio_Group	
+dbo:owner	dbr:Comcast
+dbo:foundationPlace	dbr:California
+dbr:Universal_Pictures_Home_Entertainment	
+dbo:owner	dbr:Vinny_Fodera
+dbo:foundationPlace	dbr:Brooklyn,_New_York
+dbr:Fodera	
+dbo:owner	dbr:OTP_Bank
+dbo:foundationPlace	dbr:SFR_Yugoslavia
+dbr:Industry_of_Machinery_and_Tractors	
+dbo:owner	dbr:The_Leela_Group
+dbo:foundationPlace	dbr:Mumbai
+dbr:The_Leela_Palaces,_Hotels_and_Resorts	
+dbo:owner	dbr:Oaktree_Capital_Management
+dbo:foundationPlace	dbr:United_States
+dbr:Station_Casinos	
+dbo:owner	dbr:Telekom_Slovenije
+dbo:foundationPlace	dbr:Gibraltar
+dbr:Gibtelecom	
+dbo:owner	dbr:Wyndham_Worldwide
+dbo:foundationPlace	dbr:Dallas
+dbr:Room_Key	
+dbo:owner	dbr:Aditya_Chopra
+dbo:foundationPlace	dbr:Mumbai
+dbr:Yash_Raj_Films	
+dbo:owner	dbr:3G_Capital
+dbo:foundationPlace	dbr:United_States
+dbr:Heinz	
+dbo:owner	dbr:Gamesys
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Virgin_Games	
+dbo:owner	dbr:Karan_Johar
+dbo:foundationPlace	dbr:Mumbai
+dbr:Dharma_Productions	
+dbo:owner	dbr:Federal_government_of_Brazil
+dbo:foundationPlace	dbr:Brasília
+dbr:Empresa_Brasil_de_Comunicação	
+dbo:owner	<http://www.kentww.com/>
+dbo:foundationPlace	dbr:Muscatine,_Iowa
+dbr:By_Nature	
+dbo:owner	dbr:Empresas_Copec
+dbo:foundationPlace	dbr:Colombia
+dbr:Terpel	
+dbo:owner	dbr:Caterpillar_Inc.
+dbo:foundationPlace	dbr:Cleveland,_Ohio
+dbr:Electro-Motive_Diesel	
+dbo:owner	dbr:Warburg_Pincus
+dbo:foundationPlace	dbr:Arkansas
+dbr:Crossmark	
+dbo:owner	dbr:Activision_Blizzard
+dbo:foundationPlace	dbr:Quebec_City
+dbr:Beenox	
+dbo:owner	dbr:NBCUniversal
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Universal_Pictures_Home_Entertainment	
+dbo:owner	dbr:Autodesk
+dbo:foundationPlace	dbr:Laurel,_Maryland
+dbr:Scaleform_Corporation	
+dbo:owner	dbr:Alliance_Atlantis
+dbo:foundationPlace	dbr:Ontario
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Oracle_Corporation
+dbo:foundationPlace	dbr:Canada
+dbr:Taleo	
+dbo:owner	dbr:Anheuser-Busch_InBev
+dbo:foundationPlace	dbr:List_of_Oldest_Breweries_of_Canada
+dbr:Labatt_Brewing_Company	
+dbo:owner	dbr:Artawheel_Tire
+dbo:foundationPlace	dbr:Iran
+dbr:Yazd_Tire	
+dbo:owner	dbr:Nomura_Group
+dbo:foundationPlace	dbr:Germany
+dbr:Nordsee	
+dbo:owner	<http://www.p-s.com/PS/132>
+dbo:foundationPlace	<http://www.powernet.bg/en>
+dbr:Powernet	
+dbo:owner	dbr:The_Church_of_Jesus_Christ_of_Latter-day_Saints
+dbo:foundationPlace	dbr:Utah
+dbr:Deseret_Telegraph_Company	
+dbo:owner	dbr:Innofinance_Oy
+dbo:foundationPlace	dbr:Helsinki
+dbr:Futurice	
+dbo:owner	dbr:Todd_Manning
+dbo:foundationPlace	dbr:Llanview
+dbr:Lord_family	
+dbo:owner	dbr:Autodesk
+dbo:foundationPlace	dbr:United_States
+dbr:Scaleform_Corporation	
+dbo:owner	dbr:Hallmark_Cards
+dbo:foundationPlace	dbr:Initial_Public_Offering
+dbr:Crown_Media_Holdings	
+dbo:owner	dbr:Alex_Laferriere
+dbo:foundationPlace	dbr:Charlton,_MA
+dbr:Broken_Wall_Films	
+dbo:owner	dbr:Sony_Music_Entertainment
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:Ultra_Music	
+dbo:owner	dbr:Stadsregio_Rotterdam
+dbo:foundationPlace	dbr:Rotterdam
+dbr:Rotterdamse_Elektrische_Tram	
+dbo:owner	dbr:Vodafone_NZ
+dbo:foundationPlace	dbr:Auckland
+dbr:Ihug	
+dbo:owner	dbr:Evans_Property_Group
+dbo:foundationPlace	dbr:Nottingham
+dbr:Dakota_Hotels	
+dbo:owner	dbr:Blair_Parry-Okeden
+dbo:foundationPlace	dbr:Dayton,_Ohio
+dbr:Cox_Enterprises	
+dbo:owner	dbr:Pete_Ashdown
+dbo:foundationPlace	dbr:Salt_Lake_City
+dbr:XMission	
+dbo:owner	dbr:JP_Morgan
+dbo:foundationPlace	dbr:Friendly_society
+dbr:AMP_Limited	
+dbo:owner	dbr:VetUK_LTD
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:VetUK	
+dbo:owner	dbr:Equinix
+dbo:foundationPlace	dbr:Rio_de_Janeiro
+dbr:Alog_Datacenters	
+dbo:owner	dbr:Hubert_Burda
+dbo:foundationPlace	dbr:Offenburg
+dbr:Hubert_Burda_Media	
+dbo:owner	dbr:Jim_Pattison
+dbo:foundationPlace	dbr:Vancouver
+dbr:Jim_Pattison_Group	
+dbo:owner	dbr:Paul_Howley
+dbo:foundationPlace	dbr:United_States
+dbr:That's_Entertainment_(comic_shop)	
+dbo:owner	dbr:Keyence
+dbo:foundationPlace	dbr:Japan
+dbr:JustSystems	
+dbo:owner	dbr:General_Motors
+dbo:foundationPlace	dbr:China
+dbr:Pan_Asia_Technical_Automotive_Center	dbr:SAIC-GM-Wuling	
+dbo:owner	dbr:Hufvudstaden_AB
+dbo:foundationPlace	dbr:Stockholm
+dbr:Nordiska_Kompaniet	
+dbo:owner	dbr:Weather_Services_International
+dbo:foundationPlace	dbr:United_States
+dbr:Weather_Central	
+dbo:owner	dbr:Ram_Charan
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Anjana_Productions	
+dbo:owner	dbr:Leonard_Green_&_Partners
+dbo:foundationPlace	dbr:Fort_Lauderdale,_Florida
+dbr:Sports_Authority	
+dbo:owner	dbr:Dhanush
+dbo:foundationPlace	dbr:Chennai
+dbr:Wunderbar_Films	
+dbo:owner	dbr:Japan_Trustee_Services_Bank
+dbo:foundationPlace	dbr:Setagaya
+dbr:DeNA	
+dbo:owner	dbr:Vidant_Health
+dbo:foundationPlace	dbr:Greenville,_North_Carolina
+dbr:EastCare	
+dbo:owner	dbr:Stonegate_Pub_Company
+dbo:foundationPlace	dbr:Islington
+dbr:Slug_and_Lettuce	
+dbo:owner	dbr:Fox_Entertainment_Group
+dbo:foundationPlace	dbr:California
+dbr:Yardbarker	
+dbo:owner	dbr:M1_Group
+dbo:foundationPlace	dbr:Nice
+dbr:Façonnable	
+dbo:owner	dbr:Samsung
+dbo:foundationPlace	dbr:Seoul
+dbr:Samsung_Telecommunications	
+dbo:owner	dbr:Thomas_H._Lee_Partners
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Univision_Communications	
+dbo:owner	dbr:21st_Century_Fox
+dbo:foundationPlace	dbr:California
+dbr:Fox_Searchlight_Pictures	
+dbo:owner	dbr:Canadian_Imperial_Bank_of_Commerce
+dbo:foundationPlace	dbr:Barbados
+dbr:CIBC_FirstCaribbean_International_Bank	
+dbo:owner	dbr:LPP_(company)
+dbo:foundationPlace	dbr:Gdańsk
+dbr:Reserved_(retail)	
+dbo:owner	dbr:Globalia
+dbo:foundationPlace	dbr:Llucmajor
+dbr:Pepephone	
+dbo:owner	dbr:Verizon_Communications
+dbo:foundationPlace	dbr:Germany
+dbr:Adtech	
+dbo:owner	dbr:Deutsche_Bank
+dbo:foundationPlace	dbr:Nevada
+dbr:Station_Casinos	
+dbo:owner	dbr:Popeyes_Louisiana_Kitchen_Inc.
+dbo:foundationPlace	dbr:Louisiana
+dbr:Popeyes_Louisiana_Kitchen	
+dbo:owner	dbr:AstraZeneca
+dbo:foundationPlace	dbr:Babraham
+dbr:Cambridge_Antibody_Technology	
+dbo:owner	dbr:Lynn_Tilton
+dbo:foundationPlace	dbr:Chicago
+dbr:Rand_McNally	
+dbo:owner	dbr:Government_of_Haryana
+dbo:foundationPlace	dbr:India
+dbr:National_Capital_Region_Transport_Corporation	
+dbo:owner	dbr:Richard_Riordan
+dbo:foundationPlace	dbr:United_States
+dbr:Original_Pantry_Cafe	
+dbo:owner	dbr:Independent_business
+dbo:foundationPlace	dbr:Dublin
+dbr:Havok_(company)	
+dbo:owner	dbr:Kroger
+dbo:foundationPlace	dbr:Charlotte,_North_Carolina
+dbr:Harris_Teeter	
+dbo:owner	dbr:Chery
+dbo:foundationPlace	dbr:China
+dbr:Qoros	
+dbo:owner	dbr:IHI_Corporation
+dbo:foundationPlace	dbr:Monroeville,_Pennsylvania
+dbr:Westinghouse_Electric_Company	
+dbo:owner	dbr:Fagligt_Fælles_Forbund
+dbo:foundationPlace	dbr:1919
+dbr:Arbejdernes_Landsbank	
+dbo:owner	dbr:Volkswagen_Group
+dbo:foundationPlace	dbr:Germany
+dbr:Quattro_GmbH	
+dbo:owner	dbr:Andrey_Bokarev
+dbo:foundationPlace	dbr:Russia
+dbr:Transmashholding	
+dbo:owner	dbr:AIK_banka_Niš
+dbo:foundationPlace	dbr:Belgrade
+dbr:Politika_a.d.	
+dbo:owner	dbr:Government_of_India
+dbo:foundationPlace	dbr:Calcutta
+dbr:Balmer_Lawrie	dbr:Bengal_Chemicals_and_Pharmaceuticals	
+dbo:owner	dbr:Noor_Islamic_Bank
+dbo:foundationPlace	dbr:Dubai
+dbr:Noor_Takaful	
+dbo:owner	dbr:Komercijalna_banka
+dbo:foundationPlace	dbr:Belgrade
+dbr:Politika_a.d.	dbr:Dunav_osiguranje	
+dbo:owner	dbr:MTY_Food_Group
+dbo:foundationPlace	dbr:Quebec
+dbr:Van_Houtte	
+dbo:owner	dbr:Tornante
+dbo:foundationPlace	dbr:Brooklyn
+dbr:Topps	
+dbo:owner	dbr:South_East_European_University
+dbo:foundationPlace	dbr:Tetovo
+dbr:SEEUTechPark	
+dbo:owner	dbr:ComScore
+dbo:foundationPlace	dbr:Portland,_Oregon
+dbr:Rentrak	
+dbo:owner	dbr:Richard_Riordan
+dbo:foundationPlace	dbr:California
+dbr:Original_Pantry_Cafe	
+dbo:owner	dbr:Lorenzo_Fertitta
+dbo:foundationPlace	dbr:Nevada
+dbr:Station_Casinos	
+dbo:owner	dbr:Compagnia_Italiana_di_Navigazione
+dbo:foundationPlace	dbr:Naples
+dbr:Tirrenia_Compagnia_Italiana_di_Navigazione	
+dbo:owner	dbr:Government_of_Serbia
+dbo:foundationPlace	dbr:Vranje
+dbr:SIMPO	
+dbo:owner	dbr:Azim_Premji
+dbo:foundationPlace	dbr:Maharashtra
+dbr:Wipro	
+dbo:owner	dbr:KKR
+dbo:foundationPlace	dbr:Bosnia_and_Herzegovina
+dbr:Telemach	
+dbo:owner	dbr:Madison_Dearborn_Partners
+dbo:foundationPlace	dbr:Brooklyn
+dbr:Topps	
+dbo:owner	<http://www.p-s.com/PS/132>
+dbo:foundationPlace	<http://www.bol.bg>
+dbr:Powernet	
+dbo:owner	dbr:Liberty_Global
+dbo:foundationPlace	dbr:Osaka
+dbr:Sumitomo_Corporation	
+dbo:owner	dbr:Sun_Capital_Partners
+dbo:foundationPlace	dbr:Newton,_Massachusetts
+dbr:Boston_Market	
+dbo:owner	dbr:Dil_Raju
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Sri_Venkateswara_Creations	
+dbo:owner	dbr:Independent_business
+dbo:foundationPlace	dbr:Republic_of_Ireland
+dbr:Havok_(company)	
+dbo:owner	dbr:Anne_Cox_Chambers
+dbo:foundationPlace	dbr:Dayton,_Ohio
+dbr:Cox_Enterprises	
+dbo:owner	dbr:Fairfax_Financial_Holdings_Limited
+dbo:foundationPlace	dbr:Canada
+dbr:BlackBerry_Limited	
+dbo:owner	dbr:Lorenzo_Fertitta
+dbo:foundationPlace	dbr:Las_Vegas,_Nevada
+dbr:Station_Casinos	
+dbo:owner	dbr:Virgin_Group
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Virgin_Active	
+dbo:owner	dbr:Sumitomo_Mitsui_Banking_Corporation
+dbo:foundationPlace	dbr:Osaka
+dbr:West_Japan_Railway_Company	
+dbo:owner	dbr:CBS_Corporation
+dbo:foundationPlace	dbr:Los_Angeles,_California
+dbr:CBS_Television_Distribution	
+dbo:owner	dbr:Real_Mex_Restaurants
+dbo:foundationPlace	dbr:Alameda,_California
+dbr:Chevys_Fresh_Mex	
+dbo:owner	dbr:Naspers
+dbo:foundationPlace	dbr:Poland
+dbr:Allegro_(auction_website)	
+dbo:owner	dbr:Albertsons
+dbo:foundationPlace	dbr:Bellingham,_Washington
+dbr:Haggen	
+dbo:owner	dbr:Government_of_India
+dbo:foundationPlace	dbr:Delhi
+dbr:Delhi_Metro_Rail_Corporation	
+dbo:owner	dbr:Porsche_Automobil_Holding_SE
+dbo:foundationPlace	dbr:Germany
+dbr:Volkswagen_Group	
+dbo:owner	dbr:Blackstone_Group
+dbo:foundationPlace	dbr:Texas
+dbr:Michaels	
+dbo:owner	dbr:Naftna_Industrija_Srbije
+dbo:foundationPlace	dbr:Pančevo
+dbr:HIP-Petrohemija	
+dbo:owner	dbr:The_Wendy's_Company
+dbo:foundationPlace	dbr:Ohio
+dbr:Wendy's	dbr:Arby's	
+dbo:owner	dbr:Practo_Health_App
+dbo:foundationPlace	dbr:India
+dbr:Fitho	
+dbo:owner	dbr:International_Petroleum_Investment_Company
+dbo:foundationPlace	dbr:Spain
+dbr:Compañía_Española_de_Petróleos	
+dbo:owner	dbr:Jim_Pattison
+dbo:foundationPlace	dbr:British_Columbia
+dbr:Jim_Pattison_Group	
+dbo:owner	dbr:Schneider_Electric
+dbo:foundationPlace	dbr:Australia
+dbr:Citect	
+dbo:owner	dbr:Government_of_China
+dbo:foundationPlace	dbr:Beijing
+dbr:Bank_of_China	dbr:China_Construction_Bank	dbr:Industrial_and_Commercial_Bank_of_China	
+dbo:owner	dbr:Orange_S.A.
+dbo:foundationPlace	dbr:Warsaw
+dbr:Orange_Polska	
+dbo:owner	dbr:Hans-Peter_Wilfer
+dbo:foundationPlace	dbr:Erlangen
+dbr:Warwick_(company)	
+dbo:owner	dbr:Steve_Richardson_(puzzle_designer)
+dbo:foundationPlace	dbr:Vermont
+dbr:Stave_Puzzles	
+dbo:owner	dbr:Oleg_Deripaska
+dbo:foundationPlace	dbr:Nizhny_Novgorod
+dbr:GAZ	
+dbo:owner	dbr:Sumitomo_Mitsui_Financial_Group
+dbo:foundationPlace	dbr:Tokyo
+dbr:Olympus_Corporation	
+dbo:owner	dbr:Shobu_Yarlagadda
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Arka_Media_Works	
+dbo:owner	dbr:Equifax
+dbo:foundationPlace	dbr:Nottingham
+dbr:TDX_Group	
+dbo:owner	dbr:Equifax
+dbo:foundationPlace	dbr:UK
+dbr:TDX_Group	
+dbo:owner	dbr:Angelo,_Gordon_&_Co.
+dbo:foundationPlace	dbr:New_Jersey
+dbr:Kings_Food_Markets	
+dbo:owner	dbr:Apprise_Media
+dbo:foundationPlace	dbr:2002_in_comics
+dbr:Beckett_Comics	
+dbo:owner	dbr:Crestview_Partners
+dbo:foundationPlace	dbr:Scranton,_Pennsylvania
+dbr:NEP_Group,_Inc.	
+dbo:owner	dbr:The_Royal_Bank_of_Scotland_Group
+dbo:foundationPlace	dbr:United_Kingdom_of_Great_Britain_and_Ireland
+dbr:Ulster_Bank	
+dbo:owner	dbr:Government_of_Rajasthan
+dbo:foundationPlace	dbr:New_Delhi
+dbr:National_Capital_Region_Transport_Corporation	
+dbo:owner	dbr:Tiger_Management
+dbo:foundationPlace	dbr:Rio_de_Janeiro
+dbr:Hotel_Urbano_(company)	
+dbo:owner	<http://www.comune.torino.it/commercioeimpresa/partecipazioni-aziendali/schede/gtt.htm>
+dbo:foundationPlace	dbr:Turin
+dbr:Gruppo_Torinese_Trasporti	
+dbo:owner	dbr:Government_of_Denmark
+dbo:foundationPlace	dbr:Det_Danske_Luftfartselskab
+dbr:SAS_Group	
+dbo:owner	dbr:Patrick_Liotard-Vogt
+dbo:foundationPlace	dbr:London
+dbr:ASmallWorld	
+dbo:owner	dbr:Bell_Media
+dbo:foundationPlace	dbr:Alberta
+dbr:Access_Media_Group	
+dbo:owner	dbr:Employee_stock_ownership_plan
+dbo:foundationPlace	dbr:United_States
+dbr:Davey_Tree_Expert_Company	
+dbo:owner	dbr:Marvel_Comics
+dbo:foundationPlace	dbr:1987_in_comics
+dbr:Aircel_Comics	
+dbo:owner	dbr:JAB_Holding_Company
+dbo:foundationPlace	dbr:Colorado
+dbr:Einstein_Bros._Bagels	
+dbo:owner	dbr:Ayala_Corporation
+dbo:foundationPlace	dbr:Philippines
+dbr:Integrated_Micro-Electronics,_Inc.	
+dbo:owner	dbr:21st_Century_Fox
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Fox_Searchlight_Pictures	
+dbo:owner	dbr:Ahold_Delhaize
+dbo:foundationPlace	dbr:Prague
+dbr:Ahold_Czech_Republic	
+dbo:owner	dbr:The_Wendy's_Company
+dbo:foundationPlace	dbr:Columbus,_Ohio
+dbr:Wendy's	
+dbo:owner	dbr:Kenon_Holdings
+dbo:foundationPlace	dbr:Wuhu
+dbr:Qoros	
+dbo:owner	dbr:The_Royal_Bank_of_Scotland_Group
+dbo:foundationPlace	dbr:Belfast
+dbr:Ulster_Bank	
+dbo:owner	dbr:Amir_Khan_(boxer)
+dbo:foundationPlace	dbr:2012_in_Super_Fight_League
+dbr:Super_Fight_League	
+dbo:owner	dbr:Government_of_Serbia
+dbo:foundationPlace	dbr:Serbia_and_Montenegro
+dbr:Belgrade_Nikola_Tesla_Airport__Aerodrom_Nikola_Tesla_a.d.__1	
+dbo:owner	dbr:Hobbico
+dbo:foundationPlace	dbr:Denver,_Colorado
+dbr:Estes_Industries	
+dbo:owner	dbr:Volkswagen_Group
+dbo:foundationPlace	dbr:Stuttgart
+dbr:Porsche	
+dbo:owner	dbr:Noli_de_Castro
+dbo:foundationPlace	dbr:Philippines
+dbr:Bayan_Productions	
+dbo:owner	dbr:Don_Quijote_(store)
+dbo:foundationPlace	dbr:Hawaii
+dbr:Marukai_Corporation_U.S.A.	
+dbo:owner	<http://performancemarketingbrands.com/>
+dbo:foundationPlace	dbr:Rockton,_Illinois
+dbr:FatWallet	
+dbo:owner	dbr:STADA_Arzneimittel
+dbo:foundationPlace	dbr:Vršac
+dbr:Hemofarm_a.d.	
+dbo:owner	dbr:CVC_Capital_Partners
+dbo:foundationPlace	dbr:Washington_(U.S._state)
+dbr:Univar	
+dbo:owner	dbr:Ecolab
+dbo:foundationPlace	dbr:Ondeo_Nalco_Company
+dbr:Nalco_Holding_Company	
+dbo:owner	dbr:Epic_Games
+dbo:foundationPlace	dbr:Utah
+dbr:Chair_Entertainment	
+dbo:owner	dbr:Walmart
+dbo:foundationPlace	dbr:Santiago_de_Chile
+dbr:Líder	
+dbo:owner	dbr:Aditya_Chopra
+dbo:foundationPlace	dbr:Maharashtra
+dbr:Yash_Raj_Films	
+dbo:owner	dbr:Telekom_Srbija
+dbo:foundationPlace	dbr:Belgrade
+dbr:Telekom_Srbija	
+dbo:owner	dbr:MOL_AccessPortal
+dbo:foundationPlace	dbr:Malaysia
+dbr:Molpay	
+dbo:owner	dbr:Veronica_Scott
+dbo:foundationPlace	dbr:Houston,_Texas
+dbr:Fuchsia_(clothing)	
+dbo:owner	dbr:Apollo_Global_Management
+dbo:foundationPlace	dbr:London
+dbr:Shine_TV_(UK)	
+dbo:owner	dbr:Neil_Young
+dbo:foundationPlace	dbr:Chesterfield_Township,_Michigan
+dbr:Lionel,_LLC	
+dbo:owner	dbr:Susquehanna_Pfaltzgraff
+dbo:foundationPlace	dbr:1941_in_radio
+dbr:Susquehanna_Radio_Corporation	
+dbo:owner	dbr:The_Master_Trust_Bank_of_Japan
+dbo:foundationPlace	dbr:Hamamatsu
+dbr:Honda	
+dbo:owner	dbr:JMCG
+dbo:foundationPlace	dbr:Jiangxi
+dbr:Jianxi_Isuzu_Motors	
+dbo:owner	dbr:Alliance_Communications
+dbo:foundationPlace	dbr:Ontario
+dbr:Momentum_Pictures	
+dbo:owner	dbr:Gemeente_Rotterdam
+dbo:foundationPlace	dbr:Netherlands
+dbr:Rotterdamse_Elektrische_Tram	
+dbo:owner	dbr:La_Poste_(France)
+dbo:foundationPlace	dbr:Aschaffenburg
+dbr:Dynamic_Parcel_Distribution	
+dbo:owner	dbr:Advance_Publications
+dbo:foundationPlace	dbr:Missouri
+dbr:Charter_Communications	
+dbo:owner	dbr:TPG_Capital
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Univision_Communications	
+dbo:owner	dbr:Bruckmann,_Rosser,_Sherrill_&_Co.
+dbo:foundationPlace	dbr:Plymouth,_Michigan
+dbr:Daisy_Outdoor_Products	
+dbo:owner	dbr:Bell_Media
+dbo:foundationPlace	dbr:Edmonton
+dbr:Access_Media_Group	
+dbo:owner	dbr:JVC_Kenwood
+dbo:foundationPlace	dbr:Yokohama
+dbr:Victor_Entertainment	
+dbo:owner	dbr:Nippon_Television
+dbo:foundationPlace	dbr:Osaka
+dbr:Yomiuri_Telecasting_Corporation	
+dbo:owner	dbr:Viacom
+dbo:foundationPlace	dbr:United_States
+dbr:Viacom_Media_Networks	
+dbo:owner	dbr:Keyence
+dbo:foundationPlace	dbr:Tokushima,_Tokushima
+dbr:JustSystems	
+dbo:owner	dbr:Investcorp
+dbo:foundationPlace	dbr:Chicago
+dbr:Paper_Source	
+dbo:owner	dbr:Doing_business_as
+dbo:foundationPlace	dbr:Hirakata,_Osaka
+dbr:Culture_Convenience_Club	
+dbo:owner	dbr:FRP_Advisory
+dbo:foundationPlace	dbr:Brixton
+dbr:British_Home_Stores	
+dbo:owner	dbr:Tarsem_Antil
+dbo:foundationPlace	dbr:New_Delhi
+dbr:Harikrit_Films	
+dbo:owner	dbr:Ecolab
+dbo:foundationPlace	dbr:Nalco_Chemical_Company
+dbr:Nalco_Holding_Company	
+dbo:owner	dbr:Oaktree_Capital_Management
+dbo:foundationPlace	dbr:Las_Vegas,_Nevada
+dbr:Station_Casinos	
+dbo:owner	dbr:Sentinel_Capital_Partners
+dbo:foundationPlace	dbr:Alabama
+dbr:Checkers_and_Rally's	
+dbo:owner	dbr:Huaqiang_Group
+dbo:foundationPlace	dbr:Chongqing
+dbr:Fantawild	
+dbo:owner	dbr:Eurobank_Ergasias
+dbo:foundationPlace	dbr:Belgrade
+dbr:Eurobank_a.d.	
+dbo:owner	dbr:Mitsubishi_UFJ_Financial_Group
+dbo:foundationPlace	dbr:Tokyo
+dbr:Olympus_Corporation	
+dbo:owner	dbr:M&G_Investments
+dbo:foundationPlace	dbr:1861
+dbr:Red_Funnel	
+dbo:owner	dbr:ExxonMobil
+dbo:foundationPlace	dbr:London,_Ontario
+dbr:Imperial_Oil	
+dbo:owner	dbr:Robert_Rowling
+dbo:foundationPlace	dbr:California
+dbr:Gold's_Gym	
+dbo:owner	dbr:Mizuho_Corporate_Bank
+dbo:foundationPlace	dbr:Osaka
+dbr:West_Japan_Railway_Company	
+dbo:owner	dbr:Frank_Fertitta_III
+dbo:foundationPlace	dbr:United_States
+dbr:Station_Casinos	
+dbo:owner	dbr:Swiss_Government
+dbo:foundationPlace	dbr:Switzerland
+dbr:Swisscom	
+dbo:owner	dbr:Liberty_Global
+dbo:foundationPlace	dbr:Japan
+dbr:Sumitomo_Corporation	
+dbo:owner	dbr:Krishna_Prasad_Sivalenka
+dbo:foundationPlace	dbr:Telangana
+dbr:Sridevi_Movies	
+dbo:owner	dbr:The_Master_Trust_Bank_of_Japan
+dbo:foundationPlace	dbr:Osaka
+dbr:West_Japan_Railway_Company	
+dbo:owner	dbr:Guggenheim_Partners
+dbo:foundationPlace	dbr:Chesterfield_Township,_Michigan
+dbr:Lionel,_LLC	
+dbo:owner	dbr:SAIC_Motor
+dbo:foundationPlace	dbr:Shanghai
+dbr:Pan_Asia_Technical_Automotive_Center	
+dbo:owner	dbr:Bain_Capital
+dbo:foundationPlace	dbr:Washington,_D.C.
+dbr:Toys_%22R%22_Us	
+dbo:owner	dbr:Sentinel_Capital_Partners
+dbo:foundationPlace	dbr:Lexington,_Kentucky
+dbr:Fazoli's	
+dbo:owner	dbr:General_Motors
+dbo:foundationPlace	dbr:Guangxi
+dbr:SAIC-GM-Wuling	
+dbo:owner	dbr:Sankaty_Advisors
+dbo:foundationPlace	dbr:Cincinnati,_Ohio
+dbr:Manischewitz	
+dbo:owner	dbr:Government_of_South_Korea
+dbo:foundationPlace	dbr:Van_Nuys,_California
+dbr:Rough_Draft_Studios	
+dbo:owner	dbr:Public_limited_company
+dbo:foundationPlace	dbr:Dubai
+dbr:Emirates_Flight_Catering	dbr:Dubai_Aerospace_Enterprise	dbr:Dnata	
+dbo:owner	dbr:LG_Corporation
+dbo:foundationPlace	dbr:South_Korea
+dbr:HS_Ad	
+dbo:owner	dbr:Carlsberg_Group
+dbo:foundationPlace	dbr:Serbia
+dbr:Carlsberg_Srbija	
+dbo:owner	dbr:OTP_Bank
+dbo:foundationPlace	dbr:Novi_Sad
+dbr:OTP_banka_Srbija	
+dbo:owner	dbr:Government_of_Canada
+dbo:foundationPlace	dbr:Quebec
+dbr:Telefilm_Canada	
+dbo:owner	dbr:Nikolai_Tsvetkov
+dbo:foundationPlace	dbr:Saint_Petersburg
+dbr:Imperial_Porcelain_Factory	
+dbo:owner	dbr:Ahold_Delhaize
+dbo:foundationPlace	dbr:Portland,_Maine
+dbr:Hannaford_Brothers_Company	
+dbo:owner	dbr:Sheller-Globe_Corporation
+dbo:foundationPlace	dbr:Elyria,_Ohio
+dbr:Superior_Coach_Company	
+dbo:owner	dbr:Government_of_India
+dbo:foundationPlace	dbr:Udupi
+dbr:Corporation_Bank	
+dbo:owner	dbr:Adam_Chandler
+dbo:foundationPlace	dbr:West_Virginia
+dbr:Chandler_family	
+dbo:owner	dbr:Thomson_Reuters
+dbo:foundationPlace	dbr:Paris
+dbr:Pricing_Partners_Cie	
+dbo:owner	dbr:Highland_Capital_Partners
+dbo:foundationPlace	dbr:Boston,_Massachusetts
+dbr:City_Sports	
+dbo:owner	dbr:Government_of_Tamil_Nadu
+dbo:foundationPlace	dbr:Tamil_Nadu
+dbr:Aavin	
+dbo:owner	dbr:Swiss_Government
+dbo:foundationPlace	dbr:Bern
+dbr:Swisscom	
+dbo:owner	dbr:Nuclear_Damage_Compensation_and_Decommissioning_Facilitation_Corporation
+dbo:foundationPlace	dbr:Tokyo
+dbr:Tokyo_Electric_Power_Company	
+dbo:owner	dbr:Imperial_Tobacco
+dbo:foundationPlace	dbr:Erfurt
+dbr:Reemtsma	
+dbo:owner	dbr:Globalia
+dbo:foundationPlace	dbr:Spain
+dbr:Pepephone	
+dbo:owner	dbr:GUVNL
+dbo:foundationPlace	dbr:INDIA
+dbr:Gujarat_Energy_Transmission_Corporation	dbr:Dakshin_Gujarat_Vij_Company	dbr:Madhya_Gujarat_Vij	dbr:Paschim_Gujarat_Vij	
+dbo:owner	dbr:Boeing
+dbo:foundationPlace	dbr:Tennessee
+dbr:Inventory_Locator_Service	
+dbo:owner	dbr:Oaktree_Capital_Management
+dbo:foundationPlace	dbr:Nevada
+dbr:Station_Casinos	
+dbo:owner	dbr:Chief_executive_officer
+dbo:foundationPlace	dbr:Germany
+dbr:F._Laeisz	
+dbo:owner	dbr:Rogers_Communications
+dbo:foundationPlace	dbr:Canada
+dbr:Rogers_Radio	
+dbo:owner	dbr:Blackstone_Group
+dbo:foundationPlace	dbr:Indiana
+dbr:Biomet	
+dbo:owner	dbr:Chinese_Central_Government
+dbo:foundationPlace	dbr:Beijing
+dbr:CITS_Group_Corporation	
+dbo:owner	dbr:Sumitomo_Mitsui_Financial_Group
+dbo:foundationPlace	dbr:Japan
+dbr:Olympus_Corporation	
+dbo:owner	dbr:TPG_Capital
+dbo:foundationPlace	dbr:Warsaw,_Indiana
+dbr:Biomet	
+dbo:owner	dbr:Samsung
+dbo:foundationPlace	dbr:South_Korea
+dbr:Samsung_Telecommunications	

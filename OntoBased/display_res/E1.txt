@@ -1,0 +1,10 @@
+1.
+SELECT * WHERE{
+        dbr:Yann_LeCun dbo:doctoralAdvisor ?o.}
+
+Rule (5)
+dbo:doctoralAdvisor rdfs:range dbo:Person
+
+Reformed Query:
+SELECT * WHERE{
+        ?s rdf:type dbo:Person.}

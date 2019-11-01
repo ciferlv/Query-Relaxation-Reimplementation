@@ -1,0 +1,3000 @@
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Étain,_Meuse
+dbr:Petitcollin	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Norfolk,_Virginia
+dbr:Dixon_Hughes_Goodman	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Erie,_Pennsylvania
+dbr:Erie_Plating_Company	
+dbo:locationCountry	dbr:Colombia
+dbo:foundationPlace	dbr:Bogotá,_Colombia
+dbr:Juan_Valdez_Café	
+dbo:locationCountry	dbr:UAE
+dbo:foundationPlace	dbr:Lebanon
+dbr:W_Motors	
+dbo:locationCountry	dbr:Mexico
+dbo:foundationPlace	dbr:Michoacán
+dbr:Paletería_La_Michoacana	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Kingston,_Ontario
+dbr:Pita_Pit	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Quebec_City
+dbr:Taleo	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Elyria,_Ohio
+dbr:Superior_Coach_Company	
+dbo:locationCountry	dbr:Singapore
+dbo:foundationPlace	dbr:Tuas
+dbr:Botak_Jones	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Leopold_Cahn_&_Co.
+dbr:Wells_Fargo_Advisors	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:New_Brunswick
+dbr:PropertyGuys.com	dbr:Major_Drilling_Group_International	dbr:J._D._Irving	dbr:Goji's	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Zella-Mehlis
+dbr:Weihrauch	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:1997_in_music
+dbr:AWAL	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:The_Bronx
+dbr:Everlast_(boxing)	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Aranđelovac
+dbr:Knjaz_Miloš_a.d.	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Subsidiary
+dbr:Atari_Interactive	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Florence,_Alabama
+dbr:Books-A-Million	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Two_Harbors,_Minnesota
+dbr:3M	
+dbo:locationCountry	dbr:Denmark
+dbo:foundationPlace	dbr:Roskilde
+dbr:Nunc	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Carbondale,_Pennsylvania
+dbr:Gentex_Corporation	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Gardone_Val_Trompia
+dbr:A._Uberti,_Srl.	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:Zhubei
+dbr:Chatime	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:1942_in_film
+dbr:World_Wide_Pictures_(UK)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Baltimore
+dbr:OrderUp	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:California
+dbr:Animation_studios_owned_by_The_Walt_Disney_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Folsom,_Pennsylvania
+dbr:Wawa_Inc.	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Colorado
+dbr:WhiteWave_Foods	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Neuss
+dbr:Butlers_(company)	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Qingdao
+dbr:Soar_Automotive	
+dbo:locationCountry	dbr:Colombia
+dbo:foundationPlace	dbr:Cundinamarca_Department
+dbr:Umbrella_Worldwide_Corporation	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Wawanesa,_Manitoba
+dbr:Wawanesa_Insurance	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Saint-Imier
+dbr:TAG_Heuer	dbr:Juvenia	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Durham,_North_Carolina
+dbr:Duke_Corporate_Education	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Seoul
+dbr:Grimsaem	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Redmond,_Washington
+dbr:Nintendo_Software_Technology	dbr:HipSoft	
+dbo:locationCountry	dbr:Isle_of_Man
+dbo:foundationPlace	dbr:Douglas,_Isle_of_Man
+dbr:Duke_Video	
+dbo:locationCountry	dbr:Czech_Republic
+dbo:foundationPlace	dbr:Česká_zbrojovka_Strakonice
+dbr:Česká_zbrojovka_Uherský_Brod	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Boreham
+dbr:Ford_Team_RS	
+dbo:locationCountry	dbr:People's_Republic_of_China
+dbo:foundationPlace	dbr:Jilin
+dbr:Join_Network_Studio_of_NENU	
+dbo:locationCountry	dbr:Finland
+dbo:foundationPlace	dbr:Grand_Duchy_of_Finland
+dbr:Nokia	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Laguna_Beach,_California
+dbr:Stüssy	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:East_Haven,_Connecticut
+dbr:Edible_Arrangements	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Canada
+dbr:Triotech	dbr:Triple_E_Recreational_Vehicles	dbr:McDonald's_Canada	dbr:Moxie's_Grill_&_Bar	dbr:SkyWave_Mobile_Communications	dbr:Lotus_Creative_Entertainment	dbr:Sound_Ideas	dbr:Derooted_creative_agency	dbr:Great_Canadian_Dollar_Store	dbr:Le_Site	dbr:Sabian	dbr:Ad_Lib,_Inc.	dbr:BlackBerry_Limited	dbr:Rogers_Radio	dbr:Williams_Fresh_Cafe	dbr:Hero_Certified_Burgers	dbr:ShirtPunch	dbr:Hyper_Hippo_Productions	dbr:George_Weston_Limited	dbr:Simpsons_(department_store)	dbr:Molson_Bank	dbr:Salisbury_House_(restaurant)	dbr:ZAPiT_Games	dbr:CIBC_Mellon	dbr:McGill_Executive_Institute	dbr:INKAS	dbr:Money_Mart	dbr:SENSIO_Technologies	dbr:Gamerizon	dbr:Equals6	dbr:Second_Cup	dbr:Reitmans	dbr:Roots_Canada	dbr:Shell_Canada	dbr:Lick's_Homeburgers	dbr:Longo's	dbr:Logibec_Groupe_Informatique	dbr:Stott_Pilates	dbr:Presagis	dbr:Greiche_and_Scaff	dbr:Hatley_(brand)	dbr:Pajar	dbr:Epitome_Pictures	dbr:Harvey's	dbr:J._D._Irving	dbr:Copernic	dbr:Kobo_Inc.	dbr:Wawanesa_Insurance	dbr:EA_Black_Box	dbr:Agropur	dbr:Granton_Institute_of_Technology	dbr:GenieKnows	dbr:Wave_Accounting	dbr:Lystek	dbr:Le_Château	dbr:Sanjel_Corporation	dbr:Nu-West	dbr:Oncolytics_Biotech	dbr:Genetec	dbr:Trulioo	dbr:Liberté_Inc.	dbr:Environics	dbr:Trican_Well_Service	dbr:Friesens	dbr:Siemens_Milltronics_Process_Instruments	dbr:Klick_Health	dbr:Yowza!_Animation	dbr:Gray_Tools	dbr:Decor_Cabinets	dbr:German_Society_of_Montreal	dbr:Shim-Sutcliffe_Architects	dbr:Post_City_Magazines	dbr:Naturally_Advanced	dbr:World_Professional_Chuckwagon_Association	dbr:Cows_Creamery	dbr:Artifice_Studio	dbr:Charm_Diamond_Centres	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Byron_Bay,_New_South_Wales
+dbr:Wicked_Weasel	
+dbo:locationCountry	dbr:Netherlands
+dbo:foundationPlace	dbr:Czech_Republic
+dbr:AVG_Technologies	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:British_Columbia
+dbr:Lionsgate	
+dbo:locationCountry	dbr:Shropshire
+dbo:foundationPlace	dbr:England
+dbr:J._B._Joyce_&_Co	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Stafford,_Texas
+dbr:Kaos_Worldwide	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Killaloe,_Ontario
+dbr:BeaverTails	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Inglewood,_California
+dbr:Fosters_Freeze	dbr:Pinnacle_Entertainment	
+dbo:locationCountry	dbr:Poland
+dbo:foundationPlace	dbr:Kraków
+dbr:Comarch	dbr:PMR_Ltd	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Pacoima,_Los_Angeles
+dbr:Juicy_Couture	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Požarevac
+dbr:Bambi_a.d.	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Washington_(state)
+dbr:Nintendo_Software_Technology	dbr:CastAR	dbr:Outerwall	dbr:Blue_Moon_Tavern	dbr:Lamonts	dbr:Yoogi's_Closet	dbr:DomainTools	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Division_(business)
+dbr:Atari_Interactive	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Bilbao
+dbr:Banco_Bilbao_Vizcaya_Argentaria	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Čelarevo
+dbr:Carlsberg_Srbija	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Girona
+dbr:Comexi_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Ramona,_California
+dbr:Ellsworth_Handcrafted_Bicycles	
+dbo:locationCountry	dbr:UK
+dbo:foundationPlace	dbr:Birmingham
+dbr:Birmingham_Small_Arms_Company	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Sineu
+dbr:Menéame	
+dbo:locationCountry	dbr:Ukraine
+dbo:foundationPlace	dbr:Donetsk
+dbr:SCM_Holdings	dbr:Industrial_Union_of_Donbas	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Michigan
+dbr:Scripps-Booth	dbr:Sea_Ray	dbr:Gerber_Life_Insurance_Company	dbr:Gerber_Products_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Los_Angeles,_California
+dbr:Revision3	dbr:Iolo_Technologies	dbr:Mutant_Enemy_Productions	dbr:21st_Century_Insurance	dbr:B.C._Rich	dbr:Fake_Empire_Productions	dbr:EQAL	dbr:Tokidoki	dbr:Tubefilter	dbr:Interurban_Press	dbr:Golden_State_Mutual_Life_Insurance_Company	dbr:National_String_Instrument_Corporation	dbr:Mpower_Pictures	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Majorca
+dbr:Menéame	
+dbo:locationCountry	dbr:Belgium
+dbo:foundationPlace	dbr:1950_in_comics
+dbr:Studios_Hergé	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Alameda,_California
+dbr:Chevys_Fresh_Mex	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Bavaria
+dbr:Der_Beck	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Klein_Wanzleben
+dbr:KWS_Saat	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Granby,_Quebec
+dbr:Agropur	
+dbo:locationCountry	dbr:Thailand
+dbo:foundationPlace	dbr:Atlanta,_Georgia
+dbr:Radical_Axis_(studio)	
+dbo:locationCountry	dbr:Scotland
+dbo:foundationPlace	dbr:Glasgow
+dbr:WeeWorld	dbr:Trespass_(clothing)	
+dbo:locationCountry	dbr:Wales
+dbo:foundationPlace	dbr:Criccieth
+dbr:Cadwalader's_Ice_Cream	
+dbo:locationCountry	dbr:Ukraine
+dbo:foundationPlace	dbr:Mykolaiv
+dbr:B2Blogger.com	
+dbo:locationCountry	dbr:Croatia
+dbo:foundationPlace	dbr:Croatia
+dbr:Fibra	dbr:Školska_knjiga	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Bell,_California
+dbr:Bobby_Jack_Brand	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Iowa
+dbr:ACME_Comics_&_Collectibles	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Val_d'Isère
+dbr:White_Stuff_Clothing	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Narón
+dbr:Pull&Bear	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Guangzhou,_China
+dbr:E-cantonfair	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Lyon
+dbr:Espace_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Atlanta
+dbr:The_Coca-Cola_Company	dbr:Appcelerator	dbr:Moe's_Southwest_Grill	dbr:Kool_Smiles	
+dbo:locationCountry	dbr:Sri_Lanka
+dbo:foundationPlace	dbr:Singapore
+dbr:ESys_Technologies	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:San_Francisco,_CA
+dbr:The_Stone_Clinic	
+dbo:locationCountry	dbr:Turkey
+dbo:foundationPlace	dbr:Tarsus,_Mersin
+dbr:Çukurova_Holding	
+dbo:locationCountry	dbr:Argentina
+dbo:foundationPlace	dbr:1956_in_aviation
+dbr:Aero_Boero	
+dbo:locationCountry	dbr:Israel
+dbo:foundationPlace	dbr:Russia
+dbr:Wissotzky_Tea	
+dbo:locationCountry	dbr:United_Arab_Emirates
+dbo:foundationPlace	dbr:Somalia
+dbr:Dahabshiil	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Roveredo_in_Piano
+dbr:Onda_Mobile_Communication	
+dbo:locationCountry	dbr:Israel
+dbo:foundationPlace	dbr:Israel
+dbr:Tiv_Ta'am	dbr:Secure_Islands	dbr:Orpak	dbr:Hamashbir_Lazarchan	dbr:Cellebrite	dbr:Burger_King_Israel	dbr:Adika	dbr:Cassidi	dbr:El_Gaucho	dbr:Sears_Israel	dbr:Mike's_Place	dbr:Eteacher_Group	dbr:Panaya	dbr:Big_Apple_Pizza	dbr:Dunkin'_Donuts_Israel	dbr:HaShamen	dbr:Holy_Bagel	dbr:Castro_(clothing)	dbr:Honigman	dbr:TNT_(clothing)	dbr:Black_Bar_'n'_Burger	dbr:Domino's_Pizza_Israel	dbr:KFC_Israel	dbr:Pizza_Hut_Israel	dbr:Starbucks_Israel	dbr:Subway_Israel	dbr:Burgers_Bar	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Cambridgeshire
+dbr:Pico_Technology	
+dbo:locationCountry	dbr:California
+dbo:foundationPlace	dbr:United_States
+dbr:Silicon_Graphics	dbr:Lookout_(company)	dbr:ReadyForZero	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Kochi
+dbr:Aashirvad_Cinemas	dbr:Maxlab_Cinemas_and_Entertainments	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Dallas
+dbr:Viewzi	dbr:Magic_Logix	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Boise,_Idaho
+dbr:Commercial_Tire	
+dbo:locationCountry	dbr:Russia
+dbo:foundationPlace	dbr:Russia
+dbr:RBC_Information_Systems	dbr:Zvezda_(company)	dbr:Rambler_(portal)	dbr:Krasnogorsky_Zavod	dbr:AlterGeo	dbr:Lenta_(retail)	dbr:Transmashholding	dbr:RIC-Finance	dbr:PJSC_VimpelCom	dbr:Hearst_Shkulev_Media	
+dbo:locationCountry	dbr:Saint_Vincent_and_the_Grenadines
+dbo:foundationPlace	dbr:Basel,_Switzerland
+dbr:Larson&Holz	
+dbo:locationCountry	dbr:Belgium
+dbo:foundationPlace	dbr:Koekelare
+dbr:Winking_(company)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Detroit
+dbr:Scripps-Booth	dbr:Buhl_Aircraft_Company	dbr:Sea_Ray	dbr:Verville_Aircraft_Company	dbr:Association_of_National_Advertisers	dbr:General_Aeroplane_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Los_Angeles,_CA
+dbr:Kitson_(store)	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Joliette
+dbr:Triotech	
+dbo:locationCountry	dbr:People's_Republic_of_China
+dbo:foundationPlace	dbr:Shanghai
+dbr:JETT_customer_experience	
+dbo:locationCountry	dbr:Philippines
+dbo:foundationPlace	dbr:Makati_City
+dbr:Orange_and_Bronze_Software_Labs	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Dover-Foxcroft
+dbr:Burt's_Bees	
+dbo:locationCountry	dbr:New_Zealand
+dbo:foundationPlace	dbr:Wellington,_New_Zealand
+dbr:Partridge_Jewellers	dbr:GreenButton	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Colchester
+dbr:Castle_Technology	
+dbo:locationCountry	dbr:Venezuela
+dbo:foundationPlace	dbr:Caracas
+dbr:Ediciones_Ekare	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Launceston,_Tasmania
+dbr:Bellamy's_Organic	
+dbo:locationCountry	dbr:Malta
+dbo:foundationPlace	dbr:Malta
+dbr:Fimbank	dbr:Corinthia_Group_of_Companies	
+dbo:locationCountry	dbr:Finland
+dbo:foundationPlace	dbr:Grand_duchy_of_Finland
+dbr:Rosenlew	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Le_Locle
+dbr:Métaux_Précieux_SA_Métalor	dbr:Zenith_(watchmaker)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Venice,_Los_Angeles
+dbr:Gold's_Gym	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Madras_Presidency
+dbr:United_Spirits	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Wuhan
+dbr:Dongfeng_Peugeot-Citroën	dbr:Dongfeng_Honda	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Socialist_Federal_Republic_of_Yugoslavia
+dbr:Swisslion_Group	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Newcastle-upon-Tyne
+dbr:Grainger_Games	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Turkey
+dbr:Epiphone	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Midwest_City,_Oklahoma
+dbr:Sam's_Club	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Wilmington,_North_Carolina
+dbr:Email_Ideas	
+dbo:locationCountry	dbr:Denmark
+dbo:foundationPlace	dbr:Denmark
+dbr:Zepto_Computers	dbr:Nunc	dbr:Ramboll	dbr:Danfoss	dbr:Sitecore	dbr:Martin_Professional	dbr:Natur-Energi	dbr:Bestseller_(company)	dbr:Siemens_Wind_Power	dbr:GenieBelt	dbr:Sky-Watch	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Sealy,_Texas
+dbr:Sealy_Corporation	
+dbo:locationCountry	dbr:Netherlands
+dbo:foundationPlace	dbr:Nederweert
+dbr:ETF_Ride_Systems	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Catalonia
+dbr:Chupa_Chups	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:London,_England
+dbr:Square_Pie	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Ponzano_Veneto
+dbr:Benetton_Group	
+dbo:locationCountry	dbr:United_Arab_Emirates
+dbo:foundationPlace	dbr:Switzerland
+dbr:SFM_Corporate_Services	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:New_York
+dbr:ITerating	dbr:Line_Skis	dbr:Dentsply_Sirona	dbr:IMC_Global	dbr:Digital_Assembly	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Augusta,_Georgia
+dbr:Georgia-Pacific	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Novi_Sad
+dbr:Naftna_Industrija_Srbije	dbr:Srbijagas	dbr:OTP_banka_Srbija	dbr:Univer-Export	dbr:JGSP_Novi_Sad	dbr:DDOR_Novi_Sad	dbr:Erste_Bank_Novi_Sad	dbr:Vojvođanska_banka	dbr:Color_Press_Group	dbr:Crédit_Agricole_Srbija	dbr:Neobus_(Serbia)	dbr:Swisslion_Group	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Genova
+dbr:Erga	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:Taipei
+dbr:Infortrend	dbr:Microlife_Corporation	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Hiroshima
+dbr:Brain_Music	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Scottsdale,_Arizona
+dbr:Pei_Wei_Asian_Diner	dbr:RedLetterMedia	
+dbo:locationCountry	dbr:Oman
+dbo:foundationPlace	dbr:Dhofar
+dbr:Project_GreenWorld_International	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:United_States
+dbr:LUSFiber	dbr:Fastpoint_Games__Sports_Composite_DE,_Inc.__1	dbr:Aerojet_Rocketdyne_Holdings	dbr:RotoHog__Sports_Composite_DE,_Inc.__1	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Scotts_Valley,_California
+dbr:Netflix	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Lafarge_Tarmac
+dbr:Tarmac_(company)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Plano,_Texas
+dbr:Siemens_PLM_Software	
+dbo:locationCountry	dbr:Sweden
+dbo:foundationPlace	dbr:Scania
+dbr:Brio_(company)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:New_York_(U.S._state)
+dbr:Chromat	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Chiswick
+dbr:SilverDoor	
+dbo:locationCountry	dbr:Netherlands
+dbo:foundationPlace	dbr:Venlo
+dbr:Praxis_(store)	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Nottingham
+dbr:Carlsbro	dbr:Crash_Lab	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Devon
+dbr:Axminster_Carpets	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Passaic,_New_Jersey
+dbr:Valley_National_Bank	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Santa_Monica
+dbr:Drum_Workshop	dbr:BloomNation	dbr:Tastemade	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Spain
+dbr:Banco_Santander	dbr:Stradivarius_(clothing_brand)	dbr:Menéame	dbr:Fadesa	dbr:Banco_Pastor	dbr:Zero2infinity	dbr:El_Corte_Inglés	dbr:Hipercor	dbr:Atresmedia	dbr:Inditex	dbr:Massimo_Dutti	dbr:Codorníu_Winery	dbr:Ugartechea	dbr:Motion_Pictures,_S.A.	dbr:Novacaixagalicia	dbr:Abanca	dbr:Izenpe	dbr:Chupa_Chups	dbr:S.A._Damm	dbr:Santana_Motor	dbr:Pull&Bear	dbr:Ramírez_Guitars	dbr:Pescanova	dbr:Banco_Bilbao_Vizcaya_Argentaria	dbr:Grupo_Calvo	dbr:Correos	dbr:Isofoton	dbr:Comexi_Group	dbr:Loterías_y_Apuestas_del_Estado	dbr:Galerías_Preciados	dbr:Investigación_y_Proyectos_de_Vehículos_Especiales	dbr:Pacha_Group	dbr:Camper_(company)	dbr:Pepephone	dbr:Banco_Gallego	dbr:Applus+_IDIADA	dbr:Compañía_Española_de_Petróleos	dbr:COPASA	dbr:Fenosa	
+dbo:locationCountry	dbr:U.S.
+dbo:foundationPlace	dbr:West_Virginia
+dbr:Chandler_family	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Toronto
+dbr:Sound_Ideas	dbr:Derooted_creative_agency	dbr:Rogers_Radio	dbr:Hero_Certified_Burgers	dbr:ShirtPunch	dbr:George_Weston_Limited	dbr:Simpsons_(department_store)	dbr:TD_Canada_Trust	dbr:CIBC_Mellon	dbr:INKAS	dbr:Second_Cup	dbr:Roots_Canada	dbr:Lick's_Homeburgers	dbr:Longo's	dbr:Stott_Pilates	dbr:Epitome_Pictures	dbr:Batteries_Included_(company)	dbr:Kobo_Inc.	dbr:Granton_Institute_of_Technology	dbr:WeirFoulds_LLP	dbr:AMJ_Campbell_Van_Lines	dbr:Environics	dbr:Klick_Health	dbr:Yowza!_Animation	dbr:Gray_Tools	dbr:Solar_Ship	dbr:Shim-Sutcliffe_Architects	dbr:Post_City_Magazines	
+dbo:locationCountry	dbr:Israel
+dbo:foundationPlace	dbr:Delaware
+dbr:Collactive	
+dbo:locationCountry	dbr:Northern_Ireland
+dbo:foundationPlace	dbr:Battersea
+dbr:Short_Brothers	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Dintikon
+dbr:Mammut_Sports_Group	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:Yongjing,_Changhua
+dbr:Ting_Hsin_International_Group	
+dbo:locationCountry	dbr:Somalia
+dbo:foundationPlace	dbr:Somalia
+dbr:Somtel	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Quebec
+dbr:Nortel	dbr:Ad_Lib,_Inc.	dbr:Molson_Bank	dbr:McGill_Executive_Institute	dbr:Rezolution_Pictures	dbr:Reitmans	dbr:Shell_Canada	dbr:Canadian_Council_on_Africa	dbr:Presagis	dbr:Copernic	dbr:Agropur	dbr:Le_Château	dbr:Liberté_Inc.	dbr:German_Society_of_Montreal	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Carros
+dbr:Motor_Development_International	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Avalon_Interactive	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Erlangen
+dbr:Der_Beck	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:India
+dbr:Kerala_Minerals_and_Metals	dbr:Sri_Sathya_Sai_Arts	dbr:Virsa_Arts	dbr:Pen_N_Camera_International	dbr:Panorama_Studios	dbr:Divya_Prabha_Eye_Hospital	dbr:Sri_Krishna_Sweets	dbr:Zandu_Realty	dbr:Ixigo	dbr:Makuta_VFX	dbr:Zync_Global	dbr:Bharat_Electronics_Limited	dbr:Shaadi.com	dbr:N._T._R._Arts	dbr:United_Electrical_Industries_Limited	dbr:Pawan_Kalyan_Creative_Works	dbr:Sahara_India_Pariwar	dbr:Trimurti_Films	dbr:The_Park_Hotels	dbr:The_MobileStore	dbr:Avesthagen	dbr:TutorVista	dbr:Areapal	dbr:Indus_Towers	dbr:Rubicon_Research	dbr:National_Jute_Manufactures_Corporation_Limited	dbr:TeleDNA	dbr:Lucideus	dbr:Agriya	dbr:National_Capital_Region_Transport_Corporation	dbr:Sudha_Productions	dbr:Chilsag_Entertainment_Network	dbr:ProSport_Fitness_&_Services	dbr:Contify	dbr:Parvathy_Mills_Limited	dbr:Meru_Cabs	dbr:Bombay_Sweets	dbr:Gujarat_State_Electricity_Corporation_Limited	dbr:Anwar_Rasheed_Entertainments	dbr:2D_Entertainment	dbr:ELitmus	dbr:GetVidya	dbr:Biju_Krushak_Kalyan_Yojana	dbr:Aarvee_Associates	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:San_Lorenzo,_California
+dbr:Mervyn's	
+dbo:locationCountry	dbr:Estonia
+dbo:foundationPlace	dbr:Tartu
+dbr:Tartu_Mill	dbr:Nortal	
+dbo:locationCountry	dbr:Zambia
+dbo:foundationPlace	dbr:Lusaka
+dbr:ZAMNET	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:A_Pontenova
+dbr:Investigación_y_Proyectos_de_Vehículos_Especiales	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Corpus_Christi,_Texas
+dbr:Whataburger	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Shibuya,_Tokyo
+dbr:5pb.	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:San_Francisco,_California
+dbr:Timbuk2	dbr:Hearst_(media)	dbr:SwoonXO	dbr:CALSTAR	dbr:VerticalResponse	dbr:Coldwell_Banker	dbr:Cliff's_Variety_Store	
+dbo:locationCountry	dbr:California,_USA
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:Mobile_Roadie	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:North_Carolina
+dbr:Public_Policy_Polling	dbr:Varrow	dbr:Ingles	dbr:Golden_Corral	dbr:EastCare	
+dbo:locationCountry	dbr:South_Korea
+dbo:foundationPlace	dbr:Biella
+dbr:Fila_(company)	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Takamatsu,_Kagawa
+dbr:Daiso	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Melbourne,_Victoria
+dbr:Melbourne_IT	dbr:Grocon	dbr:Hansen_Yuncken	
+dbo:locationCountry	dbr:Croatia
+dbo:foundationPlace	dbr:Zagreb
+dbr:Fibra	dbr:Školska_knjiga	dbr:Zagrebačka_banka	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:New_Jersey
+dbr:Nabisco	dbr:Kings_Food_Markets	dbr:Valley_National_Bank	dbr:Verizon_Wireless	dbr:Pathmark	dbr:Blimpie	dbr:Prudential_Financial	dbr:Wakefern_Food_Corporation	
+dbo:locationCountry	dbr:Romania
+dbo:foundationPlace	dbr:Belgium
+dbr:Lamit_Company	
+dbo:locationCountry	dbr:UK
+dbo:foundationPlace	dbr:Essex
+dbr:JobServe	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Tempe,_Arizona
+dbr:McFarlane_Toys	
+dbo:locationCountry	dbr:Russia
+dbo:foundationPlace	dbr:1854
+dbr:Oreltekmash	
+dbo:locationCountry	dbr:Brazil
+dbo:foundationPlace	dbr:Brasília
+dbr:Serviço_Federal_de_Processamento_de_Dados	
+dbo:locationCountry	dbr:Newbury,_Berkshire
+dbo:foundationPlace	dbr:Newbury,_Berkshire
+dbr:Sceneric	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Wrecclesham
+dbr:Abbott-Baynes_Sailplanes	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:1940_in_comics
+dbr:Ace_Magazines_(comics)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Chicago,_Illinois
+dbr:Datalogics	dbr:UAL_Corporation	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Birmingham
+dbr:Parker_Hale	dbr:Laney_Amplification	dbr:D._Leonardt_&_Co.	dbr:Joseph_Gillott's_(pens)	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Emilia-Romagna
+dbr:Preston_&_Barbieri	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Sant_Sadurní_d'Anoia
+dbr:Codorníu_Winery	
+dbo:locationCountry	dbr:Cyprus
+dbo:foundationPlace	dbr:Oslo
+dbr:Songa_Offshore	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Basel
+dbr:Day_Software	dbr:Open_Systems_AG	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Biebertal
+dbr:Schmidt_&_Bender	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Toowoomba
+dbr:Veracity_Systems	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Sylmar,_California
+dbr:SWR_Sound_Corporation	
+dbo:locationCountry	dbr:Norway
+dbo:foundationPlace	dbr:Ålesund
+dbr:Stokke_AS	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Connecticut
+dbr:Acme_United_Corporation	dbr:High_Standard_Manufacturing_Company	dbr:Starwood_Capital_Group	dbr:StickK	dbr:Edible_Arrangements	
+dbo:locationCountry	dbr:Saudi_Arabia
+dbo:foundationPlace	dbr:Dammam
+dbr:Abu_Nawas	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Storm_Lake,_Iowa
+dbr:MetaBank	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Urasoe,_Okinawa
+dbr:Okinawa_Electric_Power_Company	
+dbo:locationCountry	dbr:Guildford
+dbo:foundationPlace	dbr:Guildford
+dbr:TVR	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Castelnaudary
+dbr:À_la_Table_de_Spanghero	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Marblehead,_Massachusetts
+dbr:Trajectory_Inc.	
+dbo:locationCountry	dbr:Chile
+dbo:foundationPlace	dbr:Chile
+dbr:Falabella_(retail_store)	dbr:Entel_Phone	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Summit,_New_Jersey
+dbr:Kings_Food_Markets	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:1882
+dbr:August_Faller_KG	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Alexander_City,_Alabama
+dbr:Russell_Brands	
+dbo:locationCountry	dbr:People's_Republic_of_China
+dbo:foundationPlace	dbr:Beijing
+dbr:Sinosteel	dbr:Beijing_Mass_Transit_Railway_Operation_Corporation_Limited	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Varese
+dbr:Consorzio_Trasporti_Pubblici_Insubria	dbr:Bticino	
+dbo:locationCountry	dbr:Poland
+dbo:foundationPlace	dbr:Poznań
+dbr:Allegro_(auction_website)	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Edinburgh
+dbr:McVitie's	dbr:USC_(clothing_retailer)	dbr:FreeAgent	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Pearl_City
+dbr:Town_&_Country_Surf_Designs	
+dbo:locationCountry	dbr:Indonesia
+dbo:foundationPlace	dbr:Jakarta,_Indonesia
+dbr:Celebrity_Fitness	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Genoa
+dbr:OMP_Racing	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:East_Lake_(Atlanta)
+dbr:Kool_Smiles	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Auburn,_New_South_Wales
+dbr:Harvey_Norman	
+dbo:locationCountry	dbr:Norway
+dbo:foundationPlace	dbr:Oslo
+dbr:ErgoGroup	dbr:Multiconsult	dbr:Visma	dbr:Norman_Safeground	
+dbo:locationCountry	dbr:Thailand
+dbo:foundationPlace	dbr:Bangkok
+dbr:Siam_Cement	
+dbo:locationCountry	dbr:Washington_(state)
+dbo:foundationPlace	dbr:Washington_(state)
+dbr:OpenMarket	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:1906_in_Canada
+dbr:Beaver_Lumber	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Washington,_D.C.
+dbr:Council_on_State_Taxation	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Stockholm
+dbr:Private_Media_Group	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Berlin
+dbr:O&O_Software	dbr:Think-cell	dbr:Volkswagen_Group	dbr:Weser_Flugzeugbau	dbr:Otto_Bock	dbr:TELES	dbr:Gesellschaft_zur_Verfolgung_von_Urheberrechtsverletzungen_e.V.	dbr:Berlin_promotion_agency	dbr:Langenscheidt	dbr:Blacklane	dbr:Edeka	dbr:Conrad_Electronic	dbr:Companisto	dbr:Amen_(website)	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Barcelona
+dbr:Stradivarius_(clothing_brand)	dbr:Zero2infinity	dbr:Massimo_Dutti	dbr:Motion_Pictures,_S.A.	dbr:S.A._Damm	dbr:Applus+_IDIADA	dbr:Bamboozz	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:Hsinchu_County
+dbr:Chatime	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Richmond,_Virginia
+dbr:Sweet_Frog	dbr:Workshop_Digital	
+dbo:locationCountry	dbr:Denmark
+dbo:foundationPlace	dbr:Germany
+dbr:Hummel_International	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Japan
+dbr:Dai_Nippon_Printing	dbr:Hoshino_Gakki	dbr:Ibanez	dbr:NEC	dbr:Roland_Corporation	dbr:Sony	dbr:Toho	dbr:Bandai_Namco_Holdings	dbr:Beams	dbr:Dynamic_Planning	dbr:HAL_Laboratory	dbr:Hitachi	dbr:Konami	dbr:Studio_Ghibli	dbr:Suntory	dbr:Bandai_Namco_Entertainment	dbr:Bandai_Channel	dbr:Yamaha_Drums	dbr:5pb.	dbr:Idea_Factory	dbr:Hatena_(company)	dbr:Morozoff_Ltd.	dbr:Okinawa_Electric_Power_Company	dbr:Star_Micronics	dbr:Nakano_Corporation	dbr:AlphaDream	dbr:Pride_Fighting_Championships	dbr:Inti_Creates	dbr:Seiko_Epson	dbr:Luxman	dbr:Bee_Train	dbr:C-Station	dbr:Daiso	dbr:Alchemist_(company)	dbr:Nippon_Flour_Mills	dbr:Mitsubishi_Chemical_Holdings	dbr:INiS	dbr:IOSYS	dbr:Saizeriya	dbr:Tamron	dbr:Line_Corporation	dbr:CGC_Japan	dbr:Calbee	dbr:Onkyo	dbr:Tsubakimoto_Chain	dbr:Taisei_Corporation	dbr:Tobu_Top_Tours	dbr:Team_GrisGris	dbr:System_Technology-i_Co,_Ltd	
+dbo:locationCountry	dbr:Poland
+dbo:foundationPlace	dbr:Katowice
+dbr:ING_Bank_Śląski	
+dbo:locationCountry	dbr:Greece
+dbo:foundationPlace	dbr:Athens
+dbr:WIND_Hellas	dbr:Sakis_Rouvas_Collection	dbr:PROFILE_Systems_and_Software	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Ames,_Iowa
+dbr:Burke_Corporation	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Lexington,_Kentucky
+dbr:Minit_Mart_Foods_Inc.	
+dbo:locationCountry	dbr:Mexico
+dbo:foundationPlace	dbr:El_Segundo,_California
+dbr:Rock_&_Brews	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Paris
+dbr:Vilmorin	dbr:Auralog	dbr:Groupe_PSA	dbr:Inventel	dbr:Cryo_Interactive	dbr:Banque_de_l'Union_Parisienne	dbr:Obrey_(watches)	dbr:SAGEM	dbr:Netvibes	dbr:Deezer	dbr:Universtores.com	dbr:NRJ_Group	dbr:Sequans	dbr:EYeka	dbr:Pricing_Partners_Cie	dbr:Qwant	dbr:F4_(company)	dbr:Société_d'études_techniques_et_économiques	
+dbo:locationCountry	dbr:Sweden
+dbo:foundationPlace	dbr:2004_in_video_gaming
+dbr:Tarsier_Studios	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Italy
+dbr:Zambelli_Fireworks	
+dbo:locationCountry	dbr:Brazil
+dbo:foundationPlace	dbr:Minas_Gerais
+dbr:Instituto_de_Desenvolvimento_Gerencial	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Schenectady,_New_York
+dbr:General_Electric	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Québec
+dbr:Le_Site	dbr:Greiche_and_Scaff	dbr:Hatley_(brand)	dbr:Pajar	dbr:Genetec	
+dbo:locationCountry	dbr:Kazakhstan
+dbo:foundationPlace	dbr:Almaty
+dbr:Katelco	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Corsicana,_Texas
+dbr:Oil_City_Iron_Works,_Inc.	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Karlskoga
+dbr:Nobel_Biocare	
+dbo:locationCountry	dbr:Czech_Republic
+dbo:foundationPlace	dbr:Czech_Republic
+dbr:Furch_Guitars	dbr:Skrivanek	
+dbo:locationCountry	dbr:Belgium
+dbo:foundationPlace	dbr:Belgium
+dbr:Enfocus	dbr:Esko_(company)	dbr:Quick_(restaurant)	dbr:CatLab_Interactive	dbr:Guylian	dbr:Winking_(company)	dbr:Bivolino	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Tokyo
+dbr:Dai_Nippon_Printing	dbr:NEC	dbr:Sony	dbr:Toho	dbr:Bandai_Namco_Holdings	dbr:HAL_Laboratory	dbr:Studio_Ghibli	dbr:Bandai_Namco_Entertainment	dbr:Nakano_Corporation	dbr:AlphaDream	dbr:Pride_Fighting_Championships	dbr:Tokyo_Electric_Power_Company	dbr:Bee_Train	dbr:C-Station	dbr:Nippon_Flour_Mills	dbr:Kao_Corporation	dbr:INiS	dbr:Line_Corporation	dbr:CGC_Japan	dbr:Calbee	dbr:Taisei_Corporation	dbr:Tobu_Top_Tours	dbr:Electro-System	dbr:System_Technology-i_Co,_Ltd	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Springfield,_Missouri
+dbr:Positronic_(company)	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Starnberg
+dbr:Crossgate_AG	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:Hsinchu
+dbr:TSMC	
+dbo:locationCountry	dbr:Netherlands
+dbo:foundationPlace	dbr:Hoogeveen
+dbr:Super_de_Boer	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Anderson,_South_Carolina
+dbr:Po'_Folks_(restaurant)	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Leonberg
+dbr:LEWA	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Zurich
+dbr:Mövenpick_Hotels_&_Resorts	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Bellevue,_Washington
+dbr:Outerwall	dbr:Hidden_Path_Entertainment	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Long_Beach,_California
+dbr:Lossa_Engineering	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Gaobeidian
+dbr:Xinkai	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Vršac
+dbr:Hemofarm_a.d.	
+dbo:locationCountry	dbr:Brande
+dbo:foundationPlace	dbr:Brande
+dbr:Siemens_Wind_Power	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:El_Segundo,_California
+dbr:Rock_&_Brews	
+dbo:locationCountry	dbr:Yemen
+dbo:foundationPlace	dbr:Yemen
+dbr:Regional_Leishmaniasis_Control_Center	
+dbo:locationCountry	dbr:Mexico
+dbo:foundationPlace	dbr:Xalapa,_Veracruz
+dbr:Chedraui	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:List_of_Bengali_films_of_1996
+dbr:Shree_Venkatesh_Films	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Germany
+dbr:Wazap!	dbr:Bruker	
+dbo:locationCountry	dbr:Finland
+dbo:foundationPlace	dbr:Helsinki
+dbr:Taitomylly	dbr:Sisu_Auto	dbr:Founder2be	dbr:Senate_Properties	dbr:Marimekko	dbr:Martela	dbr:Lindström_(company)	dbr:Oceanvolt	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:New_York_(state)
+dbr:IBM	dbr:Gretsch_Drums	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Albuquerque,_New_Mexico
+dbr:Microsoft	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Socialist_Republic_of_Serbia
+dbr:Swisslion_Group	
+dbo:locationCountry	dbr:New_Zealand
+dbo:foundationPlace	dbr:Dunedin
+dbr:Wright_Stephenson	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Queensland
+dbr:Veracity_Systems	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Chennai,_India
+dbr:Sea6_Energy	dbr:Isha_Life	
+dbo:locationCountry	dbr:Philippines
+dbo:foundationPlace	dbr:Hartford,_Connecticut
+dbr:Panay_Railways	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:San_Francisco
+dbr:Fresh_Del_Monte_Produce	dbr:Powerset_(company)	dbr:Booyah_(company)	dbr:Benefit_Cosmetics	dbr:Cisco_Systems	dbr:Path_(social_network)	dbr:140_Proof	dbr:Gap_Inc.	dbr:Paolo_Shoes	dbr:Discovery_Digital_Networks	dbr:PeopleBrowsr	dbr:Bright.com	dbr:Pyro_Spectaculars	dbr:Crackle_(company)	dbr:ReadyForZero	dbr:Anshen_&_Allen	dbr:Asana_(software)	dbr:Eventbrite	dbr:Citizen_Film	dbr:JustAnswer	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Boulder
+dbr:Quertle	
+dbo:locationCountry	dbr:Iran
+dbo:foundationPlace	dbr:Karaj
+dbr:Razi_Vaccine_and_Serum_Research_Institute	
+dbo:locationCountry	dbr:Denmark
+dbo:foundationPlace	dbr:Italy
+dbr:SGM_(Light)	
+dbo:locationCountry	dbr:Guildford
+dbo:foundationPlace	dbr:Blackpool
+dbr:TVR	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:1954_in_aviation
+dbr:Stroukoff_Aircraft	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Swindon,_Wiltshire
+dbr:Virgin_Holidays_Cruises	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Akron,_Ohio
+dbr:Gojo_Industries	
+dbo:locationCountry	dbr:Philippines
+dbo:foundationPlace	dbr:Pasig_City
+dbr:Viva_Television	
+dbo:locationCountry	dbr:Thailand
+dbo:foundationPlace	dbr:Siam
+dbr:Siam_Cement	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Trieste
+dbr:Telit	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Adelaide
+dbr:News_Corp_Australia	dbr:Elders_Limited	dbr:Argo_Investments	dbr:Oasis_Systems	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Anhui
+dbr:Qoros	
+dbo:locationCountry	dbr:Portugal
+dbo:foundationPlace	dbr:Coimbra
+dbr:Recheio	
+dbo:locationCountry	dbr:United_Arab_Emirates
+dbo:foundationPlace	dbr:United_Arab_Emirates
+dbr:Istithmar_World	dbr:Royal_Football_Fund	dbr:Oasis_Investment_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Cleveland,_Mississippi
+dbr:Back_Yard_Burgers	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Start_date
+dbr:Rust-Oleum	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Phoenix,_Arizona
+dbr:GlobalTranz	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Manchester
+dbr:Faze_FM	dbr:Heenan_&_Froude	dbr:Perry_&_Co.	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:La_Côte-aux-Fées
+dbr:Piaget_SA	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Vancouver
+dbr:Lionsgate_Films	dbr:Lionsgate	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Gloucester
+dbr:Simon_Chorley_Art_&_Antiques	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Lend_Lease_Corporation
+dbr:Lend_Lease_Project_Management_&_Construction	
+dbo:locationCountry	dbr:South_Africa
+dbo:foundationPlace	dbr:Johannesburg
+dbr:Primedia	dbr:Primedia_Broadcasting	dbr:South_African_Breweries	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:City_of_London
+dbr:Barclays	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Asheville,_North_Carolina
+dbr:Ingles	
+dbo:locationCountry	dbr:Republic_of_China
+dbo:foundationPlace	dbr:Fremont,_California
+dbr:VIA_Technologies	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Newark,_New_Jersey
+dbr:Spanish_Broadcasting_System	dbr:Prudential_Financial	dbr:Wakefern_Food_Corporation	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Tokyo,_Japan
+dbr:Sanyo_Shokai_New_York	
+dbo:locationCountry	dbr:South_Korea
+dbo:foundationPlace	dbr:Daegu
+dbr:Daegu_Metropolitan_Transit_Corporation	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Florida
+dbr:Animation_studios_owned_by_The_Walt_Disney_Company	
+dbo:locationCountry	dbr:Mexico
+dbo:foundationPlace	dbr:Tocumbo,_Michoacán
+dbr:Paletería_La_Michoacana	
+dbo:locationCountry	dbr:California,_USA
+dbo:foundationPlace	dbr:California
+dbr:Mobile_Roadie	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Bengaluru
+dbr:Bharat_Electronics_Limited	dbr:Bharat_Earth_Movers	dbr:ELitmus	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Nishi-ku,_Osaka
+dbr:Ezaki_Glico	dbr:Osaka_Gas	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Sycamore,_Illinois
+dbr:Dawn_Equipment_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Union_City,_Indiana
+dbr:Wayne_Corporation	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Novato
+dbr:Ranch_Systems	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Little_Rock,_Arkansas
+dbr:TCBY	
+dbo:locationCountry	dbr:Israel
+dbo:foundationPlace	dbr:Ramat_HaSharon
+dbr:Roladin	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Linares,_Jaén
+dbr:Santana_Motor	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Burleigh,_Queensland
+dbr:Kanga_Loaders	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Florida
+dbr:Maxposure_Media_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Missouri
+dbr:Discovery_Zone	dbr:Anheuser-Busch	dbr:Sunshine_Biscuits	dbr:H&R_Block	dbr:Optiv_(Cybersecurity_Company)	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Ferrara
+dbr:Morelli_(company)	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Dossobuono
+dbr:Intimissimi	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Cambridge,_Massachusetts
+dbr:Barrett_Technology	dbr:Thredup	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Glendale,_California
+dbr:Hughes_Aircraft_Company	
+dbo:locationCountry	dbr:Brazil
+dbo:foundationPlace	dbr:São_Paulo
+dbr:Traffic_Sports_Marketing	dbr:Editora_Abril	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Camberley
+dbr:LED_Eco_Lights	dbr:Goodlight	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Italy
+dbr:Isotta_Fraschini	dbr:Morelli_(company)	dbr:ARST_(company)	dbr:Energica_Motor_Company	dbr:Consorzio_Trasporti_Pubblici_Insubria	dbr:Alfa_Romeo	dbr:Benetton_Group	dbr:Italdesign_Giugiaro	dbr:Abarth	dbr:Pininfarina	dbr:Fiocchi_Munizioni	dbr:Onda_Mobile_Communication	dbr:Breton_(company)	dbr:AMTAB	dbr:Gruppo_Bertone	dbr:Zagato	dbr:Fiat_Automobiles	dbr:Luxottica	dbr:I.DE.A_Institute	dbr:Arnoldo_Mondadori_Editore	dbr:Cecomp	dbr:Filippi_Boats	dbr:Corneliani	dbr:Mares_(scuba_gear_company)	dbr:Intimissimi	dbr:Balconi	dbr:Piquadro	dbr:Fiera_Milano	dbr:Peroni_S.p.A.	dbr:Bertazzon	dbr:Salvatore_Ferragamo_S.p.A.	dbr:Lotto_Sport_Italia	dbr:UPIM	dbr:LeNORD	dbr:Tiny_Bull_Studios	dbr:Panini_Group	dbr:Diadora	dbr:Carrozzeria_Marazzi	dbr:Carrozzeria_Touring_Superleggera	dbr:Azienda_Trasporti_Milanesi	dbr:Valentino_SpA	dbr:Carrozzeria_Castagna	dbr:Telit	dbr:Tirrenia_Compagnia_Italiana_di_Navigazione	dbr:Conad	dbr:Bticino	dbr:Martini_&_Rossi	dbr:Damiani_(jewelry_company)	dbr:Ferrovienord	dbr:Antony_Morato	dbr:WeWOOD	dbr:Ceriani	dbr:Boggi_Milano	dbr:Fatar	dbr:Erga	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:1985_in_film
+dbr:Silver_Pictures	
+dbo:locationCountry	dbr:Wales
+dbo:foundationPlace	dbr:Gwynedd
+dbr:Cadwalader's_Ice_Cream	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Smyrna
+dbr:Epiphone	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Nederland,_Colorado
+dbr:Donor_Sibling_Registry	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Torino
+dbr:Pininfarina	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Naples
+dbr:Zambelli_Fireworks	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:California
+dbr:Fresh_Del_Monte_Produce	dbr:Gillig_Corporation	dbr:Funny_or_Die	dbr:FUCT_(clothing)	dbr:Red_&_White_Fleet	dbr:Ranch_Systems	dbr:TriNet	dbr:Booyah_(company)	dbr:Prosoft_Engineering	dbr:Columbia_Pictures	dbr:Hearst_(media)	dbr:Silicon_Graphics	dbr:Symantec	dbr:The_Walt_Disney_Company	dbr:3D_Systems	dbr:Cisco_Systems	dbr:Chuck_E._Cheese's	dbr:Drum_Workshop	dbr:Mervyn's	dbr:East_West_Bank	dbr:Herbalife	dbr:LinkedIn	dbr:Round_Table_Pizza	dbr:Agile_Software_Corporation	dbr:Stüssy	dbr:Path_(social_network)	dbr:Gutsy_Gals_Inspire_Me	dbr:SwoonXO	dbr:BioDiscovery	dbr:140_Proof	dbr:Mixcrate	dbr:Gap_Inc.	dbr:Gold's_Gym	dbr:First_Allied_Corporation	dbr:Silego_Technology_Inc.	dbr:Sansum_Clinic	dbr:American_Health_Connection	dbr:Paolo_Shoes	dbr:J.D._Power_and_Associates	dbr:Landmark_Entertainment_Group	dbr:Chevys_Fresh_Mex	dbr:Shasta_(soft_drink)	dbr:Discovery_Digital_Networks	dbr:Pingsta	dbr:Evernote__Corporation__1	dbr:PeopleBrowsr	dbr:Ross_Dress_for_Less	dbr:Wahoo's_Fish_Taco	dbr:Entertainment_Studios	dbr:Multiven	dbr:Bright.com	dbr:Pyro_Spectaculars	dbr:Crackle_(company)	dbr:SocialIQ	dbr:ReadyForZero	dbr:Mycogen_Seeds	dbr:Anshen_&_Allen	dbr:Dash_(boutique)	dbr:SuccessFactors	dbr:American_Career_College	dbr:Asana_(software)	dbr:Yogurtland	dbr:Eventbrite	dbr:Citizen_Film	dbr:Tandem_Diabetes_Care,_Inc.	dbr:Tastemade	dbr:Rasta_Taco	dbr:Startup_Grind	dbr:Fwix	dbr:JustAnswer	
+dbo:locationCountry	dbr:Thailand
+dbo:foundationPlace	dbr:Thailand
+dbr:Thai_Union_Group	dbr:True_Corporation	dbr:Modernform_Group	dbr:Thai_Tap_Water_Supply	dbr:UBIS_(Asia)	dbr:Kulthorn_Kirby	
+dbo:locationCountry	dbr:Philippines
+dbo:foundationPlace	dbr:Makati
+dbr:Bank_of_Commerce	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Charlton,_MA
+dbr:Broken_Wall_Films	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Kansas_City_metropolitan_area
+dbr:Discovery_Zone	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Salt_Lake_City,_UT
+dbr:ARUP_Laboratories	
+dbo:locationCountry	dbr:Israel
+dbo:foundationPlace	dbr:Ben_Shemen
+dbr:Agricultural_Research_Organization,_Volcani_Center	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Brooklyn
+dbr:Nathan's_Famous	dbr:Stickman_Graphics	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Subotica
+dbr:Legend_World_Wide	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Walnutport,_Pennsylvania
+dbr:Orkin	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Burke,_Idaho
+dbr:Hecla_Mining	
+dbo:locationCountry	dbr:Denmark
+dbo:foundationPlace	dbr:Copenhagen
+dbr:Ramboll	dbr:Natur-Energi	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Cambridge_University
+dbr:Delcam	
+dbo:locationCountry	dbr:Poland
+dbo:foundationPlace	dbr:Warsaw
+dbr:Ts_2	dbr:T-Mobile_(Poland)	dbr:Bank_Millennium	dbr:Pol-Mot_Holding	dbr:Orange_Polska	dbr:Bank_Pekao	dbr:E._Wedel	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Grenchen
+dbr:ETA_SA	dbr:Certina_Kurth_Frères	
+dbo:locationCountry	dbr:Morocco
+dbo:foundationPlace	dbr:ABN_Amro_Maroc
+dbr:BMCI	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Purcellville,_Virginia
+dbr:Catoctin_Creek_Distilling_Company	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Frankfurt
+dbr:Constantin_Film	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Portland,_Maine
+dbr:ITNAmerica	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Maine
+dbr:Burt's_Bees	
+dbo:locationCountry	dbr:Pakistan
+dbo:foundationPlace	dbr:Kamra
+dbr:Pakistan_Aeronautical_Complex	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Birmingham,_England
+dbr:ATS_Euromaster	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Decatur,_Illinois
+dbr:K's_Merchandise_Mart	
+dbo:locationCountry	dbr:Russia
+dbo:foundationPlace	dbr:Saint_Petersburg
+dbr:Imperial_Porcelain_Factory	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:United_Kingdom_of_Great_Britain_and_Ireland
+dbr:J._W._Walker_&_Sons_Ltd	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Wigan
+dbr:Better_Bathrooms	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Washington_DC
+dbr:Beacon_Global_Strategies	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Greater_Manchester
+dbr:Antix_Productions	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Greenwich,_Connecticut
+dbr:Starwood_Capital_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Ohio
+dbr:Marion_Power_Shovel_Company	dbr:Bucyrus-Erie	dbr:The_Kelly_Springfield_Tire_Company	dbr:Center_for_Stem_Cell_and_Regenerative_Medicine	dbr:National_Center_for_Regenerative_Medicine	dbr:Macy's,_Inc.	dbr:Ridgid	dbr:TriHealth	dbr:Micro_Center	dbr:Target_Optical	dbr:Rubbermaid	dbr:Roadtrippers	dbr:Arby's	dbr:Big_Lots	dbr:Graeter's	dbr:Malley's_Chocolates	dbr:Belcan_Corporation	dbr:SparkPeople	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	<http://www.idleair.com/about/>
+dbr:IdleAir	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Germany
+dbr:Leister_Technologies	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Fallbrook,_California
+dbr:HelioPower	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:South_Yorkshire
+dbr:Fusion_IP_plc	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Naugatuck,_Connecticut
+dbr:Acme_United_Corporation	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Nashville,_Tennessee
+dbr:Saint_Thomas_Health	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Oxford
+dbr:Oxford_Scientific_Films	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:California
+dbr:Animation_studios_owned_by_The_Walt_Disney_Company	
+dbo:locationCountry	dbr:Zambia
+dbo:foundationPlace	dbr:Zambia
+dbr:ZAMNET	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:New_Taipei_City
+dbr:Gold_Apollo_Co.,_Ltd.	
+dbo:locationCountry	dbr:Romania
+dbo:foundationPlace	dbr:Bucharest
+dbr:Lamit_Company	dbr:Continental_Hotels	dbr:ProCredit_Bank_(Romania)	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Bristol
+dbr:Team_Rubber	dbr:ClearSpeed	dbr:Bailey_of_Bristol	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Gildersome
+dbr:Robert_Hudson_(company)	
+dbo:locationCountry	dbr:Cambodia
+dbo:foundationPlace	dbr:Phnom_Penh
+dbr:Phnom_Penh_Commercial_Bank	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Act_of_Parliament
+dbr:Birmingham_Proof_House	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Miami,_Florida
+dbr:Partnerships_in_Academic_Communities	dbr:Badia_Spices	dbr:Barfield,_Inc.	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Palau-solità_i_Plegamans
+dbr:Mango_(clothing)	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:China
+dbr:China_Petrochemical_Corporation	dbr:Qoros	dbr:FaceKoo	dbr:Shanghai_Animation_Film_Studio	dbr:China_Construction_Bank	dbr:Industrial_and_Commercial_Bank_of_China	dbr:Optical_88	dbr:Sanyuan_Group	dbr:Pan_Asia_Technical_Automotive_Center	dbr:Central_Huijin_Investment	dbr:China_Investment_Corporation	dbr:CITS_Group_Corporation	dbr:21Vianet	dbr:China_Futures_Corporation_Limited	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Hitachi,_Ibaraki
+dbr:Hitachi	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Geneva
+dbr:Richemont	dbr:ID_Quantique	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:1984_in_video_gaming
+dbr:Denton_Designs	
+dbo:locationCountry	dbr:Ukraine
+dbo:foundationPlace	dbr:USSR
+dbr:Antonov	
+dbo:locationCountry	dbr:Botswana
+dbo:foundationPlace	dbr:Lobatse
+dbr:Choppies	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Massachusetts
+dbr:Massachusetts_Arms_Company	dbr:Newbury_Comics	dbr:Gazelle_(Internet_company)	dbr:Trucchi's	dbr:Thinking_Machines_Corporation	dbr:That's_Entertainment_(comic_shop)	dbr:Owlchemy_Labs	dbr:Affectiva	dbr:Cayan	dbr:C&S_Wholesale_Grocers	dbr:DeMoulas_Market_Basket	dbr:The_Timberland_Company	dbr:Barrett_Technology	dbr:Electric_Time_Company	dbr:OMS_Safeharbor	dbr:J.C._Cannistraro	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Grenoble
+dbr:Digimind	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Palai
+dbr:SJM_Entertainments	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Ickenham
+dbr:The_JGA_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Essex_County,_Massachusetts
+dbr:Barker's_Farm	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:John_Oster_Manufacturing_Company
+dbr:Sunbeam_Products	
+dbo:locationCountry	dbr:UK
+dbo:foundationPlace	dbr:Northampton
+dbr:Drivers_Republic	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:New_Mexico
+dbr:Microsoft	dbr:Geopulse_Exploration	dbr:K-Bob's_Steakhouse	dbr:Sadie's	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Reno
+dbr:Moment_Skis	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Albuquerque
+dbr:Sadie's	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Catskill_(village),_New_York
+dbr:Charnel_House_(publisher)	
+dbo:locationCountry	dbr:Finland
+dbo:foundationPlace	dbr:Nokia,_Finland
+dbr:Nokia	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Shropshire
+dbr:J._B._Joyce_&_Co	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Dolby_Laboratories	dbr:TopGolf	dbr:Comodo_SSL	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Leeds
+dbr:True_North_Productions	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:Taichung
+dbr:Johnson_Health_Tech	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:London,_England
+dbr:GoCardless	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Užice
+dbr:Prvi_Partizan	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Willetton,_Western_Australia
+dbr:Gascoigne_Leather_Furniture	
+dbo:locationCountry	dbr:Netherlands
+dbo:foundationPlace	dbr:Amsterdam,_Netherlands
+dbr:CitizenM	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Milan
+dbr:Isotta_Fraschini	dbr:Alfa_Romeo	dbr:Zagato	dbr:Balconi	dbr:Fiera_Milano	dbr:UPIM	dbr:LeNORD	dbr:Carrozzeria_Marazzi	dbr:Carrozzeria_Touring_Superleggera	dbr:Azienda_Trasporti_Milanesi	dbr:Carrozzeria_Castagna	dbr:Ferrovienord	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Moultrie,_Georgia
+dbr:Ameris_Bancorp	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Football_DataCo	dbr:Alfred_Booth_and_Company	dbr:Everyclick	dbr:Carlsbro	dbr:Team_Rubber	dbr:Cambridge_Nanosystems	dbr:Cove_Energy_plc	dbr:Richard_Shepherd_Software	dbr:ClearSpeed	dbr:LED_Eco_Lights	dbr:EMI_Music_Publishing	dbr:RISCOS_Ltd	dbr:Sellotape	dbr:Lola_Aylings	dbr:New_Look_(company)	dbr:Colt_Car_Company	dbr:Virgin_Cars	dbr:Land_Instruments_International	dbr:ETX_Capital	dbr:Civica	dbr:Spread_Co	dbr:Diagonal_View	dbr:OneFamily	dbr:RjDj	dbr:Norwich_Union	dbr:River_Dart_Steamboat_Co_Ltd	dbr:CQout	dbr:Vivid_Imaginations	dbr:True_North_Productions	dbr:Capacitygrid	dbr:Betable	dbr:Reelkandi	dbr:Imagine_Software	dbr:Shine_TV_(UK)	dbr:Evesham_Technology	dbr:Full_Fat	dbr:Wallis_(retailer)	dbr:Film_and_Music_Entertainment	dbr:Pedigree_Dolls_&_Toys	dbr:ChannelFlip	dbr:Automata_UK	dbr:Piriform_(company)	dbr:Mixcloud	dbr:Storage_Made_Easy	dbr:23snaps	dbr:Byyd	dbr:Kwalee	dbr:Ripmax	dbr:Bailey_of_Bristol	dbr:Angus_Steakhouse	dbr:Cambridge_Semiconductor_Limited	dbr:Grainger_Games	dbr:Tournament.com	dbr:Welwyn_Tool_Group	dbr:Annix	dbr:SilverDoor	dbr:Fernox	dbr:Pets_Corner	dbr:ContactEngine	dbr:Better_Bathrooms	dbr:Crash_Lab	dbr:Goodlight	dbr:DesignMyNight.com	dbr:Pico_Technology	dbr:Oxford_Scientific_Films	dbr:Square_Pie	dbr:The_Electronic_Font_Foundry	dbr:Timetric	dbr:Liberty_Accounts	
+dbo:locationCountry	dbr:Seychelles
+dbo:foundationPlace	dbr:Cheyenne,_Wyoming
+dbr:Vinveli	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:United_States
+dbr:Marion_Power_Shovel_Company	dbr:Rentrak	dbr:Burt's_Bees	dbr:Dana_Buchman	dbr:Five_Guys	dbr:Massachusetts_Arms_Company	dbr:Nathan's_Famous	dbr:Star_Industries	dbr:Harte_Hanks	dbr:High_Standard_Manufacturing_Company	dbr:Revision3	dbr:Westamerica_Bank	dbr:Funny_or_Die	dbr:Goldens'_Foundry	dbr:Duke_Corporate_Education	dbr:FUCT_(clothing)	dbr:ITerating	dbr:Red_&_White_Fleet	dbr:Acrocat_Software	dbr:Powerset_(company)	dbr:CHI_Health	dbr:Partnerships_in_Academic_Communities	dbr:XMission	dbr:LizardTech	dbr:MediNotes	dbr:Northeast_Bank	dbr:Psychemedics_Corporation	dbr:TriNet	dbr:22squared	dbr:The_Stone_Clinic	dbr:Campus_Studios	dbr:Newbury_Comics	dbr:Broken_Wall_Films	dbr:MetaTV	dbr:Paylocity_Corporation	dbr:Center_for_Stem_Cell_and_Regenerative_Medicine	dbr:National_Center_for_Regenerative_Medicine	dbr:Annalee_Dolls	dbr:Iolo_Technologies	dbr:Prosoft_Engineering	dbr:Moment_Skis	dbr:Traplord	dbr:Trucchi's	dbr:21st_Century_Fox	dbr:Columbia_Pictures	dbr:General_Electric	dbr:Hearst_(media)	dbr:Microsoft	dbr:News_Corp	dbr:News_Corporation	dbr:Nintendo_Software_Technology	dbr:Silicon_Graphics	dbr:Symantec	dbr:THQ	dbr:The_Coca-Cola_Company	dbr:The_Walt_Disney_Company	dbr:Xerox	dbr:3D_Systems	dbr:Novell	dbr:Texaco	dbr:Thinking_Machines_Corporation	dbr:Viacom_Media_Networks	dbr:Westinghouse_Broadcasting	dbr:Cisco_Systems	dbr:Nabisco	dbr:Chuck_E._Cheese's	dbr:Discovery_Zone	dbr:Georgia-Pacific	dbr:IBM_Internet_Security_Systems	dbr:Newell_Brands	dbr:Tekserve	dbr:Westinghouse_Electric_Company	dbr:Westinghouse_Licensing_Corporation	dbr:John_Paul_Mitchell_Systems	dbr:Kingston_Technology	dbr:Seagull_Book	dbr:Premier_Rides	dbr:Valley_National_Bank	dbr:21st_Century_Insurance	dbr:Autumn_Moon_Entertainment	dbr:Ridgid	dbr:TriHealth	dbr:EverBank	dbr:Map_Link	dbr:Steiner_Studios	dbr:Clone_Algo_Inc	dbr:B.C._Rich	dbr:Barnes_&_Noble	dbr:Drum_Workshop	dbr:Ludwig_Drums	dbr:Mayo_Clinic	dbr:Netflix	dbr:Sam's_Club	dbr:Whataburger	dbr:Acclaim_Studios_Austin	dbr:American_Express	dbr:Anheuser-Busch	dbr:Mervyn's	dbr:3M	dbr:East_West_Bank	dbr:Shell_Oil_Company	dbr:Verizon_Wireless	dbr:Herbalife	dbr:Wawa_Inc.	dbr:Everlast_(boxing)	dbr:Jabil_Circuit	dbr:LinkedIn	dbr:Monotype_Imaging	dbr:Orkin	dbr:PPG_Industries	dbr:Round_Table_Pizza	dbr:Scranton_Button_Company	dbr:Cincinnati_Financial	dbr:Fosters_Freeze	dbr:Freedom_Yachts	dbr:Rubbermaid	dbr:Clearwire	dbr:Estes_Express_Lines	dbr:Marshfield_Clinic	dbr:Rochester_Midland_Corporation	dbr:Keurig_Green_Mountain	dbr:Marcus_Corporation	dbr:Philadelphia_Media_Holdings	dbr:EQAL	dbr:Genealogical_Society_of_Utah	dbr:W._C._Bradley_Co.	dbr:Big_Fantastic	dbr:Information_Builders	dbr:The_Portland_Group	dbr:Agile_Software_Corporation	dbr:Press_Pass,_Inc.	dbr:That's_Entertainment_(comic_shop)	dbr:Zweigle's	dbr:Garlock_Sealing_Technologies	dbr:Samuel_Anderson_Architects	dbr:First_Midwest_Bancorp	dbr:Stüssy	dbr:Tubefilter	dbr:Action_Target	dbr:Dixon_Hughes_Goodman	dbr:Findwell	dbr:Pacific_Linen	dbr:Novadios	dbr:Rani_Spas	dbr:C.I.Agent_Solutions	dbr:Catoctin_Creek_Distilling_Company	dbr:Greenbelt_Homes,_Inc.	dbr:Interurban_Press	dbr:MSD_Ignition	dbr:Partsearch_Technologies	dbr:Chromat	dbr:HealthyWage	dbr:Westinghouse_Digital	dbr:CommerceHub	dbr:Ouibox	dbr:SwoonXO	dbr:Line_Skis	dbr:Owlchemy_Labs	dbr:Rockcastle_Regional_Hospital_and_Respiratory_Care_Center	dbr:ACME_Comics_&_Collectibles	dbr:140_Proof	dbr:Affectiva	dbr:Graymatics	dbr:Midnight_Special_Bookstore	dbr:Queensboro_Corporation	dbr:Roadtrippers	dbr:Vorsight	dbr:Lone_Signal	dbr:Mixcrate	dbr:RetailMeNot	dbr:CubeSmart	dbr:Arby's	dbr:Berkeley_Systems	dbr:Dairy_Queen	dbr:Gap_Inc.	dbr:Wegmans	dbr:Bulova	dbr:DeMoulas_Market_Basket	dbr:Fruit_of_the_Loom	dbr:Gold's_Gym	dbr:Squier	dbr:Wittnauer	dbr:Big_Lots	dbr:Ingles	dbr:Steak_'n_Shake	dbr:Moe's_Southwest_Grill	dbr:Nicalis	dbr:Ithaca_Gun_Company	dbr:Shake_Shack	dbr:Champion_(sportswear)	dbr:HP_Hood	dbr:Kewpee	dbr:Mighty_Taco	dbr:Rita's_Italian_Ice	dbr:Gertrude_Hawk_Chocolates	dbr:Ditch_Witch	dbr:Fi-linx	dbr:Mountain_National_Bank	dbr:Tribal_Gear	dbr:Viewzi	dbr:Abbott_Northwestern_Hospital	dbr:Stickman_Graphics	dbr:Imprint_Entertainment	dbr:Linoma_Software	dbr:VerticalResponse	dbr:Silego_Technology_Inc.	dbr:The_Norfolk_&_Dedham_Group	dbr:Sansum_Clinic	dbr:Xero_Shoes	dbr:American_Health_Connection	dbr:Atlantic_Coast_Financial	dbr:Big_Brand_Tire_&_Service	dbr:Roehl_Transport	dbr:Ace_Hardware	dbr:H&R_Block	dbr:Orbital_Sciences_Corporation	dbr:Sinclair_Broadcast_Group	dbr:Spectrum_Brands	dbr:True_Value	dbr:Glen_Raven,_Inc.	dbr:Graeter's	dbr:Leland_Corporation	dbr:McFarlane_Toys	dbr:Medieval_Times	dbr:Spanish_Broadcasting_System	dbr:The_Timberland_Company	dbr:UAL_Corporation	dbr:Blimpie	dbr:MetaCarta	dbr:Eat'n_Park	dbr:Hill+Knowlton_Strategies	dbr:Intermountain_Healthcare	dbr:Walker_Digital	dbr:Landmark_Entertainment_Group	dbr:Waste_Management_(corporation)	dbr:Wilmorite_Properties	dbr:Chevys_Fresh_Mex	dbr:Deseret_Digital_Media	dbr:Outerwall	dbr:Prudential_Financial	dbr:Temple_Square_Hospitality	dbr:Wayne_Corporation	dbr:Captain_D's	dbr:Logan's_Roadhouse	dbr:Olympic_Arms	dbr:Quest_Diagnostics	dbr:Wakefern_Food_Corporation	dbr:Wendy's_International	dbr:LaRosa's_Pizzeria	dbr:Discovery_Digital_Networks	dbr:Golden_Corral	dbr:Silvercup_Studios	dbr:Donor_Sibling_Registry	dbr:PAM_Transport	dbr:Pingsta	dbr:Adirondack_Beverages	dbr:Streit's	dbr:Charnel_House_(publisher)	dbr:Nebraska_Methodist_Health_System	dbr:Greetings_&_Readings	dbr:Maui_Jim	dbr:StickK	dbr:Dinosaur_Diorama	dbr:Gerber_Life_Insurance_Company	dbr:Gerber_Products_Company	dbr:K's_Merchandise_Mart	dbr:Bloom_Cigar_Company	dbr:Hancock_Fabrics	dbr:Surf_Canyon	dbr:Verville_Aircraft_Company	dbr:Westminster_Cracker_Company	dbr:Affiliated_Foods_Midwest	dbr:Blue_Moon_Tavern	dbr:Lamonts	dbr:Pay_'n_Save	dbr:Ross_Dress_for_Less	dbr:Sandhills_Publishing_Company	dbr:Famous_Dave's	dbr:Extol_International	dbr:Ozburn-Hessey_Logistics	dbr:Barfield,_Inc.	dbr:Hidden_Path_Entertainment	dbr:Reddaway_(trucking_company)	dbr:Tapulous	dbr:Playboy_Club	dbr:Association_of_National_Advertisers	dbr:Entertainment_Studios	dbr:Belcan_Corporation	dbr:NextWave_Wireless	dbr:Houston_Advanced_Research_Center	dbr:Liberty_Skis	dbr:Multiven	dbr:DRG_Technologies	dbr:Globe_Store	dbr:Northwest_Kidney_Centers	dbr:Ride_&_Show_Engineering,_Inc.	dbr:SparkPeople	dbr:Relax_The_Back	dbr:Eli_Bridge_Company	dbr:LRAD_Corporation	dbr:General_Revenue_Corporation	dbr:Positronic_(company)	dbr:Bright.com	dbr:Mojiva	dbr:PaR_Systems	dbr:Tilt.com	dbr:Weather_Central	dbr:Historic_Dodgertown	dbr:Taco_del_Mar	dbr:Progressive_Black_&_Journalists	dbr:Drobo	dbr:Roos_Instruments	dbr:Edible_Arrangements	dbr:Life_Line_Screening	dbr:Lil'_Teammates	dbr:Verizon_Fios	dbr:DotSUB	dbr:Merchandize_Liquidators	dbr:Learning_Express_Toys	dbr:OwnLocal	dbr:ReadyForZero	dbr:BettrLife	dbr:UberOffices	dbr:Chemetco	dbr:The_J._Peterman_Company	dbr:Council_on_State_Taxation	dbr:Foster_Farms	dbr:GAINSCO	dbr:Staple_Design	dbr:Vista-United_Telecommunications	dbr:HipSoft	dbr:Ibex_Outdoor_Clothing	dbr:MicroPlace	dbr:Mpower_Pictures	dbr:Bristol_Technology	dbr:Current_Communications_Group	dbr:Electric_Time_Company	dbr:Email_Ideas	dbr:Hecla_Mining	dbr:Red_Lion_Hotels_Corporation	dbr:Skreened	dbr:ThePlatform	dbr:Dash_(boutique)	dbr:Hutton_Companies	dbr:Smashburger	dbr:Digital_Assembly	dbr:Regroup	dbr:Halstead_Property	dbr:MetaBank	dbr:RedLetterMedia	dbr:Crozer-Keystone_Health_System	dbr:GlobalTranz	dbr:StoryForge_Labs	dbr:Yogurtland	dbr:EOS_CCA	dbr:Lincoln_Industries	dbr:Sunshine_Suites	dbr:DomainTools	dbr:Rosecrance	dbr:Humane_Society_of_Huron_Valley	dbr:UbiCare	dbr:Kool_Smiles	dbr:Optiv_(Cybersecurity_Company)	dbr:Techonomy_Media	dbr:Cliff's_Variety_Store	dbr:Twin_Valley_Distillers	dbr:Solar_Turbines	dbr:NowSecure	dbr:Startup_Grind	dbr:Trajectory_Inc.	dbr:ARUP_Laboratories	dbr:American_Cornhole_Organization	dbr:4FRNT_Skis	dbr:Erie_Plating_Company	dbr:PacketVideo	dbr:General_Aeroplane_Company	dbr:Livestream	dbr:Seton_Healthcare_Family	dbr:Jeni's_Splendid_Ice_Creams	dbr:CHG_Healthcare_Services	dbr:Methodist_Hospital_(Omaha,_Nebraska)	dbr:Commercial_Tire	dbr:Knockaround	dbr:OSI_Group	dbr:Streamzoo	dbr:ATM_Network	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Sitges
+dbr:Pacha_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Indiana
+dbr:Wayne_Corporation	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Avon,_OH
+dbr:Lil'_Teammates	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Santiago_de_Compostela
+dbr:Banco_Gallego	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Trivero
+dbr:Ermenegildo_Zegna	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:West_Norwood
+dbr:AC_Cars	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Florida,_United_States
+dbr:Bravo_Music	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Hingham,_Massachusetts
+dbr:Talbots	dbr:Building_19	
+dbo:locationCountry	dbr:Norway
+dbo:foundationPlace	dbr:Trondheim
+dbr:Dsign_Music	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Las_Rozas_de_Madrid
+dbr:Dia_(supermarket_chain)	
+dbo:locationCountry	dbr:Bulgaria
+dbo:foundationPlace	dbr:Bulgaria
+dbr:Ring_Media	dbr:Odessos_Shiprepair_Yard	
+dbo:locationCountry	dbr:UAE
+dbo:foundationPlace	dbr:UAE
+dbr:Dana_Group	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Bouctouche,_New_Brunswick
+dbr:J._D._Irving	
+dbo:locationCountry	dbr:Moscow
+dbo:foundationPlace	dbr:Moscow
+dbr:Rusnano	
+dbo:locationCountry	dbr:Tokyo
+dbo:foundationPlace	dbr:Denver,_Colorado
+dbr:Catalyst_Repository_Systems_Inc.	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:California
+dbr:Promise_Technology	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Castello_di_Godego
+dbr:Breton_(company)	
+dbo:locationCountry	dbr:Ukraine
+dbo:foundationPlace	dbr:Novosibirsk
+dbr:Antonov	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Palmyra_(town),_New_York
+dbr:Garlock_Sealing_Technologies	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Venice,_California
+dbr:Midnight_Special_Bookstore	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Berlin
+dbr:Wazap!	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Charlottetown,_PEI
+dbr:Captain_Submarine	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:New_York,_NY
+dbr:Numerix	
+dbo:locationCountry	dbr:INDIA
+dbo:foundationPlace	dbr:Kochi,_India
+dbr:Amrita_Learning	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Parkgate,_South_Yorkshire
+dbr:Park_Gate_Iron_and_Steel_Company	
+dbo:locationCountry	dbr:UK
+dbo:foundationPlace	dbr:Kent
+dbr:Warners_Solicitors	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Tamil_Nadu
+dbr:Madras_Talkies	dbr:Lyca_Productions	dbr:Areapal	
+dbo:locationCountry	dbr:Portugal
+dbo:foundationPlace	dbr:Horta,_Azores
+dbr:Transmaçor	
+dbo:locationCountry	dbr:Helsinki
+dbo:foundationPlace	dbr:Finland
+dbr:Founder2be	
+dbo:locationCountry	dbr:United_states
+dbo:foundationPlace	dbr:Walla_Walla,_Washington
+dbr:Baker_Boyer_Bank	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Shenandoah,_Pennsylvania
+dbr:Mrs._T's_Pierogies	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Yoshikawa,_Saitama
+dbr:Saizeriya	
+dbo:locationCountry	dbr:Malaysia
+dbo:foundationPlace	dbr:Sarawak
+dbr:Sarawak_Energy	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Dayton,_Ohio
+dbr:NCR_Corporation	dbr:H._Gerstner_&_Sons	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Florence
+dbr:Salvatore_Ferragamo_S.p.A.	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Vienna,_Virginia
+dbr:Orbital_Sciences_Corporation	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Shizuoka_City
+dbr:Star_Micronics	
+dbo:locationCountry	dbr:Shizuoka_City
+dbo:foundationPlace	dbr:Shizuoka_City
+dbr:Star_Micronics	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Sydney,_Australia
+dbr:Yodel_Australia	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Vranje
+dbr:SIMPO	
+dbo:locationCountry	dbr:UK
+dbo:foundationPlace	dbr:Scotland
+dbr:Park_Circus_(company)	
+dbo:locationCountry	dbr:South_Africa
+dbo:foundationPlace	dbr:South_Africa
+dbr:South_African_National_Roads_Agency	dbr:Mugg_&_Bean	dbr:Avis_Southern_Africa	
+dbo:locationCountry	dbr:Nigeria
+dbo:foundationPlace	dbr:Nigeria
+dbr:Dobox	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Munich
+dbr:Carpooling.com	dbr:Travian_Games	dbr:Serviceplan	dbr:Truma_(company)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Washington,_DC
+dbr:Allbritton_Communications	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Milton_Park
+dbr:OmPrompt	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Denver
+dbr:Developing_Minds_Software	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Cambridge
+dbr:Cambridge_Nanosystems	dbr:Cambridge_Semiconductor_Limited	dbr:Antics_Technologies	dbr:Timetric	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Valcourt_(city),_Quebec
+dbr:Bombardier_Inc.	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Carballo
+dbr:Grupo_Calvo	
+dbo:locationCountry	dbr:Russia
+dbo:foundationPlace	dbr:Soviet_Union
+dbr:Chemical_Automatics_Design_Bureau	
+dbo:locationCountry	dbr:Dubai
+dbo:foundationPlace	dbr:Dubai
+dbr:Istithmar_World	dbr:Emirates_Flight_Catering	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Columbus,_Georgia
+dbr:Goldens'_Foundry	dbr:W._C._Bradley_Co.	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:La_Chaux-de-Fonds
+dbr:Eberhard_&_Co.	
+dbo:locationCountry	dbr:Austria
+dbo:foundationPlace	dbr:Vienna
+dbr:Bundesimmobiliengesellschaft	dbr:Smart_Agent_Technologies	
+dbo:locationCountry	dbr:UAE
+dbo:foundationPlace	dbr:Dubai
+dbr:Dana_Group	dbr:UpScale_and_Posh	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Ginza
+dbr:System_Technology-i_Co,_Ltd	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Hoboken,_New_Jersey
+dbr:Blimpie	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Regensburg
+dbr:Händlmaier	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:Taipei,_Taiwan
+dbr:Softstar	dbr:Ulead_Systems	
+dbo:locationCountry	dbr:Ukraine
+dbo:foundationPlace	dbr:World_War_II
+dbr:Kiev_Arsenal	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Huntingdon
+dbr:Lola_Aylings	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Waterloo,_Ontario
+dbr:BlackBerry_Limited	dbr:RapidMind	
+dbo:locationCountry	dbr:Longueuil,_Quebec
+dbo:foundationPlace	dbr:Boucherville,_Quebec
+dbr:Artifice_Studio	
+dbo:locationCountry	dbr:Mexico
+dbo:foundationPlace	dbr:Hermosillo
+dbr:Videxport	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Edmonton
+dbr:Money_Mart	dbr:Katz_Group_of_Companies	dbr:Boston_Pizza	
+dbo:locationCountry	dbr:Argentina
+dbo:foundationPlace	dbr:Munro,_Buenos_Aires
+dbr:Lumiton	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Sydney
+dbr:Bonds_(clothing)	dbr:Mark_Foy's	dbr:Kounta_(software_company)	dbr:DesignCrowd	dbr:CSR_Limited	dbr:Exetel	dbr:Milton_Corporation	dbr:Nuix	dbr:Fantastic_Furniture	dbr:Fantastic_Holdings	dbr:Origin_Net	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Punjab
+dbr:Virsa_Arts	
+dbo:locationCountry	dbr:North_East_England
+dbo:foundationPlace	dbr:1999_in_video_gaming
+dbr:Mere_Mortals	
+dbo:locationCountry	dbr:UK
+dbo:foundationPlace	dbr:Gun_Quarter
+dbr:Birmingham_Small_Arms_Company	
+dbo:locationCountry	dbr:Sri_Lanka
+dbo:foundationPlace	dbr:Sri_Lanka
+dbr:Hayleys	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Weston,_Toronto
+dbr:CCM_(cycle)	dbr:CCM_(ice_hockey)	
+dbo:locationCountry	dbr:Russia
+dbo:foundationPlace	dbr:Krasnogorsk,_Moscow_Oblast
+dbr:Krasnogorsky_Zavod	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Upstate_New_York
+dbr:TrustCo_Bank	
+dbo:locationCountry	dbr:Isle_of_Man
+dbo:foundationPlace	dbr:Isle_of_Man
+dbr:Duke_Video	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:1992_in_video_gaming
+dbr:EA_Salt_Lake	dbr:Looking_Glass_Studios	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Metropolitan_Borough_of_Stockport
+dbr:Antix_Productions	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:British_Raj
+dbr:United_Spirits	
+dbo:locationCountry	dbr:Nicaragua
+dbo:foundationPlace	dbr:Managua
+dbr:Banco_de_América_Central	dbr:Banco_de_la_Producción	
+dbo:locationCountry	dbr:Romania
+dbo:foundationPlace	dbr:Bruxelles
+dbr:Lamit_Company	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Lenzburg
+dbr:Mammut_Sports_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Wisconsin
+dbr:Gundersen_Health_System	dbr:Marshfield_Clinic	dbr:Marcus_Corporation	dbr:Spectrum_Brands	dbr:Weather_Central	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Odisha
+dbr:Tarang_Cine_Productions	dbr:Saurav_Entertainments	dbr:Biju_Krushak_Kalyan_Yojana	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Sheffield
+dbr:Topshop	dbr:Land_Instruments_International	dbr:Fusion_IP_plc	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:New_Zealand
+dbr:Intrahealth_Systems_Limited	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Leicester
+dbr:Gola_(manufacturer)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Atlanta,_Georgia
+dbr:22squared	dbr:IBM_Internet_Security_Systems	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Fort_St._George,_India
+dbr:United_Spirits	
+dbo:locationCountry	dbr:Netherlands
+dbo:foundationPlace	dbr:Rotterdam
+dbr:Rotterdamse_Elektrische_Tram	dbr:Efresh.com	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Morton_Grove
+dbr:Lifeway_Foods	
+dbo:locationCountry	dbr:Austria
+dbo:foundationPlace	dbr:West_Germany
+dbr:Voere	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Melbourne
+dbr:Sausage_Software	dbr:Shell_Australia	dbr:GreenPlumbers	dbr:Preshafood	dbr:Wridgways	dbr:Homeart	dbr:Limelight_Department	dbr:Betstar	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Victoria,_Australia
+dbr:Histology_Group_of_Victoria	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Lianyuan
+dbr:Sany	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Florida
+dbr:Homes.com	dbr:Medieval_Times	dbr:Historic_Dodgertown	dbr:Merchandize_Liquidators	
+dbo:locationCountry	dbr:UK
+dbo:foundationPlace	dbr:Croydon
+dbr:Zotefoams	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Liverpool
+dbr:Alfred_Booth_and_Company	dbr:Imagine_Software	
+dbo:locationCountry	dbr:Norway
+dbo:foundationPlace	dbr:Kirkenes
+dbr:Datakortet	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Lexington,_Kentucky
+dbr:Ouibox	dbr:Logan's_Roadhouse	dbr:The_J._Peterman_Company	
+dbo:locationCountry	dbr:Georgia_(country)
+dbo:foundationPlace	dbr:Tbilisi
+dbr:International_Bank_of_Azerbaijan-Georgia	
+dbo:locationCountry	dbr:United_states
+dbo:foundationPlace	dbr:United_States
+dbr:Baker_Boyer_Bank	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Pančevo
+dbr:HIP-Petrohemija	
+dbo:locationCountry	dbr:Ukraine
+dbo:foundationPlace	dbr:Zaporizhia
+dbr:Khortytsia_(company)	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Mantua
+dbr:Corneliani	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Carrollton,_Texas
+dbr:AdvoCare	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Marietta,_Georgia
+dbr:Regal_Lager,_Inc.	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Blackpool
+dbr:Swallow_Sidecar_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Costa_Mesa
+dbr:Wahoo's_Fish_Taco	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Ottawa
+dbr:Lee_Valley_Tools	dbr:SkyWave_Mobile_Communications	dbr:Mitel	dbr:Petro-Canada	dbr:Epiphan_Systems	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:San_Francisco_Bay,_California
+dbr:Red_&_White_Fleet	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Hyderabad
+dbr:Systel	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Thanjavur
+dbr:Bombay_Sweets	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Boardman,_Ohio
+dbr:Arby's	
+dbo:locationCountry	dbr:Mumbai
+dbo:foundationPlace	dbr:Kathmandu
+dbr:Mountain_River_Films	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Belgrade
+dbr:Pošta_Srbije	dbr:Telekom_Srbija	dbr:Lukoil_Serbia	dbr:G4S_Secure_Solutions_d.o.o.	dbr:Delta_Holding	dbr:Raiffeisen_Bank_(Serbia)	dbr:Energoprojekt_holding	dbr:Piraeus_Bank_Beograd	dbr:Elektroprivreda_Srbije	dbr:Ikarbus	dbr:La_Fantana	dbr:Eurobank_a.d.	dbr:Galenika_a.d.	dbr:Radijus_Vektor	dbr:Pink_International_Company	dbr:Serbian_Railways	dbr:Bassivity_Music	dbr:Tanjug	dbr:Alpha_Bank_Srbija	dbr:Banca_Intesa_Beograd	dbr:Komercijalna_banka	dbr:Société_Générale_Srbija	dbr:Politika_a.d.	dbr:Yugoimport_SDPR	dbr:Maxi_(Serbian_supermarket)	dbr:RTV_Studio_B	dbr:Imlek_a.d.	dbr:Mostogradnja	dbr:Štark	dbr:Delta_DMD	dbr:Jat_Tehnika	dbr:PSTech	dbr:BIP_(brewery)	dbr:Dunav_osiguranje	dbr:Poštanska_štedionica	dbr:Sberbank_Srbija	dbr:UniCredit_banka	dbr:Emotion_Production	dbr:GSP_Belgrade	dbr:Vip_mobile	dbr:Robne_kuće_Beograd	dbr:Novosti_a.d.	dbr:YugoRosGaz	dbr:Mikroelektronika	dbr:Securitas_Services_d.o.o.	dbr:Lasta_Beograd	dbr:Nordeus	dbr:Elektromreža_Srbije	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Kragujevac
+dbr:Zastava_Arms	dbr:Fiat_Automobili_Srbija	dbr:Zastava_Trucks	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Remshalden
+dbr:Irmscher	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Wilsonville,_OR
+dbr:The_Portland_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Livermore,_California
+dbr:Prosoft_Engineering	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Weinheim
+dbr:SAP_SE	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:1983_in_video_gaming
+dbr:Spectrum_HoloByte	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:Aiir	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Priboj
+dbr:Fabrika_automobila_Priboj	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Woodbridge,_New_Jersey
+dbr:Pathmark	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Apatin
+dbr:Apatin_Brewery	
+dbo:locationCountry	dbr:Portugal
+dbo:foundationPlace	dbr:Universidade_de_Aveiro
+dbr:SAPO_(company)	
+dbo:locationCountry	dbr:New_Zealand
+dbo:foundationPlace	dbr:Christchurch
+dbr:Rhema_Media	dbr:Kathmandu_(company)	
+dbo:locationCountry	dbr:Cairo
+dbo:foundationPlace	dbr:Cairo
+dbr:Sallsell	
+dbo:locationCountry	dbr:Portugal
+dbo:foundationPlace	dbr:Lisboa
+dbr:Lunacloud	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Rochester,_Minnesota
+dbr:Mayo_Clinic	dbr:Think_Mutual_Bank	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Homewood,_Alabama
+dbr:Zoës_Kitchen	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Torquay,_Victoria
+dbr:Quiksilver	
+dbo:locationCountry	dbr:Brazil
+dbo:foundationPlace	dbr:Pernambuco
+dbr:Recife_Center_for_Advanced_Studies_and_Systems	
+dbo:locationCountry	dbr:Pakistan
+dbo:foundationPlace	dbr:Karachi
+dbr:Amir_Adnan	dbr:Hum_Network_Limited	dbr:Shaheen_Airport_Services	dbr:Azad_Film_Company	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Lecco
+dbr:Fiocchi_Munizioni	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Naturism
+dbr:Bare_Oaks_Family_Naturist_Park	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Inno_Garage	dbr:Makuta_VFX	dbr:Anjana_Productions	dbr:Ybrant_Digital	dbr:Kad_Movies	dbr:Friday_Night_Productions	dbr:Neo_Quotient	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Des_Moines,_IA
+dbr:MediNotes	dbr:BettrLife	
+dbo:locationCountry	dbr:Vietnam
+dbo:foundationPlace	dbr:Vietnam
+dbr:TMA_Solutions	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:France
+dbr:Carrefour_Express	dbr:Vilmorin	dbr:Sud_Radio_Groupe	dbr:Inventel	dbr:Cryo_Interactive	dbr:Charles-François_Galand	dbr:Someca	dbr:SAGEM	dbr:Espace_Group	dbr:Deezer	dbr:Universtores.com	dbr:Impala_SAS	dbr:KDS_(company)	dbr:NRJ_Group	dbr:Garnier	dbr:SAGEMCOM	dbr:Digimind	dbr:DBV_Technologies	dbr:ISA_Media_Development	dbr:À_la_Table_de_Spanghero	dbr:EYeka	dbr:Qwant	dbr:Wavecom	dbr:Petitcollin	dbr:F4_(company)	dbr:Société_d'études_techniques_et_économiques	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Bhubaneswar
+dbr:Tarang_Cine_Productions	dbr:Biju_Krushak_Kalyan_Yojana	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Leamington_Spa
+dbr:Full_Fat	dbr:Kwalee	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Bačka_Palanka
+dbr:Tarkett_d.o.o.	dbr:Carlsberg_Srbija	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:France
+dbr:Arena_(swimwear)	
+dbo:locationCountry	dbr:Sri_Lanka
+dbo:foundationPlace	dbr:Galle
+dbr:Hayleys	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Timonium,_Maryland
+dbr:SafeNet	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Suhl
+dbr:Sauer_&_Sohn	dbr:Merkel_(firearms_manufacturer)	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Belgium
+dbr:Quick_(restaurant)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Nevada
+dbr:Clone_Algo_Inc	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Knoxville,_Tennessee
+dbr:Valley_Apparel_L.L.C.	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:2012_in_Super_Fight_League
+dbr:Super_Fight_League	
+dbo:locationCountry	dbr:Peru
+dbo:foundationPlace	dbr:Perú
+dbr:Mariategui_JLT	
+dbo:locationCountry	dbr:Philippines
+dbo:foundationPlace	dbr:Mandaluyong
+dbr:Summit_Media	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Norwalk,_Connecticut
+dbr:SoBe	
+dbo:locationCountry	dbr:Hyderabad,_India
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Arka_Media_Works	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Fort_Worth,_Texas
+dbr:XTO_Energy	dbr:GAINSCO	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Ourense
+dbr:COPASA	
+dbo:locationCountry	dbr:Bermuda
+dbo:foundationPlace	dbr:Hamilton,_Bermuda
+dbr:Brookfield_Infrastructure_Partners	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Kolkata
+dbr:The_Park_Hotels	dbr:National_Jute_Manufactures_Corporation_Limited	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Roanoke,_Virginia
+dbr:Country_Cookin	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Meredith,_New_Hampshire
+dbr:Annalee_Dolls	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Wangen_im_Allgäu
+dbr:Z+F_UK	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Hove
+dbr:Cox_&_Barnard	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Chennai
+dbr:Namakkal_Transport_Carriers	dbr:Zylog_Systems	dbr:United_Spirits	dbr:Madras_Talkies	dbr:Lyca_Productions	dbr:Areapal	dbr:Infrastructure_Development_Finance_Company	dbr:Namma_Veedu_Vasanta_Bhavan	dbr:Grass_Root_Film_Company	dbr:Agriya	dbr:Ticketgoose	dbr:2D_Entertainment	dbr:Wunderbar_Films	
+dbo:locationCountry	dbr:South_Africa
+dbo:foundationPlace	dbr:Cape_Town
+dbr:Mugg_&_Bean	
+dbo:locationCountry	dbr:Singapore
+dbo:foundationPlace	dbr:India
+dbr:Transocean_Singapore	
+dbo:locationCountry	dbr:Ukraine
+dbo:foundationPlace	dbr:Zaporizhia_Oblast
+dbr:Khortytsia_(company)	
+dbo:locationCountry	dbr:Bosnia_and_Herzegovina
+dbo:foundationPlace	dbr:Bosnia_and_Herzegovina
+dbr:Telemach	
+dbo:locationCountry	dbr:Libya
+dbo:foundationPlace	dbr:Benghazi
+dbr:National_Oil_Corporation	
+dbo:locationCountry	dbr:Latvia
+dbo:foundationPlace	dbr:Latvia
+dbr:Laima_(confectioner)	dbr:Reverta	dbr:Sereal	
+dbo:locationCountry	dbr:Israel
+dbo:foundationPlace	dbr:Lansdale,_Pennsylvania
+dbr:Elisra	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:King_City,_Ontario
+dbr:Clublink	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Annapolis,_Maryland
+dbr:Capital_Teas	
+dbo:locationCountry	dbr:Türkiye
+dbo:foundationPlace	dbr:Edirne
+dbr:Geliyoo	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Belgium
+dbr:Grupo_Agbar	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Prince_Edward_Island
+dbr:Captain_Submarine	dbr:Cows_Creamery	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:New_Milford,_Illinois
+dbr:Rosecrance	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:McHenry,_Illinois
+dbr:TaylorMade-Adidas	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Mississauga
+dbr:ZAPiT_Games	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Chase_City,_Virginia
+dbr:Estes_Express_Lines	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Frankfurt_am_Main
+dbr:Dorian_Gray_(club)	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Lloydminster,_Alberta
+dbr:Sanjel_Corporation	dbr:Trican_Well_Service	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:A_Coruña
+dbr:Fadesa	dbr:Banco_Pastor	dbr:Novacaixagalicia	dbr:Abanca	dbr:Fenosa	
+dbo:locationCountry	dbr:The_Netherlands
+dbo:foundationPlace	dbr:The_Netherlands
+dbr:Playlistify	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Canoga_Park,_California
+dbr:VIEW_Engineering	
+dbo:locationCountry	dbr:Russian_Federation
+dbo:foundationPlace	dbr:Moscow
+dbr:Rusnano	dbr:Gaijin_Entertainment	dbr:Oysters_LLC	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Oklahoma
+dbr:Sam's_Club	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:United_States_of_America
+dbr:IBM	dbr:Rosetta_Stone_(company)	dbr:Capital_Teas	dbr:ITNAmerica	dbr:Larry_H._Miller_Dealerships	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Ahmedabad
+dbr:Gujarat_State_Electricity_Corporation_Limited	
+dbo:locationCountry	dbr:Singapore
+dbo:foundationPlace	dbr:Mumbai
+dbr:Transocean_Singapore	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Chengdu
+dbr:Tengzhong	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Molvena
+dbr:Diesel_(brand)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Danville,_Pennsylvania
+dbr:Globe_Store	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Burbank,_California
+dbr:Disney_Channels_Worldwide	
+dbo:locationCountry	dbr:Finland
+dbo:foundationPlace	dbr:Salo,_Finland
+dbr:SATEL	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Xi'an
+dbr:Shaanxi_Automobile_Group	dbr:Xi'an_Aircraft_Industrial_Corporation	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:San_Diego,_CA
+dbr:Active_Network,_LLC	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:United_States
+dbr:Dixon_Drums	
+dbo:locationCountry	dbr:Türkiye
+dbo:foundationPlace	dbr:Trakya_Üniversitesi
+dbr:Geliyoo	
+dbo:locationCountry	dbr:Singapore
+dbo:foundationPlace	dbr:Hyderabad,_India
+dbr:Kad_Movies	
+dbo:locationCountry	dbr:Israel
+dbo:foundationPlace	dbr:1995_in_comics
+dbr:Actus_Tragicus_(comics)	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Manchester
+dbr:Orbital_Education	dbr:Music_Zone	
+dbo:locationCountry	dbr:Finland
+dbo:foundationPlace	dbr:Tampere
+dbr:Nokia	dbr:JuriNet	dbr:Ata_Gears	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Winnipeg,_Manitoba
+dbr:Silver_Jeans_Co.	
+dbo:locationCountry	dbr:Argentina
+dbo:foundationPlace	dbr:Los_Angeles,_California
+dbr:Fnbox	
+dbo:locationCountry	dbr:Brazil
+dbo:foundationPlace	dbr:Rio_de_Janeiro_(city)
+dbr:Banco_do_Brasil	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Montreal
+dbr:Lionsgate_Films	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Charlestown,_Massachusetts
+dbr:HP_Hood	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Coimbatore
+dbr:Sri_Krishna_Sweets	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Hasbergen
+dbr:Amazonen-Werke	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Portland,_Oregon
+dbr:Rentrak	dbr:Vacasa	dbr:Zidell_Companies	dbr:J.F._Shea_Co	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Casale_Monferrato
+dbr:Officine_Meccaniche_Giovanni_Cerutti	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:2012_in_Super_Fight_League
+dbr:Super_Fight_League	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Charlottesville,_Virginia
+dbr:GE_Intelligent_Platforms	
+dbo:locationCountry	dbr:Nepal
+dbo:foundationPlace	dbr:Nepal
+dbr:Net_TV_Nepal	
+dbo:locationCountry	dbr:Hong_Kong
+dbo:foundationPlace	dbr:Hong_Kong
+dbr:Ocean_Shores_Video	dbr:Megaupload	dbr:Win's_Entertainment	dbr:Fubon_Bank_(Hong_Kong)	dbr:Hang_Lung_Bank	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Florida
+dbr:Animation_studios_owned_by_The_Walt_Disney_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Kentucky
+dbr:Rockcastle_Regional_Hospital_and_Respiratory_Care_Center	dbr:The_J._Peterman_Company	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:UK
+dbr:Riverbanks_Clinic	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:New_Delhi
+dbr:Zync_Global	dbr:Indus_Towers	dbr:Lucideus	dbr:National_Capital_Region_Transport_Corporation	dbr:Chilsag_Entertainment_Network	dbr:Contify	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Venice
+dbr:The_Bouqs_Company	
+dbo:locationCountry	dbr:Bahrain
+dbo:foundationPlace	dbr:Canada
+dbr:Bahrain_Petroleum_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Plymouth,_Wisconsin
+dbr:Sargento	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Flint,_Michigan
+dbr:Kewpee	dbr:Hamady_Brothers	dbr:Yankee_Stores	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Tennenlohe
+dbr:Der_Beck	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Liaoning
+dbr:Hanwei_Group	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Bern
+dbr:Swisscom	dbr:Schaerer_Ltd	
+dbo:locationCountry	dbr:Cambodia
+dbo:foundationPlace	dbr:Cambodia
+dbr:Phnom_Penh_Commercial_Bank	
+dbo:locationCountry	dbr:Austria
+dbo:foundationPlace	dbr:Altenmarkt_im_Pongau
+dbr:MACO_Door_&_Window	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Huntington_Beach,_California
+dbr:Paul_Frank_Industries	dbr:Cleveland_Golf	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Beaumont,_Texas
+dbr:Texaco	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:San_Francisco_Bay_Area
+dbr:Mixcrate	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Santa_Monica,_California
+dbr:Roaming_Hunger	dbr:Big_Fantastic	dbr:RingTales	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Watford
+dbr:TopGolf	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Kansas_City,_Kansas
+dbr:Helzberg_Diamonds	
+dbo:locationCountry	dbr:Portugal
+dbo:foundationPlace	dbr:Madeira_Island
+dbr:Move_Interactive	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:London
+dbr:Zemaitis_Guitars	
+dbo:locationCountry	dbr:Russia
+dbo:foundationPlace	dbr:Moscow
+dbr:RBC_Information_Systems	dbr:Zvezda_(company)	dbr:Tupolev	dbr:Rambler_(portal)	dbr:AlterGeo	dbr:Russian_Helicopters	dbr:RIC-Finance	dbr:PJSC_VimpelCom	dbr:NVS_Telematic_Systems	dbr:Hearst_Shkulev_Media	
+dbo:locationCountry	dbr:Saudi_Arabia
+dbo:foundationPlace	dbr:Saudi_Arabia
+dbr:TradeKey	dbr:Abu_Nawas	dbr:King_Salman_Center_for_Disability_Research	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Allahabad
+dbr:Allahabad_Bank	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:McLean,_Virginia
+dbr:UberOffices	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Trstenik,_Serbia
+dbr:Prva_Petoletka	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Bowling_Green,_Ohio
+dbr:Beckett_Media	
+dbo:locationCountry	dbr:Belgium
+dbo:foundationPlace	dbr:West_Flanders
+dbr:Winking_(company)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Berkeley,_California
+dbr:Cody's_Books	dbr:Berkeley_Systems	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Warwick,_Rhode_Island
+dbr:Fruit_of_the_Loom	
+dbo:locationCountry	dbr:Russia
+dbo:foundationPlace	dbr:Voronezh
+dbr:Chemical_Automatics_Design_Bureau	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Chongqing
+dbr:Changan_Ford_Mazda	dbr:Changan_Suzuki	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Norfolk
+dbr:The_UK_Holiday_Group	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Shanghai
+dbr:Shanghai_Animation_Film_Studio	dbr:Bright_Food	dbr:Pixelmatic	dbr:Pan_Asia_Technical_Automotive_Center	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Shijiazhuang
+dbr:Shuanghuan_Auto	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Clarksville,_Indiana
+dbr:Texas_Roadhouse	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:La_Chaux-de-Fonds
+dbr:Movado	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Altona,_Manitoba
+dbr:Friesens	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Nebraska
+dbr:Sandhills_Publishing_Company	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Gloucestershire
+dbr:Everyclick	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Brighton
+dbr:Modelzone	dbr:OneFamily	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Lazarevac
+dbr:RB_Kolubara	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Waitsfield
+dbr:Keurig_Green_Mountain	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Richmond,_Virginia
+dbr:GreenTech_ITM	
+dbo:locationCountry	dbr:Russia
+dbo:foundationPlace	dbr:2009_in_video_gaming
+dbr:ZeptoLab	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Bandra
+dbr:Burgs_(fast-food_chain)	
+dbo:locationCountry	dbr:Singapore
+dbo:foundationPlace	dbr:Singapore
+dbr:Strontium_Technology	dbr:Pacific_Internet	dbr:Popular_Holdings	dbr:Breakfast_Network	dbr:ESys_Technologies	dbr:Pastamania	dbr:Odex	dbr:Dnata_Singapore	dbr:Bank_of_Singapore	dbr:Botak_Jones	dbr:SgBEAT	dbr:Dustpan_Recordings	dbr:Mr_Bean_(company)	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Boucherville,_Quebec
+dbr:Artifice_Studio	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Lille
+dbr:Flunch	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Virginia
+dbr:Five_Guys	dbr:Norfolk_Southern_Railway	dbr:Estes_Express_Lines	dbr:Country_Cookin	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Sant_Esteve_Sesrovires
+dbr:Chupa_Chups	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:San_Diego,_California
+dbr:Sapphire_Energy	dbr:NextWave_Wireless	dbr:Solar_Turbines	dbr:PacketVideo	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:South_Hadley,_Massachusetts
+dbr:The_Odyssey_Bookshop	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Geislingen_an_der_Steige
+dbr:WMF_Group	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Jasper,_Indiana
+dbr:Buehler_Foods	
+dbo:locationCountry	dbr:United_Arab_Emirates
+dbo:foundationPlace	dbr:Dubai
+dbr:Istithmar_World	dbr:The_Emirates_Group	dbr:Royal_Football_Fund	dbr:Dnata	dbr:Dubai_Silicon_Oasis	dbr:Oasis_Investment_Company	dbr:AirSpace_Studio	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Arteixo
+dbr:Inditex	dbr:Zara_(retailer)	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Halifax_Regional_Municipality
+dbr:Equals6	dbr:GenieKnows	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Akron
+dbr:Aerojet_Rocketdyne_Holdings	
+dbo:locationCountry	dbr:Philippines
+dbo:foundationPlace	dbr:Quezon_City
+dbr:Viva_Entertainment	dbr:TAPE_Inc.	dbr:Viva_Films	dbr:APT_Entertainment	dbr:Regal_Entertainment	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Fountain_Valley,_California
+dbr:Kingston_Technology	
+dbo:locationCountry	dbr:Türkiye
+dbo:foundationPlace	dbr:Türkiye
+dbr:Geliyoo	
+dbo:locationCountry	dbr:Peru
+dbo:foundationPlace	dbr:Peru
+dbr:Mariategui_JLT	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Valencia,_California
+dbr:3D_Systems	
+dbo:locationCountry	dbr:Hungary
+dbo:foundationPlace	dbr:Hungary
+dbr:IGlue	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Vancouver,_British_Columbia
+dbr:Sun_Gro_Horticulture	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Bagneux,_Hauts-de-Seine
+dbr:DBV_Technologies	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Donelson,_Tennessee
+dbr:Captain_D's	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Beechworth,_Victoria
+dbr:Beechworth_Bakery	
+dbo:locationCountry	dbr:Poland
+dbo:foundationPlace	dbr:Nowy_Sącz
+dbr:Optimus_S.A.	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Minneapolis,_Minnesota
+dbr:Abbott_Northwestern_Hospital	dbr:ATM_Network	
+dbo:locationCountry	dbr:Shinjuku,_Tokyo
+dbo:foundationPlace	dbr:Japan
+dbr:Seiko_Epson	
+dbo:locationCountry	dbr:Ukraine
+dbo:foundationPlace	dbr:Odessa
+dbr:Clickky	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Marshfield,_WI
+dbr:Marshfield_Clinic	dbr:Roehl_Transport	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Mickey_Beyer-Clausen
+dbr:Trunk_Archive	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Provo,_Utah
+dbr:Campus_Studios	dbr:Novell	dbr:Action_Target	dbr:Agel_Enterprises	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Zug
+dbr:Landis+Gyr	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Turin
+dbr:Italdesign_Giugiaro	dbr:Gruppo_Bertone	dbr:Fiat_Automobiles	dbr:I.DE.A_Institute	dbr:Vignale	dbr:Cecomp	dbr:Carrozzeria_Ghia	dbr:Tiny_Bull_Studios	dbr:Gruppo_Torinese_Trasporti	dbr:Carrozzeria_Viotti	dbr:Martini_&_Rossi	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Germany
+dbr:Jil_Sander_(brand)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:West_Orange,_New_Jersey
+dbr:Gimmee_Jimmy's_Cookies	
+dbo:locationCountry	dbr:The_Netherlands
+dbo:foundationPlace	dbr:Netherlands
+dbr:NedGraphics	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Calcutta
+dbr:Balmer_Lawrie	dbr:New_Theatres	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Waltham,_Massachusetts
+dbr:Thinking_Machines_Corporation	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Lancaster,_Pennsylvania
+dbr:Hamilton_Watch_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Los_Angeles
+dbr:FUCT_(clothing)	dbr:Columbia_Pictures	dbr:The_Walt_Disney_Company	dbr:Farmers_Insurance_Group	dbr:East_West_Bank	dbr:Herbalife	dbr:Gold's_Gym	dbr:First_Allied_Corporation	dbr:Landmark_Entertainment_Group	dbr:Entertainment_Studios	dbr:C.A._Walker_Research_Solutions	dbr:American_Career_College	dbr:PK4_Media	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Boston
+dbr:Newbury_Comics	dbr:Gazelle_(Internet_company)	dbr:Cayan	dbr:The_Timberland_Company	
+dbo:locationCountry	dbr:Finland
+dbo:foundationPlace	dbr:Espoo
+dbr:Tecnotree	dbr:Basware	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Hyderabad
+dbr:Sri_Sathya_Sai_Arts	dbr:Vaishno_Academy	dbr:Puri_Jagannadh_Touring_Talkies	dbr:Puri_Sangeet	dbr:N._T._R._Arts	dbr:Pawan_Kalyan_Creative_Works	dbr:Aurora_Degree_College	dbr:Aarvee_Associates	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Hawaii
+dbr:John_Paul_Mitchell_Systems	dbr:Town_&_Country_Surf_Designs	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Livorno
+dbr:Filippi_Boats	
+dbo:locationCountry	dbr:United_Arab_Emirate
+dbo:foundationPlace	dbr:Dubai
+dbr:Noor_Takaful	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:London
+dbr:Economist_Group	dbr:Bowater	dbr:F._Hinds	dbr:Holland_&_Holland	dbr:Marshall_Amplification	dbr:Toe_Rag_Studios	dbr:J._W._Walker_&_Sons_Ltd	dbr:Mixcloud	dbr:Stemcor	
+dbo:locationCountry	dbr:Norway
+dbo:foundationPlace	dbr:Orion_Securities
+dbr:Terra_Markets	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Dalby,_Queensland
+dbr:Dingo_Australia	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:German_Empire
+dbr:Reemtsma	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Florida
+dbr:Animation_studios_owned_by_The_Walt_Disney_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Frackville,_Pennsylvania
+dbr:Extol_International	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Hamburg
+dbr:Jil_Sander_(brand)	
+dbo:locationCountry	dbr:Ukraine
+dbo:foundationPlace	dbr:Ukraine
+dbr:UkrSibbank	dbr:B2Blogger.com	dbr:Clickky	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Pittsburgh,_Pennsylvania
+dbr:Eat'n_Park	dbr:Bloom_Cigar_Company	
+dbo:locationCountry	dbr:Oman
+dbo:foundationPlace	dbr:Salalah
+dbr:Project_GreenWorld_International	
+dbo:locationCountry	dbr:Romania
+dbo:foundationPlace	dbr:Galați
+dbr:Arabesque_(company)	
+dbo:locationCountry	dbr:Turkey
+dbo:foundationPlace	dbr:Iskenderun
+dbr:MMK-Atakaş_Metallurgy	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:1991_in_comics
+dbr:Digital_Chameleon	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:St._Louis
+dbr:Dixon_Drums	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Cambridge_University
+dbr:Delcam	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Cagliari
+dbr:ARST_(company)	
+dbo:locationCountry	dbr:Israel
+dbo:foundationPlace	dbr:Ramat_Gan
+dbr:Eteacher_Group	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:San_Sebastián_de_los_Reyes
+dbr:Atresmedia	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Indianapolis,_Indiana
+dbr:Hollywood_Blvd_Cinema_Bar_and_Eatery	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Hobart,_Tasmania
+dbr:Morfik	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Moncton
+dbr:PropertyGuys.com	dbr:Major_Drilling_Group_International	dbr:Goji's	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Cupertino
+dbr:Nextbio	
+dbo:locationCountry	dbr:Shizuoka_City
+dbo:foundationPlace	dbr:Japan
+dbr:Star_Micronics	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Bethel,_Maine
+dbr:Northeast_Bank	
+dbo:locationCountry	dbr:New_Zealand
+dbo:foundationPlace	dbr:Fletcher_Holdings
+dbr:Fletcher_Challenge	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Saint-Blaise,_Switzerland
+dbr:Heidi.com	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:1983_in_video_gaming
+dbr:Atari,_SA	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Neuchâtel
+dbr:Zenith_(watchmaker)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Hayward,_Wisconsin
+dbr:Famous_Dave's	
+dbo:locationCountry	dbr:Texas
+dbo:foundationPlace	dbr:Austin
+dbr:Planview	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Colorado_Springs,_CO
+dbr:Olympic_Arms	
+dbo:locationCountry	dbr:Perú
+dbo:foundationPlace	dbr:Lima
+dbr:Promart	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Rochester,_New_York
+dbr:Nalge_Company	
+dbo:locationCountry	dbr:Mexico
+dbo:foundationPlace	dbr:Mexico
+dbr:Chedraui	dbr:BioFields_(company)	dbr:Gandhi_(bookstore)	dbr:Videxport	dbr:Zonda_Telecom	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Piemonte
+dbr:Gruppo_Torinese_Trasporti	
+dbo:locationCountry	dbr:Netherlands
+dbo:foundationPlace	dbr:Netherlands
+dbr:Mexx	dbr:Thermphos_International	dbr:Verkade	dbr:Rotterdamse_Elektrische_Tram	dbr:Droog_(company)	dbr:Hotels.nl	dbr:Royal_HaskoningDHV	dbr:O3Spaces	dbr:Holmatro	dbr:Vandenbrink_Design	dbr:Civolution	dbr:Efresh.com	dbr:ETF_Ride_Systems	dbr:FashionUnited	dbr:Casengo	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Lahaina,_Hawaii
+dbr:Maui_Jim	
+dbo:locationCountry	dbr:UK
+dbo:foundationPlace	dbr:UK
+dbr:Park_Circus_(company)	dbr:Warners_Solicitors	dbr:Broadberry_Data_Systems	dbr:JobServe	dbr:Brightpearl	dbr:Logicalis	dbr:Weight_Wins	
+dbo:locationCountry	dbr:Sunnyvale,_California
+dbo:foundationPlace	dbr:Mountain_View,_California
+dbr:Silicon_Graphics	
+dbo:locationCountry	dbr:Kuwait
+dbo:foundationPlace	dbr:Kuwait
+dbr:Hassan's_Optician_Co.	
+dbo:locationCountry	dbr:Denmark
+dbo:foundationPlace	dbr:Aarhus
+dbr:Martin_Professional	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Hollywood,_Los_Angeles,_California
+dbr:Imprint_Entertainment	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Owosso,_Michigan
+dbr:Crest_Marine	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Denver
+dbr:WhiteWave_Foods	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Chicoutimi
+dbr:Cycles_Devinci	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Verdun,_Quebec
+dbr:Metro_Inc.	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Greenville,_North_Carolina
+dbr:EastCare	
+dbo:locationCountry	dbr:Mexico
+dbo:foundationPlace	dbr:Azcapotzalco
+dbr:Jugos_del_Valle	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:New_York_City,_New_York
+dbr:Big_Gay_Ice_Cream	dbr:Jacob_&_Co	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Santa_Rosa,_CA
+dbr:TrimTabs_Investment_Research	
+dbo:locationCountry	dbr:California
+dbo:foundationPlace	dbr:Mountain_View,_California
+dbr:Silicon_Graphics	
+dbo:locationCountry	dbr:Malaysia
+dbo:foundationPlace	dbr:Malaysia
+dbr:Filmscape	dbr:Tenaga_Nasional	dbr:KRU_Studios	dbr:Viztel_Solutions_Group	dbr:I_Capital	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Llucmajor
+dbr:Pepephone	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Gurgaon
+dbr:Ixigo	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Newport_Beach,_California
+dbr:Ghost_Group	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Taunton
+dbr:New_Look_(company)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Mountain_View,_California
+dbr:@WalmartLabs	dbr:Silicon_Graphics	dbr:LinkedIn	dbr:Startup_Grind	
+dbo:locationCountry	dbr:Argentina
+dbo:foundationPlace	dbr:Argentina
+dbr:Spinlock_SRL	
+dbo:locationCountry	dbr:The_Netherlands
+dbo:foundationPlace	dbr:Amsterdam
+dbr:Playlistify	
+dbo:locationCountry	dbr:Netherlands
+dbo:foundationPlace	dbr:Groningen_(city)
+dbr:GasTerra	
+dbo:locationCountry	dbr:Puerto_Rico
+dbo:foundationPlace	dbr:Ponce,_Puerto_Rico
+dbr:Club_Náutico_de_Ponce	dbr:Villa_Pesquera	
+dbo:locationCountry	dbr:Dubai
+dbo:foundationPlace	dbr:United_Arab_Emirates
+dbr:Istithmar_World	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Gainesville,_Florida
+dbr:Atlantic.Net	
+dbo:locationCountry	dbr:Hong_Kong_Special_Administrative_Region_of_the_People's_Republic_of_China
+dbo:foundationPlace	dbr:Hong_Kong_Special_Administrative_Region_of_the_People's_Republic_of_China
+dbr:Kowloon–Canton_Railway_Corporation	
+dbo:locationCountry	dbr:Holliston,_Massachusetts
+dbo:foundationPlace	dbr:Massachusetts
+dbr:Harvard_Apparatus	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Wooster,_Ohio
+dbr:Rubbermaid	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:New_York_City
+dbr:Nathan's_Famous	dbr:Star_Industries	dbr:J._Levine_Books_and_Judaica	dbr:21st_Century_Fox	dbr:News_Corp	dbr:Viacom_Media_Networks	dbr:Tekserve	dbr:Westinghouse_Licensing_Corporation	dbr:Softcard	dbr:Barnes_&_Noble	dbr:Samuel_Anderson_Architects	dbr:Rani_Spas	dbr:Partsearch_Technologies	dbr:Chromat	dbr:HealthyWage	dbr:Fitocracy	dbr:Parse.ly	dbr:Lone_Signal	dbr:Bulova	dbr:Abercrombie_&_Fitch	dbr:Shake_Shack	dbr:Kate_Spade_&_Company	dbr:Lover.ly	dbr:Quest_Diagnostics	dbr:StrawberryFrog	dbr:Streit's	dbr:Sense_Networks	dbr:Mojiva	dbr:DotSUB	dbr:Staple_Design	dbr:SeatGeek	dbr:Halstead_Property	dbr:Sunshine_Suites	dbr:Virgin_Hotels	dbr:WeMix	dbr:Livestream	dbr:Silent_Models	dbr:Eyes_Lips_Face	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Bucyrus,_Ohio
+dbr:Bucyrus-Erie	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Boston_Watch_Company
+dbr:Waltham_International	
+dbo:locationCountry	dbr:Czech_Republic
+dbo:foundationPlace	dbr:Plzeň
+dbr:Škoda_Works	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:São_Paulo
+dbr:StrawberryFrog	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Nova_Scotia
+dbr:Nexient	dbr:Charm_Diamond_Centres	
+dbo:locationCountry	dbr:United_Arab_Emirate
+dbo:foundationPlace	dbr:United_Arab_Emirate
+dbr:Noor_Takaful	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Saitama_prefecture
+dbr:Saizeriya	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Lorraine_(region)
+dbr:Villeroy_&_Boch	
+dbo:locationCountry	dbr:Turkey
+dbo:foundationPlace	dbr:Ankara
+dbr:ROKETSAN	dbr:Kimetsan	dbr:Özal_Group	
+dbo:locationCountry	dbr:Longueuil,_Quebec
+dbo:foundationPlace	dbr:Canada
+dbr:Artifice_Studio	
+dbo:locationCountry	dbr:Turkey
+dbo:foundationPlace	dbr:Mersin
+dbr:Çukurova_Holding	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Manhattan
+dbr:Pei_Cobb_Freed_&_Partners	dbr:Abercrombie_&_Fitch	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Norwich
+dbr:Norwich_Union	dbr:The_UK_Holiday_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Attleboro,_Massachusetts
+dbr:L.G._Balfour_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Menlo_Park,_California
+dbr:Round_Table_Pizza	dbr:MontaVista	dbr:Kepler's_Books	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Islington
+dbr:Wallis_(retailer)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Palo_Alto,_California
+dbr:Tapulous	dbr:Regroup	
+dbo:locationCountry	dbr:Ireland
+dbo:foundationPlace	dbr:Dublin
+dbr:Depfa_Bank	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:United_Kingdom_of_Great_Britain_and_Ireland
+dbr:J._W._Walker_&_Sons_Ltd	
+dbo:locationCountry	dbr:Denmark
+dbo:foundationPlace	dbr:Brande
+dbr:Bestseller_(company)	dbr:Siemens_Wind_Power	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Oregon_City,_Oregon
+dbr:Reddaway_(trucking_company)	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Cesena
+dbr:Technogym	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Auckland
+dbr:Intrahealth_Systems_Limited	
+dbo:locationCountry	dbr:Singapore
+dbo:foundationPlace	dbr:Novena,_Singapore
+dbr:Twelve_Cupcakes	
+dbo:locationCountry	dbr:Pakistan
+dbo:foundationPlace	dbr:Punjab,_Pakistan
+dbr:Pakistan_Aeronautical_Complex	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:New_York,_New_York
+dbr:Techonomy_Media	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Somerville,_Massachusetts
+dbr:Cataldo_Ambulance_Service	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Lowell,_Massachusetts
+dbr:DeMoulas_Market_Basket	dbr:OMS_Safeharbor	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Bryan,_Texas
+dbr:Dickies	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Kingdom_of_England
+dbr:Barclays	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Montreal,_Quebec
+dbr:Gamerizon	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Cleveland,_Ohio
+dbr:Great_Lakes_Aircraft_Company	dbr:Hill+Knowlton_Strategies	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Evanston,_IL
+dbr:Rust-Oleum	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Allentown,_Pennsylvania
+dbr:Yocco's_Hot_Dogs	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:South_Hackensack,_New_Jersey
+dbr:Dataprobe	
+dbo:locationCountry	dbr:New_Zealand
+dbo:foundationPlace	dbr:Challenge_Corporation
+dbr:Fletcher_Challenge	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Los_Angeles,CA
+dbr:BTV247,_Inc	
+dbo:locationCountry	dbr:U.S
+dbo:foundationPlace	dbr:United_States
+dbr:CBS_Television_Distribution	
+dbo:locationCountry	dbr:Belgium
+dbo:foundationPlace	dbr:Leuven
+dbr:Option_N.V.	
+dbo:locationCountry	dbr:Jordan
+dbo:foundationPlace	dbr:Al_Karak
+dbr:Dead_Sea_1618	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Birmingham
+dbr:Adams_Childrenswear	
+dbo:locationCountry	dbr:Belgium
+dbo:foundationPlace	dbr:2004_in_music
+dbr:Suntrip_Records	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Canada
+dbr:Slack_Technologies	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Memphis,_Tennessee
+dbr:Inventory_Locator_Service	
+dbo:locationCountry	dbr:Finland
+dbo:foundationPlace	dbr:Finland
+dbr:Kaleva_Travel	dbr:Tecnotree	dbr:SATEL	dbr:Taitomylly	dbr:Energiapolar	dbr:Sisu_Auto	dbr:SANAKO	dbr:Area_(travel_agency)	dbr:Basware	dbr:Founder2be	dbr:SF_Film_Finland	dbr:Flaxwood_Guitars	dbr:Senate_Properties	dbr:Marimekko	dbr:Martela	dbr:JuriNet	dbr:Yousician	dbr:Tuxera	dbr:Lindström_(company)	dbr:Oceanvolt	dbr:Peikko_Group	dbr:Ata_Gears	dbr:Jolla	
+dbo:locationCountry	dbr:Denmark
+dbo:foundationPlace	dbr:Hamburg
+dbr:Hummel_International	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Warren,_Michigan
+dbr:College_Park_Industries	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Nagoya
+dbr:Hoshino_Gakki	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Liuzhou
+dbr:LiuGong	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Australian_Securities_Exchange
+dbr:Scentre_Group	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Rueil-Malmaison
+dbr:SAGEMCOM	
+dbo:locationCountry	dbr:Netherlands
+dbo:foundationPlace	dbr:Groningen
+dbr:Hotels.nl	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Bombay
+dbr:Apcar_and_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Illinois
+dbr:Paylocity_Corporation	dbr:United_Continental_Holdings	dbr:Marsh_&_McLennan_Companies	dbr:Ludwig_Drums	dbr:Tampico_Beverages	dbr:First_Midwest_Bancorp	dbr:Lifeway_Foods	dbr:Dairy_Queen	dbr:Steak_'n_Shake	dbr:Ace_Hardware	dbr:True_Value	dbr:Waste_Management_(corporation)	dbr:Forsythe_Technology	dbr:Playboy_Club	dbr:Chemetco	dbr:Metromix	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:El_Cajon,_California
+dbr:Leland_Corporation	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Sturgis,_South_Dakota
+dbr:Jamison_International	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Boston,_Massachusetts
+dbr:Owlchemy_Labs	dbr:Papa_Gino's	dbr:Genzyme	dbr:Stone_&_Webster	dbr:UbiCare	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Orlando,_Florida
+dbr:Vista-United_Telecommunications	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Montecchio_Maggiore
+dbr:Bravo_S.p.A.	
+dbo:locationCountry	dbr:Sweden
+dbo:foundationPlace	dbr:Alingsås,_Sweden
+dbr:Lindex	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:East_Pittsburgh,_Pennsylvania
+dbr:Westinghouse_Broadcasting	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Issy-les-Moulineaux
+dbr:Wavecom	
+dbo:locationCountry	dbr:Poland
+dbo:foundationPlace	dbr:Gdańsk
+dbr:Reserved_(retail)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Aberdeen,_South_Dakota
+dbr:Super_8_Motels	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Chanute,_Kansas
+dbr:Kustom_Amplification	
+dbo:locationCountry	dbr:Pakistan
+dbo:foundationPlace	dbr:Multan
+dbr:Hussain_Industries	
+dbo:locationCountry	dbr:Greece
+dbo:foundationPlace	dbr:Virginia
+dbr:ZuluTrade	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Shibuya-ku,_Tokyo
+dbr:Idea_Factory	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:West_Valley_City,_Utah
+dbr:USANA_Health_Sciences	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Trichy
+dbr:Namma_Veedu_Vasanta_Bhavan	
+dbo:locationCountry	dbr:Chile
+dbo:foundationPlace	dbr:Santiago
+dbr:Falabella_(retail_store)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Seattle,_Washington
+dbr:Northwest_Kidney_Centers	dbr:Taco_del_Mar	dbr:For_Rent_Media_Solutions	dbr:ThePlatform	
+dbo:locationCountry	dbr:Pakistan
+dbo:foundationPlace	dbr:Faisalabad
+dbr:United_Industries_Limited	
+dbo:locationCountry	dbr:Bangladesh
+dbo:foundationPlace	dbr:Dhaka
+dbr:Dhaka_Power_Distribution_Company	dbr:Dhaka_Electric_Supply_Company_Limited	dbr:Aarong	dbr:Jaaz_Multimedia	dbr:Monsoon_Films	dbr:Southeast_Bank_Limited	
+dbo:locationCountry	dbr:Brande
+dbo:foundationPlace	dbr:Denmark
+dbr:Siemens_Wind_Power	
+dbo:locationCountry	dbr:France
+dbo:foundationPlace	dbr:Vienne,_Isère
+dbr:ISA_Media_Development	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Pirot
+dbr:Tigar_Tyres	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Hong_Kong
+dbr:Optical_88	dbr:Juwai.com	dbr:Formula_Racing_Development_Limited	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Bradford,_Pennsylvania
+dbr:Holley_Performance_Products	
+dbo:locationCountry	dbr:Shropshire
+dbo:foundationPlace	dbr:Shropshire
+dbr:J._B._Joyce_&_Co	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:ASUS
+dbr:ASRock	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:St._Louis,_Missouri
+dbr:Timken_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:1901_in_music
+dbr:Victor_Talking_Machine_Company	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Ita_Wegman
+dbr:Weleda	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Queen_Street_East
+dbr:Lick's_Homeburgers	
+dbo:locationCountry	dbr:Czech_Republic
+dbo:foundationPlace	dbr:Vyškov
+dbr:Skrivanek	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Corunna,_Michigan
+dbr:Kessel_Food_Markets	
+dbo:locationCountry	dbr:Australia
+dbo:foundationPlace	dbr:Canberra
+dbr:Funnelback	
+dbo:locationCountry	dbr:Sunnyvale,_California
+dbo:foundationPlace	dbr:California
+dbr:Silicon_Graphics	
+dbo:locationCountry	dbr:Surrey
+dbo:foundationPlace	dbr:Guildford
+dbr:TVR	
+dbo:locationCountry	dbr:Portugal
+dbo:foundationPlace	dbr:ZON_Multimedia
+dbr:NOS_Comunicações	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Milton_Keynes,_England
+dbr:Addictive_Games	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Salt_Lake_City
+dbr:XMission	dbr:Genealogical_Society_of_Utah	dbr:Intermountain_Healthcare	dbr:Deseret_Digital_Media	dbr:Temple_Square_Hospitality	dbr:CHG_Healthcare_Services	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Elmhurst,_Illinois
+dbr:NOW_Foods	
+dbo:locationCountry	dbr:Poland
+dbo:foundationPlace	dbr:Warsaw,_Poland
+dbr:Jatomi_Fitness	
+dbo:locationCountry	dbr:Taipei
+dbo:foundationPlace	dbr:Taipei
+dbr:Microlife_Corporation	
+dbo:locationCountry	dbr:Russia
+dbo:foundationPlace	dbr:USSR
+dbr:Izhevsk_Mechanical_Plant	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Northwest_Territories
+dbr:Northern_News_Services	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Westminster,_Massachusetts
+dbr:Westminster_Cracker_Company	
+dbo:locationCountry	dbr:Belgium
+dbo:foundationPlace	dbr:Sint-Niklaas
+dbr:Guylian	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Dedham,_Massachusetts
+dbr:National_Amusements	dbr:The_Norfolk_&_Dedham_Group	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Vigo
+dbr:Pescanova	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:1951_in_film
+dbr:World_Wide_Pictures	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Orange_County,_California
+dbr:Rasta_Taco	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Ostiglia
+dbr:Arnoldo_Mondadori_Editore	
+dbo:locationCountry	dbr:Brazil
+dbo:foundationPlace	dbr:Nova_Lima
+dbr:Instituto_de_Desenvolvimento_Gerencial	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Rhode_Island
+dbr:Fruit_of_the_Loom	
+dbo:locationCountry	dbr:UK
+dbo:foundationPlace	dbr:United_Kingdom
+dbr:LendingCrowd	dbr:ThinCats	dbr:Zopa	dbr:Metaswitch	dbr:Rebuildingsociety.com	dbr:RateSetter	dbr:Charity_Engine	dbr:The_House_Crowd	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Addison,_Texas
+dbr:Texas_de_Brazil	
+dbo:locationCountry	dbr:Philippines
+dbo:foundationPlace	dbr:Captaincy_General_of_the_Philippines
+dbr:Bank_of_the_Philippine_Islands	
+dbo:locationCountry	dbr:Somalia
+dbo:foundationPlace	dbr:Burco
+dbr:Somtel	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Rotherham
+dbr:Lombard_(company)	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Esslingen_am_Neckar
+dbr:Festo	
+dbo:locationCountry	dbr:Iran
+dbo:foundationPlace	dbr:Qom
+dbr:Rafed_Network_for_Cultural_Development	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Country_Club_Plaza
+dbr:Lockton_Companies	
+dbo:locationCountry	dbr:Hamburg
+dbo:foundationPlace	dbr:Hamburg
+dbr:Statista	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Norway,_Iowa
+dbr:Frontier_Natural_Products_Co-op	
+dbo:locationCountry	dbr:Taiwan
+dbo:foundationPlace	dbr:Taiwan
+dbr:Gold_Apollo_Co.,_Ltd.	dbr:TSMC	dbr:Infortrend	dbr:Chatime	dbr:Phonic_Corporation	dbr:Johnson_Health_Tech	dbr:Ting_Hsin_International_Group	dbr:Microlife_Corporation	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:Louth,_Lincolnshire
+dbr:The_Cheese_Shop,_Louth	
+dbo:locationCountry	dbr:Ukraine
+dbo:foundationPlace	dbr:Kharkiv
+dbr:UkrSibbank	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Liège
+dbr:Grupo_Agbar	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Rapallo
+dbr:Mares_(scuba_gear_company)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Marion,_Ohio
+dbr:Marion_Power_Shovel_Company	
+dbo:locationCountry	dbr:Texas
+dbo:foundationPlace	dbr:Texas
+dbr:Planview	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:East_Prussia
+dbr:Empacher	
+dbo:locationCountry	dbr:Iceland
+dbo:foundationPlace	dbr:Reykjavík
+dbr:CCP_Games	dbr:Baugur_Group	dbr:DataMarket	dbr:GreenQloud	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Pamplona
+dbr:Kukuxumusu	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Santa_Ana,_CA
+dbr:Hutton_Companies	
+dbo:locationCountry	dbr:Mexico
+dbo:foundationPlace	dbr:Mexico_City
+dbr:BioFields_(company)	dbr:Jugos_del_Valle	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Columbus,_Ohio
+dbr:Macy's,_Inc.	dbr:Micro_Center	dbr:Big_Lots	dbr:Wendy's_International	dbr:Skreened	dbr:Jeni's_Splendid_Ice_Creams	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Boulder,_Colorado
+dbr:Xero_Shoes	dbr:GoLite	dbr:Illegal_Pete's	
+dbo:locationCountry	dbr:Italy
+dbo:foundationPlace	dbr:Bari
+dbr:AMTAB	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Eastcote
+dbr:The_JGA_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Perry,_Oklahoma
+dbr:Ditch_Witch	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Alicante
+dbr:Caja_de_Ahorros_del_Mediterráneo	
+dbo:locationCountry	dbr:Netherlands
+dbo:foundationPlace	dbr:1891
+dbr:Coop_(Netherlands)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Kailua-Kona,_Hawaii
+dbr:Cellana_(company)	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Switzerland
+dbr:ETA_SA	dbr:Mammut_Sports_Group	dbr:Métaux_Précieux_SA_Métalor	dbr:Certina_Kurth_Frères	dbr:Swisscom	dbr:Richemont	dbr:Mövenpick_Hotels_&_Resorts	dbr:Frewitt	dbr:Romain_Gauthier	dbr:Juvenia	dbr:Sika_AG	dbr:Piaget_SA	dbr:Zenith_(watchmaker)	dbr:ID_Quantique	dbr:Unisto	dbr:Nanosurf	dbr:Open_Systems_AG	dbr:Schaerer_Ltd	dbr:Philipp_Plein__International_AG__1	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Branson,_Missouri
+dbr:Ride_the_Ducks	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Lucknow
+dbr:Sahara_India_Pariwar	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:London
+dbr:Dolby_Laboratories	
+dbo:locationCountry	dbr:Israel
+dbo:foundationPlace	dbr:Tel_Aviv
+dbr:Adika	dbr:Cassidi	dbr:Castro_(clothing)	dbr:Papagaio	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Skokie,_Illinois
+dbr:Forsythe_Technology	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Karnataka
+dbr:Bharat_Electronics_Limited	dbr:Bharat_Earth_Movers	dbr:TutorVista	dbr:Center_for_Knowledge_Societies	dbr:ELitmus	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Quebec_City
+dbr:Copernic	
+dbo:locationCountry	dbr:New_Zealand
+dbo:foundationPlace	dbr:Upper_Hutt
+dbr:Almac_(automobile)	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Santa_Monica,_California
+dbr:Animation_studios_owned_by_The_Walt_Disney_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:East_Hanover_Township,_New_Jersey
+dbr:Nabisco	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:California
+dbr:Animation_studios_owned_by_The_Walt_Disney_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Amsterdam
+dbr:StrawberryFrog	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Vancouver_Island
+dbr:Great_Canadian_Dollar_Store	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:British_India
+dbr:Balmer_Lawrie	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Kent
+dbr:Truphone	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Bor,_Serbia
+dbr:RTB_Bor	
+dbo:locationCountry	dbr:Taipei
+dbo:foundationPlace	dbr:Taiwan
+dbr:Microlife_Corporation	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Königsberg
+dbr:Empacher	
+dbo:locationCountry	dbr:North_Rhine-Westphalia
+dbo:foundationPlace	dbr:Schöningen
+dbr:Sachtleben_Chemie	
+dbo:locationCountry	dbr:Azerbaijan
+dbo:foundationPlace	dbr:Baku
+dbr:Inter_Glass	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:San_Antonio
+dbr:Harte_Hanks	dbr:Kinetic_Concepts	
+dbo:locationCountry	dbr:Sweden
+dbo:foundationPlace	dbr:Västerås
+dbr:H&M	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:1999_Formula_One_season
+dbr:Fujitsu_Siemens_Computers	
+dbo:locationCountry	dbr:Belgium
+dbo:foundationPlace	dbr:Hasselt
+dbr:Bivolino	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Argentina
+dbr:Novadios	
+dbo:locationCountry	dbr:Bangladesh
+dbo:foundationPlace	dbr:Dhaka_Division
+dbr:Dhaka_Power_Distribution_Company	dbr:Dhaka_Electric_Supply_Company_Limited	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Japan
+dbr:Hoshino_Gakki	dbr:Bushnell_Corporation	dbr:Sanyo_Shokai_New_York	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Spokane,_Washington
+dbr:Red_Lion_Hotels_Corporation	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Verl
+dbr:Beckhoff_Automation	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Holy_Roman_Empire
+dbr:Villeroy_&_Boch	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Richmond_Hill,_Ontario
+dbr:Harvey's	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Erfurt
+dbr:Reemtsma	
+dbo:locationCountry	dbr:Israel
+dbo:foundationPlace	dbr:Jerusalem
+dbr:Café_Rimon	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:Cardiff
+dbr:RISCOS_Ltd	
+dbo:locationCountry	dbr:Shinjuku-ku
+dbo:foundationPlace	dbr:Denver,_Colorado
+dbr:Catalyst_Repository_Systems_Inc.	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Harrisburg
+dbr:Harper_Polling	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Santa_Clara,_California
+dbr:Graymatics	dbr:Roos_Instruments	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Torrance,_California
+dbr:Siemens_PLM_Software	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Toronto
+dbr:Barcelona_Traction	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:New_Hampshire
+dbr:Annalee_Dolls	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Chicopee,_Massachusetts
+dbr:Massachusetts_Arms_Company	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:New_York,_New_York
+dbr:Latin_Percussion_(company)	
+dbo:locationCountry	dbr:Turkey
+dbo:foundationPlace	dbr:Turkey
+dbr:Altintel	dbr:Ciner_Holding	dbr:Yapı_Merkezi	dbr:TÜLOMSAŞ	dbr:Çalık_Holding	dbr:Kimetsan	dbr:Özal_Group	dbr:MMK-Atakaş_Metallurgy	dbr:Permak	
+dbo:locationCountry	dbr:Belgium
+dbo:foundationPlace	dbr:1996_in_video_gaming
+dbr:Larian_Studios	
+dbo:locationCountry	dbr:United_States_of_America
+dbo:foundationPlace	dbr:Delaware
+dbr:Fastpoint_Games__Sports_Composite_DE,_Inc.__1	dbr:RotoHog__Sports_Composite_DE,_Inc.__1	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Scranton
+dbr:Scranton_Button_Company	dbr:Gertrude_Hawk_Chocolates	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:Bay_Lake,_Florida
+dbr:Animation_studios_owned_by_The_Walt_Disney_Company	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Louisville,_Kentucky
+dbr:C.I.Agent_Solutions	dbr:Lincoln_Industries	
+dbo:locationCountry	dbr:United_Kingdom
+dbo:foundationPlace	dbr:London,_United_Kingdom
+dbr:Kind_Consumer	
+dbo:locationCountry	dbr:Spain
+dbo:foundationPlace	dbr:Eibar
+dbr:Ugartechea	
+dbo:locationCountry	dbr:Bangladesh
+dbo:foundationPlace	dbr:Bangladesh
+dbr:Dhaka_Power_Distribution_Company	dbr:Dhaka_Electric_Supply_Company_Limited	dbr:Jaaz_Multimedia	dbr:Monsoon_Films	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Youngstown,_Ohio
+dbr:Handel's_Homemade_Ice_Cream_&_Yogurt	
+dbo:locationCountry	dbr:Japan
+dbo:foundationPlace	dbr:Ura-Harajuku
+dbr:Visvim	dbr:A_Bathing_Ape	
+dbo:locationCountry	dbr:United_Arab_Emirates
+dbo:foundationPlace	dbr:Glasgow
+dbr:I-mate	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Lithuania
+dbr:J._Levine_Books_and_Judaica	
+dbo:locationCountry	dbr:Iran
+dbo:foundationPlace	dbr:Iran
+dbr:Pars_Online	dbr:Rafed_Network_for_Cultural_Development	dbr:Sivan_Design_Group	dbr:Kanoon_Farhangi_Amoozesh	dbr:Iran_Software_&_Hardware_Co._(NOSA)	dbr:System_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Stamford,_Connecticut
+dbr:Walker_Digital	dbr:Omega_Engineering	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Mahoning_Valley
+dbr:M._A._Hanna_Company	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:California
+dbr:OnMobile	
+dbo:locationCountry	dbr:China
+dbo:foundationPlace	dbr:Nanjing
+dbr:Nanjing_Automobile	
+dbo:locationCountry	dbr:Russian_Federation
+dbo:foundationPlace	dbr:Russian_Federation
+dbr:Rusnano	dbr:Gaijin_Entertainment	dbr:Oysters_LLC	
+dbo:locationCountry	dbr:England
+dbo:foundationPlace	dbr:England
+dbr:Gola_(manufacturer)	dbr:Simon_Chorley_Art_&_Antiques	dbr:Castle_Technology	dbr:Mitre_Sports_International	dbr:Robert_Hudson_(company)	dbr:Bowater	dbr:Parker_Hale	dbr:Burberry	dbr:Holland_&_Holland	dbr:Ford_Team_RS	dbr:Dents	dbr:Marshall_Amplification	dbr:Faze_FM	dbr:Laney_Amplification	dbr:Cramer_Systems	dbr:Toe_Rag_Studios	dbr:Mixcloud	dbr:Peterborough_Software	dbr:The_Cheese_Shop,_Louth	dbr:J._B._Joyce_&_Co	dbr:D._Leonardt_&_Co.	dbr:Joseph_Gillott's_(pens)	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Seattle
+dbr:Pacific_Linen	dbr:Blue_Moon_Tavern	dbr:Lamonts	dbr:Pay_'n_Save	dbr:Yoogi's_Closet	dbr:DomainTools	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:The_Woodlands,_Texas
+dbr:Houston_Advanced_Research_Center	
+dbo:locationCountry	dbr:Pakistan
+dbo:foundationPlace	dbr:Pakistan
+dbr:Amir_Adnan	dbr:Hussain_Industries	dbr:Pakistan_Aeronautical_Complex	dbr:Hum_Network_Limited	dbr:Servis_Industries_Limited	dbr:Servis_Shoes	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:2012_in_Super_Fight_League
+dbr:Super_Fight_League	
+dbo:locationCountry	dbr:Czech_Republic
+dbo:foundationPlace	dbr:Prague
+dbr:Sellier_&_Bellot	dbr:Ahold_Czech_Republic	
+dbo:locationCountry	dbr:India
+dbo:foundationPlace	dbr:Mumbai
+dbr:The_Leela_Palaces,_Hotels_and_Resorts	dbr:Pen_N_Camera_International	dbr:Panorama_Studios	dbr:Ikram_Akhtar_Films	dbr:Zandu_Realty	dbr:Mukand	dbr:Welspun_Corp	dbr:Welspun_India	dbr:Welspun_Maxsteel_Ltd	dbr:Moshe's	dbr:Yash_Raj_Films	dbr:Reliance_MediaWorks	dbr:Burgs_(fast-food_chain)	dbr:Trimurti_Films	dbr:The_MobileStore	dbr:Mercator_(company)	dbr:Unichem_Laboratories	dbr:Mahindra_Ugine_Steel	dbr:Rubicon_Research	dbr:Sudha_Productions	dbr:ProSport_Fitness_&_Services	dbr:Meru_Cabs	dbr:Rasika_Productions	dbr:Stock_Holding_Corporation_of_India_Limited	dbr:Govasool	dbr:ASA_Productions_and_Enterprises	dbr:GetVidya	
+dbo:locationCountry	dbr:Sweden
+dbo:foundationPlace	dbr:Oslo
+dbr:Norma_Precision	
+dbo:locationCountry	dbr:Scotland
+dbo:foundationPlace	dbr:Edinburgh
+dbr:Edinburgh_Bicycle_Co-operative	dbr:Blipfoto	dbr:Lister_Housing_Co-operative	
+dbo:locationCountry	dbr:Germany
+dbo:foundationPlace	dbr:Thuringia
+dbr:Sauer_&_Sohn	dbr:Merkel_(firearms_manufacturer)	
+dbo:locationCountry	dbr:Canada
+dbo:foundationPlace	dbr:California
+dbr:Animation_studios_owned_by_The_Walt_Disney_Company	
+dbo:locationCountry	dbr:New_Zealand
+dbo:foundationPlace	dbr:Warkworth,_New_Zealand
+dbr:Huhu_Studios	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Australia
+dbr:News_Corporation	dbr:Quiksilver	dbr:Hypercom	dbr:99designs	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:Louis-Ulysse_Chopard
+dbr:Chopard	
+dbo:locationCountry	dbr:Republic_of_China
+dbo:foundationPlace	dbr:Republic_of_China
+dbr:Bank_of_China	
+dbo:locationCountry	dbr:United_Arab_Emirates
+dbo:foundationPlace	dbr:Scotland
+dbr:I-mate	
+dbo:locationCountry	dbr:People's_Republic_of_China
+dbo:foundationPlace	dbr:Liaoyang
+dbr:Yilishen_Tianxi_Group	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Cleveland
+dbr:Center_for_Stem_Cell_and_Regenerative_Medicine	dbr:National_Center_for_Regenerative_Medicine	dbr:Target_Optical	dbr:Sherwin-Williams	dbr:Malley's_Chocolates	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Beverly_Hills,_California
+dbr:American_Health_Connection	
+dbo:locationCountry	dbr:Switzerland
+dbo:foundationPlace	dbr:United_Kingdom_of_Great_Britain_and_Ireland
+dbr:Rolex	
+dbo:locationCountry	dbr:Iceland
+dbo:foundationPlace	dbr:Iceland
+dbr:CCP_Games	dbr:Baugur_Group	dbr:DataMarket	dbr:GreenQloud	
+dbo:locationCountry	dbr:Serbia
+dbo:foundationPlace	dbr:Gornji_Milanovac
+dbr:Dečje_novine	
+dbo:locationCountry	dbr:Finland
+dbo:foundationPlace	dbr:Pori
+dbr:Rosenlew	
+dbo:locationCountry	dbr:Mexico
+dbo:foundationPlace	dbr:Guadalajara
+dbr:Zonda_Telecom	
+dbo:locationCountry	dbr:United_States
+dbo:foundationPlace	dbr:Evanston,_Illinois
+dbr:Nabih's_Inc.	dbr:Universal_Audio_(company)	

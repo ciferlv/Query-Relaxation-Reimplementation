@@ -1,0 +1,18 @@
+
+3.
+SELECT * WHERE {
+        dbr:Apple_Inc. dbo:locationCountry ?o.}
+
+Rule (2)
+dbo:locationCountry rdfs:subPropertyOf dbo:location
+
+Reformd Query:
+SELECT * WHERE {
+        dbr:Apple_Inc. dbo:location ?o.}
+
+Rule (6)
+dbo:locationCountry rdfs:range dbo:Country
+
+Reformed Query:
+SELECT * WHERE {
+        ?s rdf:type dbo:Country}

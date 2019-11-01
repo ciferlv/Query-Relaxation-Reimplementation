@@ -3,9 +3,9 @@ import torch.optim as optim
 from sklearn import datasets
 import numpy as np
 import torch
-import math
 
-from RuleBased.VirtuosoSearch.ALogger import ALogger
+from RuleBased.Params import pca_or_cwa
+from ALogger import ALogger
 
 
 class LogisticRegression(nn.Module):
@@ -15,41 +15,42 @@ class LogisticRegression(nn.Module):
         self.logger = ALogger("Classifier.py", True).getLogger()
 
     def forward(self, input):
-        output = torch.sigmoid(self.out(input))
-        return output
+        return torch.sigmoid(self.out(input))
 
-    def train(self, x, y, epoch, mini_batch):
-        train_nums = len(x)
-        mini_batch_nums = math.ceil(train_nums / mini_batch)
-        seg_point_list = [0]
-        for i in range(mini_batch_nums):
-            if (i + 1) * mini_batch > train_nums:
-                seg_point_list.append(train_nums)
-            else:
-                seg_point_list.append((i + 1) * mini_batch)
+    def update(self, train_feature_data, epoch, batch_size):
 
-        criterion = nn.BCELoss()
-        optimizer = optim.Adam(self.parameters(), lr=0.001)
+        my_criterion = nn.BCELoss()
+        if pca_or_cwa == "pca":
+            my_criterion = nn.MSELoss(size_average=True)
+        my_optimizer = optim.Adam(self.parameters(), lr=0.001, weight_decay=0.001)
 
         for epoch_i in range(epoch):
+            np.random.shuffle(train_feature_data)
             loss_running = 0
-            for idx, seg_point in enumerate(seg_point_list):
-                if idx == len(seg_point_list) - 1:
-                    break
+            start = 0
+            while start + batch_size <= len(train_feature_data):
                 self.zero_grad()
-                start_point = seg_point_list[idx]
-                end_point = seg_point_list[idx + 1]
-                train_x = x[start_point:end_point]
-                train_y = y[start_point:end_point]
+                tmp_data = train_feature_data[start:start + batch_size]
+                train_x = tmp_data[:, 0:-1]
+                train_y = tmp_data[:, -1]
                 output = self.forward(torch.Tensor(train_x))
-                loss = criterion(
+                loss = my_criterion(
                     torch.squeeze(output, 1), torch.Tensor(train_y))
                 loss_running += loss.item()
                 loss.backward()
-                optimizer.step()
-            if (epoch_i % 100 == 0 or epoch_i == epoch - 1) and epoch_i != 0:
-                self.logger.info("Epoch:{} Loss:{}".format(
-                    epoch_i, loss_running))
+                my_optimizer.step()
+                start += batch_size
+
+            if (epoch_i + 1) % 100 == 0 or epoch_i == epoch - 1:
+                self.logger.info("Epoch:{} Loss:{}".format(epoch_i, loss_running))
+
+                x = train_feature_data[:, 0:-1]
+                y = train_feature_data[:, -1]
+                y[np.where(y != 1)] = 0
+                prec = self.test_precision(x, y)
+                map = self.test_map(x, y)
+
+                self.logger.info("Prec: {}, MAP: {}".format(prec, map))
 
     def test_precision(self, x, y):
         output = self.forward(torch.Tensor(x))
@@ -61,7 +62,7 @@ class LogisticRegression(nn.Module):
         output = self.forward(torch.Tensor(x))
         output = output.squeeze(-1).detach().numpy()
         test = list(zip(output, y))
-        test.sort(key=lambda p: p[0],reverse=True)
+        test.sort(key=lambda p: p[0], reverse=True)
         MAP_metric = 0.0
         posi_num = 0
         for idx, a_pair in enumerate(test):
@@ -72,7 +73,7 @@ class LogisticRegression(nn.Module):
 
     def get_output_prob(self, x):
         output = self.forward(torch.Tensor(x))
-        prob = output.squeeze(-1).detach().numpy()[0]
+        prob = output.view(-1, 1).detach().numpy()[0]
         return prob
 
     def saveModel(self, savePath):

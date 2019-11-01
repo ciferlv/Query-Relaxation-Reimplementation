@@ -1,0 +1,11 @@
+
+5.
+SELECT * WHERE {
+        ?s dbo:owner dbr:Singtel}
+		
+Rule (2)
+dbo:owner rdfs:subPropertyOf dulo:sameSettingAs
+
+Reformed Query:
+SELECT * WHERE {
+        ?s rdfs:subPropertyOf  dbr:Singtel}

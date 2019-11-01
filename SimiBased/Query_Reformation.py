@@ -1,14 +1,13 @@
-from SPARQLWrapper import SPARQLWrapper
-
-from RuleBased.BiSearch.SparqlParser import SparqlParser
+from Empty_Answer_Query import eaqs
+from RuleBased.SparqlParser import SparqlParser
 import os
 
 from SimiBased.SparqlQueryTool import SparqlQueryTool
 
 min_simi_threshold = 0.5
 root_folder = "./result/"
-dbr = "http://dbpedia.org/resource/"
-dbo = "http://dbpedia.org/ontology/"
+dbr = "http://dbo_plain.org/resource/"
+dbo = "http://dbo_plain.org/ontology/"
 relaxed_answer_folder = "./relaxed_answer/"
 
 
@@ -46,10 +45,13 @@ class QueryReform:
             cost = res_sparql_alter[1]
             for idx in range(len(res_sparql_alter)):
                 altered_name = res_sparql_alter[0][idx]
-                if "(" in altered_name or "'" in altered_name or ")" in altered_name:
+                if ":" in altered_name or "=" in altered_name or "(" in altered_name or "'" in altered_name or ")" in altered_name or "," in altered_name:
                     altered_name = altered_name.replace("dbo:", dbo)
                     altered_name = altered_name.replace("dbr:", dbr)
-                    altered_name = "<" + altered_name + ">"
+                    if not altered_name.startswith("<"):
+                        altered_name = "<" + altered_name
+                    if not altered_name.endswith(">"):
+                        altered_name = altered_name + ">"
                 tmp_sparql = tmp_sparql.replace(self.er_name_list[idx], altered_name)
                 tmp_sparql = " ".join(tmp_sparql.split())
             self.res_sparql_list.append([tmp_sparql, cost])
@@ -58,11 +60,14 @@ class QueryReform:
         sqt = SparqlQueryTool()
         if not os.path.exists(relaxed_answer_folder):
             os.mkdir(relaxed_answer_folder)
-        with open(relaxed_answer_folder + self.query_number + ".txt", 'w', encoding="UTF-8") as f:
+
+        with open(relaxed_answer_folder + "E"+self.query_number + ".txt", 'w', encoding="UTF-8") as f:
             for res_sparql in self.res_sparql_list:
-                f.write("{}\t{}\n".format(res_sparql[1], res_sparql[0]))
                 sqt.set_sparql(res_sparql[0])
                 var_list, query_result_list = sqt.get_sparql_query_answer()
+                # if len(query_result_list) == 0:
+                #     continue
+                f.write("{}\t{}\n".format(res_sparql[1], res_sparql[0]))
                 for one_query_res in query_result_list:
                     for var in var_list:
                         f.write("?{}\t{}\t".format(var, one_query_res[var]))
@@ -90,10 +95,10 @@ class QueryReform:
 
 
 if __name__ == "__main__":
-    query_number = 1
-    sparql = """
-    select * where {
-        ?p dbo:regionServed dbr:Alaska.}"""
-    qr = QueryReform(sparql, -1)
-    qr.get_reformed_sparql()
-    qr.get_relaxed_answer()
+    idx_list = [0]
+    for idx, sparql_query in enumerate(eaqs):
+        if idx not in idx_list:
+            continue
+        qr = QueryReform(sparql_query, idx + 1)
+        qr.get_reformed_sparql()
+        qr.get_relaxed_answer()

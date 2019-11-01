@@ -1,0 +1,3000 @@
+dbr:The_Golden_Disc	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Lee_Patterson	
+dbr:Various_Positions_(film)	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Terry_Chen	
+dbr:The_Art_of_War_II:_Betrayal	dbo:starring
+dbo:birthPlace	dbr:Lac_La_Hache
+dbr:Lochlyn_Munro	
+dbr:Treasure_Planet	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Michael_Wincott	dbr:Martin_Short	
+dbr:Maybe_It's_Me_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Reagan_Dale_Neis	
+dbr:Francis_Covers_the_Big_Town	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Gene_Lockhart	
+dbr:Guardians_of_the_Galaxy_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Windsor,_Ontario
+dbr:David_Sobolov	
+dbr:Dead_Ringers_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Geneviève_Bujold	
+dbr:The_Heartbreak_Kid_(2007_film)	dbo:starring
+dbo:birthPlace	dbr:Stockholm
+dbr:Malin_Åkerman	
+dbr:The_Shakedown_(1959_film)	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Robert_Beatty	
+dbr:Flash_Gordon_(1996_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Lexa_Doig	
+dbr:Melanie_(film)	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Burton_Cummings	
+dbr:Max_Steel:_Bio_Crisis	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christian_Campbell	dbr:Elias_Toufexis	
+dbr:Fire_Song	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Derek_Miller	
+dbr:Cross_My_Heart_(1937_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kenne_Duncan	
+dbr:Webs_(film)	dbo:starring
+dbo:birthPlace	dbr:Nova_Scotia
+dbr:Jeff_Douglas	
+dbr:Jingle_All_the_Way_2	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Kennedi_Clements	
+dbr:Kung_Fu_Panda_3	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Seth_Rogen	
+dbr:The_Wild_Dogs	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alberta_Watson	
+dbr:The_Package_(2013_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Eric_Keenleyside	dbr:William_B._Davis	
+dbr:Erky_Perky	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Keith_Knight_(actor)	
+dbr:Veerappan_(2016_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Lisa_Ray	
+dbr:The_Romantics_(film)	dbo:starring
+dbo:birthPlace	dbr:Sweden
+dbr:Malin_Åkerman	
+dbr:Eye_of_the_Cat	dbo:starring
+dbo:birthPlace	dbr:Quebec_City
+dbr:Michael_Sarrazin	
+dbr:The_Skulls_II	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Lindy_Booth	
+dbr:The_Number_23	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jim_Carrey	
+dbr:Hoppy_Serves_a_Writ	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Victor_Jory	
+dbr:Dante's_Cove	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Stephen_Amell	
+dbr:Paramount_on_Parade	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Fay_Wray	
+dbr:The_Con_Artist	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Donald_Sutherland	
+dbr:By_Way_of_the_Stars	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Gema_Zamprogna	
+dbr:High_Incident	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Matt_Craven	
+dbr:You_Might_as_Well_Live	dbo:starring
+dbo:birthPlace	dbr:Scarborough,_Toronto
+dbr:Kristin_Fairlie	
+dbr:Weekend_Warriors_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Graham_Jarvis	
+dbr:Bullet_in_the_Face	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Jessica_Steen	
+dbr:La_Florida_(film)	dbo:starring
+dbo:birthPlace	dbr:Jonquière
+dbr:Rémy_Girard	
+dbr:Dangerous_Parking	dbo:starring
+dbo:birthPlace	dbr:Lancashire
+dbr:Peter_Howitt	
+dbr:Shadow_Builder	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Andrew_Jackson_(actor)	dbr:Kevin_Zegers	
+dbr:It's_Alive_III:_Island_of_the_Alive	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Laurene_Landon	
+dbr:Kidz_in_the_Wood	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Dave_Thomas_(actor)	
+dbr:The_Tudors	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Lothaire_Bluteau	
+dbr:Zoom_(2006_film)	dbo:starring
+dbo:birthPlace	dbr:Woodstock,_Ontario
+dbr:Kevin_Zegers	
+dbr:Crossing_Lines	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Donald_Sutherland	
+dbr:These_Are_the_Damned	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Alexander_Knox	
+dbr:Stewie_Griffin:_The_Untold_Story	dbo:starring
+dbo:birthPlace	dbr:Ladner,_British_Columbia
+dbr:Will_Sasso	
+dbr:The_Lonely_Road	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Victoria_Hopper	
+dbr:Burnt_Offerings_(film)	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Lee_Montgomery	
+dbr:Final_Destination_(film)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Devon_Sawa	
+dbr:Ice_Blues	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Brittney_Wilson	
+dbr:Max_Steel:_Forces_of_Nature	dbo:starring
+dbo:birthPlace	dbr:Vancouver,_British_Columbia
+dbr:Michael_Donovan	
+dbr:Ansh:_The_Deadly_Part	dbo:starring
+dbo:birthPlace	dbr:India
+dbr:Shama_Sikander	dbr:Om_Puri	dbr:Rajat_Bedi	dbr:Milind_Gunaji	dbr:Sharbani_Mukherjee	
+dbr:Made_in_Canada	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Leah_Pinsent	
+dbr:The_Curious_Case_of_Benjamin_Button_(film)	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Elias_Koteas	
+dbr:The_Mysterious_Rider_(1933_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Berton_Churchill	
+dbr:The_Spiral_Staircase_(1975_film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Michael_Sarrazin	
+dbr:Wonderfalls	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Caroline_Dhavernas	
+dbr:CBC_Prime_Time_News	dbo:starring
+dbo:birthPlace	dbr:London
+dbr:Peter_Mansbridge	
+dbr:About_a_Girl_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Burnaby
+dbr:Kristie_Marsden	
+dbr:Terror_Trap	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:David_James_Elliott	
+dbr:Lucky_Country_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Aden_Young	
+dbr:Dynasty_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Gordon_Thomson_(actor)	
+dbr:Vacation_with_Derek	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Ariel_Waller	dbr:Jordan_Todosey	dbr:Daniel_Magder	
+dbr:Action_Jackson_(1988_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Vanity_(singer)	
+dbr:The_Last_Curtain	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kenne_Duncan	
+dbr:A_Fire_in_the_Sky	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Lloyd_Bochner	
+dbr:Max_(2015_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Robbie_Amell	
+dbr:Fort_Algiers	dbo:starring
+dbo:birthPlace	dbr:New_Westminster
+dbr:Raymond_Burr	
+dbr:Ghost_Cat	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Mark_Rendall	
+dbr:Chaos_(2005_Capitol_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Keegan_Connor_Tracy	dbr:Henry_Czerny	
+dbr:Beastmaster_2:_Through_the_Portal_of_Time	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Marc_Singer	
+dbr:Portrait_of_Alison	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Robert_Beatty	
+dbr:Sublime_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Tom_Cavanagh	
+dbr:Checkmate_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:London
+dbr:Sebastian_Cabot_(actor)	
+dbr:Pippi_Longstocking_(1997_film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Melissa_Altro	
+dbr:Milk_(film)	dbo:starring
+dbo:birthPlace	dbr:London,_Ontario
+dbr:Victor_Garber	
+dbr:The_Sweet_Hereafter_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Sarah_Polley	
+dbr:Richard_the_Lionheart:_Rebellion	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Debbie_Rochon	
+dbr:The_Miniver_Story	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Walter_Pidgeon	
+dbr:The_Devil's_in_Love	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Victor_Jory	
+dbr:The_Adrenaline_Project	dbo:starring
+dbo:birthPlace	dbr:Sault_Ste._Marie,_Ontario
+dbr:Boomer_Phillips	
+dbr:Degrassi_Junior_High	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Pat_Mastroianni	dbr:Stefan_Brogren	
+dbr:The_Phantom_Rider_(Republic_serial)	dbo:starring
+dbo:birthPlace	dbr:Chatham,_Ontario
+dbr:Kenne_Duncan	
+dbr:The_Tooth_Fairy_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Chandra_West	dbr:Lochlyn_Munro	dbr:Ben_Cotton	
+dbr:Jason_of_Star_Command	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:James_Doohan	
+dbr:Roxy_Hunter_and_the_Secret_of_the_Shaman	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Demetrius_Joyette	
+dbr:Calling_Bulldog_Drummond	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Robert_Beatty	
+dbr:White_Room_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Maurice_Godin_(actor)	dbr:Sheila_McCarthy	
+dbr:Perfect_Pie	dbo:starring
+dbo:birthPlace	dbr:London,_Ontario
+dbr:Rachel_McAdams	
+dbr:Steal_This_Movie!	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Donal_Logue	
+dbr:Walter_(2015_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Neve_Campbell	
+dbr:Blackjack_(1998_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kate_Vernon	
+dbr:I'll_See_You_in_My_Dreams_(2015_film)	dbo:starring
+dbo:birthPlace	dbr:Sweden
+dbr:Malin_Åkerman	
+dbr:Faith,_Fraud_&_Minimum_Wage	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Martha_MacIsaac	dbr:Ricky_Mabe	
+dbr:Austin_Powers_(film_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mike_Myers	
+dbr:The_Man_Who_Turned_to_Stone	dbo:starring
+dbo:birthPlace	dbr:Yukon
+dbr:Victor_Jory	
+dbr:Death_Takes_a_Holiday	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Kathleen_Howard	
+dbr:Marion_Bridge_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Molly_Parker	
+dbr:Halloween_(2007_film)	dbo:starring
+dbo:birthPlace	dbr:Saskatoon
+dbr:Tyler_Mane	
+dbr:The_Shriner's_Daughter	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:William_Bertram_(actor)	
+dbr:The_Sign_of_the_Ram	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Alexander_Knox	
+dbr:Diabolique_(1996_film)	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Donal_Logue	
+dbr:Netherbeast_Incorporated	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Dave_Foley	
+dbr:Ghar_Ki_Izzat_(1994_film)	dbo:starring
+dbo:birthPlace	dbr:Kabul
+dbr:Kader_Khan	
+dbr:This_Life_(2015_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Wabush
+dbr:Shawn_Doyle	
+dbr:Free_Money_(film)	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Donald_Sutherland	
+dbr:Arrival_II	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Michael_Sarrazin	
+dbr:Earthsea_(miniseries)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kristin_Kreuk	
+dbr:Noah's_Arc_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christian_Vincent	
+dbr:Milk_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Alison_Pill	
+dbr:Mambo_Italiano_(film)	dbo:starring
+dbo:birthPlace	dbr:Chibougamau
+dbr:Peter_Miller_(actor)	
+dbr:My_Dear_Miss_Aldrich	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Walter_Pidgeon	
+dbr:Chocolate_Eclair_(film)	dbo:starring
+dbo:birthPlace	dbr:Aldershot,_Ontario
+dbr:Colin_Fox_(actor)	
+dbr:Weird_Years	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Tajja_Isen	
+dbr:The_Vengeance_of_Ursus	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Samson_Burke	
+dbr:Nick_Carter,_Master_Detective_(film)	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Walter_Pidgeon	
+dbr:The_Trotsky	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Jay_Baruchel	
+dbr:One_Exciting_Week	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Arlene_Harris	
+dbr:CSI:_Trilogy	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Robert_Joy	
+dbr:Picture_Perfect_(1995_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Christian_Campbell	dbr:Dave_Thomas_(actor)	
+dbr:Nobody_Waved_Good-bye	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Peter_Kastner	
+dbr:Top_Chef	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Gail_Simmons	dbr:Hugh_Acheson	
+dbr:Zig_Zag_(Canadian_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Saskatchewan
+dbr:Rick_Ducommun	
+dbr:Left_Behind:_The_Movie	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Gordon_Currie	dbr:Colin_Fox_(actor)	dbr:Janaya_Stephens	
+dbr:Dead_Mary	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Reagan_Pasternak	
+dbr:I,_the_Jury_(1982_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Laurene_Landon	
+dbr:Red_Eye_(2005_American_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Rachel_McAdams	
+dbr:Sailor's_Luck	dbo:starring
+dbo:birthPlace	dbr:Yukon
+dbr:Victor_Jory	
+dbr:I,_Claudia	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Kristen_Thomson	
+dbr:The_Other_Side_of_the_Tracks	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Brendan_Fehr	
+dbr:Serenity_(film)	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Nathan_Fillion	
+dbr:The_Wedding_Planner	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Joanna_Gleason	
+dbr:The_Vampire_Diaries	dbo:starring
+dbo:birthPlace	dbr:Gander,_Newfoundland_and_Labrador
+dbr:Sara_Canning	
+dbr:Gavilan_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:London
+dbr:Kate_Reid	
+dbr:The_Sound_of_Music_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christopher_Plummer	
+dbr:Valdez_Is_Coming	dbo:starring
+dbo:birthPlace	dbr:Sarnia
+dbr:Susan_Clark	
+dbr:The_Passion_of_John_Ruskin	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mark_McKinney	dbr:Neve_Campbell	
+dbr:Barbie_as_the_Princess_and_the_Pauper	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Martin_Short	
+dbr:Hunters_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Britne_Oldford	
+dbr:Spun_Out	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Al_Mukadam	dbr:Dave_Foley	
+dbr:Silent_Madness	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Belinda_Montgomery	
+dbr:Aces_High_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Christopher_Plummer	
+dbr:Todd_and_the_Book_of_Pure_Evil	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Alex_House	
+dbr:Dead_Fire	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Rachel_Hayward	
+dbr:What_Happened_Then%3F	dbo:starring
+dbo:birthPlace	dbr:England
+dbr:Richard_Bird_(actor)	
+dbr:Shenandoah_(film)	dbo:starring
+dbo:birthPlace	dbr:Montréal
+dbr:Rosemary_Forsyth	
+dbr:American_Crime_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Connor_Jessup	
+dbr:Noddy_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Windsor,_Ontario
+dbr:Sean_McCann_(actor)	
+dbr:Xiaolin_Chronicles	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Michael_Donovan	dbr:Eric_Bauza	dbr:Tara_Strong	dbr:David_Kaye	
+dbr:Sailors_Three	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Carla_Lehmann	
+dbr:Manhattan_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Alexia_Fast	
+dbr:Countdown_to_Looking_Glass	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Helen_Shaver	
+dbr:That's_Hockey__2Day__1	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Steve_Kouleas	
+dbr:The_Whole_of_the_Moon_(film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Pascale_Bussières	
+dbr:The_Hunters_(2013_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Robbie_Amell	
+dbr:The_Right_Way_(film)	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:James_McGowan_(actor)	
+dbr:Mighty_Fine	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Jodelle_Ferland	
+dbr:Justice_League:_Gods_and_Monsters_Chronicles	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Tamara_Taylor	
+dbr:Cowards_Bend_the_Knee	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Darcy_Fehr	
+dbr:Private_Scandal	dbo:starring
+dbo:birthPlace	dbr:Guelph
+dbr:Ned_Sparks	
+dbr:One_Night_(2016_film)	dbo:starring
+dbo:birthPlace	dbr:Nanaimo
+dbr:Justin_Chatwin	
+dbr:Away_We_Go	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Catherine_O'Hara	
+dbr:The_Politician's_Love_Story	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mack_Sennett	
+dbr:Léolo	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Ginette_Reno	
+dbr:Dracula:_The_Series	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Mia_Kirshner	
+dbr:The_Magic_Carpet_(film)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Raymond_Burr	
+dbr:Little_Wizards	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Peter_Cullen	
+dbr:The_Clown_Murders	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:John_Candy	
+dbr:An_American_in_Canada	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Robin_Brûlé	
+dbr:Ricky_Sprocket:_Showbiz_Boy	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Cathy_Weseluck	dbr:Jayne_Eastwood	dbr:Andrea_Libman	
+dbr:The_Cry_of_the_Owl_(2009_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Karl_Pruner	
+dbr:Swashbuckler_(film)	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Geneviève_Bujold	
+dbr:The_Final_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Marc_Donato	
+dbr:Falling_from_the_Sky:_Flight_174	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Scott_Hylands	
+dbr:My_Little_Pony:_A_Very_Pony_Place	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Janyse_Jaud	
+dbr:Close_to_Home_(2005_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:David_James_Elliott	
+dbr:Stars_on_Trial	dbo:starring
+dbo:birthPlace	dbr:Brandon,_Manitoba
+dbr:Trevor_Boris	
+dbr:Dead_Rising:_Watchtower	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Keegan_Connor_Tracy	
+dbr:Little_Mosque_on_the_Prairie	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Debra_McGrath	dbr:Sheila_McCarthy	dbr:Neil_Crone	dbr:Derek_McGrath	dbr:Zaib_Shaikh	
+dbr:Wake_of_Death	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Valerie_Tian	
+dbr:Bizarre_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Galicia_(Eastern_Europe)
+dbr:Cec_Linder	
+dbr:Into_the_Fire_(1988_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Art_Hindle	
+dbr:Crime_and_Punishment_(2002_Russian_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Margot_Kidder	
+dbr:Falling_Angels_(film)	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Katharine_Isabelle	
+dbr:Superstar_(1999_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Mark_McKinney	dbr:Tom_Green	
+dbr:The_Death_of_a_Lumberjack	dbo:starring
+dbo:birthPlace	dbr:Shawinigan
+dbr:Carole_Laure	
+dbr:This_Sitcom_Is...Not_to_Be_Repeated	dbo:starring
+dbo:birthPlace	dbr:Scarborough,_Toronto
+dbr:Kathy_Greenwood	
+dbr:The_Eddie_Fisher_Show	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Gisele_MacKenzie	
+dbr:Bonjour_Timothy	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Sabine_Karsenti	
+dbr:Recipe_to_Riches	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Gail_Simmons	
+dbr:For_Pete's_Sake_(film)	dbo:starring
+dbo:birthPlace	dbr:Quebec_City
+dbr:Michael_Sarrazin	
+dbr:New_Waterford_Girl	dbo:starring
+dbo:birthPlace	dbr:North_York
+dbr:Liane_Balaban	
+dbr:The_Ultimate_Fighter:_Team_GSP_vs._Team_Koscheck	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Georges_St-Pierre	
+dbr:Dead_Before_Dawn	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Devon_Bostick	dbr:Brittany_Allen	dbr:Kyle_Schmid	
+dbr:Eyewitness_(1981_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Christopher_Plummer	
+dbr:Gravy_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Lothaire_Bluteau	
+dbr:Scanners	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Michael_Ironside	
+dbr:Tara_Duncan:_The_Evil_Empress	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Saffron_Henderson	
+dbr:Pani_Jaisa_Piyar	dbo:starring
+dbo:birthPlace	dbr:Pakistan
+dbr:Saba_Qamar	dbr:Samina_Peerzada	dbr:Juggan_Kazim	dbr:Nausheen_Shah_(actress)	
+dbr:Dragnet_(1947_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Douglass_Dumbrille	
+dbr:Wedding_Band	dbo:starring
+dbo:birthPlace	dbr:Six_Nations_of_the_Grand_River
+dbr:Derek_Miller	
+dbr:Mosquito_Lake_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Metz,_France
+dbr:Mike_MacDonald_(comedian)	
+dbr:Muddat_(1986_film)	dbo:starring
+dbo:birthPlace	dbr:Afghanistan
+dbr:Kader_Khan	
+dbr:The_Lost_Language_of_Cranes_(film)	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Nigel_Whitmey	
+dbr:City_on_Fire_(1979_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Susan_Clark	
+dbr:It_Happened_One_Sunday	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Robert_Beatty	
+dbr:Flight_Command	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Walter_Pidgeon	
+dbr:Molly:_An_American_Girl_on_the_Home_Front	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Maya_Ritter	
+dbr:House_(1995_film)	dbo:starring
+dbo:birthPlace	dbr:Nova_Scotia
+dbr:Daniel_MacIvor	
+dbr:The_Square_Ring	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Robert_Beatty	
+dbr:Choose_Me	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Geneviève_Bujold	
+dbr:W_(1974_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:John_Vernon	
+dbr:My_Little_Pony:_A_Very_Pony_Place	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Janyse_Jaud	dbr:Venus_Terzo	dbr:Cathy_Weseluck	dbr:Andrea_Libman	dbr:Tracey_Moore	
+dbr:Good_Dog	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Lauren_Lee_Smith	
+dbr:The_Squid_and_the_Whale	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Anna_Paquin	
+dbr:Peyton_Place:_The_Next_Generation	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Barbara_Parkins	
+dbr:Mookie's_Law	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Garen_Boyajian	
+dbr:X_Company	dbo:starring
+dbo:birthPlace	dbr:Québec
+dbr:Évelyne_Brochu	
+dbr:Naseeb_(1981_film)	dbo:starring
+dbo:birthPlace	dbr:Afghanistan
+dbr:Amjad_Khan_(actor)	dbr:Kader_Khan	
+dbr:This_Life_(2015_TV_series)	dbo:starring
+dbo:birthPlace	dbr:New_Brunswick
+dbr:Peter_MacNeill	
+dbr:MVP_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Peter_Miller_(actor)	dbr:Lucas_Bryant	dbr:Natalie_Krill	
+dbr:Screamers:_The_Hunting	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Stephen_Amell	dbr:Greg_Bryk	dbr:Gina_Holden	
+dbr:Twist_(film)	dbo:starring
+dbo:birthPlace	dbr:Oakville,_Ontario
+dbr:Joshua_Close	
+dbr:A_Christmas_Snow	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Catherine_Mary_Stewart	
+dbr:Public_Domain_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Nicole_de_Boer	dbr:Dov_Tiefenbach	dbr:Lindy_Booth	dbr:Mike_Beaver	
+dbr:The_Street_(2000_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Christian_Campbell	
+dbr:A.J.'s_Time_Travelers	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Wayne_Thomas_Yorke	
+dbr:Pretty_Little_Devils	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Tom_Green	
+dbr:The_World_Unseen	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Lisa_Ray	
+dbr:Sweet_Movie	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:John_Vernon	dbr:Carole_Laure	
+dbr:Cruel_but_Necessary	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mark_Humphrey_(actor)	
+dbr:Tremors_4:_The_Legend_Begins	dbo:starring
+dbo:birthPlace	dbr:Gauthier,_Ontario
+dbr:Sara_Botsford	
+dbr:The_Bears_and_I	dbo:starring
+dbo:birthPlace	dbr:Tsleil-Waututh_First_Nation
+dbr:Chief_Dan_George	
+dbr:Cutthroat_Island	dbo:starring
+dbo:birthPlace	dbr:Brooklyn
+dbr:Maury_Chaykin	
+dbr:Roswell_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:New_Westminster
+dbr:Brendan_Fehr	
+dbr:Main_Street_After_Dark	dbo:starring
+dbo:birthPlace	dbr:London,_Ontario
+dbr:Hume_Cronyn	
+dbr:The_Face_at_the_Window_(1932_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Raymond_Massey	
+dbr:The_Englishman's_Boy__The_Englishman's_Boy__1	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Nicholas_Campbell	
+dbr:Picture_This_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Shenae_Grimes	dbr:Robbie_Amell	
+dbr:The_Beachcombers	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Bruno_Gerussi	dbr:Jackson_Davies	
+dbr:Inside_Daisy_Clover	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Christopher_Plummer	
+dbr:Teenage_Mutant_Ninja_Turtles_III	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Elias_Koteas	
+dbr:Main_Street_After_Dark	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Hume_Cronyn	
+dbr:The_Outside_Chance_of_Maximilian_Glick	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Aaron_Schwartz_(Canadian_actor)	
+dbr:The_Spirit_of_'17	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Jack_Pickford	dbr:Charles_Arling	
+dbr:Frankenstein:_The_True_Story	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Michael_Sarrazin	
+dbr:Gavin_Crawford's_Wild_West	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Anita_Majumdar	dbr:Kaniehtiio_Horn	
+dbr:Her_Private_Life	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Walter_Pidgeon	
+dbr:To_Catch_a_King	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Barbara_Parkins	
+dbr:Death_Takes_a_Holiday	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kathleen_Howard	
+dbr:Tere_Bin_Laden:_Dead_or_Alive	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mia_Uyeda	
+dbr:Voice_from_the_Grave	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Michael_Riley	
+dbr:The_Final_Cut_(1995_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Matt_Craven	
+dbr:Gentleman's_Fate	dbo:starring
+dbo:birthPlace	dbr:Sarnia
+dbr:Marie_Prevost	
+dbr:Undeclared	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Jay_Baruchel	
+dbr:Odysseus_and_the_Isle_of_the_Mists	dbo:starring
+dbo:birthPlace	dbr:SR_Croatia
+dbr:Steve_Bacic	
+dbr:SLC_Punk!	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Devon_Sawa	
+dbr:Year_of_the_Carnivore	dbo:starring
+dbo:birthPlace	dbr:Ladner,_British_Columbia
+dbr:Will_Sasso	
+dbr:Dead_Hooker_in_a_Trunk	dbo:starring
+dbo:birthPlace	dbr:North_Vancouver_(district_municipality)
+dbr:Soska_sisters	
+dbr:Heathcliff:_The_Movie	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Jeannie_Elias	
+dbr:Barney's_Great_Adventure	dbo:starring
+dbo:birthPlace	dbr:Weyburn
+dbr:Shirley_Douglas	
+dbr:It's_a_Boy_Girl_Thing	dbo:starring
+dbo:birthPlace	dbr:United_States
+dbr:Maury_Chaykin	
+dbr:Anytown_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Natasha_Henstridge	
+dbr:I_Come_with_the_Rain	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Elias_Koteas	
+dbr:Inhuman_Condition_(series)	dbo:starring
+dbo:birthPlace	dbr:Guelph
+dbr:Shaun_Benson	
+dbr:Kiss_the_Girls_and_Make_Them_Die	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Beverly_Adams	
+dbr:Battlestar_Galactica:_The_Second_Coming	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:John_Colicos	
+dbr:The_Raleigh_Cigarette_Program	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Anita_Kert_Ellis	
+dbr:My_Scene_Goes_Hollywood	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Saffron_Henderson	
+dbr:Mount_Royal_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Guylaine_St-Onge	
+dbr:An_American_Tail	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christopher_Plummer	
+dbr:American_Tragedy_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Christopher_Plummer	
+dbr:Rapid_Fire_(2006_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Jessica_Steen	
+dbr:The_Allnighter_(film)	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Michael_Ontkean	
+dbr:Absurd_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Ted_Rusoff	
+dbr:Kardia_(film)	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Mimi_Kuzyk	
+dbr:Gods_of_Youth	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Lynda_Boyd	
+dbr:Chained_Heat	dbo:starring
+dbo:birthPlace	dbr:Saskatchewan
+dbr:John_Vernon	
+dbr:Le_Bonheur_de_Pierre	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Rémy_Girard	
+dbr:Bomb_Girls	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Antonio_Cupo	
+dbr:These_Girls	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Caroline_Dhavernas	
+dbr:Footlight_Parade	dbo:starring
+dbo:birthPlace	dbr:Dartmouth,_Nova_Scotia
+dbr:Ruby_Keeler	
+dbr:Alias_John_Preston	dbo:starring
+dbo:birthPlace	dbr:Strathroy-Caradoc
+dbr:Alexander_Knox	
+dbr:The_Care_Bears_Adventure_in_Wonderland	dbo:starring
+dbo:birthPlace	dbr:Aldershot,_Ontario
+dbr:Colin_Fox_(actor)	
+dbr:Special_Code:_Assignment_Lost_Formula	dbo:starring
+dbo:birthPlace	dbr:Ontario,_Canada
+dbr:Lang_Jeffries	
+dbr:One_Girl's_Confession	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Russ_Conway_(actor)	
+dbr:Howie_Mandel's_Sunny_Skies	dbo:starring
+dbo:birthPlace	dbr:Saskatchewan
+dbr:Deborah_Theaker	
+dbr:Air_Bud:_Seventh_Inning_Fetch	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Kevin_Zegers	
+dbr:The_Vanishing_American_(1955_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Gene_Lockhart	
+dbr:Hellions_(film)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Rossif_Sutherland	
+dbr:She's_All_That	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Anna_Paquin	
+dbr:Sweet_Movie	dbo:starring
+dbo:birthPlace	dbr:Zehner,_Saskatchewan
+dbr:John_Vernon	
+dbr:Instinct_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Donald_Sutherland	
+dbr:Bizarre_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Mimi_Kuzyk	dbr:Donnelly_Rhodes	
+dbr:A_Nero_Wolfe_Mystery	dbo:starring
+dbo:birthPlace	dbr:Brooklyn
+dbr:Maury_Chaykin	
+dbr:After_Alice	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Henry_Czerny	
+dbr:Joan_of_Arc_(miniseries)	dbo:starring
+dbo:birthPlace	dbr:New_York_(state)
+dbr:Robert_Loggia	dbr:Maury_Chaykin	
+dbr:I_Am_Chris_Farley	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Mike_Myers	
+dbr:Mary_Hartman,_Mary_Hartman	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Graham_Jarvis	
+dbr:Dancing_in_the_Dark_(1986_film)	dbo:starring
+dbo:birthPlace	dbr:Musselburgh
+dbr:Neil_Munro_(actor)	
+dbr:An_American_Girl:_McKenna_Shoots_for_the_Stars	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:George_Chiang	
+dbr:The_Grave_(film)	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Donal_Logue	
+dbr:Swann_(film)	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Michael_Ontkean	
+dbr:On_Golden_Pond_(2001_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Christopher_Plummer	
+dbr:Trucks_(film)	dbo:starring
+dbo:birthPlace	dbr:Comox_Valley,_British_Columbia
+dbr:Brendan_Fletcher	
+dbr:Zeyda_and_the_Hitman	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Reagan_Pasternak	
+dbr:Survivorman	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Les_Stroud	
+dbr:Sabrina,_the_Teenage_Witch_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Westmount
+dbr:Caroline_Rhea	
+dbr:Lilies_(film)	dbo:starring
+dbo:birthPlace	dbr:Cranbrook,_British_Columbia
+dbr:Brent_Carver	
+dbr:Alex_in_Wonderland	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Donald_Sutherland	
+dbr:Blast_from_the_Past_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Dave_Foley	
+dbr:Van_Helsing_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christopher_Heyerdahl	
+dbr:Gooby	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:David_James_Elliott	
+dbr:Stuck_(2002_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Fred_Henderson	
+dbr:Gracie's_Choice	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Roberta_Maxwell	
+dbr:The_Playboy_Club	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Leah_Renee_Cudmore	
+dbr:Legends_of_Oz:_Dorothy's_Return	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Martin_Short	
+dbr:The_Night_Listener_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Sandra_Oh	
+dbr:Cold_Sweat_(1993_film)	dbo:starring
+dbo:birthPlace	dbr:Newfoundland_and_Labrador
+dbr:Shannon_Tweed	
+dbr:Inside_Man	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Christopher_Plummer	
+dbr:The_Bannen_Way	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Michael_Ironside	
+dbr:Graceland_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Brandon_Jay_McLaren	
+dbr:Barbie_in_the_Nutcracker	dbo:starring
+dbo:birthPlace	dbr:Jasper,_Alberta
+dbr:Kirby_Morrow	
+dbr:National_Lampoon's_Bag_Boy	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Paul_Campbell_(Canadian_actor)	
+dbr:Kill_the_Man	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Paula_Devicq	
+dbr:The_10_Percenters	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Colin_Stinton	
+dbr:Backpackers_(web_series)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Noah_Reid	
+dbr:Sex_&_Mrs._X	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Peter_MacNeill	
+dbr:The_Legend_of_White_Fang	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Terrence_Scammell_(Canadian_actor)	
+dbr:Portrait_of_Alison	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Robert_Beatty	
+dbr:The_Events_Leading_Up_to_My_Death	dbo:starring
+dbo:birthPlace	dbr:New_Brunswick
+dbr:Peter_MacNeill	
+dbr:The_Planet_of_Junior_Brown	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Margot_Kidder	
+dbr:The_Book_of_Negroes_(miniseries)	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Greg_Bryk	
+dbr:The_Cup_of_Fury_(film)	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Rockliffe_Fellowes	
+dbr:Dead_Hooker_in_a_Trunk	dbo:starring
+dbo:birthPlace	dbr:Vancouver,_British_Columbia
+dbr:CJ_Wallis	
+dbr:Tales_from_the_Neverending_Story	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Tyler_Hynes	dbr:Mark_Rendall	
+dbr:Graceland_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:West_Vancouver
+dbr:Serinda_Swan	
+dbr:My_Little_Pony:_Twinkle_Wish_Adventure	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Keegan_Connor_Tracy	dbr:Andrea_Libman	
+dbr:Cold_Deck	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Kate_Trotter	
+dbr:The_Legend_of_Gator_Face	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Charlotte_Sullivan	dbr:John_White_(actor)	
+dbr:Spencer_Halpin's_Moral_Kombat	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jason_Della_Rocca	
+dbr:Bitten_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Greg_Bryk	
+dbr:The_Adventures_of_the_Black_Stallion	dbo:starring
+dbo:birthPlace	dbr:Wales
+dbr:Richard_Ian_Cox	
+dbr:Wimzie's_House	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Thor_Bishopric	dbr:Holly_Gauthier-Frankel	dbr:Sonja_Ball	
+dbr:Track_Down	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Angela_Featherstone	dbr:Donal_Logue	
+dbr:Christy,_Choices_of_the_Heart	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Lauren_Lee_Smith	
+dbr:The_Twenty_Questions_Murder_Mystery	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Robert_Beatty	
+dbr:Behram_Daku	dbo:starring
+dbo:birthPlace	dbr:Punjab,_India
+dbr:Aasia	
+dbr:Joshua_Then_and_Now_(film)	dbo:starring
+dbo:birthPlace	dbr:Quebec_City
+dbr:Michael_Sarrazin	
+dbr:Let's_All_Hate_Toronto	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Dan_Aykroyd	
+dbr:Misty_Island_Rescue	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:William_Hope_(actor)	
+dbr:Beware_of_Dog_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:London,_Ontario
+dbr:Richard_Waugh_(actor)	
+dbr:Babylon_5:_The_Legend_of_the_Rangers	dbo:starring
+dbo:birthPlace	dbr:Richmond_Hill,_Ontario
+dbr:Dylan_Neal	
+dbr:The_Lawyer's_Secret	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Fay_Wray	
+dbr:Desire_in_the_Dust	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Raymond_Burr	
+dbr:NHL_on_Global	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:John_Davidson_(ice_hockey)	
+dbr:Broadway_Is_My_Beat	dbo:starring
+dbo:birthPlace	dbr:Lundar,_Manitoba
+dbr:Larry_Thor	
+dbr:Killer_Women	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Tricia_Helfer	
+dbr:Evil_Ambitions	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Debbie_Rochon	
+dbr:Boogies_Diner	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Zack_Ward	
+dbr:Rumours_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Lucinda_Davis_(actress)	
+dbr:Woody_Woodpecker_(2017_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Emily_Holmes	
+dbr:Good_God_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Ken_Finkleman	
+dbr:Wonderful_World_(2009_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jodelle_Ferland	
+dbr:Seasick_Sailor	dbo:starring
+dbo:birthPlace	dbr:Prince_Edward_Island
+dbr:Martha_MacIsaac	
+dbr:Dollhouse_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Whitehorse,_Yukon
+dbr:Tahmoh_Penikett	
+dbr:The_Face_on_the_Bar_Room_Floor_(1914_film)	dbo:starring
+dbo:birthPlace	dbr:Mulgrave,_Nova_Scotia
+dbr:Wallace_MacDonald	
+dbr:Riel_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Christopher_Plummer	
+dbr:Malicious_(1995_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:John_Vernon	dbr:Sarah_Lassez	
+dbr:Tarzan_the_Magnificent	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Al_Mulock	
+dbr:Angry_Planet	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:George_Kourounis	
+dbr:White_Nights_(1985_film)	dbo:starring
+dbo:birthPlace	dbr:New_York_City
+dbr:Gregory_Hines	
+dbr:The_Trouble_with_Tracy	dbo:starring
+dbo:birthPlace	dbr:Kitchener,_Ontario
+dbr:Diane_Nyland	
+dbr:The_9th_Life_of_Louis_Drax	dbo:starring
+dbo:birthPlace	dbr:Maple_Ridge,_British_Columbia
+dbr:Molly_Parker	
+dbr:Storm_Boy_(film)	dbo:starring
+dbo:birthPlace	dbr:South_Australia
+dbr:Greg_Rowe	
+dbr:C.R.A.Z.Y.	dbo:starring
+dbo:birthPlace	dbr:Montréal
+dbr:Marc-André_Grondin	
+dbr:Teen_Titans:_Trouble_in_Tokyo	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Tara_Strong	
+dbr:Open_Season:_Scared_Silly	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Trevor_Devall	
+dbr:Flash_Gordon_(2007_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Karen_Cliche	dbr:Gina_Holden	
+dbr:Possessed_(2000_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christopher_Plummer	dbr:Henry_Czerny	
+dbr:The_Rack_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Walter_Pidgeon	
+dbr:Seriously_Weird	dbo:starring
+dbo:birthPlace	dbr:Pointe-Claire
+dbr:Ricky_Mabe	
+dbr:Dead_Man	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Michael_Wincott	
+dbr:The_Scream_Team	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Mark_Rendall	
+dbr:Three_Women_(1924_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Marie_Prevost	
+dbr:Great_Expectations_(1917_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Jack_Pickford	
+dbr:Sabrina:_Friends_Forever	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Teryl_Rothery	dbr:Britt_McKillip	dbr:Vanessa_Morley	dbr:Moneca_Stori	dbr:Carly_McKillip	
+dbr:The_Raleigh_Cigarette_Program	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Anita_Kert_Ellis	
+dbr:The_Green_Years_(film)	dbo:starring
+dbo:birthPlace	dbr:London,_Ontario
+dbr:Hume_Cronyn	
+dbr:So_I_Married_an_Axe_Murderer	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Mike_Myers	
+dbr:Slugterra:_Return_of_the_Elementals	dbo:starring
+dbo:birthPlace	dbr:Kelowna
+dbr:Lee_Tockar	
+dbr:Behind_the_Headlines_(1956_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Paul_Carpenter_(actor)	
+dbr:Poor_Richard's_Almanack_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Jordan_Hayes	
+dbr:Cube_(film)	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Wayne_Robson	
+dbr:Top_Chef:_Just_Desserts	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Gail_Simmons	
+dbr:Terminal_City_Ricochet	dbo:starring
+dbo:birthPlace	dbr:Massachusetts_(state)
+dbr:Peter_Breck	
+dbr:Secrets_(1992_American_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christopher_Plummer	
+dbr:Little_Bear_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Elizabeth_Hanna	
+dbr:Hawthorne_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Vanessa_Lengies	dbr:David_Julian_Hirsh	
+dbr:Barenaked_in_America	dbo:starring
+dbo:birthPlace	dbr:New_Westminster
+dbr:Terry_David_Mulligan	
+dbr:Something_for_a_Lonely_Man	dbo:starring
+dbo:birthPlace	dbr:Sarnia
+dbr:Susan_Clark	
+dbr:Fantastica_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Carole_Laure	
+dbr:Hotel_Erotica_Cabo	dbo:starring
+dbo:birthPlace	dbr:Albert_Lea,_Minnesota
+dbr:List_of_Playboy_Playmates_of_2003	
+dbr:Perry_Mason_(TV_movies)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Raymond_Burr	
+dbr:The_Assassination_of_Richard_Nixon	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Michael_Wincott	
+dbr:Canada_Russia_'72	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Mike_Dopud	
+dbr:The_House_of_Magic	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Doug_Stone_(voice_actor)	
+dbr:The_Judge_Steps_Out	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Alexander_Knox	
+dbr:Bullet_for_a_Badman	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Ruta_Lee	
+dbr:The_Outsider_(1926_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Walter_Pidgeon	
+dbr:Baby_(2007_film)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:David_Huynh	
+dbr:Zardip's_Search_for_Healthy_Wellness	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Keram_Malicki-Sánchez	
+dbr:Killer_Bash	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Graham_Wardle	
+dbr:What_It's_Like_Being_Alone	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Adam_Reid	
+dbr:Barbie_as_the_Island_Princess	dbo:starring
+dbo:birthPlace	dbr:Guildford
+dbr:Christopher_Gaze	
+dbr:Shoot_the_Messenger_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Regina,_Saskatchewan
+dbr:Elyse_Levesque	
+dbr:Women_in_the_Wind	dbo:starring
+dbo:birthPlace	dbr:Yukon
+dbr:Victor_Jory	
+dbr:Ice_Quake_(film)	dbo:starring
+dbo:birthPlace	dbr:New_Westminster
+dbr:Brendan_Fehr	
+dbr:Carmilla_(series)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Natasha_Negovanlis	
+dbr:Two_Lovers_(2008_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Elias_Koteas	
+dbr:The_Beautiful_and_Damned_(film)	dbo:starring
+dbo:birthPlace	dbr:Sarnia
+dbr:Marie_Prevost	
+dbr:Centennial_(miniseries)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Raymond_Burr	
+dbr:5150_Elm's_Way	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Marc-André_Grondin	
+dbr:Lady_Ice	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Donald_Sutherland	
+dbr:ARQ_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Shaun_Benson	dbr:Robbie_Amell	
+dbr:X_Company	dbo:starring
+dbo:birthPlace	dbr:Unionville,_Ontario
+dbr:Connor_Price	
+dbr:Good_Witch_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:New_Brunswick
+dbr:Peter_MacNeill	
+dbr:Goblin_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Brett_Dier	dbr:Camille_Sullivan	
+dbr:An_Eye_for_Beauty	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Melanie_Merkosky	
+dbr:Bolden!	dbo:starring
+dbo:birthPlace	dbr:Scarborough,_Toronto
+dbr:Jeff_Wincott	
+dbr:Spectres_(film)	dbo:starring
+dbo:birthPlace	dbr:Oakbank,_Manitoba
+dbr:Dean_Haglund	
+dbr:Benefit_of_the_Doubt_(1993_film)	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Donald_Sutherland	
+dbr:Shocktrauma	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Scott_Hylands	
+dbr:Home_Room_(film)	dbo:starring
+dbo:birthPlace	dbr:London,_Ontario
+dbr:Victor_Garber	
+dbr:A_Wrinkle_in_Time_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kate_Nelligan	
+dbr:My_Little_Pony:_The_Movie_(2017_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Tara_Strong	dbr:Cathy_Weseluck	dbr:Andrea_Libman	
+dbr:Winnie_Mandela_(film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Elias_Koteas	
+dbr:Another_Man,_Another_Chance	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Geneviève_Bujold	
+dbr:It!_(1966_film)	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Paul_Maxwell	
+dbr:Three_to_Tango	dbo:starring
+dbo:birthPlace	dbr:Guelph
+dbr:Neve_Campbell	
+dbr:The_Making_of_a_Legend:_Gone_with_the_Wind	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Christopher_Plummer	
+dbr:Insurance_Investigator_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jonathan_Hale	
+dbr:BeastMaster_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Monika_Schnarre	
+dbr:Coconut_Fred's_Fruit_Salad_Island	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Eric_Bauza	
+dbr:Trick_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Christian_Campbell	
+dbr:Dead_Last	dbo:starring
+dbo:birthPlace	dbr:Brampton,_Ontario
+dbr:Tyler_Labine	
+dbr:RSVP_(1991_film)	dbo:starring
+dbo:birthPlace	dbr:Sydney,_Nova_Scotia
+dbr:Daniel_MacIvor	
+dbr:House_of_Dark_Shadows	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jonathan_Frid	
+dbr:The_Big_Store	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Douglass_Dumbrille	
+dbr:The_Hypnotist_(1957_film)	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Paul_Carpenter_(actor)	
+dbr:Replikator	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Brigitte_Bako	dbr:Ron_Lea	
+dbr:Last_Night_(1998_film)	dbo:starring
+dbo:birthPlace	dbr:Nepean,_Ontario
+dbr:Sandra_Oh	
+dbr:This_Space_for_Rent	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Emily_Hampshire	dbr:Dov_Tiefenbach	
+dbr:Silver_Blaze_(1977_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Christopher_Plummer	
+dbr:Milton's_Secret	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Donald_Sutherland	
+dbr:The_Love_Guru	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mike_Myers	
+dbr:Wynonna_Earp_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Melanie_Scrofano	
+dbr:None_Shall_Escape	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Alexander_Knox	
+dbr:Men_and_Women_(1925_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Claire_Adams	
+dbr:Nightcap_(1960s_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alan_Hamel	
+dbr:Eureka_(U.S._TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Erica_Cerra	dbr:Neil_Grayston_(actor)	
+dbr:Susie_Q_(film)	dbo:starring
+dbo:birthPlace	dbr:Truro,_Nova_Scotia
+dbr:Garwin_Sanford	
+dbr:Behind_the_Headlines_(1956_film)	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Paul_Carpenter_(actor)	
+dbr:Far_Cry_(film)	dbo:starring
+dbo:birthPlace	dbr:North_Vancouver_(city)
+dbr:Tyron_Leitso	
+dbr:30_Rock:_A_XXX_Parody	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Erik_Everhard	
+dbr:Tru_Love_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Kate_Trotter	
+dbr:My_Little_Pony:_A_Very_Pony_Place	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Cathy_Weseluck	dbr:Andrea_Libman	
+dbr:Bingo_(1974_film)	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Alexandra_Stewart	
+dbr:Street_Legal_(Canadian_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Cynthia_Dale	dbr:Eric_Peterson	
+dbr:Come_Fill_the_Cup	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Raymond_Massey	
+dbr:Digger_(1993_film)	dbo:starring
+dbo:birthPlace	dbr:Vancouver_Island
+dbr:Barbara_Williams_(actress)	
+dbr:Annihilator_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Catherine_Mary_Stewart	
+dbr:When_Night_Is_Falling	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Rachael_Crawford	
+dbr:The_Marksman	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:William_Hope_(actor)	
+dbr:Trust_Me_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Tom_Cavanagh	
+dbr:The_Cat_in_the_Hat_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mike_Myers	
+dbr:Cobra_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Allison_Hossack	
+dbr:Because_of_the_Cats	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alexandra_Stewart	
+dbr:Naseeb_(1981_film)	dbo:starring
+dbo:birthPlace	dbr:Kabul
+dbr:Amjad_Khan_(actor)	dbr:Kader_Khan	
+dbr:Harry_and_His_Bucket_Full_of_Dinosaurs	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Susan_Roman	dbr:Andrew_Sabiston	
+dbr:The_Three_Stooges_Meet_Hercules	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Samson_Burke	
+dbr:Barbie_of_Swan_Lake	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Nicole_Oliver	
+dbr:Veronica_Mars_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Enrico_Colantoni	
+dbr:The_Soldier_(1982_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alberta_Watson	
+dbr:Joy_Ride_3	dbo:starring
+dbo:birthPlace	dbr:Vancouver,_British_Columbia
+dbr:Kirsten_Prout	
+dbr:Dear_Wendy	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alison_Pill	
+dbr:These_Wilder_Years	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Walter_Pidgeon	
+dbr:Burn_Up_(miniseries)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Neve_Campbell	
+dbr:Summer_Rental	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:John_Candy	
+dbr:The_Glass_Shield	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Michael_Ironside	
+dbr:Cooking_with_Stella	dbo:starring
+dbo:birthPlace	dbr:Brooklyn
+dbr:Maury_Chaykin	
+dbr:His_Last_Dollar	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jack_Pickford	
+dbr:Joy_Ride_2:_Dead_Ahead	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Laura_Jordan_(actress)	
+dbr:The_Flaxton_Boys	dbo:starring
+dbo:birthPlace	dbr:Devon
+dbr:Nicholas_Pennell	
+dbr:The_Fog_(2005_film)	dbo:starring
+dbo:birthPlace	dbr:Edmonton
+dbr:Kenneth_Welsh	
+dbr:Edge_of_Madness	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Caroline_Dhavernas	
+dbr:Heartland_(2007_U.S._TV_series)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Chris_William_Martin	
+dbr:A_Christmas_Snow	dbo:starring
+dbo:birthPlace	dbr:Edmonton,_Alberta
+dbr:Catherine_Mary_Stewart	
+dbr:The_Whole_Nine_Yards_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Natasha_Henstridge	
+dbr:Hunters_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Britne_Oldford	
+dbr:Insecticidal	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Meghan_Heffern	
+dbr:The_Weight_of_Water_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Sarah_Polley	
+dbr:Merlin's_Apprentice	dbo:starring
+dbo:birthPlace	dbr:City_of_Halifax
+dbr:John_Reardon	
+dbr:My_Babysitter's_a_Vampire	dbo:starring
+dbo:birthPlace	dbr:Toronto,_Ontario
+dbr:Kate_Todd	
+dbr:The_Perfect_Match_(1995_film)	dbo:starring
+dbo:birthPlace	dbr:Lancashire
+dbr:Peter_Howitt	dbr:John_Thomson_(comedian)	
+dbr:Milk_and_Honey_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Lyman_Ward_(actor)	
+dbr:Kingfish:_A_Story_of_Huey_P._Long	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Matt_Craven	
+dbr:The_Mill_on_the_Floss_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Victoria_Hopper	
+dbr:Trapped_by_Fear	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alexandra_Stewart	
+dbr:Closet_Monster_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Connor_Jessup	
+dbr:The_Drawn_Together_Movie:_The_Movie!	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Tara_Strong	
+dbr:The_Green_Inferno_(film)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Magda_Apanowicz	
+dbr:Shark_Night	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Donal_Logue	
+dbr:Samurai_Cowboy	dbo:starring
+dbo:birthPlace	dbr:Edmonton,_Alberta
+dbr:Catherine_Mary_Stewart	
+dbr:The_Day_(2011_film)	dbo:starring
+dbo:birthPlace	dbr:Richmond,_British_Columbia
+dbr:Shawn_Ashmore	
+dbr:Come_and_Have_a_Go_If_You_Think_You're_Smart_Enough	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Emily_Maitlis	
+dbr:Boundaries_(2016_film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Rémy_Girard	
+dbr:Bartleby_(2001_film)	dbo:starring
+dbo:birthPlace	dbr:New_York_(state)
+dbr:Crispin_Glover	dbr:Maury_Chaykin	
+dbr:Vampire_High	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Paul_Hopkins_(actor)	
+dbr:Stargate:_Continuum	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Michael_Shanks	
+dbr:The_Entrance_(film)	dbo:starring
+dbo:birthPlace	dbr:Saskatchewan
+dbr:Michael_Eklund	
+dbr:The_Cramp_Twins	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Cathy_Weseluck	dbr:Nicole_Oliver	
+dbr:Loch_Ness_Terror	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Carrie_Genzel	
+dbr:Springtime_with_Roo	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Peter_Cullen	
+dbr:Hydra_(film)	dbo:starring
+dbo:birthPlace	dbr:Kingston,_Ontario
+dbr:Polly_Shannon	
+dbr:Hum_Tehray_Gunahgaar	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Ushna_Shah	
+dbr:The_Erotic_Traveler	dbo:starring
+dbo:birthPlace	dbr:Albert_Lea,_Minnesota
+dbr:List_of_Playboy_Playmates_of_2003	
+dbr:Bond_of_Silence	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Genevieve_Buechner	
+dbr:The_Weight_of_Water_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Sarah_Polley	
+dbr:Walk_Tall_(film)	dbo:starring
+dbo:birthPlace	dbr:Arrowwood,_Alberta
+dbr:Joyce_Meadows	
+dbr:Spun_Out	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Paul_Campbell_(Canadian_actor)	
+dbr:Oedipus_Rex_(1957_film)	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Douglas_Rain	
+dbr:The_Number_23	dbo:starring
+dbo:birthPlace	dbr:Newmarket,_Ontario
+dbr:Jim_Carrey	
+dbr:Snowglobe_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Luciana_Carro	
+dbr:Bizarre_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Mimi_Kuzyk	dbr:Donnelly_Rhodes	
+dbr:Bob_the_Butler	dbo:starring
+dbo:birthPlace	dbr:Edmonton
+dbr:Genevieve_Buechner	
+dbr:Kids_in_the_Hall:_Brain_Candy	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Mark_McKinney	
+dbr:Unnatural_History_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Italia_Ricci	
+dbr:Wolf_Canyon	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Lorne_Cardinal	
+dbr:Disaster_on_the_Coastliner	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Raymond_Burr	
+dbr:No_Skin_Off_My_Ass	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Bruce_LaBruce	
+dbr:Fearless_Tiger	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Monika_Schnarre	
+dbr:Wolf_Girl	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Dov_Tiefenbach	
+dbr:The_Care_Bears_in_the_Land_Without_Feelings	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Les_Lye	
+dbr:Late_Last_Night_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Catherine_O'Hara	
+dbr:The_Apple_Dumpling_Gang_(film)	dbo:starring
+dbo:birthPlace	dbr:Sarnia
+dbr:Susan_Clark	
+dbr:Being_Erica	dbo:starring
+dbo:birthPlace	dbr:London,_Ontario
+dbr:Michael_Riley	
+dbr:Anna_Karenina_(1997_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mia_Kirshner	
+dbr:Sugarfoot_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Raymond_Massey	
+dbr:Hundra	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Laurene_Landon	
+dbr:The_Linda_McCartney_Story	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Nicole_Oliver	
+dbr:No_Stranger_Than_Love	dbo:starring
+dbo:birthPlace	dbr:Nanaimo
+dbr:Justin_Chatwin	
+dbr:The_First_Great_Train_Robbery	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Donald_Sutherland	
+dbr:Investigating_Sex	dbo:starring
+dbo:birthPlace	dbr:Guelph
+dbr:Neve_Campbell	
+dbr:11_Cameras	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Ashley_Leggat	dbr:Kate_Hewlett	dbr:Leah_Renee_Cudmore	
+dbr:XCU:_Extreme_Close_Up	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Sarah_Chalke	
+dbr:Threshold_(2003_film)	dbo:starring
+dbo:birthPlace	dbr:SR_Croatia
+dbr:Steve_Bacic	
+dbr:Please_Murder_Me	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Raymond_Burr	
+dbr:Blood_Red	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Elias_Koteas	
+dbr:The_Duke_(film)	dbo:starring
+dbo:birthPlace	dbr:England
+dbr:John_Neville_(actor)	dbr:Oliver_Muirhead	
+dbr:Spermula	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Dayle_Haddon	
+dbr:One_Week_(2008_film)	dbo:starring
+dbo:birthPlace	dbr:North_York
+dbr:Liane_Balaban	
+dbr:Grand_Star	dbo:starring
+dbo:birthPlace	dbr:Brampton
+dbr:Kyle_Labine	
+dbr:Kab_Tak_Chup_Rahungi	dbo:starring
+dbo:birthPlace	dbr:Kabul
+dbr:Kader_Khan	
+dbr:The_Path_to_9/11	dbo:starring
+dbo:birthPlace	dbr:Saskatchewan
+dbr:Shirley_Douglas	
+dbr:Julia_Misbehaves	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Walter_Pidgeon	
+dbr:Giorgino	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mylène_Farmer	
+dbr:Foolproof_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Joris_Jarsky	dbr:James_Allodi	
+dbr:Restaurant_Makeover	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Corbin_Tomaszeski	
+dbr:Private_Scandal	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Ned_Sparks	
+dbr:Waterwalker	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Bill_Mason	
+dbr:Godsend_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Christopher_Britton_(actor)	
+dbr:The_Seer_(film)	dbo:starring
+dbo:birthPlace	dbr:Moose_Jaw
+dbr:Lisa_Franks	
+dbr:Tori_Black_Is_Pretty_Filthy	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Mark_Ashley	
+dbr:Men_with_Brooms	dbo:starring
+dbo:birthPlace	dbr:Calgary
+dbr:Paul_Gross	
+dbr:The_Howling:_Reborn	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Landon_Liboiron	
+dbr:Vanished	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Joanne_Kelly	
+dbr:Franklin's_Magic_Christmas	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Bryn_McAuley	dbr:Noah_Reid	
+dbr:Bliss_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Cara_Pifko	
+dbr:Trancers_4:_Jack_of_Swords	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Lochlyn_Munro	
+dbr:Québec-Montréal	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Patrice_Robitaille	
+dbr:Foxfire_(1987_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Hume_Cronyn	
+dbr:Masterminds_(1997_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Matt_Craven	
+dbr:Betty_&_Coretta	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Gloria_Reuben	
+dbr:Passage_(2008_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Rick_Roberts_(actor)	
+dbr:Scared_Shrekless	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mike_Myers	
+dbr:Like_Mike_2:_Streetball	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Brett_Kelly_(actor)	
+dbr:Left_for_Dead_(2007_horror_film)	dbo:starring
+dbo:birthPlace	dbr:Scarborough,_Toronto
+dbr:Steve_Byers	
+dbr:NYC:_Tornado_Terror	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Tegan_Moss	
+dbr:Jett_Jackson:_The_Movie	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Michael_Ironside	
+dbr:Ricky_Sprocket:_Showbiz_Boy	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Cathy_Weseluck	dbr:Jayne_Eastwood	dbr:Andrea_Libman	
+dbr:Drunktown's_Finest	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Shauna_Baker	dbr:Carmen_Moore	
+dbr:Peter_and_Paul	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Raymond_Burr	
+dbr:Stealing_Harvard	dbo:starring
+dbo:birthPlace	dbr:Pembroke,_Ontario
+dbr:Tom_Green	
+dbr:Poltergeist:_The_Legacy	dbo:starring
+dbo:birthPlace	dbr:North_Delta,_British_Columbia
+dbr:Martin_Cummins	
+dbr:Boom!_(film)	dbo:starring
+dbo:birthPlace	dbr:Nova_Scotia
+dbr:Joanna_Shimkus	
+dbr:The_Warren_Case	dbo:starring
+dbo:birthPlace	dbr:Lancashire
+dbr:Richard_Bird_(actor)	dbr:Nancy_Burne	
+dbr:Willie_&_Phil	dbo:starring
+dbo:birthPlace	dbr:Yellowknife
+dbr:Margot_Kidder	
+dbr:The_Christmas_Ornament	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Cameron_Mathison	
+dbr:The_Fighting_Chance_(1955_film)	dbo:starring
+dbo:birthPlace	dbr:Calgary
+dbr:Rod_Cameron_(actor)	
+dbr:Barbie_of_Swan_Lake	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Nicole_Oliver	
+dbr:The_Agency_(film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Alexandra_Stewart	
+dbr:Scary_Movie	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Lochlyn_Munro	
+dbr:Cybergeddon_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Missy_Peregrym	
+dbr:Iron_Invader	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Jesse_Moss_(actor)	
+dbr:Shoemaker_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alberta_Watson	
+dbr:The_Famous_Jett_Jackson	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Melanie_Nicholls-King	
+dbr:My_Little_Pony:_Twinkle_Wish_Adventure	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Erin_Mathews	dbr:Andrea_Libman	
+dbr:Public_Domain_(film)	dbo:starring
+dbo:birthPlace	dbr:St._Catharines,_Ontario
+dbr:Mike_Beaver	
+dbr:Designated_Survivor_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Italia_Ricci	
+dbr:Songs_of_Freedom_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:New_Brunswick
+dbr:Measha_Brueggergosman	
+dbr:Hockey_Night_in_Canada	dbo:starring
+dbo:birthPlace	dbr:Edmonton
+dbr:Kelly_Hrudey	
+dbr:Her_Minor_Thing	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Estella_Warren	
+dbr:Code_Black_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Ben_Hollingsworth_(actor)	
+dbr:Bye_Bye_Braverman	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Joseph_Wiseman	
+dbr:Kung_Fu_Killer	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Osric_Chau	
+dbr:To_Catch_a_King	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Barbara_Parkins	
+dbr:Ed,_Edd_n_Eddy's_Big_Picture_Show	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:David_Paul_Grove	
+dbr:Bread_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Lancashire
+dbr:Peter_Howitt	dbr:Jonathon_Morris	
+dbr:Flower_&_Garnet	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Dov_Tiefenbach	dbr:Jane_McGregor	
+dbr:Fighting_with_Buffalo_Bill	dbo:starring
+dbo:birthPlace	dbr:Mulgrave,_Nova_Scotia
+dbr:Wallace_MacDonald	
+dbr:King_Richard_and_the_Crusaders	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Henry_Corden	
+dbr:MVP_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Elmira,_Ontario
+dbr:Lucas_Bryant	
+dbr:The_Demons_(2015_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Pascale_Bussières	
+dbr:Storm_Seekers	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Terry_Chen	
+dbr:Without_a_Trace_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kate_Nelligan	
+dbr:The_Captive_(2014_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alexia_Fast	
+dbr:Let's_Be_Ritzy	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Berton_Churchill	
+dbr:Going_Berserk	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:John_Candy	
+dbr:The_Scarlet_and_the_Black	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christopher_Plummer	
+dbr:Closing_the_Ring	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christopher_Plummer	dbr:Neve_Campbell	dbr:Stephen_Amell	
+dbr:Missing_(Canadian_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Dean_McDermott	dbr:Gloria_Reuben	dbr:Alberta_Watson	dbr:Caterina_Scorsone	
+dbr:Soho_Incident	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Lee_Patterson	
+dbr:The_Entitled	dbo:starring
+dbo:birthPlace	dbr:Woodstock,_Ontario
+dbr:Kevin_Zegers	
+dbr:Two_Faces_West	dbo:starring
+dbo:birthPlace	dbr:Arrowwood,_Alberta
+dbr:Joyce_Meadows	
+dbr:Jett_Jackson:_The_Movie	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Lindy_Booth	
+dbr:My_First_Wedding_(2006_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Paul_Hopkins_(actor)	
+dbr:Treasure_Island_(2012_miniseries)	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Donald_Sutherland	
+dbr:Murder_Unveiled	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Michael_Benyaer	
+dbr:Zoom_(2006_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kevin_Zegers	
+dbr:Chupacabra:_Dark_Seas	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Dylan_Neal	dbr:Chelan_Simmons	
+dbr:Mixology	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Vanessa_Lengies	
+dbr:I_Loved_You_Wednesday	dbo:starring
+dbo:birthPlace	dbr:Dawson_City
+dbr:Victor_Jory	
+dbr:Street_Legal_(2000)	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Daniel_Gillies	
+dbr:Dangerous_Child	dbo:starring
+dbo:birthPlace	dbr:St._John's,_Newfoundland_and_Labrador
+dbr:Deborah_Odell	
+dbr:Satisfaction_(2013_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Leah_Renee_Cudmore	
+dbr:Hoppy_Serves_a_Writ	dbo:starring
+dbo:birthPlace	dbr:Yukon
+dbr:Victor_Jory	
+dbr:Gary_Unmarried	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Brooke_D'Orsay	
+dbr:Elsa_&_Fred_(2014_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Christopher_Plummer	
+dbr:Bolts_and_Blip	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Melissa_Altro	
+dbr:The_Canterville_Ghost_(1996_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Neve_Campbell	
+dbr:The_Ugliest_Girl_in_Town	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Peter_Kastner	
+dbr:Toronto_Stories	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:K._C._Collins	dbr:Lisa_Ray	dbr:Ellora_Patnaik	
+dbr:Sisters_&_Brothers	dbo:starring
+dbo:birthPlace	dbr:Langley,_British_Columbia_(city)
+dbr:Amanda_Crew	
+dbr:The_Good_Witch's_Wonder	dbo:starring
+dbo:birthPlace	dbr:Québec
+dbr:Catherine_Disher	
+dbr:Forever_(U.S._TV_series)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Donnie_Keshawarz	
+dbr:The_Marine_5:_Battleground	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Maryse_Ouellet	
+dbr:Cyrano_de_Bergerac_(1972_film)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Marc_Singer	
+dbr:Les_Bougon	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Rémy_Girard	
+dbr:Anke_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Anke_Engelke	
+dbr:Rabbit_Hole_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Sandra_Oh	
+dbr:My_Little_Pony:_Twinkle_Wish_Adventure	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Janyse_Jaud	dbr:Keegan_Connor_Tracy	dbr:Andrea_Libman	dbr:Tracey_Moore	
+dbr:Jack_(2013_film)	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Rick_Roberts_(actor)	
+dbr:Really_Me	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Mike_Lobel	dbr:Wesley_Morgan	
+dbr:Adoration_(2008_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Devon_Bostick	
+dbr:Found_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Louie_Lawless	
+dbr:Molson_Canadian_Rocks_for_Toronto	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jann_Arden	
+dbr:Slugterra:_Return_of_the_Elementals	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Samuel_Vincent	dbr:Lee_Tockar	dbr:Vincent_Tong	
+dbr:Mickey_Mouse_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Chris_Diamantopoulos	
+dbr:Freakdog	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Sarah_Carter	
+dbr:Tulips_Shall_Grow	dbo:starring
+dbo:birthPlace	dbr:Yukon
+dbr:Victor_Jory	
+dbr:Delta_House	dbo:starring
+dbo:birthPlace	dbr:Zehner,_Saskatchewan
+dbr:John_Vernon	
+dbr:Ben_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Lee_Montgomery	
+dbr:The_Opportunists	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Donal_Logue	
+dbr:The_Wives_He_Forgot	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Mark_Humphrey_(actor)	
+dbr:Total_Divas	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Renee_Young	
+dbr:Blubberella	dbo:starring
+dbo:birthPlace	dbr:Comox_Valley,_British_Columbia
+dbr:Brendan_Fletcher	
+dbr:COronado_9	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Rod_Cameron_(actor)	
+dbr:Ann_Carver's_Profession	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Fay_Wray	
+dbr:Star_Trek:_The_God_Thing	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:James_Doohan	
+dbr:Mad_Men	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jessica_Paré	
+dbr:The_Wool_Cap	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Catherine_O'Hara	
+dbr:The_German_Friend	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Benjamin_Sadler	
+dbr:ALF_Tales	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Dan_Hennessey	
+dbr:True_Jackson,_VP	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Robbie_Amell	
+dbr:Waydowntown	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Michelle_Beaudoin	
+dbr:Red_Serge_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Tom_McBeath	
+dbr:Perry_Mason_(TV_movies)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Raymond_Burr	
+dbr:Christmas_Town	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Gig_Morton	
+dbr:Algonquin_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Nicholas_Campbell	dbr:Sheila_McCarthy	dbr:Mark_Rendall	
+dbr:Christmas_Cottage	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Chelan_Simmons	
+dbr:Da_Vinci's_Inquest	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Donnelly_Rhodes	dbr:Venus_Terzo	dbr:Camille_Sullivan	dbr:Gwynyth_Walsh	dbr:Ian_Tracey	
+dbr:Stripes_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:John_Candy	
+dbr:While_I_Was_Gone_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Janaya_Stephens	
+dbr:Varian's_War	dbo:starring
+dbo:birthPlace	dbr:Port_Colborne
+dbr:Matt_Craven	
+dbr:The_Kids_in_the_Hall:_Death_Comes_to_Town	dbo:starring
+dbo:birthPlace	dbr:Etobicoke
+dbr:Dave_Foley	
+dbr:Command_Decision_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Walter_Pidgeon	
+dbr:Fort_Algiers	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Henry_Corden	
+dbr:Night_Man	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Jayne_Heitmeyer	
+dbr:The_Seduction_(film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Michael_Sarrazin	
+dbr:The_Barbarian_Invasions	dbo:starring
+dbo:birthPlace	dbr:Jonquière
+dbr:Rémy_Girard	
+dbr:Subconscious_Password	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Don_McKellar	
+dbr:Noddy_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jayne_Eastwood	dbr:Gil_Filar	
+dbr:Haunter_(film)	dbo:starring
+dbo:birthPlace	dbr:Brantford,_Ontario
+dbr:Michelle_Nolden	
+dbr:Good_Luck_Chuck	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Chelan_Simmons	
+dbr:Brown_of_Harvard_(1926_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Jack_Pickford	
+dbr:Hellhounds_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Adam_Butcher	
+dbr:Between_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Rick_Roberts_(actor)	dbr:Shailyn_Pierre-Dixon	dbr:Justin_Kelly_(actor)	dbr:Jordan_Todosey	
+dbr:The_Mad	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Maggie_Castle	
+dbr:Laserhawk	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Melissa_Galianos	
+dbr:Dancing_Romeo	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Janet_Burston	
+dbr:Yellow_Fingers	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Claire_Adams	
+dbr:Pure_(2002_film)	dbo:starring
+dbo:birthPlace	dbr:Maple_Ridge,_British_Columbia
+dbr:Molly_Parker	
+dbr:The_Erotic_Traveler	dbo:starring
+dbo:birthPlace	dbr:Most,_Czech_Republic
+dbr:List_of_Playboy_Playmates_of_2003	
+dbr:The_Associates_(U.S._TV_series)	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Martin_Short	
+dbr:Starcrash	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Christopher_Plummer	
+dbr:Just_Business	dbo:starring
+dbo:birthPlace	dbr:London,_Ontario
+dbr:Zachary_Bennett	
+dbr:Hello,_Larry	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Joanna_Gleason	
+dbr:Zixx	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Brenna_O'Brien	dbr:Jamie_Johnston	
+dbr:Vampire_High	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Adam_MacDonald	dbr:Daniel_Pilon	dbr:Jeff_Roop	dbr:Jodie_Resther	dbr:Karen_Cliche	
+dbr:Dr._Terror's_House_of_Horrors	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Donald_Sutherland	
+dbr:A_Little_Bit_Zombie	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Kristopher_Turner	
+dbr:2001:_Do_Hazaar_Ek	dbo:starring
+dbo:birthPlace	dbr:India
+dbr:Jackie_Shroff	dbr:Rajat_Bedi	
+dbr:Seize_the_Day_(film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Joseph_Wiseman	
+dbr:James_Dean_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Enrico_Colantoni	
+dbr:The_Kentuckian	dbo:starring
+dbo:birthPlace	dbr:Edmonton
+dbr:Dianne_Foster	
+dbr:Forever_Knight	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Catherine_Disher	
+dbr:D.C._Sniper:_23_Days_of_Fear	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Helen_Shaver	
+dbr:The_Five_Senses	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Pascale_Bussières	
+dbr:Twitch_City	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Mark_McKinney	
+dbr:The_Business_of_Fancydancing	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Evan_Adams	
+dbr:Ghar_Ki_Izzat_(1994_film)	dbo:starring
+dbo:birthPlace	dbr:Afghanistan
+dbr:Kader_Khan	
+dbr:The_Possession	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Natasha_Calis	
+dbr:India:_Kingdom_of_the_Tiger	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Christopher_Heyerdahl	
+dbr:It_Happened_in_Hollywood	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Fay_Wray	
+dbr:Monster_Mash_(2000_film)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Janyse_Jaud	
+dbr:Extreme_(1995_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Cameron_Bancroft	
+dbr:The_Right_Way_(film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:James_McGowan_(actor)	
+dbr:The_Golden_Spiders:_A_Nero_Wolfe_Mystery	dbo:starring
+dbo:birthPlace	dbr:United_States
+dbr:Maury_Chaykin	
+dbr:Castle_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Nathan_Fillion	
+dbr:Toopy_and_Binoo	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Frank_Meschkuleit	
+dbr:The_Apple_(1980_film)	dbo:starring
+dbo:birthPlace	dbr:Edmonton,_Alberta
+dbr:Catherine_Mary_Stewart	
+dbr:Monster_Brawl	dbo:starring
+dbo:birthPlace	dbr:Etobicoke
+dbr:Dave_Foley	
+dbr:Dynasty_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Gordon_Thomson_(actor)	
+dbr:Da_Vinci's_Inquest	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Venus_Terzo	
+dbr:Revolution's_Orphans	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Bronwen_Mantel	
+dbr:Whale_Music_(film)	dbo:starring
+dbo:birthPlace	dbr:Brooklyn
+dbr:Maury_Chaykin	
+dbr:Out_There_with_Melissa_DiMarco	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Melissa_DiMarco	
+dbr:Various_Positions_(film)	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Carly_Pope	
+dbr:The_Adventures_of_Sinbad	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Tim_Progosh	
+dbr:Swarg_Yahan_Narak_Yahan	dbo:starring
+dbo:birthPlace	dbr:Afghanistan
+dbr:Kader_Khan	
+dbr:The_Trip_(2002_film)	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Steve_Braun	
+dbr:Steal_This_Movie!	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Donal_Logue	
+dbr:Santa's_Little_Helper_(2015_film)	dbo:starring
+dbo:birthPlace	dbr:St._Stephen,_New_Brunswick
+dbr:Eric_Keenleyside	
+dbr:Dark_Shadows	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Jonathan_Frid	
+dbr:Revolution_(1985_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Donald_Sutherland	
+dbr:Unnatural_&_Accidental	dbo:starring
+dbo:birthPlace	dbr:Fort_McMurray
+dbr:Tantoo_Cardinal	
+dbr:Golden_Harvest_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Berton_Churchill	
+dbr:The_Marshal	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Carly_McKillip	
+dbr:Paramount_on_Parade	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Fay_Wray	
+dbr:The_Stranger_(2010_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Ron_Lea	dbr:Erica_Cerra	
+dbr:1:54_(film)	dbo:starring
+dbo:birthPlace	dbr:Pointe-Claire
+dbr:Robert_Naylor_(actor)	
+dbr:Terry_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Noah_Reid	
+dbr:Stargate:_The_Ark_of_Truth	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Michael_Shanks	
+dbr:The_Canadian_Conspiracy	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:William_Shatner	
+dbr:A_Christmas_Visitor	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Dean_McDermott	
+dbr:Joy_Ride_3	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Dean_Armstrong	dbr:Ken_Kirzinger	dbr:Kirsten_Prout	dbr:Ben_Hollingsworth_(actor)	
+dbr:Angela's_Eyes	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Paul_Popowich	dbr:Rick_Roberts_(actor)	
+dbr:Drive_(2007_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Edmonton
+dbr:Nathan_Fillion	
+dbr:The_Trouble_with_Spies	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Donald_Sutherland	
+dbr:Seed_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Stephanie_Anne_Mills	dbr:Amanda_Brugel	
+dbr:InSecurity	dbo:starring
+dbo:birthPlace	dbr:Jonquière
+dbr:Rémy_Girard	
+dbr:This_Hour_Has_22_Minutes	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Shaun_Majumder	
+dbr:Buster's_Bedroom	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Donald_Sutherland	
+dbr:Roswell_Conspiracies:_Aliens,_Myths_and_Legends	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Saffron_Henderson	
+dbr:Wonder_(film)	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Jacob_Tremblay	
+dbr:The_Gruen_Transfer	dbo:starring
+dbo:birthPlace	dbr:Sydney,_Nova_Scotia
+dbr:Todd_Sampson	
+dbr:The_Unusuals	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Joshua_Close	
+dbr:Bulldog_Jack	dbo:starring
+dbo:birthPlace	dbr:Cardston,_Alberta
+dbr:Fay_Wray	
+dbr:Million_Dollar_Mermaid	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Walter_Pidgeon	
+dbr:Comic_Book_Villains	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Donal_Logue	
+dbr:The_Theatre_Bizarre	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kaniehtiio_Horn	
+dbr:Being_Erica	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Devon_Bostick	dbr:Reagan_Pasternak	dbr:Sarah_Gadon	dbr:Vinessa_Antoine	
+dbr:Beefcake_(film)	dbo:starring
+dbo:birthPlace	dbr:Sydney,_Nova_Scotia
+dbr:Daniel_MacIvor	
+dbr:Long_Life,_Happiness_&_Prosperity	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Valerie_Tian	
+dbr:My_Son_(1925_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jack_Pickford	
+dbr:Shake,_Rattle_and_Rock!_(1994_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Howie_Mandel	
+dbr:Trick_'r_Treat	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Lauren_Lee_Smith	
+dbr:Hatching,_Matching_and_Dispatching	dbo:starring
+dbo:birthPlace	dbr:Burlington,_Newfoundland_and_Labrador
+dbr:Shaun_Majumder	
+dbr:Maximum_Risk	dbo:starring
+dbo:birthPlace	dbr:Springdale,_Newfoundland_and_Labrador
+dbr:Natasha_Henstridge	
+dbr:Bye_Bye_Braverman	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Joseph_Wiseman	
+dbr:The_Beachcomber_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:England
+dbr:Sebastian_Cabot_(actor)	
+dbr:Passage_(2008_film)	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Rick_Roberts_(actor)	
+dbr:The_Million_Dollar_Duck	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Lee_Montgomery	
+dbr:Strange_Days_at_Blake_Holsey_High	dbo:starring
+dbo:birthPlace	dbr:Truro,_Nova_Scotia
+dbr:Jeff_Douglas	
+dbr:View_from_the_Top	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Mike_Myers	
+dbr:Polly_Pocket_(film)	dbo:starring
+dbo:birthPlace	dbr:Chilliwack
+dbr:Brittney_Wilson	
+dbr:A_Date_with_Darkness:_The_Trial_and_Capture_of_Andrew_Luster	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Sarah_Carter	
+dbr:Bashar_Momin	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Ushna_Shah	
+dbr:Gary_Larson's_Tales_from_the_Far_Side	dbo:starring
+dbo:birthPlace	dbr:Kelowna
+dbr:Lee_Tockar	
+dbr:Daft_Planet	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Oliver_Grainger	
+dbr:Planet_of_Dinosaurs	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Louie_Lawless	
+dbr:Dragon_Boys	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Lauren_Lee_Smith	
+dbr:Rampage:_Capital_Punishment	dbo:starring
+dbo:birthPlace	dbr:Comox_Valley,_British_Columbia
+dbr:Brendan_Fletcher	
+dbr:Dear_Wendy	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Alison_Pill	
+dbr:Dr._Kildare_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Raymond_Massey	
+dbr:National_Treasure_(franchise)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Christopher_Plummer	
+dbr:Dead_Awake_(2001_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Michael_Ironside	
+dbr:Gold_Diggers_of_1933	dbo:starring
+dbo:birthPlace	dbr:Dartmouth,_Nova_Scotia
+dbr:Ruby_Keeler	
+dbr:Rustlers'_Roundup	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Douglass_Dumbrille	
+dbr:My_Reputation	dbo:starring
+dbo:birthPlace	dbr:Quebec_City
+dbr:Lucile_Watson	
+dbr:Blubberella	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Brendan_Fletcher	
+dbr:Alphabet_City_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kate_Vernon	
+dbr:Shark_Tank	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Kevin_O'Leary	
+dbr:Too_Tough_to_Kill	dbo:starring
+dbo:birthPlace	dbr:Yukon
+dbr:Victor_Jory	
+dbr:Seducing_Doctor_Lewis	dbo:starring
+dbo:birthPlace	dbr:Greenfield_Park,_Quebec
+dbr:Lucie_Laurier	
+dbr:Keys_of_the_Righteous	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Earle_Rodney	
+dbr:Young_Triffie	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Rémy_Girard	
+dbr:Ninja_Turtles:_The_Next_Mutation	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kirby_Morrow	dbr:Lalainia_Lindbjerg	dbr:Saffron_Henderson	
+dbr:Love_in_Limbo	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Aden_Young	
+dbr:The_Forsaken_(film)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Brendan_Fehr	
+dbr:Hellcats_of_the_Navy	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Maurice_Manson	
+dbr:Imagine_the_Sound	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Paul_Bley	
+dbr:Blood,_Sweat_&_Heels	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Melyssa_Ford	
+dbr:The_Great_Detective	dbo:starring
+dbo:birthPlace	dbr:Glasgow
+dbr:Douglas_Campbell_(actor)	
+dbr:Chasing_Rainbows_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Paul_Gross	
+dbr:Blue_State_(film)	dbo:starring
+dbo:birthPlace	dbr:Winnipeg
+dbr:Anna_Paquin	
+dbr:Boo_to_You_Too!_Winnie_the_Pooh	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Peter_Cullen	
+dbr:Swamp_Devil	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Nicolas_Wright	dbr:Cindy_Sampson	
+dbr:Sake_Bombs_and_Happy_Endings	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Deryck_Whibley	
+dbr:Montreal_Main	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Allan_Moyle	
+dbr:18_to_Life	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Alain_Goulem	dbr:Ellen_David	dbr:Peter_Keleghan	
+dbr:Ripper_(film)	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Ryan_Northcott	
+dbr:In_the_Crease	dbo:starring
+dbo:birthPlace	dbr:Halifax,_Nova_Scotia
+dbr:Glen_Murray_(ice_hockey)	
+dbr:Mulan_II	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Sandra_Oh	
+dbr:Road_to_Avonlea	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Gema_Zamprogna	
+dbr:The_Hire	dbo:starring
+dbo:birthPlace	dbr:New_York_(state)
+dbr:Maury_Chaykin	
+dbr:Power_Rangers_Lightspeed_Rescue	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Monica_Louwerens	
+dbr:Fortuna_(telenovela)	dbo:starring
+dbo:birthPlace	dbr:San_Luis_Potosi
+dbr:Lisette_Morelos	
+dbr:The_Surrogate_(1984_film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Carole_Laure	
+dbr:Normal_(2007_film)	dbo:starring
+dbo:birthPlace	dbr:Victoria,_British_Columbia
+dbr:Cameron_Bright	
+dbr:Nicholas_Nickleby_(2002_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christopher_Plummer	
+dbr:Mount_Royal_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jonathan_Crombie	dbr:Guylaine_St-Onge	
+dbr:Ginger_Snaps_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Katharine_Isabelle	
+dbr:Splendor_(1999_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kathleen_Robertson	
+dbr:The_Exorcism_of_Emily_Rose	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Henry_Czerny	
+dbr:Spaced_Out_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Glory_Annen_Clibbery	
+dbr:Godzilla,_King_of_the_Monsters!	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Raymond_Burr	
+dbr:Mercy_(upcoming_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Elias_Koteas	
+dbr:Flash_Forward	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Asia_Vieira	
+dbr:Apartment_Hunting	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Rachel_Hayward	dbr:Tracy_Wright	
+dbr:The_Building_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Don_Lake	
+dbr:Varian's_War	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Matt_Craven	
+dbr:Sabrina:_Friends_Forever	dbo:starring
+dbo:birthPlace	dbr:North_Vancouver_(city)
+dbr:Samuel_Vincent	
+dbr:The_Street_(2000_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Christian_Campbell	
+dbr:Finding_Rin_Tin_Tin	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:William_Hope_(actor)	
+dbr:China_Smith	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Douglass_Dumbrille	
+dbr:New_Best_Friend	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Mia_Kirshner	
+dbr:Hit_the_Deck_(1955_film)	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Walter_Pidgeon	
+dbr:Happythankyoumoreplease	dbo:starring
+dbo:birthPlace	dbr:Stockholm
+dbr:Malin_Åkerman	
+dbr:Remedy_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Newfoundland_and_Labrador
+dbr:Sara_Canning	
+dbr:The_Curtain_Pole	dbo:starring
+dbo:birthPlace	dbr:Richmond,_Quebec
+dbr:Mack_Sennett	
+dbr:It!_(1966_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Paul_Maxwell	
+dbr:Max_Q_(film)	dbo:starring
+dbo:birthPlace	dbr:Penticton
+dbr:Kevin_McNulty_(actor)	
+dbr:Species_(film)	dbo:starring
+dbo:birthPlace	dbr:Springdale,_Newfoundland_and_Labrador
+dbr:Natasha_Henstridge	
+dbr:Two_Marriages	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:John_McLiam	
+dbr:The_Spanish_Cape_Mystery_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Berton_Churchill	
+dbr:Our_Loved_Ones	dbo:starring
+dbo:birthPlace	dbr:Québec
+dbr:Maxim_Gaudette	
+dbr:Yaarana_(2015_film)	dbo:starring
+dbo:birthPlace	dbr:India
+dbr:Gavie_Chahal	dbr:Yuvraj_Hans	dbr:Yuvika_Chaudhary	dbr:Geeta_Zaildar	
+dbr:Young_Blades	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Zak_Santiago	dbr:Mark_Hildreth_(actor)	
+dbr:Ice_Twisters	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Camille_Sullivan	
+dbr:See_No_Evil_2	dbo:starring
+dbo:birthPlace	dbr:Saskatoon
+dbr:Michael_Eklund	
+dbr:Neighbors_from_Hell	dbo:starring
+dbo:birthPlace	dbr:Ladner,_British_Columbia
+dbr:Will_Sasso	
+dbr:Death_Do_Us_Part	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Julia_Benson	
+dbr:The_Cap_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Michael_Ironside	
+dbr:Turning_Paige	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Katharine_Isabelle	
+dbr:Metal_Skin	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Aden_Young	
+dbr:The_Shrink_Is_In	dbo:starring
+dbo:birthPlace	dbr:Milton,_Ontario
+dbr:David_James_Elliott	
+dbr:The_Newsroom_(Canadian_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Scarborough,_Toronto
+dbr:Holly_Lewis	
+dbr:An_American_Girl:_Isabelle_Dances_Into_the_Spotlight	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Erin_Pitt	
+dbr:The_Untold	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Erica_Durance	
+dbr:Chocolate_Eclair_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Colin_Fox_(actor)	
+dbr:Tales_of_Poe	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Debbie_Rochon	
+dbr:Prep_&_Landing:_Operation:_Secret_Santa	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Sarah_Chalke	
+dbr:Young_Joe,_the_Forgotten_Kennedy	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Barbara_Parkins	
+dbr:Kojak:_The_Price_of_Justice	dbo:starring
+dbo:birthPlace	dbr:London,_Ontario
+dbr:Kate_Nelligan	
+dbr:Sea_Wolf_(miniseries)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Neve_Campbell	
+dbr:The_Grave_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Donal_Logue	
+dbr:Lemon_Popsicle	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Jonathan_Sagall	
+dbr:Apocalypse_IV:_Judgment	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jessica_Steen	
+dbr:The_Good_Witch's_Destiny	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Hannah_Endicott-Douglas	dbr:Robin_Dunne	
+dbr:Magi-Nation_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Martha_MacIsaac	
+dbr:Introduction_to_Destruction	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Deryck_Whibley	
+dbr:Bond_of_Silence	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Genevieve_Buechner	dbr:Nicole_Oliver	
+dbr:Kevin_of_the_North	dbo:starring
+dbo:birthPlace	dbr:Springdale,_Newfoundland_and_Labrador
+dbr:Natasha_Henstridge	
+dbr:Once_Bitten_(1985_film)	dbo:starring
+dbo:birthPlace	dbr:Newmarket,_Ontario
+dbr:Jim_Carrey	
+dbr:Jesse_James,_Jr._(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Douglas_Walton_(actor)	
+dbr:The_Prophecy_(film_series)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Elias_Koteas	
+dbr:Smoky_(1933_film)	dbo:starring
+dbo:birthPlace	dbr:Yukon
+dbr:Victor_Jory	
+dbr:Scorpion_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Jadyn_Wong	
+dbr:I_Love_a_Man_in_Uniform_(film)	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Tom_McCamus	
+dbr:Rakhwale	dbo:starring
+dbo:birthPlace	dbr:Afghanistan
+dbr:Kader_Khan	
+dbr:Heavy_Metal_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:John_Candy	dbr:Harvey_Atkin	dbr:Marilyn_Lightstone	
+dbr:The_Tomorrow_People	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Philip_Gilbert	
+dbr:Reluctant_Bride	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Kay_Callard	
+dbr:Less_than_Perfect	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Will_Sasso	
+dbr:Edge_of_Madness	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Caroline_Dhavernas	dbr:Brendan_Fehr	
+dbr:Cyberstalker_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Natalie_Brown_(actress)	
+dbr:Bride_of_the_Gorilla	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Raymond_Burr	
+dbr:Alice_in_Wonderland_(1999_film)	dbo:starring
+dbo:birthPlace	dbr:Hamilton,_Ontario
+dbr:Martin_Short	
+dbr:Romeo!	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Brittney_Wilson	dbr:Noel_Callahan	
+dbr:A_Quiet_Day_in_Belfast	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Margot_Kidder	
+dbr:Quatermass_and_the_Pit	dbo:starring
+dbo:birthPlace	dbr:Galicia_(Eastern_Europe)
+dbr:Cec_Linder	
+dbr:The_Long_Island_Incident	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Peter_MacNeill	
+dbr:Halcyon_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Lisa_Marcos	
+dbr:The_Grey_Fox	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Wayne_Robson	
+dbr:Walled_In	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Deborah_Kara_Unger	
+dbr:The_Seven_Minutes_(film)	dbo:starring
+dbo:birthPlace	dbr:New_Brunswick
+dbr:Wayne_Maunder	
+dbr:National_Lampoon's_Vacation	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:John_Candy	
+dbr:Captive_(1998_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Michael_Ironside	
+dbr:The_Professional_Guest	dbo:starring
+dbo:birthPlace	dbr:Liverpool
+dbr:Richard_Bird_(actor)	
+dbr:Charnon_Ki_Saugandh	dbo:starring
+dbo:birthPlace	dbr:Kabul
+dbr:Kader_Khan	
+dbr:Rugrats_(film_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Tara_Strong	
+dbr:Real_People	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:John_Barbour_(actor)	
+dbr:Her_Husband's_Betrayal	dbo:starring
+dbo:birthPlace	dbr:Windsor,_Ontario
+dbr:Jacqueline_MacInnes_Wood	
+dbr:Island_Heat:_Stranded	dbo:starring
+dbo:birthPlace	dbr:Calgary,_Alberta
+dbr:Erica_Durance	
+dbr:Waterwalker	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Bill_Mason	
+dbr:Bob_the_Butler	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Valerie_Tian	
+dbr:Zero_Effect	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Angela_Featherstone	
+dbr:Selling_Innocence	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:J._R._Bourne	dbr:Tamara_Hope	
+dbr:The_Tao_of_Steve	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Donal_Logue	
+dbr:Freaks_and_Geeks	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Seth_Rogen	
+dbr:Dark_Streets_of_Cairo	dbo:starring
+dbo:birthPlace	dbr:Vancouver,_British_Columbia
+dbr:Katherine_DeMille	
+dbr:The_Edge_and_Christian_Show	dbo:starring
+dbo:birthPlace	dbr:Kitchener,_Ontario
+dbr:Christian_Cage	
+dbr:This_Sitcom_Is...Not_to_Be_Repeated	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kathy_Greenwood	dbr:Ed_Sahely	
+dbr:WIGS_(web_channel)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Catherine_O'Hara	
+dbr:Darkstalkers_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Brampton
+dbr:Kyle_Labine	
+dbr:Beautiful_People_(U.S._TV_series)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Ricky_Mabe	
+dbr:Rocked:_Sum_41_in_Congo	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Deryck_Whibley	
+dbr:Cooties_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Alison_Pill	
+dbr:Hell_on_Wheels_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Christopher_Heyerdahl	dbr:Chelah_Horsdal	
+dbr:Normal_(2007_film)	dbo:starring
+dbo:birthPlace	dbr:Steinbach,_Manitoba
+dbr:Allison_Hossack	
+dbr:The_Flim-Flam_Man	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Michael_Sarrazin	
+dbr:Blue_Seduction	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Estella_Warren	
+dbr:Desperate_(film)	dbo:starring
+dbo:birthPlace	dbr:New_Westminster
+dbr:Raymond_Burr	
+dbr:Wolf_Canyon	dbo:starring
+dbo:birthPlace	dbr:Lower_Sackville
+dbr:Nikki_Payne	
+dbr:Heartland_(Canadian_TV_series)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Chris_Potter_(actor)	dbr:Jessica_Steen	
+dbr:Star_Trek:_Phase_II	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:James_Doohan	
+dbr:The_Condor_(film)	dbo:starring
+dbo:birthPlace	dbr:London
+dbr:Michael_Dobson_(actor)	
+dbr:Dawn_of_the_Dragon_Racers	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Jay_Baruchel	
+dbr:Gutterballs_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alastair_Gamble	
+dbr:Skyjacked_(film)	dbo:starring
+dbo:birthPlace	dbr:Saint_John,_New_Brunswick
+dbr:Walter_Pidgeon	
+dbr:The_Knights_of_Prosperity	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Donal_Logue	
+dbr:Angels_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Lynda_Bellingham	
+dbr:Degrassi:_The_Next_Generation	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Stefan_Brogren	dbr:Aislinn_Paul	dbr:Demetrius_Joyette	
+dbr:Heavy_Metal_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Harvey_Atkin	
+dbr:Dirty_Tricks_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alberta_Watson	
+dbr:Mayerling_(1957_film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Raymond_Massey	
+dbr:We_Were_Wolves	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Lynda_Boyd	
+dbr:A_Vow_to_Kill	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Peter_MacNeill	dbr:Tom_Cavanagh	
+dbr:Maneater_(2007_film)	dbo:starring
+dbo:birthPlace	dbr:Manitoba
+dbr:Ty_Wood	
+dbr:Confessions_of_a_Teenage_Drama_Queen	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Alison_Pill	
+dbr:Malicious_(1995_film)	dbo:starring
+dbo:birthPlace	dbr:Saskatchewan
+dbr:John_Vernon	
+dbr:The_Crimson_Ghost	dbo:starring
+dbo:birthPlace	dbr:Chatham,_Ontario
+dbr:Kenne_Duncan	
+dbr:Stargate:_The_Ark_of_Truth	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Michael_Shanks	
+dbr:Dieppe_(film)	dbo:starring
+dbo:birthPlace	dbr:Willesden
+dbr:John_Neville_(actor)	
+dbr:White_Fang_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Jaimz_Woolvett	
+dbr:Kenny_vs._Spenny	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Kenny_Hotz	dbr:Spencer_Rice	
+dbr:Prem_Shakti	dbo:starring
+dbo:birthPlace	dbr:Kabul
+dbr:Kader_Khan	
+dbr:Murder_One_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Peterborough,_Ontario
+dbr:J._C._MacKenzie	
+dbr:The_Mystery_Files_of_Shelby_Woo	dbo:starring
+dbo:birthPlace	dbr:Montreal
+dbr:Eleanor_Noble	dbr:Ellen_David	
+dbr:Show_Me_(film)	dbo:starring
+dbo:birthPlace	dbr:British_Columbia
+dbr:Katharine_Isabelle	
+dbr:Party_of_Five	dbo:starring
+dbo:birthPlace	dbr:Guelph
+dbr:Neve_Campbell	
+dbr:Money_Talks_(1926_film)	dbo:starring
+dbo:birthPlace	dbr:Guelph
+dbr:Ned_Sparks	
+dbr:Nuremberg_(2000_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Christopher_Plummer	dbr:Matt_Craven	
+dbr:Dawn_of_the_Dead_(2004_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Sarah_Polley	
+dbr:Jakers!_The_Adventures_of_Piggley_Winks	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Tara_Strong	
+dbr:Signed,_Sealed,_Delivered_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Vancouver
+dbr:Crystal_Lowe	
+dbr:Invasion_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Brampton,_Ontario
+dbr:Tyler_Labine	
+dbr:Day_for_Night_(film)	dbo:starring
+dbo:birthPlace	dbr:Quebec
+dbr:Alexandra_Stewart	
+dbr:Diary_of_a_Wimpy_Kid:_Rodrick_Rules_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Devon_Bostick	
+dbr:Star_Trek_II:_The_Wrath_of_Khan	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:James_Doohan	
+dbr:A_Midsummer_Night's_Dream_(1935_film)	dbo:starring
+dbo:birthPlace	dbr:Dawson_City
+dbr:Victor_Jory	
+dbr:Classified:_The_Edward_Snowden_Story	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Michael_Shanks	dbr:Kevin_Zegers	
+dbr:The_Magic_Sword_(1962_film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Anne_Helm	
+dbr:Monster_House_(film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Catherine_O'Hara	
+dbr:106_&_Park	dbo:starring
+dbo:birthPlace	dbr:Ottawa
+dbr:Keshia_Chanté	
+dbr:Dragons_II:_The_Metal_Ages	dbo:starring
+dbo:birthPlace	dbr:North_York,_Ontario
+dbr:Michael_Adamthwaite	
+dbr:Puppet_Master_5:_The_Final_Chapter	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Chandra_West	dbr:Gordon_Currie	
+dbr:Dino_Babies	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Samuel_Vincent	dbr:Andrea_Libman	
+dbr:Jake_2.0	dbo:starring
+dbo:birthPlace	dbr:Windsor,_Ontario
+dbr:Keegan_Connor_Tracy	
+dbr:The_Conquering_Horde	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Fay_Wray	
+dbr:Jett_Jackson:_The_Movie	dbo:starring
+dbo:birthPlace	dbr:Oakville,_Ontario
+dbr:Lindy_Booth	
+dbr:Money_(1991_film)	dbo:starring
+dbo:birthPlace	dbr:Toronto
+dbr:Christopher_Plummer	
+dbr:Palais_Royale_(film)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Matt_Craven	
+dbr:Mean_Dreams	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Sophie_Nélisse	
+dbr:Weird_Years	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Susan_Roman	
+dbr:Radio_Active_(TV_series)	dbo:starring
+dbo:birthPlace	dbr:Ontario
+dbr:Vik_Sahay	
+dbr:The_Seven_Minutes_(film)	dbo:starring
+dbo:birthPlace	dbr:Canada
+dbr:Wayne_Maunder	
+dbr:The_Postman_Always_Rings_Twice_(1946_film)	dbo:starring
+dbo:birthPlace	dbr:London,_Ontario
+dbr:Hume_Cronyn	
+dbr:Older_than_America	dbo:starring
+dbo:birthPlace	dbr:Alberta
+dbr:Tantoo_Cardinal	dbr:Georgina_Lightning

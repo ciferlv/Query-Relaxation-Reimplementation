@@ -1,0 +1,24 @@
+
+22.
+select * where{
+        ?film dbo:starring ?p.
+        ?p dbo:residence dbr:Province_of_New_York.}
+
+Rule (6)
+dbo:starring rdfs:range dbo:Actor
+
+Rule (5)
+dbo:starring rdfs:domain dbo:Work
+dbo:residence rdfs:domain dbo:Person
+
+dbo:Actor rdfs:subClassOf dbo:Artist
+dbo:Artist rdfs:subClassOf dbo:Person
+
+Reformed Query:
+select * where{
+        ?film rdf:type dbo:Work.
+        ?p rdf:type dbo:Actor.}
+
+select * where{
+        ?film rdf:type dbo:Work.
+        ?p dbo:residence dbr:Province_of_New_York.}
